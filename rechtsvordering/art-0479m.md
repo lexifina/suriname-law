@@ -1,0 +1,4 @@
+# Artikel 479m
+1. Nadat de verzekeraar verklaring heeft gedaan als bedoeld in artikel 476a, kan de executant de levensverzekering doen afkopen, tenzij de verzekeringnemer de bevoegdheid mist de verzekering te doen afkopen, en zulks niet het gevolg is van een beperking of uitsluiting als bedoeld in artikel 986, vierde lid, van Boek 7 van het Burgerlijk Wetboek. Tevens kan de executant de begunstiging wijzigen ten behoeve van de geëxecuteerde, voor zover deze niet reeds onherroepelijk was toen het beslag gelegd werd.
+2. Ondanks het beslag kan de geëxecuteerde een uit de overeenkomst of de wet voortvloeiend recht tot belening van de levensverzekering uitoefenen ter voldoening, voor zover mogelijk, van hetgeen aan de executant verschuldigd is.
+3. Het door de verzekeraar ingevolge afkoop, belening of uitkering van de levensverzekering aan de geëxecuteerde of diens rechtverkrijgenden verschuldigde bedrag, valt onder het beslag.

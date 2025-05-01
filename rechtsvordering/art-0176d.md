@@ -1,0 +1,2 @@
+# Artikel 176d
+Met inachtneming van de krachtens artikel 176b bepaalde termijn zendt de verzoeker een afschrift van het verzoekschrift, indien dit nog niet is toegezonden, en de beschikking van de rechter bij aangetekende brief aan de wederpartij, zo die bekend is, of doet hij deze afschriften bij deurwaardersexploot aan de wederpartij betekenen. Alvorens tot de verrichting over te gaan, vergewist de rechter zich ervan dat aan dit voorschrift is voldaan.

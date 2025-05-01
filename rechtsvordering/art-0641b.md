@@ -1,0 +1,3 @@
+# Artikel 641b
+1. Gaat de rechter in het geval van artikel 641 of artikel 641a niet tot homologatie over, dan is de dispacheur of een mogelijkerwijs door de rechter aangewezen andere dispacheur verplicht de dispache in overeenstemming met de rechterlijke beslissing te wijzigen, dan wel haar in te trekken. In geval van intrekking wordt, tenzij de rechter anders beslist, de dispache desalniettemin wat betreft honorarium en kosten van de dispacheur gehomologeerd.
+2. Gaat de rechter in het geval van artikel 641 of artikel 641a tot homologatie over, dan zijn zij die de dispache betwistten, hoofdelijk verplicht de belanghebbenden die niet tot dergelijke betwisting overgingen, de ten gevolge van de betwisting geleden schade te vergoeden.

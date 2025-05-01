@@ -1,0 +1,3 @@
+# Artikel 642s
+1. Na afloop van de in artikel 642n bedoelde zittingen of, indien deze tot geschillen aanleiding hebben gegeven, nadat daarover onherroepelijk is beslist, wordt door de vereffenaar een staat van verdeling van het betrokken fonds opgemaakt en aan de goedkeuring van de rechter-commissaris onderworpen.
+2. Indien onherroepelijk is beslist dat de schuldenaar zijn aansprakelijkheid niet kan beperken, vervalt de gestelde zekerheid en wordt een gestort bedrag uitgekeerd aan degene die de storting verrichtte, doch niet eerder dan één maand nadat het vonnis in kracht van gewijsde is gegaan en de vereffenaar op de in artikel 642i voorgeschreven wijze kennis heeft gegeven van de dag waarop deze uitkering zal plaatsvinden.

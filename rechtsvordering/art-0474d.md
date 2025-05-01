@@ -1,0 +1,5 @@
+# Artikel 474d
+1. De deurwaarder zal van het gelegde beslag onverwijld, zo mogelijk op dezelfde dag, schriftelijk mededeling doen aan de geëxecuteerde.
+2. Daarenboven moet, op straffe van verval van het beslag, een afschrift van het exploot binnen acht dagen na het beslag, aan de geëxecuteerde worden betekend.
+3. Indien voor de in beslag genomen aandelen aandeelbewijzen zijn uitgegeven, is de geëxecuteerde verplicht aan de deurwaarder, zo mogelijk reeds bij de betekening van het exploot van beslag, de aandeelbewijzen met de eventueel daarbij behorende dividendbewijzen en talons ter hand te stellen of het nodige te verrichten opdat deze stukken hem ter hand gesteld worden. Indien voor die terhandstelling de medewerking van een derde vereist is, is die derde verplicht zijn medewerking tegen vergoeding der kosten te verlenen. Bij gebreke van medewerking van de derde is artikel 444b van overeenkomstige toepassing.
+4. De deurwaarder zal, in afwachting van de executoriale verkoop, met die stukken handelen als bepaald in artikel 445.

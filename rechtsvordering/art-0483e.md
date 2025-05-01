@@ -1,0 +1,2 @@
+# Artikel 483e
+Indien een pand- of hypotheekrecht strekt tot zekerheid van vorderingen die de pand- of hypotheekhouder uit hoofde van een bestaande rechtsverhouding zal verkrijgen, kunnen deze in de rangregeling worden begrepen, hetzij voor het gehele op het tijdstip van het opmaken van de staat reeds verschuldigde bedrag, hetzij, op verlangen van de pand- of hypotheekhouder, voorwaardelijk voor het gehele bedrag waarvoor het pand- of hypotheekrecht tot zekerheid strekt.

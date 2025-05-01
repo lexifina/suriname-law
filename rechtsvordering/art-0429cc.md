@@ -1,0 +1,2 @@
+# Artikel 429cc
+Indien de griffier een bij aangetekende brief verzonden oproeping terug ontvangt en hem blijkt dat de geadresseerde op de dag van verzending of uiterlijk twee weken nadien in de daartoe bestemde registers ingeschreven stond op het op de oproeping vermelde adres, verzendt hij de oproeping onverwijld bij gewone brief. In de overige gevallen waarin de griffier de oproeping terug ontvangt, verbetert de griffier, indien mogelijk, het op de oproeping vermelde adres en verzendt hij de oproeping opnieuw bij aangetekende brief, tenzij de kantonrechter anders bepaalt.

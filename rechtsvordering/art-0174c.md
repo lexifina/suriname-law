@@ -1,0 +1,3 @@
+# Artikel 174c
+1. De deskundigen hebben aanspraak op schadeloosstelling en op loon, door de rechter te begroten onder de minuut van het schriftelijk bericht of onder het van het mondeling verslag opgemaakte proces-verbaal.
+2. De griffier betaalt het bedrag ten laste van het gestorte voorschot aan de deskundigen. Indien het vastgestelde voorschot niet toereikend is, wordt voor het resterende bedrag een bevelschrift van tenuitvoerlegging op de minuut van het schriftelijk bericht uitgegeven ten laste van de in de tweede volzin van artikel 174 genoemde partij of partijen. In geval van mondeling verslag wordt dit bevelschrift gegeven op een in executoriale vorm uitgegeven uittreksel uit het proces-verbaal van dat verslag.

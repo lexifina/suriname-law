@@ -1,0 +1,4 @@
+# Artikel 477b
+1. Betaling of afgifte door de derde-beslagene overeenkomstig zijn buitengerechtelijke verklaring of krachtens een veroordeling als bedoeld in artikel 477a, geldt als betaling of afgifte aan de geëxecuteerde.
+2. Levering uit hoofde van de executoriale verkoop van een goed dat de derde aan de geëxecuteerde verschuldigd was en ter beschikking van de deurwaarder heeft gesteld, geldt tevens als levering van dit goed door de derde aan de geëxecuteerde. Indien het niet gaat om een roerende zaak die geen registergoed is, of een recht aan toonder of order, dient de terbeschikkingstelling schriftelijk te zijn geschied.
+3. De derde-beslagene en de geëxecuteerde worden overigens niet gebonden door hetgeen in een vonnis ingevolge artikel 477a omtrent hun onderlinge rechtsverhouding is beslist, tenzij de derde-beslagene de geëxecuteerde tijdig in het geding heeft geroepen.

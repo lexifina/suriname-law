@@ -1,0 +1,2 @@
+# Artikel 474ba
+Het stemrecht, verbonden aan een in beslag genomen goed als bedoeld in artikel 474b, en andere aan een zodanig goed verbonden bevoegdheden die niet onder dat artikel vallen, blijven gedurende het beslag bij de geëxecuteerde. Desgevraagd is de bewaarder of, als deze ontbreekt, de deurwaarder verplicht hem daartoe een bewijsstuk af te geven en verder het nodige te verrichten om hem in de gelegenheid te stellen tot het uitoefenen van deze rechten.
