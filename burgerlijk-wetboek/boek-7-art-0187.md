@@ -1,0 +1,5 @@
+# Boek 7, Artikel 187
+1. Is de begiftigde in verband met de gift gehouden een tegenprestatie te verrichten, dan is artikel 186 lid 1, behoudens voor zover het artikel 182 betreft, van toepassing, en gelden voorts de volgende twee leden.
+2. In het geval, bedoeld in artikel 177 lid 1, vervalt de gift niet, doch is zij vernietigbaar. De vernietiging werkt terug tot het overlijden van degene die de gift doet. De bevoegdheid tot vernietiging vervalt indien de begiftigde tijdig een aanvullende prestatie toezegt, die de handeling haar in artikel 186 lid 2 bedoelde strekking ontneemt. Bovendien kan de rechter op verlangen van een erfgenaam of van de begiftigde, in plaats van de vernietiging uit te spreken, te dien einde de gevolgen van de handeling wijzigen.
+3. Is de gift vernietigbaar op grond van artikel 178, dan is artikel 54 van Boek 3 van overeenkomstige toepassing.
+4. Op handelingen die ten dele als gift, ten dele als nakoming van een natuurlijke verbintenis zijn te beschouwen, zijn de vorige leden van overeenkomstige toepassing.

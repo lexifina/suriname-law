@@ -1,0 +1,4 @@
+# Boek 2, Artikel 350
+1. Indien de gesplitste rechtspersoon bij de splitsing ophoudt te bestaan, is zijn laatste boekjaar geëindigd op het tijdstip met ingang waarvan de financiële gegevens betreffende zijn vermogen zullen worden verantwoord in de jaarrekening of andere financiële verantwoording van de verkrijgende rechtspersonen.
+2. Indien de gesplitste rechtspersoon bij de splitsing ophoudt te bestaan, rusten de verplichtingen omtrent zijn jaarrekening of andere financiële verantwoording na de splitsing op de gezamenlijke verkrijgende rechtspersonen.
+3. Waarderingsverschillen tussen de verantwoording van activa en passiva in de laatste jaarrekening of andere financiële verantwoording van de gesplitste rechtspersoon en in de eerste jaarrekening of andere financiële verantwoording waarin een verkrijgende rechtspersoon deze activa en passiva verantwoordt, moeten worden toegelicht.

@@ -1,0 +1,5 @@
+# Boek 7, Artikel 7
+1. Degene aan wie een zaak is toegezonden en die redelijkerwijs mag aannemen dat deze toezending is geschied teneinde hem tot een koop te bewegen, is ongeacht enige andersluidende mededeling van de verzender jegens deze bevoegd de zaak om niet te behouden, tenzij het hem is toe te rekenen dat de toezending is geschied.
+2. De toezending aan een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf van een niet door deze bestelde zaak met het verzoek tot betaling van een prijs, is niet toegestaan. Wordt desalniettemin een zaak toegezonden als bedoeld in de eerste volzin, dan is het in lid 1 bepaalde omtrent de bevoegdheid, de zaak om niet te behouden, van overeenkomstige toepassing.
+3. Indien de ontvanger in de gevallen, bedoeld in de leden 1 en 2, de zaak terugzendt, komen de kosten hiervan voor rekening van de verzender.
+4. Lid 2 is van overeenkomstige toepassing op het verrichten ten behoeve van een natuurlijk persoon die niet handelt in de uitoefening van een beroep of bedrijf van een niet door deze opgedragen dienst.

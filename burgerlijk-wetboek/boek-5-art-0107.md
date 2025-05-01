@@ -1,0 +1,2 @@
+# Boek 5, Artikel 107
+Een eigenaar, erfpachter, grondhuurder of opstaller is ook bevoegd in verband met een door hem beoogd stichten of gewijzigd inrichten van een gebouw zijn recht op het gebouw met toebehoren en de daarbij behorende grond met toebehoren te splitsen in appartementsrechten. Ook in geval van zodanige splitsing ontstaan de appartementsrechten op het tijdstip van inschrijving van de akte van splitsing.

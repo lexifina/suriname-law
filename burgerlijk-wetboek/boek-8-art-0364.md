@@ -1,0 +1,6 @@
+# Boek 8, Artikel 364
+1. Wordt een reder of een bevrachter van een schip, dan wel een vervoerder met een schip ter zake van dood of letsel van een persoon of ter zake van beschadiging van een zaak, buiten overeenkomst aangesproken door iemand die geen partij is bij een exploitatieovereenkomst, dan is hij tegenover deze niet verder aansprakelijk dan hij uit overeenkomst zou zijn.
+2. Was met betrekking tot de persoon of zaak een vervoerovereenkomst afgesloten en is de schade ontstaan in het tijdvak waarin een vervoerder met het schip als zodanig daarvoor aansprakelijk is, dan geldt als overeenkomst, bedoeld in lid 1, de laatste in de keten der exploitatieovereenkomsten met betrekking tot die persoon of zaak aangegaan.
+3. Was de persoon of zaak aan boord van het schip op grond van een overeenkomst met een partij bij een exploitatieovereenkomst, doch is lid 2 niet van toepassing, dan geldt de eerstbedoelde overeenkomst als overeenkomst, bedoeld in lid 1.
+4. Was de persoon of zaak buiten overeenkomst aan boord, dan geldt een vervoerovereenkomst als overeenkomst, bedoeld in lid 1.
+5. De aansprakelijkheid, bedoeld in lid 1, is voor de toepassing van de leden 2 en 4 die van een vervoerder, en voor de toepassing van lid 3 die van de aldaar bedoelde partij.

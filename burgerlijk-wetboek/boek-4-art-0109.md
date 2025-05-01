@@ -1,0 +1,5 @@
+# Boek 4, Artikel 109
+1. Een uiterste wil is nietig, indien aan de akte van uiterste wil of aan de akte van bewaargeving, zo deze voorgeschreven is, de vereiste ondertekening door de erflater ontbreekt.
+2. Een uiterste wil die ten overstaan van een notaris moet worden gemaakt is nietig, indien de akte van uiterste wil niet door een notaris is ondertekend. Een uiterste wil, die aan een notaris in bewaring moet worden gegeven, is nietig, indien een door een notaris ondertekende akte van bewaargeving ontbreekt. Is echter, in dit laatste geval, de akte van uiterste wil door een notaris ondertekend, dan is de uiterste wil vernietigbaar.
+3. Lid 2 is van overeenkomstige toepassing op een uiterste wil die ten overstaan van een in de artikelen 98, 101 en 102 genoemde persoon moet worden gemaakt of aan een aldaar genoemde persoon in bewaring moet worden gegeven.
+4. Het niet in acht nemen van andere door de wet voor de geldigheid van de uiterste wil gestelde vormvereisten maakt de uiterste wil vernietigbaar.

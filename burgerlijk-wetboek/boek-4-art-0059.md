@@ -1,0 +1,3 @@
+# Boek 4, Artikel 59
+1. De beroepsbeoefenaren op het gebied van de individuele gezondheidszorg, die iemand gedurende de ziekte waaraan hij is overleden, bijstand hebben verleend, alsmede de geestelijk verzorgers die hem gedurende die ziekte hebben bijgestaan, kunnen geen voordeel trekken uit de uiterste wilsbeschikkingen die een zodanig persoon gedurende de behandeling of de bijstand te hunnen behoeve heeft gemaakt.
+2. Ook kan degene die een voor de verzorging of verpleging van bejaarden of geestelijk gestoorden bestemde instelling exploiteert of die daarvan de leiding heeft of daarin werkzaam is, geen voordeel trekken uit de uiterste wilsbeschikkingen, welke zodanig persoon gedurende een verblijf in die instelling te zijnen behoeve heeft gemaakt.

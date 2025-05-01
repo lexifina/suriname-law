@@ -1,0 +1,4 @@
+# Boek 5, Artikel 139a
+1. Tot de vergadering van eigenaars als bedoeld in artikel 139 lid 2 worden de appartementseigenaars opgeroepen met de mededeling dat aldaar het tot de wijziging strekkende besluit zal worden voorgesteld. De termijn voor oproeping tot een zodanige vergadering bedraagt ten minste zeven dagen, de dag van de oproeping en de dag van vergadering niet meegerekend.
+2. Zij die de oproeping hebben gedaan, moeten ten minste vijf dagen vóór de vergadering een afschrift van het voorstel, waarin de voorgedragen wijziging woordelijk is opgenomen, op een daartoe geschikte plaats voor de leden ter inzage leggen tot na afloop van de dag waarop de vergadering wordt gehouden.
+3. De leden 1 en 2 zijn niet van toepassing, indien in de vergadering van eigenaars alle appartementseigenaars of afgevaardigden aanwezig of vertegenwoordigd zijn en het tot de wijziging strekkende besluit met algemene stemmen wordt genomen.

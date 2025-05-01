@@ -1,0 +1,6 @@
+# Boek 6, Artikel 174
+1. De bezitter van een opstal die niet voldoet aan de eisen die men daaraan in de gegeven omstandigheden mag stellen, en daardoor gevaar voor personen of zaken oplevert, is, wanneer dit gevaar zich verwezenlijkt, aansprakelijk, tenzij aansprakelijkheid op grond van afdeling 1 zou hebben ontbroken indien hij dit gevaar op het tijdstip van het ontstaan ervan zou hebben gekend.
+2. Bij erfpacht rust de aansprakelijkheid op de bezitter van het erfpachtrecht. Bij openbare wegen rust zij op het overheidslichaam dat moet zorgen dat de weg in goede staat verkeert, bij leidingen op de leidingbeheerder, behalve voor zover de leiding zich bevindt in een gebouw of werk en strekt tot toevoer of afvoer ten behoeve van dat gebouw of werk.
+3. Onder opstal wordt in dit artikel verstaan gebouwen en werken die duurzaam met de grond zijn verenigd, hetzij rechtstreeks, hetzij door vereniging met andere gebouwen of werken.
+4. Degene die in de openbare registers als eigenaar van de opstal of van de grond staat ingeschreven, wordt vermoed de bezitter van de opstal te zijn.
+5. Voor de toepassing van dit artikel wordt onder openbare weg mede begrepen het weglichaam, alsmede de weguitrusting.

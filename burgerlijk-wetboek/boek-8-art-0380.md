@@ -1,0 +1,4 @@
+# Boek 8, Artikel 380
+1. In geval van tijdbevrachting is de vervrachter verplicht de kapitein opdracht te geven binnen de grenzen door de overeenkomst gesteld de orders van de bevrachter op te volgen. De vervrachter staat er voor in, dat de kapitein de hem gegeven opdracht nakomt.
+2. De bevrachter staat er voor in, dat het schip de plekken of plaatsen, waarheen hij het ter inlading, lossing of anderszins op grond van lid 1 beveelt te gaan, veilig kan bereiken, innemen en verlaten. Indien deze plekken of plaatsen blijken niet aan deze vereisten te voldoen, is de bevrachter slechts in zoverre niet aansprakelijk als de kapitein, door de hem gegeven orders op te volgen, onredelijk handelde.
+3. Onverminderd artikel 461 wordt de bevrachter mede verbonden door en kan hij rechten ontlenen aan een rechtshandeling, die de kapitein ingevolge lid 1 verricht. Onder rechtshandeling is hier het in ontvangst nemen van een verklaring begrepen.

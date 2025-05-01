@@ -1,0 +1,2 @@
+# Boek 1, Artikel 102
+Na ontbinding van de gemeenschap blijft ieder der echtgenoten voor het geheel aansprakelijk voor de gemeenschapsschulden waarvoor hij voordien aansprakelijk was. Voor andere gemeenschapsschulden is hij hoofdelijk met de andere echtgenoot verbonden, met dien verstande evenwel dat daarvoor slechts kan worden uitgewonnen hetgeen hij uit hoofde van verdeling van de gemeenschap heeft verkregen of hetgeen daarvoor in de plaats is getreden, onverminderd artikel 190 lid 1 van Boek 3 en artikel 191 lid 1 van Boek 3.

@@ -1,0 +1,4 @@
+# Boek 3, Artikel 284
+1. Een vordering tot voldoening van kosten, tot behoud van een goed gemaakt, is bevoorrecht op het goed dat aldus is behouden.
+2. De schuldeiser kan de vordering op het goed verhalen, zonder dat hem rechten van derden op dit goed kunnen worden tegengeworpen, tenzij deze rechten na het maken van de kosten tot behoud zijn verkregen. Een na het maken van die kosten overeenkomstig artikel 237 gevestigd pandrecht kan slechts aan de schuldeiser worden tegengeworpen, indien de zaak of het toonderpapier in de macht van de pandhouder of een derde is gebracht. Een na het maken van die kosten overeenkomstig artikel 90 verkregen recht kan slechts aan de schuldeiser worden tegengeworpen, indien tevens aan de eisen van lid 2 van dat artikel is voldaan.
+3. Het voorrecht heeft voorrang boven alle andere voorrechten, tenzij de vorderingen waaraan deze andere voorrechten zijn verbonden, na het maken van de kosten tot behoud zijn ontstaan.

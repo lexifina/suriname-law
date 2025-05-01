@@ -1,0 +1,2 @@
+# Boek 6, Artikel 99
+Kan de schade een gevolg zijn van twee of meer gebeurtenissen voor elk waarvan een andere persoon aansprakelijk is, en staat vast dat de schade door ten minste een van deze gebeurtenissen is ontstaan, dan rust de verplichting om de schade te vergoeden op ieder van deze personen, tenzij hij bewijst dat deze niet het gevolg is van een gebeurtenis waarvoor hijzelf aansprakelijk is.

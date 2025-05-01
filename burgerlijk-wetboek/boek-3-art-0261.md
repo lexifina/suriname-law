@@ -1,0 +1,3 @@
+# Boek 3, Artikel 261
+1. Is bij een koopovereenkomst hypotheek op het verkochte goed tot waarborg van onbetaalde kooppenningen bedongen en is dit beding in de leveringsakte vermeld, dan heeft deze hypotheek, mits de akte waarbij zij werd verleend tegelijk met de leveringsakte wordt ingeschreven, voorrang boven alle andere aan de koper ontleende rechten, ten aanzien waarvan tegelijk een inschrijving plaatsvond.
+2. Lid 1 vindt overeenkomstige toepassing op een bij verdeling bedongen hypotheek op een toegedeeld goed tot waarborg van hetgeen hij aan wie het goed is toegedeeld, aan de andere deelgenoten ten gevolge van de verdeling schuldig is of mocht worden.

@@ -1,0 +1,4 @@
+# Boek 2, Artikel 98
+Voor een onderlinge waarborgmaatschappij gelden voorts de volgende bepalingen:
+a. Degenen die als verzekeringnemer bij een onderlinge waarborgmaatschappij een overeenkomst van verzekering lopende hebben, zijn van rechtswege lid van de waarborgmaatschappij. Bij de onderlinge waarborgmaatschappij die krachtens haar statuten ook verzekeringnemers die geen lid zijn mag verzekeren, kan van deze bepaling worden afgeweken.
+b. Tenzij de statuten anders bepalen, duurt het lidmaatschap dat uit een verzekeringsovereenkomst ontstaat, voort totdat alle door het lid met de waarborgmaatschappij gesloten verzekeringsovereenkomsten zijn geëindigd. Bij overdracht of overgang van de rechten en verplichtingen uit zodanige overeenkomst gaat het lidmaatschap, voor zover uit die overeenkomst voortvloeiende, op de nieuwe verkrijger of de nieuwe verkrijgers over, een en ander behoudens afwijkende bepalingen in de statuten.

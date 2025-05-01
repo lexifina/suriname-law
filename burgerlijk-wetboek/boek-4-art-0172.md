@@ -1,0 +1,3 @@
+# Boek 4, Artikel 172
+1. De bewindvoerder die, anders dan in de vorm van medewerking of toestemming, zijn taak uitoefent, is bevoegd daarbij de rechthebbende te vertegenwoordigen of in eigen naam te zijnen behoeve op te treden.
+2. De bepalingen van titel 3 van Boek 3 zijn in geval van vertegenwoordiging van overeenkomstige toepassing op de rechten en verplichtingen van een wederpartij. Regels die de bevoegdheid van de bewindvoerder betreffen, en feiten die voor een oordeel omtrent zijn bevoegdheid van belang zijn, kunnen niet aan de wederpartij worden tegengeworpen, indien deze met die regels of feiten niet bekend was of behoorde te zijn.

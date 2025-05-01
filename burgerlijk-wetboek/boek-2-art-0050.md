@@ -1,0 +1,5 @@
+# Boek 2, Artikel 50
+1. De stichting is een als zodanig bij notariële akte opgerichte rechtspersoon die beoogt met behulp van een daartoe bestemd vermogen een in de statuten vermeld doel te verwezenlijken. Een notariële akte is niet vereist indien bij de oprichting gebruik wordt gemaakt van een der door de met justitiële aangelegenheden belaste minister bij beschikking vastgestelde standaard modelakten van oprichting.
+2. De stichting kent geen leden of aandeelhouders.
+3. Als leden worden niet aangemerkt personen aan wie bij of krachtens de statuten de bevoegdheid is gegeven om in de vervulling van ledige plaatsen in organen van de stichting te voorzien of om bestuurders of leden van andere organen van de stichting te schorsen en te ontslaan.
+4. Het doel van een stichting mag niet inhouden het doen van uitkeringen aan oprichters of aan hen die deel uitmaken van haar organen noch ook aan anderen, tenzij wat deze laatsten betreft de uitkeringen een ideële of sociale strekking hebben, dan wel voortvloeien uit een recht op pensioen.

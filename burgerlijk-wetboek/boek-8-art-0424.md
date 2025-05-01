@@ -1,0 +1,5 @@
+# Boek 8, Artikel 424
+1. Behalve in geval van tijd- of reisbevrachting is de vervoerder wanneer, nadat de inlading een aanvang heeft genomen, het schip vergaat of zodanig beschadigd blijkt te zijn, dat het schip het herstel, nodig voor de uitvoering van de overeenkomst, niet waard is of dat dit herstel binnen redelijke tijd niet mogelijk is na lossing van de zaken bevoegd de overeenkomst te beëindigen, mits hij dit zo spoedig mogelijk doet.
+2. Vermoed wordt dat het vergaan of de beschadiging van het schip is te wijten aan een omstandigheid, die voor rekening van de vervoerder komt; voor rekening van de vervoerder komen die omstandigheden, die in geval van beschadiging van door hem vervoerde zaken voor zijn rekening komen.
+3. De vervoerder verwittigt, zo mogelijk, de afzender, degene aan wie de zaken moeten worden afgeleverd en degene aan wie hij volgens de bepalingen van een mogelijkerwijs afgegeven cognossement bericht van aankomst van het schip moet zenden.
+4. Artikel 398 leden 3 tot en met 5 is van toepassing.

@@ -1,0 +1,6 @@
+# Boek 3, Artikel 152
+1. Voor zover in de trustakte niet anders is bepaald, kan de protector zijn taak slechts neerleggen zonder onnodige schade voor de begunstigde of het trustvermogen.
+2. Op verzoek van een medeprotector, het openbaar ministerie of, tenzij in de trustakte anders is bepaald, de insteller of begunstigde, dan wel andere in de trustakte daartoe aangewezen personen kan een protector door de kantonrechter worden ontslagen.
+3. In de trustakte kan worden bepaald dat de insteller naar eigen goeddunken de protector kan ontslaan en al dan niet vervangen en dat deze bevoegdheid na de dood van de insteller overgaat op een andere aangewezen persoon.
+4. De protector verliest voorts zijn hoedanigheid van protector door zijn dood, zijn faillietverklaring, zijn ondercuratelestelling of door de instelling van een bewind, bedoeld in titel 19 van Boek 1, over een of meer van zijn goederen, dan wel, rechtspersoon zijnde, door een besluit tot ontbinding.
+5. Ingeval een afgetreden of overleden protector heeft nagelaten een opvolger te benoemen, zal bij gebreke van voorziening in de trustakte, de nog in functie zijnde protector een opvolgende protector benoemen. Indien geen andere protector in functie is, zal de kantonrechter, op verzoek van een belanghebbende of het openbaar ministerie, dan wel ambtshalve, een opvolgende protector benoemen.

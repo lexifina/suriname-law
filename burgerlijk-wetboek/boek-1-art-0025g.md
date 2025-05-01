@@ -1,0 +1,3 @@
+# Boek 1, Artikel 25g
+1. Op akten en uitspraken die buiten Suriname overeenkomstig de plaatselijke voorschriften door een bevoegde instantie zijn opgemaakt of gedaan en een overeenkomstige uitwerking hebben als de in artikel 25c bedoelde beschikkingen, zijn de artikelen 25 tot en met 25b van overeenkomstige toepassing. De inschrijving als bedoeld in artikel 25 vindt niet plaats indien de Surinaamse openbare orde zich hiertegen verzet.
+2. In geval van adoptie van een buiten Suriname geboren kind ten aanzien waarvan een akte of uitspraak als bedoeld in lid 1 is opgemaakt of gedaan, geeft de rechter die de adoptie uitspreekt, ambtshalve afzonderlijk last tot inschrijving van die akte of uitspraak.

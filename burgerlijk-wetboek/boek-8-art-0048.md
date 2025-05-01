@@ -1,0 +1,8 @@
+# Boek 8, Artikel 48
+1. Het CT-document bewijst, behoudens tegenbewijs, dat de gecombineerd vervoerder de zaken heeft ontvangen en wel zoals deze daarin zijn omschreven. Tegenbewijs tegen het CT-document wordt niet toegelaten, wanneer het is overgedragen aan een derde te goeder trouw.
+2. Indien in het CT-document de clausule: 'aard, gewicht, aantal, volume of merken onbekend' of enige andere clausule van dergelijke strekking is opgenomen, binden zodanige in het CT-document voorkomende vermeldingen omtrent de zaken de gecombineerd vervoerder niet, tenzij bewezen wordt dat hij de aard, het gewicht, het aantal, het volume of de merken der zaken heeft gekend of had behoren te kennen.
+3. Een CT-document, dat de uiterlijk zichtbare staat of gesteldheid van de zaak niet vermeldt, levert, behoudens tegenbewijs dat ook jegens een derde mogelijk is, een vermoeden op dat de gecombineerd vervoerder die zaak voor zover uiterlijk zichtbaar in goede staat of gesteldheid heeft ontvangen.
+4. Een in het CT-document opgenomen waarde-opgave schept, behoudens tegenbewijs, een vermoeden, doch bindt niet de gecombineerd vervoerder die haar kan betwisten.
+5. Verwijzingen in het CT-document worden geacht slechts die bedingen daarin te voegen die voor degene jegens wie daarop een beroep wordt gedaan, duidelijk kenbaar zijn. Een dergelijk beroep is slechts mogelijk voor hem, die op schriftelijk verlangen van degene jegens wie dit beroep kan worden gedaan of wordt gedaan, aan deze onverwijld die bedingen heeft doen toekomen.
+6. Dit artikel laat onverlet de bepalingen die aan cognossement of vrachtbrief een grotere bewijskracht toekennen.
+7. Nietig is ieder beding, waarbij van lid 5 wordt afgeweken.

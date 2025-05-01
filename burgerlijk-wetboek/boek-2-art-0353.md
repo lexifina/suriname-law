@@ -1,0 +1,6 @@
+# Boek 2, Artikel 353
+1. De verkrijgende rechtspersonen en de voortbestaande gesplitste rechtspersoon zijn aansprakelijk tot nakoming van de verbintenissen van de gesplitste rechtspersoon ten tijde van de splitsing.
+2. Voor ondeelbare verbintenissen zijn de verkrijgende rechtspersonen en de voortbestaande gesplitste rechtspersoon elk voor het geheel aansprakelijk.
+3. Voor deelbare verbintenissen is de verkrijgende rechtspersoon waarop de verbintenis is overgegaan of, zo de verbintenis niet op een verkrijgende rechtspersoon is overgegaan, de voortbestaande gesplitste rechtspersoon voor het geheel aansprakelijk. De aansprakelijkheid voor deelbare verbintenissen is voor elke andere rechtspersoon beperkt tot de waarde van het vermogen dat hij bij de splitsing heeft verkregen of behouden.
+4. Andere rechtspersonen dan de rechtspersoon waarop de verbintenis is overgegaan of, zo de verbintenis niet op een verkrijgende rechtspersoon is overgegaan, dan de voortbestaande gesplitste rechtspersoon zijn niet tot nakoming gehouden voordat de laatstbedoelde rechtspersoon in de nakoming van de verbintenis is tekortgeschoten.
+5. Ten aanzien van de aansprakelijkheid zijn de bepalingen betreffende hoofdelijke verbondenheid van overeenkomstige toepassing.

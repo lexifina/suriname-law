@@ -1,0 +1,2 @@
+# Boek 7, Artikel 762
+De aansprakelijkheid van de aannemer voor hem bekende verborgen gebreken die hij heeft verzwegen, kan niet worden uitgesloten of beperkt, noch kan zij aan kortere verjaringstermijnen worden onderworpen dan die voorzien in artikel 761. Verzwijging door degenen die de aannemer met de leiding over de uitvoering van het werk heeft belast, wordt gelijkgesteld met verzwijging door de aannemer.

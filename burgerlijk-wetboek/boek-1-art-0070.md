@@ -1,0 +1,3 @@
+# Boek 1, Artikel 70
+1. Op verzoek van een ouder, een echtgenoot en het openbaar ministerie kan een huwelijk worden nietig verklaard, wanneer het ten overstaan of in tegenwoordigheid van een niet bevoegde ambtenaar van de burgerlijke stand of niet in tegenwoordigheid van het vereiste aantal getuigen is voltrokken.
+2. De bevoegdheid van een echtgenoot om uit dien hoofde de nietigverklaring van het huwelijk te verzoeken, vervalt indien er uiterlijk bezit van de huwelijkse staat en een akte van huwelijksvoltrekking ten overstaan of in tegenwoordigheid van een ambtenaar van de burgerlijke stand verleden, aanwezig zijn.

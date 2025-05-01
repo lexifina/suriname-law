@@ -1,0 +1,6 @@
+# Boek 3, Artikel 37
+1. Tenzij anders is bepaald, kunnen verklaringen, met inbegrip van mededelingen, in iedere vorm geschieden, en kunnen zij in een of meer gedragingen besloten liggen.
+2. Indien bepaald is dat een verklaring schriftelijk moet worden gedaan, kan zij, voor zover uit de strekking van die bepaling niet anders volgt, ook bij exploot geschieden.
+3. Een tot een bepaalde persoon gerichte verklaring moet, om haar werking te hebben, die persoon hebben bereikt. Nochtans heeft ook een verklaring die hem tot wie zij was gericht, niet of niet tijdig heeft bereikt, haar werking, indien dit niet of niet tijdig bereiken het gevolg is van zijn eigen handeling, van de handeling van personen voor wie hij aansprakelijk is, of van andere omstandigheden die zijn persoon betreffen en rechtvaardigen dat hij het nadeel draagt.
+4. Wanneer een door de afzender daartoe aangewezen persoon of middel een tot een ander gerichte verklaring onjuist heeft overgebracht, geldt het ter kennis van de ontvanger gekomene als de verklaring van de afzender, tenzij de gevolgde wijze van overbrenging door de ontvanger was bepaald.
+5. Intrekking van een tot een bepaalde persoon gerichte verklaring moet, om haar werking te hebben, die persoon eerder dan of gelijktijdig met de ingetrokken verklaring bereiken.

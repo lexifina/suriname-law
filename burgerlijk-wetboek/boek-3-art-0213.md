@@ -1,0 +1,3 @@
+# Boek 3, Artikel 213
+1. Hetgeen in de plaats van aan vruchtgebruik onderworpen goederen treedt doordat daarover bevoegdelijk wordt beschikt, behoort aan de hoofdgerechtigde toe en is eveneens aan het vruchtgebruik onderworpen. Hetzelfde is het geval met hetgeen door inning van aan vruchtgebruik onderworpen vorderingen wordt ontvangen, en met vorderingen tot vergoeding die in de plaats van aan vruchtgebruik onderworpen goederen treden, waaronder begrepen vorderingen ter zake van waardevermindering van die goederen.
+2. Ook zijn aan het vruchtgebruik onderworpen de voordelen die een goed tijdens het vruchtgebruik oplevert en die geen vruchten zijn.

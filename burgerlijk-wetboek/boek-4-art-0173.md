@@ -1,0 +1,2 @@
+# Boek 4, Artikel 173
+De bewindvoerder vertegenwoordigt de rechthebbende in gedingen ter zake van onder het bewind staande goederen. Hij kan zich, alvorens in rechte op te treden, te zijner verantwoording doen machtigen door de rechthebbende en degenen in wiens belang het bewind uitsluitend of mede is ingesteld. Wordt de machtiging niet verleend, dan kan de kantonrechter haar door zijn machtiging vervangen.

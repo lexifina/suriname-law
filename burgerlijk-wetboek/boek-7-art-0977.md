@@ -1,0 +1,3 @@
+# Boek 7, Artikel 977
+1. Behoudens het elders in deze titel bepaalde kan de verzekering niet door de verzekeraar worden opgezegd of ontbonden, noch krachtens enig beding vervallen. De eerste volzin staat niet in de weg aan een beding dat de verzekering eindigt of door de verzekeraar kan worden opgezegd, indien zij als gevolg van in de overeenkomst voorziene verrekening van premie, bedongen rente en kosten niet langer premievrije waarde of afkoopwaarde heeft.
+2. Behoudens het elders in deze afdeling bepaalde kan de verzekeraar de verzekering slechts afkopen of premievrij voortzetten met medewerking van de verzekeringnemer, verkregen na het aangaan van de overeenkomst.

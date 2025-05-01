@@ -1,0 +1,2 @@
+# Boek 6, Artikel 77
+Wordt bij de uitvoering van een verbintenis gebruik gemaakt van een zaak die daartoe ongeschikt is, dan wordt de tekortkoming die daardoor ontstaat, de schuldenaar toegerekend, tenzij dit, gelet op inhoud en strekking van de rechtshandeling waaruit de verbintenis voortspruit, de in het verkeer geldende opvattingen en de overige omstandigheden van het geval, onredelijk zou zijn.

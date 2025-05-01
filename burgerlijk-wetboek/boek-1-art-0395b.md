@@ -1,0 +1,5 @@
+# Boek 1, Artikel 395b
+1. Heeft de rechter het bedrag bepaald dat een ouder dan wel, overeenkomstig artikel 394, de verwekker of de man die in artikel 394 daarmee is gelijkgesteld ter zake van de verzorging en opvoeding van zijn minderjarig kind moet betalen en is deze verplichting tot aan het meerderjarig worden van het kind van kracht geweest, dan geldt met ingang van dit tijdstip de rechterlijke beslissing als een tot bepaling van het bedrag ter zake van levensonderhoud en studie als in artikel 395a bedoeld.
+2. Hetzelfde geldt indien de rechter met toepassing van artikel 406a het bedrag heeft vastgesteld dat een ouder ter bestrijding van de kosten van een maatregel van kinderbescherming aan het Bureau voor Familierechtelijke Zaken moet uitkeren.
+3. Het Bureau voor Familierechtelijke Zaken draagt zorg dat de gelden die hem krachtens dit artikel worden uitgekeerd, aan het kind worden uitbetaald.
+4. In afwijking van de leden 1 en 2 is het bedrag aan het kind verschuldigd en dient dit ook aan hem te worden betaald, indien het kind aan het Bureau voor Familierechtelijke Zaken schriftelijk heeft medegedeeld van optreden van deze laatste volledig af te zien.

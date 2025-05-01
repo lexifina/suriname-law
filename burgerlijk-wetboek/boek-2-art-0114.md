@@ -1,0 +1,6 @@
+# Boek 2, Artikel 114
+1. De vennootschap kan geen eigen aandelen nemen.
+2. Onverminderd het bepaalde in titel 7 kunnen de statuten de verkrijging door de vennootschap van eigen aandelen van derden uitsluiten, beperken of aan voorwaarden onderwerpen. Zolang de vennootschap direct of indirect eigen aandelen houdt, kunnen de daaraan verbonden rechten niet worden uitgeoefend.
+3. Artikel 118 leden 5, 6 en 7 zijn van overeenkomstige toepassing op verkrijging van eigen aandelen. Bij de verkrijging van aandelen met een nominale waarde, die onmiddellijk na de betaling aan de aandeelhouder en de verkrijging door de vennootschap worden ingetrokken, geldt het nominaal kapitaal na die intrekking als de in artikel 118 lid 7 bedoelde ondergrens.
+4. De statuten kunnen bepalen dat in gevallen, in de statuten omschreven, de vennootschap gehouden is tot inkoop en verkrijging van eigen aandelen van een of meer aandeelhouders tegen voorwaarden zoals deze bij de statuten zijn bepaald of krachtens de statuten door onafhankelijke deskundigen zullen worden vastgesteld.
+5. De vennootschap kan door een daarop gericht besluit van de algemene vergadering of een door de statuten aangewezen ander orgaan door de vennootschap gehouden eigen aandelen intrekken.

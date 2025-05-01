@@ -1,0 +1,2 @@
+# Boek 7, Artikel 467
+Van het lichaam afgescheiden anonieme stoffen en delen kunnen, onder de nodige waarborgen in verband met de persoonlijke levenssfeer, worden gebruikt voor medisch statistisch of ander medisch wetenschappelijk onderzoek, voor zover de patiënt van wie het lichaamsmateriaal afkomstig is, geen bezwaar heeft gemaakt tegen zodanig onderzoek en het onderzoek met de vereiste zorgvuldigheid wordt verricht.

@@ -1,0 +1,9 @@
+# Boek 7, Artikel 633c
+1. De werknemer heeft recht op zwangerschapsverlof gedurende tenminste 4 (vier) weken en ten hoogste 6 (zes) weken voor de vermoedelijke datum van bevalling.
+2. De werknemer heeft recht op verlof gedurende tenminste 10 (tien) en ten hoogste 12 (twaalf) weken aansluitend op de werkelijke datum van bevalling als bevallingsverlof.
+De in lid 2 genoemde, in weken uitgedrukte verlofperiode kunnen bij staatsbesluit met in acht neming van de fasering van de uitvoering van deze afdeling, de economische situatie van Suriname en de financiële positie van het Fonds en gehoord de organisaties van werknemers en werkgevers worden verlengd tot een maximum van 24 (vierentwintig) weken, waarbij tevens de voorwaarden die voor de uitbreiding gelden, zullen worden vastgelegd.
+3. Het zwangerschapsverlof en het bevallingsverlof, bedoeld in lid 1 en lid 2, duren samen 16 (zestien) weken. Voor vrouwen die bevallen van meerlingen, waarbij drie of meer kinderen worden geboren, zal het bevallingsverlof tot een maximum van 24 (vierentwintig) weken worden verlengd.
+4. De werknemer is verplicht zwangerschapsverlof en bevallingsverlof op te nemen.
+5. Indien een werknemer in de aangegeven periode van verlof wegens zwangerschapsverlof een miskraam krijgt of van een doodgeboren kind of kort na de geboorte gestorven kind bevalt, behoudt zij het recht op bevallingsverlof van 6 (zes) weken na het moment van die miskraam of bevalling van een doodgeboren kind of kort na de geboorte gestorven kind.
+6. In het geval van een voorgenomen adoptie van een kind jonger dan 18 (achttien) maanden heeft de adoptiemoeder recht op betaald verlof gelijk aan 6 (zes) weken vanaf de aanvang van het wettelijk toegestaan feitelijk verblijf van het kind in de huishouding van de moeder.
+7. De werkgever is verplicht zwangerschapsverlof en bevallingsverlof en het verlof geregeld in lid 8 te verlenen.

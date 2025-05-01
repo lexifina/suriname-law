@@ -1,0 +1,2 @@
+# Boek 1, Artikel 5d
+Indien een kind op het tijdstip van het ontstaan van de familierechtelijke betrekking met beide ouders zestien jaar of ouder is, kan het zelf naamskeuze doen, in geval van erkenning, ten overstaan van de ambtenaar van de burgerlijke stand dan wel, in geval van adoptie of gerechtelijke vaststelling van het vaderschap, ten overstaan van de rechter. Van de verklaring van naamskeuze wordt melding gemaakt in de akte van erkenning of in de rechterlijke uitspraak inzake adoptie of gerechtelijke vaststelling van het vaderschap.

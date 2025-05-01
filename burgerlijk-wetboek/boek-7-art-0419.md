@@ -1,0 +1,2 @@
+# Boek 7, Artikel 419
+Indien een lasthebber in eigen naam een overeenkomst heeft gesloten met een derde die in de nakoming van zijn verplichtingen tekortschiet, is de derde binnen de grenzen van hetgeen omtrent zijn verplichting tot schadevergoeding overigens uit de wet voortvloeit, jegens de lasthebber mede gehouden tot vergoeding van de schade die de lastgever door de tekortkoming heeft geleden.

@@ -1,0 +1,2 @@
+# Boek 8, Artikel 485
+Voor zaken die door een opvarende voor eigen rekening in strijd met enig wettelijk verbod worden vervoerd is de hoogste vracht verschuldigd die ten tijde van de inlading voor soortgelijke zaken kon worden bedongen. Deze vracht is verschuldigd ook wanneer de zaken niet of in waardeloze toestand ter bestemming worden afgeleverd en de ontvanger is met de verscheper hoofdelijk voor deze vracht verbonden.

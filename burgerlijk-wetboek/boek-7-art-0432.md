@@ -1,0 +1,4 @@
+# Boek 7, Artikel 432
+1. Indien de rol van de handelsagent zich heeft beperkt tot het verlenen van bemiddeling bij de totstandkoming van de overeenkomst, wordt de order die hij aan zijn principaal heeft doen toekomen, voor wat betreft het recht op provisie krachtens artikel 426 geacht te zijn aanvaard, tenzij de principaal de handelsagent binnen de redelijke termijn, bedoeld in artikel 430 lid 4 meedeelt dat hij de order weigert of een voorbehoud maakt. Bij gebreke van een in de agentuurovereenkomst bepaalde termijn bedraagt de termijn een maand vanaf het tijdstip waarop hem de order is meegedeeld.
+2. Het beding dat het recht op provisie doet afhangen van de uitvoering van de overeenkomst, dient uitdrukkelijk te worden gemaakt.
+3. Indien het beding is gemaakt, ontstaat het recht op provisie uiterlijk wanneer de derde zijn deel van de overeenkomst heeft uitgevoerd, of dit had moeten doen, indien de principaal zijn deel van de transactie had uitgevoerd.

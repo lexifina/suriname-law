@@ -1,0 +1,3 @@
+# Boek 1, Artikel 75
+1. Wegens het ontbreken van een vereiste toestemming van een derde kan de nietigverklaring van het huwelijk alleen door die derde of, in het geval van artikel 382, door de curator worden verzocht. Dit verzoek vervalt, wanneer degene die bevoegd is de nietigverklaring te verzoeken, het huwelijk uitdrukkelijk of stilzwijgend heeft goedgekeurd, of wanneer drie maanden verlopen zijn nadat hij met de huwelijksvoltrekking bekend is geworden.
+2. Degene die bevoegd is de nietigverklaring te verzoeken, wordt vermoed met het huwelijk bekend te zijn geworden, wanneer het in Suriname is voltrokken, of wanneer het, in het buitenland aangegaan, in Suriname in de registers van de burgerlijke stand is ingeschreven.

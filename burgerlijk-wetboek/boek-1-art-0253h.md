@@ -1,0 +1,4 @@
+# Boek 1, Artikel 253h
+1. Indien na het overlijden van een der ouders een voogd is benoemd, kan de kantonrechter deze beslissing te allen tijde in dier voege wijzigen, dat de overlevende ouder mits deze daartoe bevoegd is, alsnog met het gezag wordt belast.
+2. Hij gaat hiertoe slechts over op verzoek van de overlevende ouder, en niet dan op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
+3. Wanneer de andere ouder een voogd had aangewezen overeenkomstig artikel 292 en deze inmiddels is opgetreden, is dit artikel van overeenkomstige toepassing met dien verstande dat, mits het verzoek van de overlevende ouder binnen één jaar na het begin van de voogdij wordt gedaan, dit verzoek slechts wordt afgewezen indien gegronde vrees bestaat dat bij inwilliging de belangen van de kinderen zouden worden verwaarloosd.

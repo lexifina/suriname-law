@@ -1,0 +1,3 @@
+# Boek 1, Artikel 397
+1. Bij de bepaling van het volgens de wet door bloed- en aanverwanten verschuldigde bedrag voor levensonderhoud wordt enerzijds rekening gehouden met de behoeften van de tot onderhoud gerechtigde en anderzijds met de draagkracht van de tot uitkering verplichte persoon.
+2. Zijn meerdere bloed- of aanverwanten tot het verstrekken van levensonderhoud aan dezelfde persoon verplicht, dan is ieder van hen gehouden een deel van het bedrag te voldoen dat de tot onderhoud gerechtigde behoeft. Bij de bepaling van dit deel wordt rekening gehouden met ieders draagkracht en de verhouding waarin eenieder tot de gerechtigde staat.

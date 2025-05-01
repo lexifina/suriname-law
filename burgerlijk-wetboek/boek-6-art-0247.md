@@ -1,0 +1,5 @@
+# Boek 6, Artikel 247
+1. Op overeenkomsten tussen partijen die handelen in de uitoefening van een beroep of bedrijf en die beide in Suriname gevestigd zijn, is deze afdeling van toepassing, ongeacht het recht dat de overeenkomst beheerst.
+2. Op overeenkomsten tussen partijen die handelen in de uitoefening van een beroep of bedrijf en die niet beide in Suriname gevestigd zijn, is deze afdeling niet van toepassing, ongeacht het recht dat de overeenkomst beheerst.
+3. Een partij is in de zin van de leden 1 en 2 in Suriname gevestigd, indien haar hoofdvestiging of, zo de prestatie volgens de overeenkomst door een andere vestiging dan de hoofdvestiging moet worden verricht, deze andere vestiging zich in Suriname bevindt.
+4. Op overeenkomsten tussen een gebruiker en een wederpartij, natuurlijk persoon, die niet handelt in de uitoefening van een beroep of bedrijf, is, indien de wederpartij haar gewone verblijfplaats in Suriname heeft, deze afdeling van toepassing, ongeacht het recht dat de overeenkomst beheerst.

@@ -1,0 +1,2 @@
+# Boek 4, Artikel 219
+Wanneer de rechter heeft bepaald dat de nalatenschap mede in het belang van de schuldeisers van iemand die haar verworpen heeft, wordt vereffend, kunnen ook deze schuldeisers hun vorderingen indienen. Zij worden in de uitdelingslijst opgenomen, doch slechts batig gerangschikt voor zover een overschot aan hun schuldenaar zou zijn toegekomen, indien deze niet verworpen had; te dien einde kan de vereffenaar voor zoveel nodig verdeling van de nalatenschap vorderen en aan de verdeling deelnemen.

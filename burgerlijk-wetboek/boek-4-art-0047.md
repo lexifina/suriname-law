@@ -1,0 +1,2 @@
+# Boek 4, Artikel 47
+Wanneer de uitvoering van een beschikking, anders dan als gevolg van een na het overlijden van de erflater ingetreden omstandigheid, blijvend onmogelijk is, vervalt de beschikking, zonder dat een andere beschikking daarvoor in de plaats mag worden gesteld, tenzij de wet het tegendeel bepaalt, of uit de uiterste wil zelf is af te leiden dat de erflater die andere beschikking zou hebben gemaakt, wanneer hem de onmogelijkheid bekend was geweest.

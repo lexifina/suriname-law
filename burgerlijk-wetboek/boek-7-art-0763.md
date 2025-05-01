@@ -1,0 +1,2 @@
+# Boek 7, Artikel 763
+Indien de aannemer na het sluiten van de overeenkomst overlijdt of duurzaam arbeidsongeschikt wordt, kan ieder der partijen de overeenkomst beëindigen, voor zover zij, gezien de aard van de overeenkomst, aan het overlijden of de duurzame arbeidsongeschiktheid een redelijk belang bij beëindiging kan ontlenen. Voor de reeds verrichte arbeid en gemaakte kosten is de opdrachtgever een naar redelijkheid en met inachtneming van alle omstandigheden te bepalen vergoeding verschuldigd.

@@ -1,0 +1,3 @@
+# Boek 3, Artikel 251
+1. Tenzij anders is bedongen, kan de kantonrechter op verzoek van de pandhouder of de pandgever bepalen dat het pand zal worden verkocht op een van artikel 250 afwijkende wijze, of op verzoek van de pandhouder bepalen dat het pand voor een door hem vast te stellen bedrag aan de pandhouder als koper zal verblijven.
+2. Nadat de pandhouder bevoegd is geworden tot verkoop over te gaan, kunnen pandhouder en pandgever een van artikel 250 afwijkende wijze van verkoop overeenkomen. Rust op het verpande goed een beperkt recht of een beslag, dan is daartoe tevens de medewerking van de beperkt gerechtigde of de beslaglegger vereist.

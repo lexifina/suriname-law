@@ -1,0 +1,2 @@
+# Boek 2, Artikel 138
+Degene die, zonder deel uit te maken van het bestuur, voor zekere tijd of onder zekere omstandigheden, al dan niet krachtens een voor de vennootschap geldende regeling, het beleid van de vennootschap bepaalt of mede bepaalt als ware hij bestuurder, wordt ter zake van dat optreden, voor wat zijn verplichtingen ten opzichte van de vennootschap en van derden betreft alsmede voor de toepassing van artikel 9, als bestuurder aangemerkt.

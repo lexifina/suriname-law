@@ -1,0 +1,3 @@
+# Boek 7, Artikel 418
+1. Heeft, buiten de gevallen, bedoeld in de artikelen 416 en 417, een lasthebber direct of indirect belang bij de totstandkoming van de rechtshandeling, dan is hij verplicht de lastgever daarvan in kennis te stellen, tenzij de inhoud van de rechtshandeling zo nauwkeurig vaststaat dat strijd tussen beider belangen is uitgesloten.
+2. Een lasthebber heeft geen recht op loon jegens een lastgever ten opzichte van wie hij in strijd met lid 1 handelt, onverminderd zijn gehoudenheid tot vergoeding van de dientengevolge door de lastgever geleden schade. Van deze bepaling kan niet ten nadele van de lastgever worden afgeweken.

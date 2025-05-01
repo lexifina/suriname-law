@@ -1,0 +1,3 @@
+# Boek 6, Artikel 181
+1. Worden de in de artikelen 173, 174 en 179 bedoelde zaken, opstallen of dieren gebruikt in de uitoefening van een bedrijf, dan rust de aansprakelijkheid uit artikel 173 lid 1, artikel 174 lid 1 en lid 2, eerste volzin, en artikel 179 op degene die dit bedrijf uitoefent, tenzij het een opstal betreft en het ontstaan van de schade niet met de uitoefening van het bedrijf in verband staat.
+2. Wanneer de zaken, opstallen of dieren in de uitoefening van een bedrijf worden gebruikt door ze ter beschikking te stellen voor gebruik in de uitoefening van het bedrijf van een ander, dan wordt die ander als de uit hoofde van lid 1 aansprakelijke persoon aangemerkt.

@@ -1,0 +1,3 @@
+# Boek 1, Artikel 153
+1. Indien als gevolg van de verzochte echtscheiding een bestaand vooruitzicht op uitkeringen aan de andere echtgenoot na vooroverlijden van de echtgenoot die het verzoek heeft gedaan, zou verloren gaan of in ernstige mate zou verminderen, en de andere echtgenoot deswege tegen dat verzoek verweer voert, kan deze niet worden toegewezen voordat daaromtrent een voorziening is getroffen die, gelet op de omstandigheden van het geval, ten opzichte van beide echtgenoten billijk is te achten. De rechter kan daartoe een termijn stellen.
+2. Lid 1 is niet van toepassing indien redelijkerwijs te verwachten is dat de andere echtgenoot zelf voor dat geval voldoende voorzieningen kan treffen.

@@ -1,0 +1,3 @@
+# Boek 3, Artikel 28
+1. Is een inschrijving waardeloos, dan zijn degenen te wier behoeve zij anders zou hebben gestrekt, verplicht van deze waardeloosheid aan degene die daarbij een onmiddellijk belang heeft, op diens verzoek een schriftelijke verklaring af te geven. De verklaringen vermelden de feiten waarop de waardeloosheid berust, tenzij de inschrijving een hypotheek of een beslag betreft.
+2. De verklaringen kunnen in de registers worden ingeschreven. Indien de inschrijving een hypotheek of een beslag betreft, machtigen deze verklaringen na inschrijving gezamenlijk de bewaarder tot doorhaling daarvan.

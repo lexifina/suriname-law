@@ -1,0 +1,2 @@
+# Boek 8, Artikel 377
+In deze titel wordt onder vervoerovereenkomst onder cognossement verstaan de vervoerovereenkomst neergelegd in een cognossement dan wel enig soortgelijk document dat een titel vormt voor het vervoer van zaken over zee; eveneens wordt eronder verstaan de vervoerovereenkomst neergelegd in een cognossement of soortgelijk document als genoemd, dat is uitgegeven uit hoofde van een charterpartij, van het ogenblik af waarop dit cognossement of soortgelijk document de verhouding tussen de vervoerder en de houder van het cognossement beheerst.

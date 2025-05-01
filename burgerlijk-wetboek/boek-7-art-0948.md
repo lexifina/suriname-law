@@ -1,0 +1,6 @@
+# Boek 7, Artikel 948
+1. Bij overdracht van een zaak of een beperkt recht waaraan een zaak is onderworpen, gaan de rechten en verplichtingen uit de verzekering die het belang van de vervreemder bij het behoud van de zaak dekt, met het risico op de verkrijger over, ook indien het risico al voor de overdracht overgaat. Hetzelfde geldt voor bijkomstige verzekeringen die bij diezelfde overeenkomst tot stand zijn gekomen. Geen overgang vindt plaats indien zulks voortvloeit uit de rechtshandeling waarbij het goed wordt overgedragen of uit een verklaring van de nieuwe belanghebbende aan de verzekeraar.
+2. De overeenkomst vervalt een maand nadat zij op de nieuwe verzekerde is overgegaan, tenzij deze binnen die termijn aan de verzekeraar verklaart de overeenkomst voort te zetten. In dat geval kan de verzekeraar binnen twee maanden nadat de verklaring is afgelegd, de overeenkomst met inachtneming van een termijn van een maand opzeggen.
+3. Premies verschenen voordat de nieuwe verzekerde heeft verklaard de overeenkomst voort te zetten, zijn uitsluitend door de verzekeringnemer verschuldigd.
+4. Het in lid 2 bepaalde leidt niet tot verlenging van de duur van de overeenkomst noch tot beperking van het recht tot opzegging uit anderen hoofde.
+5. De leden 1 tot en met 4 missen toepassing, indien de verzekering de verkrijger aanwijst als derde, bedoeld in artikel 947.

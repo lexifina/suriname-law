@@ -1,0 +1,4 @@
+# Boek 5, Artikel 93
+1. De erfpachter is bevoegd de zaak waarop het recht van erfpacht rust, geheel of ten dele in ondererfpacht te geven, voor zover in de akte van vestiging niet anders is bepaald. Aan de ondererfpachter komen ten aanzien van de zaak niet meer bevoegdheden toe dan de erfpachter jegens de eigenaar heeft.
+2. De ondererfpacht gaat bij het einde van de erfpacht teniet, tenzij deze eindigt door vermenging of afstand. De eigenaar kan voor de ter zake van de erfpacht verschuldigde canon het recht van erfpacht vrij van ondererfpacht uitwinnen. De eerste en tweede volzin gelden niet, indien de eigenaar bij een in de openbare registers ingeschreven notariële akte heeft verklaard met de vestiging van de ondererfpacht in te stemmen.
+3. Voor de toepassing van de overige artikelen van deze titel wordt de erfpachter in zijn verhouding tot de ondererfpachter als eigenaar aangemerkt.

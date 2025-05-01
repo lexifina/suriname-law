@@ -1,0 +1,3 @@
+# Boek 7, Artikel 179
+1. Een aanbod tot schenking dat de aanbieder ten tijde van zijn overlijden nog kon herroepen, komt, in afwijking van artikel 222 van Boek 6, door zijn dood te vervallen, tenzij uit een overeenkomst of uit het aanbod zelf het tegendeel voortvloeit.
+2. Is het aanbod bij wijze van uitloving voor een bepaalde tijd gedaan, dan komt het door het overlijden van de aanbieder binnen die tijd te vervallen indien ten tijde van het overlijden een gewichtige reden tot herroeping als bedoeld in artikel 220 lid 1 van Boek 6 bestond of het overlijden zelf een zodanige reden oplevert; alsdan is artikel 220 lid 2 van Boek 6 van overeenkomstige toepassing.

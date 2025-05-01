@@ -1,0 +1,2 @@
+# Boek 5, Artikel 39
+De eigenaar van een erf mag niet in een mate of op een wijze die volgens artikel 162 van Boek 6 onrechtmatig is, aan eigenaars van andere erven hinder toebrengen door wijziging te brengen in de loop, hoeveelheid of hoedanigheid van over zijn erf stromend water of van het grondwater, dan wel door gebruik van water dat zich op zijn erf bevindt en in open gemeenschap staat met het water op het erf van een ander.

@@ -1,0 +1,4 @@
+# Boek 7, Artikel 188
+1. De aanwijzing van een begunstigde bij een sommenverzekering wordt, wanneer zij is aanvaard of kan worden aanvaard, aangemerkt als een gift, tenzij zij geschiedt ter nakoming van een verbintenis anders dan een uit schenking. De artikelen 177, 179, 181, 182 en 187 zijn op deze giften niet van toepassing.
+2. Als waarde van een gift door begunstiging bij een sommenverzekering geldt de waarde van de daaruit voortvloeiende rechten op uitkering. Indien de begunstiging slechts ten dele als gift wordt aangemerkt, geldt als waarde van de gift een evenredig deel van de waarde van de daaruit voortvloeiende rechten op uitkering.
+3. Het bedrag dat de verzekeraar krachtens de wet of een overeenkomst met de verzekeringnemer op de uitkering inhoudt, komt in de eerste plaats op de waarde van de gift in mindering.

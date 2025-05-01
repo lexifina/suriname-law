@@ -1,0 +1,4 @@
+# Boek 5, Artikel 114
+1. Rust op het ogenblik van de inschrijving van de akte van splitsing een hypotheek, een beslag of een voorrecht op alle in de splitsing betrokken registergoederen, dan rust dit verband, beslag of voorrecht van dat ogenblik af op elk der appartementsrechten voor de gehele schuld.
+2. Rust op het ogenblik van de inschrijving van de akte van splitsing een hypotheek, een beslag of een voorrecht op slechts een deel van de registergoederen, dan blijft de bevoegdheid tot uitwinning van dit deel ondanks de splitsing bestaan; door de uitwinning wordt met betrekking tot dat deel de splitsing beëindigd.
+3. Een recht van erfdienstbaarheid, erfpacht, grondhuur, opstal of vruchtgebruik, dat op dat ogenblik van de inschrijving van de akte van splitsing rust op de registergoederen of een deel daarvan, bestaat daarna ongewijzigd voort.

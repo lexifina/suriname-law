@@ -1,0 +1,3 @@
+# Boek 7, Artikel 764
+1. De opdrachtgever is te allen tijde bevoegd de overeenkomst geheel of gedeeltelijk op te zeggen.
+2. In geval van zulke opzegging zal hij de voor het gehele werk geldende prijs moeten betalen, verminderd met de besparingen die voor de aannemer uit de opzegging voortvloeien, tegen aflevering door de aannemer van het reeds voltooide werk. Indien de prijs afhankelijk was gesteld van de werkelijk door de aannemer te maken kosten, wordt de door de opdrachtgever verschuldigde prijs berekend op grondslag van de gemaakte kosten, de verrichte arbeid en de winst die de aannemer over het gehele werk zou hebben gemaakt.

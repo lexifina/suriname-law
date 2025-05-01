@@ -1,0 +1,5 @@
+# Boek 6, Artikel 143
+1. In geval van overgang van een vordering is de vorige schuldeiser verplicht de op de vordering en op de nevenrechten betrekking hebbende bewijsstukken af te geven aan de nieuwe schuldeiser. Behoudt hij zelf belang bij een bewijsstuk, dan is hij slechts verplicht om aan de nieuwe schuldeiser op diens verlangen en op diens kosten een afschrift of uittreksel af te geven, waaruit met overeenkomstige bewijskracht als uit het oorspronkelijke stuk van de vordering blijkt.
+2. De vorige schuldeiser is tevens verplicht tot afgifte van de in artikel 142 bedoelde executoriale titels of, indien hijzelf belang bij deze titels behoudt, om de nieuwe schuldeiser tot tenuitvoerlegging daarvan in de gelegenheid te stellen.
+3. In geval van overgang van de gehele vordering is de vorige schuldeiser verplicht de zich in zijn handen bevindende panden af te geven aan de nieuwe schuldeiser.
+4. In geval van overgang van een vordering waaraan hypotheek is verbonden, is de vorige schuldeiser verplicht desverlangd ertoe mee te werken dat uit de openbare registers van deze overgang blijkt.

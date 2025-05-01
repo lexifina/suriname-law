@@ -1,0 +1,4 @@
+# Boek 8, Artikel 1740
+1. Behoudens artikel 1741, verjaart een op een overeenkomst tot het doen vervoeren van goederen gegronde rechtsvordering door verloop van negen maanden.
+2. De termijn begint te lopen met de aanvang van de dag, volgende op de dag van aflevering. Voor de vaststelling van deze dag vindt artikel 1710 onder d overeenkomstige toepassing. Is de rechtsvordering echter gegrond op artikel 62 of op artikel 63, dan wel op enig beding van gelijke strekking, dan begint deze termijn met de aanvang van de dag, volgende op die waarop de opdrachtgever wist, dat de expediteur niet aan zijn verplichting tot het doen van mededelingen voldeed.
+3. Is de rechtsvordering gegrond op artikel 65 of artikel 68, dan begint de termijn met de aanvang van de dag, volgende op de dag dat de overeenkomst tot het doen vervoeren van goederen eindigt.

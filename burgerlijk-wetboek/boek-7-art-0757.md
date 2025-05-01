@@ -1,0 +1,3 @@
+# Boek 7, Artikel 757
+1. Wordt de uitvoering van het werk onmogelijk doordat de zaak waarop of waaraan het werk moet worden uitgevoerd, tenietgaat of verloren raakt zonder dat dit aan de aannemer kan worden toegerekend, dan is de aannemer gerechtigd tot een evenredig deel van de vastgestelde prijs op grondslag van de reeds verrichte arbeid en gemaakte kosten. In geval van opzet of grove schuld van de opdrachtgever is de aannemer gerechtigd tot een bedrag berekend overeenkomstig artikel 764 lid 2.
+2. Bevond de zaak zich echter in het geval, bedoeld in lid 1, onder de aannemer, dan is de opdrachtgever tot geen enkele vergoeding gehouden, tenzij het tenietgaan of verloren raken aan zijn schuld was te wijten, in welk geval lid 1 onverminderd toepassing vindt.

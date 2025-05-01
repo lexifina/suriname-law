@@ -1,0 +1,4 @@
+# Boek 4, Artikel 200
+1. Met betrekking tot een erfgenaam die onder voorrecht van boedelbeschrijving heeft aanvaard, geldt tot het einde van de vereffening het in de leden 2 en 3 bepaalde, tenzij hij voor de op hem rustende schulden der nalatenschap met zijn gehele vermogen aansprakelijk is.
+2. Vorderingen van de erflater op de erfgenaam en beperkte rechten van de erflater op een goed van de erfgenaam, alsmede vorderingen van de erfgenaam op de erflater en beperkte rechten van de erfgenaam op een goed van de erflater gaan niet door vermenging teniet.
+3. Heeft de erfgenaam een schuld der nalatenschap uit zijn overig vermogen voldaan, dan treedt hij op als schuldeiser van de nalatenschap voor het bedrag van die schuld in de rang die zij had. De eerste volzin is van overeenkomstige toepassing op een last die verplicht tot een uitgave in geld ten laste van de nalatenschap welke de erfgenaam uit zijn overige vermogen heeft gedaan.

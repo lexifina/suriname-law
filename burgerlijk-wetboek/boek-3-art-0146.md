@@ -1,0 +1,4 @@
+# Boek 3, Artikel 146
+1. De defungerende trustee is verplicht aan de opvolgende trustee rekening en verantwoording af te leggen, alsmede aan hem de op het trustvermogen betrekking hebbende boeken, bescheiden en andere gegevensdragers af te geven.
+2. De defungerende trustee is voorts verplicht tot het afgeven aan de opvolgende trustee van volmachten, verklaringen, titelbewijzen en documenten die in enig rechtsstelsel verband houden met de rechtsovergang. Voor zover de defungerende trustee zelf daarbij belang behoudt, is hij slechts verplicht om aan de opvolgende trustee op diens verlangen en op diens kosten een afschrift of uittreksel af te geven.
+3. Ingeval van overlijden van een trustee rusten de in de leden 1 en 2 genoemde verplichtingen op diens erfgenamen. Ingeval ten aanzien van een trustee, rechtspersoon zijnde, een besluit tot ontbinding is genomen, rusten die verplichtingen op de vereffenaar.

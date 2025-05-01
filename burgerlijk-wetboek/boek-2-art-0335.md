@@ -1,0 +1,5 @@
+# Boek 2, Artikel 335
+1. Splitsing is zuivere splitsing en afsplitsing.
+2. Zuivere splitsing is de rechtshandeling waarbij het vermogen van een rechtspersoon die bij de splitsing ophoudt te bestaan onder algemene titel overeenkomstig de aan de akte van splitsing gehechte beschrijving wordt verkregen door twee of meer andere rechtspersonen.
+3. Afsplitsing is de rechtshandeling waarbij het vermogen of een deel daarvan van een rechtspersoon die bij de splitsing niet ophoudt te bestaan onder algemene titel overeenkomstig de aan de akte van splitsing gehechte beschrijving wordt verkregen door een of meer andere rechtspersonen waarvan ten minste één overeenkomstig het bepaalde in deze afdeling of afdeling 5 lidmaatschapsrechten of aandelen toekent aan de leden of aan aandeelhouders van de splitsende rechtspersoon of waarvan ten minste één bij de splitsing door de splitsende rechtspersoon wordt opgericht.
+4. Partij bij de splitsing is de splitsende rechtspersoon, alsmede elke verkrijgende rechtspersoon, met uitzondering van rechtspersonen die bij de splitsing worden opgericht.

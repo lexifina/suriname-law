@@ -1,0 +1,3 @@
+# Boek 1, Artikel 17a
+1. De registers van de burgerlijke stand worden in het daartoe bestemde gebouw bewaard totdat zij naar een archiefbewaarplaats voor de bewaring van archiefbescheiden worden overgebracht.
+2. De overbrenging naar de archiefbewaarplaats van de in het daartoe bestemde gebouw berustende registers van geboorten, van huwelijken en van overlijden kan eerst plaatsvinden onderscheidenlijk ten minste honderd jaar, ten minste vijfenzeventig jaar en ten minste vijftig jaar na de afsluiting van deze registers. Voor het register, bedoeld in artikel 17 lid 2, geldt dezelfde termijn als voor het register van huwelijken.

@@ -1,0 +1,8 @@
+# Boek 1, Artikel 418
+1. Erfgenamen en legatarissen van degene die vermoedelijk overleden is verklaard, zijn verplicht alvorens zij de goederen der nalatenschap in bezit nemen, ten genoegen van de kantonrechter zekerheid te stellen voor hetgeen zij aan de vermoedelijk overleden verklaarde, mocht deze terugkeren, of aan erfgenamen of legatarissen die een beter recht mochten hebben, moeten afdragen.
+2. De erfgenamen zijn verplicht na de inbezitneming een behoorlijke boedelbeschrijving op te maken.
+3. Registergoederen mogen niet vervreemd of bezwaard worden, tenzij om gewichtige redenen en met verlof van de kantonrechter. Kunnen zij bij een boedelscheiding niet zonder verkoop worden verdeeld, dan worden zij onder bewind van een derde gesteld, die de inkomsten van die goederen overeenkomstig hetgeen dienaangaande bij de verdeling is vastgesteld, zal uitkeren.
+4. De verdeling geschiedt bij authentieke akte, waaruit tevens moet blijken wat aan legatarissen of andere gerechtigden is uitgekeerd.
+5. De goederen der nalatenschap mogen niet worden verkwist en daaruit mogen niet bovenmatige giften worden gedaan.
+6. Erfgenamen en legatarissen zijn verplicht desgevraagd aan de rechter de nodige inlichtingen te geven.
+7. De in dit artikel genoemde verplichtingen vervallen op het door de rechter bepaalde tijdstip, en uiterlijk na verloop van vijf jaar na de dag waarop de akte overeenkomstig artikel 417 is opgemaakt. De rechter die de beschikking, houdende verklaring dat er rechtsvermoeden van overlijden bestaat, geeft kan, gelet op de omstandigheden van het geval, daarbij tevens bepalen dat een of meer der in dit artikel genoemde verplichtingen niet zullen bestaan.

@@ -1,0 +1,4 @@
+# Boek 1, Artikel 100
+1. De echtgenoten hebben een gelijk aandeel in de ontbonden gemeenschap, tenzij anders is bepaald bij huwelijkse voorwaarden of bij een overeenkomst die tussen de echtgenoten bij geschrift is gesloten met het oog op de aanstaande ontbinding der gemeenschap anders dan door de dood of ten gevolge van opheffing bij huwelijkse voorwaarden.
+2. Voor zover bij de ontbinding van de gemeenschap de goederen van de gemeenschap niet toereikend zijn om de schulden van de gemeenschap te voldoen, worden deze gedragen door beide echtgenoten ieder voor een gelijk deel, tenzij uit de eisen van redelijkheid en billijkheid, mede in verband met de aard van de schulden, een andere draagplicht voortvloeit.
+3. Degenen die bij de ontbinding van de gemeenschap schuldeiser zijn, behouden het hun toekomende recht van verhaal op de goederen der gemeenschap, zolang deze niet verdeeld zijn. Artikel 96, derde lid, blijft van toepassing.

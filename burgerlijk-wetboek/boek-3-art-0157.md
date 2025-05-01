@@ -1,0 +1,3 @@
+# Boek 3, Artikel 157
+1. Voor zover in de trustakte niet anders is bepaald, komen uitgaven die door de trustee en andere bevoegde personen bevoegdelijk zijn gedaan, alsmede de aan de trustee toekomende beloning, in de eerste plaats ten laste van het zuiver inkomen uit het trustvermogen en vervolgens van het trustvermogen.
+2. Voor zover in de trustakte niet anders is bepaald dient, voor de toepassing van deze titel onder zuiver inkomen te worden verstaan de algebraïsche som van hetgeen in geld of geldswaarde zuiver genoten wordt als opbrengst van onroerende zaken en de rechten waaraan deze zijn onderworpen, roerend kapitaal en rechten op periodieke uitkeringen als bedoeld in de Inkomstenbelasting 1922.

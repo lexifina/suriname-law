@@ -1,0 +1,5 @@
+# Boek 3, Artikel 217
+1. De vruchtgebruiker is bevoegd de aan het vruchtgebruik onderworpen zaken te verhuren, voor zover bij de vestiging van het vruchtgebruik niet anders is bepaald.
+2. Indien bij de vestiging van het vruchtgebruik een onroerende zaak niet verhuurd was, kan de vruchtgebruiker niet verhuren zonder toestemming van de hoofdgerechtigde of machtiging van de kantonrechter, tenzij de bevoegdheid daartoe hem bij de vestiging van het vruchtgebruik is toegekend.
+3. Na het einde van het vruchtgebruik is de hoofdgerechtigde verplicht een bevoegdelijk aangegane huur gestand te doen. Hij kan nochtans gestanddoening weigeren, voor zover zonder zijn toestemming hetzij de overeengekomen tijdsduur van de huur langer is dan met het plaatselijk gebruik overeenstemt of, bij gebreke van zulk een gebruik, langer is dan twee jaar, hetzij de verhuring is geschied op ongewone, voor hem bezwarende voorwaarden.
+4. De hoofdgerechtigde verliest de bevoegdheid gestanddoening te weigeren, wanneer de huurder hem een redelijke termijn heeft gesteld om zich omtrent de gestanddoening te verklaren en hij zich niet binnen deze termijn heeft uitgesproken.

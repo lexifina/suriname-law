@@ -1,0 +1,2 @@
+# Boek 8, Artikel 757
+Aan de bedragen vermeld in de artikelen 755 en 756 wordt toegevoegd de wettelijke rente berekend van de aanvang van de dag volgende op de dag van het voorval, dat aanleiding gaf tot de vordering, tot de aanvang van de dag volgende op de dag waarop hij, die een verzoek tot beperking van zijn aansprakelijkheid indiende, voldeed aan een hem krachtens artikel 642c van het Wetboek van Burgerlijke Rechtsvordering opgelegd bevel.

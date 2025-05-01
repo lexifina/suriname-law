@@ -1,0 +1,5 @@
+# Boek 3, Artikel 188
+1. Tenzij anders is overgekomen, zijn deelgenoten verplicht in evenredigheid van hun aandelen elkaar de schade te vergoeden die het gevolg is van een uitwinning of stoornis, voortgekomen uit een vóór de verdeling ontstane oorzaak, alsmede, wanneer een vordering voor het volle bedrag is toegedeeld, de schade die voortvloeit uit onvoldoende gegoedheid van de schuldenaar op het ogenblik van de verdeling.
+2. Wordt een deelgenoot door zijn eigen schuld uitgewonnen of gestoord, dan zijn de overige deelgenoten niet verplicht tot vergoeding van zijn schade.
+3. Een verplichting tot vergoeding van schade die voortvloeit uit onvoldoende gegoedheid van de schuldenaar, vervalt door verloop van drie jaar na de verdeling en na het opeisbaar worden van de toegedeelde vordering.
+4. Indien verhaal op een deelgenoot voor zijn aandeel in een krachtens lid 1 verschuldigde schadevergoeding onmogelijk blijkt, wordt het aandeel van ieder der andere deelgenoten naar evenredigheid verhoogd.

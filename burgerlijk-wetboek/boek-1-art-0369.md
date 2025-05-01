@@ -1,0 +1,4 @@
+# Boek 1, Artikel 369
+1. Indien minderjarigen die onder voogdij van verschillende voogden staan, goederen gemeen hebben, kan de kantonrechter van de woonplaats van een der minderjarigen een van de voogden of een derde aanwijzen om over deze goederen tot de verdeling het bewind te voeren. De aangewezen bewindvoerder stelt de door de rechter van hem verlangde waarborgen.
+2. Komt de in lid 1 omschreven bevoegdheid aan verschillende rechters toe, dan vervalt deze nadat een van hen daarvan heeft gebruik gemaakt.
+3. Op het bewind zijn de bepalingen omtrent het bewind van een voogd van overeenkomstige toepassing. De bewindvoerder is bij uitsluiting bevoegd tot vernietiging van rechtshandelingen van de minderjarige, strekkend tot beheer of beschikking met betrekking tot de onder bewind staande goederen.

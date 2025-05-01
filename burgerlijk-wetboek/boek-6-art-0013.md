@@ -1,0 +1,4 @@
+# Boek 6, Artikel 13
+1. Blijkt verhaal op een hoofdelijke schuldenaar voor een vordering als bedoeld in de artikelen 10 en 12, geheel of gedeeltelijk onmogelijk, dan wordt het onverhaalbaar gebleken deel over al zijn medeschuldenaren omgeslagen naar evenredigheid van de gedeelten waarvoor de schuld ieder van hen in hun onderlinge verhouding aanging.
+2. Werd de schuld geheel of gedeeltelijk gedelgd ten laste van een hoofdelijke schuldenaar wie de schuld zelf niet aanging, en blijkt op geen van de medeschuldenaren wie de schuld wel aanging, verhaal mogelijk, dan wordt het onverhaalbaar gebleken deel over alle medeschuldenaren wie de schuld niet aanging, omgeslagen naar evenredigheid van de bedragen waarvoor ieder op het tijdstip van de delging van de schuld jegens de schuldeiser aansprakelijk was.
+3. Ieder der in een omslag betrokkenen blijft gerechtigd het bijgedragene alsnog van degene die geen verhaal bood, terug te vorderen.

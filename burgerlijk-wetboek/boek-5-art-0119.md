@@ -1,0 +1,5 @@
+# Boek 5, Artikel 119
+1. Een appartementseigenaar mag zonder toestemming van de overige appartementseigenaars in een gedeelte dat bestemd is om als afzonderlijk geheel door hem te worden gebruikt, veranderingen aanbrengen, mits deze geen nadeel aan een ander gedeelte toebrengen. Van hetgeen hij bij een geoorloofde verandering wegneemt, wordt hij enig eigenaar.
+2. Hij is verplicht de vereniging van eigenaars onverwijld van een verandering kennis te geven. Leidt de verandering tot een wijziging van de verzekeringspremie, dan komt het verschil voor rekening van hem en zijn rechtsopvolgers.
+3. Blijkt ten gevolge van een verandering de waarde van de in de splitsing betrokken goederen bij de opheffing van de splitsing te zijn verminderd, dan wordt hiermee, ook al was de verandering geoorloofd, bij de verdeling van de gemeenschap rekening gehouden ten laste van degene die de verandering heeft aangebracht of zijn rechtsopvolger.
+4. Bij het reglement kan van dit artikel worden afgeweken en kunnen voor de toepassing van lid 2 wijzigingen in de wijze van gebruik met veranderingen worden gelijkgesteld.

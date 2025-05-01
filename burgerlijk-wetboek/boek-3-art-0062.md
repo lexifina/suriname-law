@@ -1,0 +1,3 @@
+# Boek 3, Artikel 62
+1. Een algemene volmacht strekt zich slechts uit tot daden van beschikking, indien schriftelijk en ondubbelzinnig is bepaald dat zij zich ook tot die daden uitstrekt. Onder algemene volmacht wordt verstaan de volmacht die alle zaken van de volmachtgever en alle rechtshandelingen omvat, met uitzondering van hetgeen ondubbelzinnig is uitgesloten.
+2. Een bijzondere volmacht die in algemene bewoordingen is verleend, strekt zich slechts uit tot daden van beschikking, indien dit ondubbelzinnig is bepaald. Niettemin strekt een volmacht die voor een bepaald doel is verleend, zich uit tot alle daden van beheer en van beschikking die dienstig kunnen zijn tot het bereiken van dit doel.

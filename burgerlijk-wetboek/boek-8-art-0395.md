@@ -1,0 +1,5 @@
+# Boek 8, Artikel 395
+1. De afzender is verplicht de vervoerder de schade te vergoeden die deze lijdt doordat, door welke oorzaak dan ook, niet naar behoren aanwezig zijn de documenten en inlichtingen die van de zijde van de afzender vereist zijn voor het vervoer dan wel ter voldoening aan voor de aflevering van de zaken te vervullen douane- en andere formaliteiten.
+2. De vervoerder is verplicht redelijke zorg aan te wenden dat de documenten, die in zijn handen zijn gesteld, niet verloren gaan of onjuist worden behandeld. Een door hem ter zake verschuldigde schadevergoeding zal die, verschuldigd uit hoofde van de artikelen 387, 388 en 389 in geval van verlies van de zaken, niet overschrijden.
+3. De vervoerder is niet gehouden, doch wel gerechtigd, te onderzoeken of de hem gedane opgaven juist en volledig zijn.
+4. Zijn bij het verstrijken van de tijd waarbinnen de in lid 1 bedoelde documenten en inlichtingen aanwezig moeten zijn, deze, door welke oorzaak dan ook, niet naar behoren aanwezig, dan is, behalve in het geval van tijdbevrachting, artikel 392 leden 2 tot en met 5 van overeenkomstige toepassing.

@@ -1,0 +1,6 @@
+# Boek 2, Artikel 242
+1. Lid 2 van artikel 12 en de artikelen 18 en 136 zijn niet van toepassing.
+2. Een aandeelhouder, die bestuurder is, kan als bestuurder worden geschorst door de algemene vergadering, tenzij uit de statuten iets anders voortvloeit. Zolang de schorsing voortduurt, heeft de aandeelhouder, naast zijn naar dwingend recht toegekende rechten, geen andere rechten dan uitkeringsrechten.
+3. Ten aanzien van de als bestuurder geschorste aandeelhouder zijn de artikelen 251 lid 1 en 252 van overeenkomstige toepassing. Het bepaalde in lid 2 van artikel 251 is niet van toepassing. De in lid 5 van artikel 252 bedoelde vordering kan alleen worden ingesteld tegen de aandeelhouders die aan het schorsingsbesluit hebben meegewerkt.
+4. De vordering tot uittreding vervalt zes maanden na het einde van de dag waarop de betrokkene van het besluit tot schorsing kennis heeft genomen of daarvan is verwittigd. Deze vervaltermijn kan door de betrokkene bij een binnen die termijn aan de rechtspersoon gedaan exploot met een termijn van maximaal zes maanden worden verlengd.
+5. Instelling van de vordering tot uittreding laat de mogelijkheid tot het instellen van een vordering op de voet van artikel 21 onverlet.

@@ -1,0 +1,2 @@
+# Boek 3, Artikel 93
+De levering, vereist voor de overdracht van een recht aan toonder waarvan het toonderpapier in de macht van de vervreemder is, geschiedt door de levering van dit papier op de wijze en met de gevolgen als aangegeven in de artikelen 90, 91 en 92. Voor overdracht van een recht aan order, waarvan het orderpapier in de macht van de vervreemder is, geldt hetzelfde, met dien verstande dat voor de levering tevens endossement is vereist.

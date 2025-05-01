@@ -1,0 +1,6 @@
+# Boek 6, Artikel 140
+1. Moeten tussen twee partijen krachtens wet, gewoonte of rechtshandeling geldvorderingen en geldschulden in één rekening worden opgenomen, dan worden zij, in de volgorde waarin partijen volgens de voorgaande artikelen van deze afdeling of krachtens hun onderlinge rechtsverhouding tot verrekening bevoegd worden, dadelijk van rechtswege verrekend en is op ieder tijdstip alleen het saldo verschuldigd. Artikel 137 is niet van toepassing.
+2. De partij die de rekening bijhoudt, sluit deze jaarlijks af en deelt het op dat tijdstip verschuldigde saldo mee aan de wederpartij, met opgave van de aan deze nog niet eerder meegedeelde posten waaruit het is samengesteld.
+3. Indien de wederpartij niet binnen redelijke tijd tegen het ingevolge lid 2 meegedeelde saldo protesteert, geldt dit als tussen partijen vastgesteld.
+4. Na vaststelling van het saldo kan ten aanzien van de afzonderlijke posten geen beroep meer worden gedaan op het intreden van verjaring of op het verstrijken van een vervaltermijn. De rechtsvordering tot betaling van het saldo verjaart door verloop van vijf jaar na de dag, volgende op die waarop de rekening is geëindigd en het saldo opeisbaar is geworden.
+5. Uit de tussen partijen bestaande rechtsverhouding kan anders voortvloeien dan in de leden 1 tot en met 4 is bepaald.

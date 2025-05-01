@@ -1,0 +1,8 @@
+# Boek 2, Artikel 1
+1. De bepalingen van deze titel gelden voor de in dit boek in afzonderlijke rechtsvormen geregelde rechtspersonen: de stichting, de vereniging, de coöperatie, de onderlinge waarborgmaatschappij en de naamloze vennootschap.
+2. Artikel 3 geldt ook voor andere rechtsvormen die als rechtspersoon hebben te gelden. Voor zover het tegendeel niet uit de wet voortvloeit en de aard van de rechtspersoon zich niet daartegen verzet kunnen de overige bepalingen van deze titel analogisch worden toegepast op die andere rechtspersonen. Kerkgenootschappen en godsdienstige gemeenschappen bezitten rechtspersoonlijkheid. Zij worden geregeerd door hun eigen statuut, waaronder begrepen kerkorde, voor zover dit niet in strijd is met de wet.
+3. Van de bepalingen van dit boek kan slechts worden afgeweken in de statuten, in een vennootschappelijke overeenkomst, of in een reglement, en alleen voor zover dit uit de wet blijkt. Daarbij gelden achtereenvolgens de statuten, een vennootschappelijke overeenkomst en een reglement als een telkens lagere regeling.
+4. Bepalingen van een lagere regeling zijn nietig voor zover zij leiden tot gevolgen die in strijd zijn met een hogere regeling.
+5. Onder statuten wordt in dit boek verstaan: een uitdrukkelijk als "statuten" aangeduid document dat de fundamentele organisatieregels van de rechtspersoon bevat.
+6. Onder een vennootschappelijke overeenkomst wordt in dit boek verstaan: een overeenkomst als bedoeld in lid 3 van artikel 127.
+7. Onder reglement wordt in dit boek verstaan: een door een orgaan van de rechtspersoon krachtens de wet of de statuten vastgesteld, uitdrukkelijk als "reglement" aangeduid document, dat nadere organisatieregels van de rechtspersoon bevat.

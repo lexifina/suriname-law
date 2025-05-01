@@ -1,0 +1,3 @@
+# Boek 4, Artikel 39
+1. Degene aan wie een in de artikelen 29 tot en met 33, 35, 36 en 38 bedoeld recht toekomt en niet erfgenaam is, kan tegenover de erfgenamen en met het beheer der nalatenschap belaste executeurs aanspraak maken op inzage en een afschrift van alle bescheiden die hij voor de bepaling van zijn recht behoeft; zij verstrekken hem desverlangd alle daartoe strekkende inlichtingen.
+2. Op zijn verzoek kan de kantonrechter een of meer der erfgenamen en met het beheer der nalatenschap belaste executeurs doen oproepen teneinde de deugdelijkheid van de boedelbeschrijving in tegenwoordigheid van de verzoeker onder ede te bevestigen.

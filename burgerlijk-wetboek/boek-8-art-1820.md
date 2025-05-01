@@ -1,0 +1,4 @@
+# Boek 8, Artikel 1820
+1. Een rechtsvordering ter zake van betaling als bedoeld in artikel 551 onder e verjaart door verloop van twee jaar, welke termijn begint met de aanvang van de dag waarop de hulpverlening is beëindigd.
+2. Onverminderd artikel 1701 kan de termijn worden verlengd door een verklaring van hem die de verjaring kan inroepen, gedaan nadat het feit dat de rechtsvordering heeft doen ontstaan heeft plaatsgehad.
+3. In afwijking van lid 1 kunnen rechtsvorderingen tot verhaal op een derde zelfs na afloop van de in dat lid bedoelde termijn worden ingesteld gedurende een termijn van drie maanden, te rekenen van de dag waarop degene die een zodanige rechtsvordering tot verhaal instelt ten aanzien van het van hemzelf gevorderde een regeling heeft getroffen of waarop hij te dien aanzien in rechte is aangesproken.

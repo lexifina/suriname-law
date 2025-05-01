@@ -1,0 +1,2 @@
+# Boek 8, Artikel 1715
+In afwijking van artikel 1717 en behoudens artikel 1719, is op een rechtsvordering door de vervoerder of de afzender ingesteld met betrekking tot materiaal, dat van de zijde van de afzender ter beschikking moet worden gesteld of is gesteld, artikel 1714 van overeenkomstige toepassing met dien verstande, dat in geval de vervoerder volgens de overeenkomst niet tot teruggave van het materiaal verplicht is onder de dag van aflevering daarvan mede wordt verstaan de dag, waarop dit materiaal te zijner beschikking werd gesteld.

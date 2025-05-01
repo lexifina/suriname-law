@@ -1,0 +1,6 @@
+# Boek 3, Artikel 150
+1. Voor zover in de trustakte niet anders is bepaald, dient, indien meerdere protectors in functie zijn, een vereiste toestemming of medewerking verleend te worden door de meerderheid van de protectors, waarbij allen, zoveel als in de omstandigheden redelijkerwijs mogelijk, in de besluitvorming zijn betrokken.
+2. Voor zover in de trustakte niet anders is bepaald, kan de protector in verband met de uitoefening van zijn taak adviseurs raadplegen.
+3. Het verlenen van een volmacht is slechts mogelijk aan een medeprotector, in de vorm van een bijzondere volmacht van beperkte duur.
+4. Voor zover in de trustakte niet anders is bepaald, geldt de protector als belanghebbende in de zin van deze titel.
+5. Voor zover in de trustakte niet anders is bepaald, kunnen rechtshandelingen met betrekking tot het trustvermogen waarbij een protector een tegenstrijdig belang heeft, slechts worden aangegaan met medewerking van alle trustees en met toestemming van alle overige protectors. Wordt de in de eerste volzin bedoelde medewerking of toestemming zonder redelijke grond geweigerd of verklaart men zich niet, dan kan de medewerking of toestemming, op verzoek van een trustee, worden vervangen door een machtiging van de kantonrechter.

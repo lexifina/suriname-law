@@ -1,0 +1,3 @@
+# Boek 3, Artikel 206
+1. De vruchtgebruiker moet voor de nakoming van zijn verplichtingen jegens de hoofdgerechtigde zekerheid stellen, tenzij hij hiervan is vrijgesteld of de belangen van de hoofdgerechtigde reeds voldoende zijn beveiligd door de instelling van een bewind.
+2. Is de vruchtgebruiker van het stellen van zekerheid vrijgesteld, dan kan de hoofdgerechtigde jaarlijks verlangen dat hem de aan het vruchtgebruik onderworpen zaken worden getoond. Ten aanzien van waardepapieren en gelden kan, behoudens bijzondere omstandigheden, met overlegging van een verklaring van een geregistreerde kredietinstelling worden volstaan.

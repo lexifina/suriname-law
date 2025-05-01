@@ -1,0 +1,3 @@
+# Boek 3, Artikel 220
+1. Gewone lasten en herstellingen worden door de vruchtgebruiker gedragen en verricht. De vruchtgebruiker is verplicht, wanneer buitengewone herstellingen nodig zijn, aan de hoofdgerechtigde van deze noodzakelijkheid kennis te geven en hem gelegenheid te verschaffen tot het doen van deze herstellingen. De hoofdgerechtigde is niet tot het doen van enige herstelling verplicht.
+2. Nochtans is een hoofdgerechtigde, aan wie tengevolge van een beperking in het genot van de vruchtgebruiker een deel van de vruchten toekomt, verplicht naar evenredigheid bij te dragen in de lasten en kosten die volgens lid 1 ten laste van de vruchtgebruiker komen.

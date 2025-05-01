@@ -1,0 +1,2 @@
+# Boek 4, Artikel 213
+Is de erflater gehuwd geweest in een gemeenschap van goederen, dan kan de kantonrechter op verzoek van de vereffenaar van de nalatenschap een vereffenaar van de ontbonden huwelijksgemeenschap benoemen, in welk geval zij met overeenkomstige toepassing van het in deze afdeling bepaalde wordt vereffend. De eerste volzin is niet van toepassing indien de huwelijksgemeenschap reeds voor het overlijden van de erflater was verdeeld.

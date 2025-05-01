@@ -1,0 +1,4 @@
+# Boek 6, Artikel 19
+1. Wanneer de keuze aan een der partijen toekomt, gaat de bevoegdheid om te kiezen op de andere partij over, indien deze haar wederpartij een redelijke termijn heeft gesteld tot bepaling van haar keuze en deze daarbinnen haar keuze niet heeft uitgebracht.
+2. De bevoegdheid om te kiezen gaat echter niet over op de schuldeiser voordat deze het recht heeft om nakoming te vorderen, noch op de schuldenaar voordat deze het recht heeft om te voldoen.
+3. Indien op de vordering een pandrecht of een beslag rust en de aangevangen executie bij gebreke van een keuze niet kan worden voortgezet, kan de pandhouder of de beslaglegger aan beide partijen een redelijke termijn stellen om overeenkomstig hun onderlinge rechtsverhouding een keuze uit te brengen. Indien de keuze niet binnen deze termijn geschiedt, gaat de bevoegdheid tot kiezen op de pandhouder of beslaglegger over. Zij zijn gehouden niet nodeloos van deze bevoegdheid gebruik te maken.

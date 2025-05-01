@@ -1,0 +1,4 @@
+# Boek 6, Artikel 258
+1. De rechter kan op verlangen van een der partijen de gevolgen van een overeenkomst wijzigen of deze geheel of gedeeltelijk ontbinden op grond van onvoorziene omstandigheden die van dien aard zijn dat de wederpartij naar maatstaven van redelijkheid en billijkheid ongewijzigde instandhouding van de overeenkomst niet mag verwachten. Aan de wijziging of ontbinding kan terugwerkende kracht worden verleend.
+2. Een wijziging of ontbinding wordt niet uitgesproken, voor zover de omstandigheden krachtens de aard van de overeenkomst of de in het verkeer geldende opvattingen voor rekening komen van degene die zich erop beroept.
+3. Voor de toepassing van dit artikel staat degene op wie een recht of een verplichting uit een overeenkomst is overgegaan, met een partij bij die overeenkomst gelijk.

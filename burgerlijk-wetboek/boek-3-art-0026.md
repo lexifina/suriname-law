@@ -1,0 +1,2 @@
+# Boek 3, Artikel 26
+Indien op het tijdstip waarop een rechtshandeling ter verkrijging van een recht op een registergoed onder bijzondere titel wordt ingeschreven, met betrekking tot dat registergoed een onjuist feit in de registers ingeschreven was, kan de onjuistheid van dit feit door degene die redelijkerwijs voor overeenstemming van de registers met de werkelijkheid had kunnen zorgdragen, aan de verkrijger niet worden tegengeworpen, tenzij deze de onjuistheid kende of door raadpleging van de registers de mogelijkheid daarvan had kunnen kennen.

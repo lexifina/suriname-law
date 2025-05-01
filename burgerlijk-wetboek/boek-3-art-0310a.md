@@ -1,0 +1,2 @@
+# Boek 3, Artikel 310a
+Een rechtsvordering tot teruggave van een gestolen cultuurgoed dat een integrerend deel vormde van een als zodanig aangewezen monument of van een archeologische vindplaats, of dat deel uitmaakte van een openbare collectie, verjaart door verloop van vijf jaar na de aanvang van de dag, volgende op die waarop de plaats waar de zaak zich bevindt en de identiteit van de bezitter of houder zijn bekend geworden, en in ieder geval door verloop van vijfenzeventig jaar na de aanvang van de dag, volgende op die van de diefstal.

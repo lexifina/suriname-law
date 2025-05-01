@@ -1,0 +1,4 @@
+# Boek 7, Artikel 943
+1. Van artikel 931, artikel 932, artikel 935 lid 2, artikel 936 en artikel 939 kan niet worden afgeweken, met dien verstande dat bij een wettelijk verplichte motorrijtuigen-aansprakelijkheidsverzekering afwijking van artikel 939 wel mogelijk is.
+2. Van artikel 933 lid 1, eerste volzin, artikel 937, artikel 940 leden 1, 3, 5 en 6, artikel 941 leden 1, 2, 4 en 5 en artikel 942 kan niet ten nadele van de verzekeringnemer of de tot uitkering gerechtigde worden afgeweken.
+3. Van de artikelen 928 tot en met 930, artikel 934 en artikel 940 leden 2 en 4 kan niet ten nadele van de verzekeringnemer of de tot uitkering gerechtigde worden afgeweken indien de verzekeringnemer een natuurlijk persoon is en hij de verzekering sluit anders dan in de uitoefening van een beroep of bedrijf.

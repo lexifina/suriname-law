@@ -1,0 +1,5 @@
+# Boek 2, Artikel 25a
+1. Iedere belanghebbende kan binnen zes weken bij de kantonrechter vernietiging verzoeken van een beschikking, bedoeld in artikel 25 lid 1, op de grond dat de beschikking naar inhoud of wijze van totstandkoming in strijd is met artikel 25. Tegen de beslissing van de kantonrechter staat geen hoger beroep open.
+2. Indien tegen een beschikking tot ontbinding beroep wordt ingesteld, schrijft de Kamer dat in het handelsregister in. De beslissing op het beroep wordt tevens ingeschreven.
+3. Indien de beslissing op beroep vernietiging van de beschikking inhoudt, doet de Kamer daarvan een mededeling opnemen op de webpagina van de Kamer en doet zij daarvan mededeling in het blad waarin van overheidswege de officiële berichten worden geplaatst en in een of meer in Suriname verschijnende dagbladen.
+4. Gedurende het tijdvak waarin de rechtspersoon na de beschikking tot ontbinding van de rechtspersoon had opgehouden te bestaan, is er een verlengingsgrond als bedoeld in artikel 320 van Boek 3 ten aanzien van de verjaring van rechtsvorderingen van of tegen de rechtspersoon.

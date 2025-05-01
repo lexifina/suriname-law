@@ -1,0 +1,3 @@
+# Boek 1, Artikel 433
+1. Tenzij bij de onderbewindstelling anders is bepaald, omvat het bewind ook de goederen die geacht moeten worden in de plaats van een aan het bewind onderworpen goed te treden, benevens de vruchten en andere voordelen die een onder bewind staand goed oplevert.
+2. De kantonrechter kan, hetzij op verzoek van een persoon als bedoeld in artikel 432 lid 1, van een bewindvoerder of van het openbaar ministerie, hetzij ambtshalve, het ingestelde bewind tot een of meer andere goederen van de rechthebbende uitbreiden of een of meer goederen uit het bewind ontslaan; hij kan tevens handelingen als bedoeld in artikel 441 lid 2 onder f aanwijzen en de aanwijzing van zulke handelingen intrekken.

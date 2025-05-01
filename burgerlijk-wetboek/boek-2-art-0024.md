@@ -1,0 +1,16 @@
+# Boek 2, Artikel 24
+1. De rechter kan de rechtspersoon ontbinden indien:
+a. zijn doel of werkzaamheden geheel of ten dele in strijd zijn met de goede zeden, de openbare orde, de wet of de statuten;
+b. de oprichtingshandeling ernstige gebreken vertoont;
+c. de statuten in strijd zijn met de wet;
+d. in geval van ontstentenis van alle bestuurders, niet op de voet van de in artikel 12 lid 1 bedoelde voorschriften tijdelijk in het bestuur is voorzien.
+2. De rechter kan een vereniging, coöperatie of onderlinge waarborgmaatschappij ook ontbinden bij het geheel ontbreken van leden.
+3. De rechter kan een naamloze vennootschap voorts ontbinden indien:
+a. niet ten minste zoveel aandelen dat ten aanzien van ieder onderwerp stemrecht kan worden uitgeoefend en één aandeel dat deelt in de winst, worden gehouden door een ander dan de vennootschap zelf;
+b. het verzoek tot ontbinding is gedaan binnen een jaar na de oprichting en de vennootschap niet kan aantonen dat de in artikel 101 lid 2 bedoelde verklaring juist was, dan wel de in artikel 101 lid 3 bedoelde oprichtingsbalans bij waardering van de getoonde activa en passiva naar in het maatschappelijk verkeer aanvaardbare maatstaven de toen bestaande toestand juist weergaf.
+4. Ontbinding kan worden verzocht door een belanghebbende of het openbaar ministerie. Van de indiening van het verzoek wordt door de indiener mededeling gedaan in het blad waarin van overheidswege de officiële berichten worden geplaatst en in een in Suriname verschijnend dagblad. Indien de rechtspersoon is ingeschreven in het handelsregister wordt van de indiening tevens opgave gedaan ten kantore van het handelsregister, ter inschrijving.
+5. De rechter gaat niet over tot ontbinding voordat hij de rechtspersoon in de gelegenheid heeft gesteld de gronden voor ontbinding weg te nemen. Voor wat betreft de in lid 3 onder b genoemde grond geldt dat de rechter de ontbinding niet uitspreekt alvorens hij de vennootschap in de gelegenheid heeft gesteld binnen een door hem te bepalen termijn haar eigen vermogen alsnog in overeenstemming te brengen met de daar bedoelde verklaring of balans.
+6. De beschikking, waarbij de rechtspersoon ontbonden wordt verklaard, houdt in de benoeming van een curator en de aanwijzing van een rechter-commissaris.
+7. De vereffening van de ontbonden rechtspersoon geschiedt door de curator onder toezicht van de rechter-commissaris, overeenkomstig de bepalingen van de Faillissementswet 1935.
+8. Van de beschikking, waarbij de rechtspersoon ontbonden wordt verklaard, wordt door de curator mededeling gedaan in het blad waarin van overheidswege de officiële berichten worden geplaatst en in een in Suriname verschijnend dagblad. Indien de rechtspersoon is ingeschreven in het handelsregister wordt van de beschikking tevens opgave gedaan ten kantore van het handelsregister, ter inschrijving.
+9. Is de ontbinding geheel of gedeeltelijk te wijten aan de grove schuld of de grove nalatigheid van een of meer oprichters, huidige of voormalige bestuurders of commissarissen dan wel huidige of voormalige leden of aandeelhouders, dan zijn deze jegens de ontbonden rechtspersoon hoofdelijk aansprakelijk voor een bij de vereffening blijkend tekort. Artikel 14lid 5 vindt overeenkomstige toepassing.

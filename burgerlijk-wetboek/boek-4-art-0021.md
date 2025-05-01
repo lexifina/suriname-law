@@ -1,0 +1,2 @@
+# Boek 4, Artikel 21
+Indien een kind, doordat de nalatenschap is verdeeld overeenkomstig titel 3, afdeling 1, een geldvordering op zijn stiefouder ter zake van de nalatenschap van zijn overleden ouder heeft verkregen, is de stiefouder verplicht aan het kind op diens verzoek goederen over te dragen met een waarde van ten hoogste die geldvordering, vermeerderd met de in artikel 13 lid 4 bedoelde verhoging. De overdracht vindt, tenzij de stiefouder daarvan afziet, plaats onder voorbehoud van het vruchtgebruik van de goederen.

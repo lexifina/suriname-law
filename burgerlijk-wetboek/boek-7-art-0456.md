@@ -1,0 +1,2 @@
+# Boek 7, Artikel 456
+De hulpverlener verstrekt aan de patiënt desgevraagd zo spoedig mogelijk inzage in en afschrift van de bescheiden, bedoeld in artikel 454. De verstrekking blijft achterwege voor zover dit noodzakelijk is in het belang van de bescherming van de persoonlijke levenssfeer van een ander. De hulpverlener mag voor de verstrekking van het afschrift een redelijke vergoeding in rekening brengen.

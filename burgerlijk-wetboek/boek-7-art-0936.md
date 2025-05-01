@@ -1,0 +1,11 @@
+# Boek 7, Artikel 936
+1. Heeft een tussenpersoon zich bij de verzekeringsovereenkomst tegenover de verzekeraar tot betaling van premie en kosten als eigen schuld verbonden, dan is de verzekeringnemer jegens de verzekeraar gekweten voor zover de premie en kosten voor rekening van de tussenpersoon zijn gekomen of aan deze zijn voldaan. De verzekeringnemer is tot vergoeding van die premie en kosten aan de tussenpersoon gehouden.
+2. Is een uitkering verschuldigd geworden, dan is de verzekeraar desverlangd, ongeacht rechten van derden, gehouden daarvan aan de tussenpersoon zoveel af te dragen als deze ingevolge het in lid 1 bepaalde van de verzekeringnemer heeft te vorderen. Is de verzekeringnemer krachtens de verzekeringsovereenkomst tot de uitkering gerechtigd, dan heeft de verzekeraar eenzelfde verplichting ten aanzien van andere verzekeringen waarbij dezelfde nemer en dezelfde tussenpersoon zijn betrokken.
+3. De verzekeraar die voornemens is een uitkering te doen aan een ander dan de tussenpersoon, verzoekt deze laatste om binnen tien dagen het bedrag op te geven, dat deze ingevolge lid 1 van de verzekeringnemer heeft te vorderen. Indien de tussenpersoon daaraan gevolg geeft, draagt de verzekeraar voor zoveel mogelijk het opgegeven bedrag aan hem af. Heeft de verzekeraar hieraan voldaan of heeft de tussenpersoon binnen de gestelde termijn niets opgegeven, dan staat het de verzekeraar vrij aan de ander de nog verschuldigde uitkering te doen.
+4. De leden 2 en 3 missen toepassing:
+a. bij verzekeringen die aan toonder of order zijn gesteld, tenzij de verzekeringnemer tot de uitkering is gerechtigd;
+b. bij verplichte aansprakelijkheidsverzekering.
+5. Het in lid 2, tweede volzin, bepaalde mist bovendien toepassing:
+a. indien op het recht op uitkering een pandrecht rust als bedoeld in artikel 229 van Boek 3, of een voorrecht als bedoeld in artikel 283 van Boek 3;
+b. bij onverplichte verzekering tegen aansprakelijkheid.
+6. Wanneer de tussenpersoon de uitkering namens de tot uitkering gerechtigde in ontvangst neemt, is hij bevoegd om de vergoeding als bedoeld in lid 1, tweede volzin, te verrekenen met hetgeen hij aan de tot uitkering gerechtigde schuldig is tot het bedrag van zijn uit de leden 2, 4 en 5 voortvloeiende aanspraken.

@@ -1,0 +1,4 @@
+# Boek 4, Artikel 159
+1. Tenzij bij uiterste wil anders is geregeld, komt de bewindvoerder, of als er meer dan een bewindvoerder is, hun tezamen, per jaar een ten honderd van de waarde aan het einde van dat jaar van het onder bewind staande vermogen toe.
+2. Zijn er twee of meer bewindvoerders en bevat de uiterste wil geen regeling omtrent de verdeling van hun beloning, dan ontvangt elk van hen een gelijke beloning, tenzij de kantonrechter anders bepaalt of zij tezamen anders overeenkomen.
+3. Op grond van onvoorziene omstandigheden kan de kantonrechter, hetzij ambtshalve, hetzij op verzoek van de bewindvoerder, van de rechthebbende of iemand in wiens belang het bewind is ingesteld, voor bepaalde of voor onbepaalde tijd de beloning anders regelen dan bij de uiterste wil of de wet is aangegeven.

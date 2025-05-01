@@ -1,0 +1,6 @@
+# Boek 7, Artikel 941
+1. Zodra de verzekeringnemer of de tot uitkering gerechtigde van de verwezenlijking van het risico op de hoogte is, of behoort te zijn, is hij verplicht aan de verzekeraar de verwezenlijking te melden. Dit geschiedt zo spoedig als redelijkerwijs mogelijk is.
+2. De verzekeringnemer en de tot uitkering gerechtigde zijn verplicht binnen redelijke termijn de verzekeraar alle inlichtingen en bescheiden te verschaffen welke voor deze van belang zijn om zijn uitkeringsplicht te beoordelen.
+3. Indien door de tot uitkering gerechtigde een verplichting als bedoeld in de leden 1 of 2 niet is nagekomen, kan de verzekeraar de uitkering verminderen met de schade die hij daardoor lijdt.
+4. De verzekeraar kan het vervallen van het recht op uitkering wegens niet-nakoming van een verplichting als bedoeld in de leden 1 of 2 slechts bedingen voor het geval hij daardoor in een redelijk belang is geschaad.
+5. Het recht op uitkering vervalt indien de verzekeringnemer of de tot uitkering gerechtigde een verplichting als bedoeld in de leden 1 of 2 niet is nagekomen met het opzet de verzekeraar te misleiden, behoudens voor zover deze misleiding het verval van het recht op uitkering niet rechtvaardigt.

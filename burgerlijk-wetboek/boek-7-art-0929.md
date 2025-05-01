@@ -1,0 +1,4 @@
+# Boek 7, Artikel 929
+1. De verzekeraar die ontdekt dat aan de in artikel 928 omschreven mededelingsplicht niet is voldaan, kan de gevolgen daarvan slechts inroepen indien hij de verzekeringnemer binnen twee maanden na de ontdekking op de niet-nakoming wijst onder vermelding van de mogelijke gevolgen.
+2. De verzekeraar die ontdekt dat de verzekeringnemer heeft gehandeld met het opzet hem te misleiden of die bij kennis van de ware stand van zaken geen verzekering zou hebben gesloten, kan de overeenkomst binnen twee maanden na ontdekking met dadelijke ingang opzeggen.
+3. De verzekeringnemer kan de overeenkomst met dadelijke ingang opzeggen binnen twee maanden nadat de verzekeraar overeenkomstig lid 1 heeft gehandeld of zich bij de verwezenlijking van het risico op de niet-nakoming van de mededelingsplicht beroept. Bij persoonsverzekering kan de verzekeringnemer de beëindiging beperken tot de persoon, wiens risico het beroep op de niet-nakoming betreft.

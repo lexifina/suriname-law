@@ -1,0 +1,3 @@
+# Boek 6, Artikel 43
+1. Verricht de schuldenaar een betaling die zou kunnen worden toegerekend op twee of meer verbintenissen jegens eenzelfde schuldeiser, dan geschiedt de toerekening op de verbintenis die de schuldenaar bij de betaling aanwijst.
+2. Bij gebreke van zodanige aanwijzing geschiedt de toerekening in de eerste plaats op de opeisbare verbintenissen. Zijn er ook dan nog meer verbintenissen waarop de toerekening zou kunnen plaatsvinden, dan geschiedt deze in de eerste plaats op de meest bezwarende en zijn de verbintenissen even bezwarend, op de oudste. Zijn de verbintenissen bovendien even oud, dan geschiedt de toerekening naar evenredigheid.

@@ -1,0 +1,3 @@
+# Boek 3, Artikel 249
+1. Tenzij anders is bedongen, is een pandhouder die tot verkoop wil overgaan, verplicht, voor zover hem dit redelijkerwijze mogelijk is, ten minste drie dagen tevoren de voorgenomen verkoop met vermelding van plaats en tijd schriftelijk of elektronisch mee te delen aan de schuldenaar en de pandgever, alsmede aan hen die op het goed een beperkt recht hebben of daarop beslag hebben gelegd.
+2. De aanzegging moet zo nauwkeurig mogelijk de som aangeven waarvoor het pand kan worden gelost. Lossing kan tot op het tijdstip van de verkoop plaatsvinden, mits ook de reeds gemaakte kosten van executie worden voldaan.

@@ -1,0 +1,5 @@
+# Boek 7, Artikel 608
+1. Indien een onderbewaarnemer door een bewaargever buiten overeenkomst voor met betrekking tot de zaak geleden schade wordt aangesproken, is hij jegens deze niet verder aansprakelijk dan hij zou zijn als wederpartij bij de overeenkomst, waarbij de bewaargever de zaak in bewaring gegeven heeft.
+2. Indien een bewaarnemer buiten overeenkomst voor met betrekking tot de zaak geleden schade wordt aangesproken door een derde die geen bewaargever is, is hij niet verder aansprakelijk dan hij als wederpartij van de bewaargever uit de met deze gesloten overeenkomst zou zijn.
+3. Indien een onderbewaarnemer door een zodanige derde wordt aangesproken, is hij niet verder aansprakelijk dan hij als bewaarnemer op grond van lid 2 zou zijn.
+4. De leden 1 tot en met 3 kunnen niet worden ingeroepen door een bewaarnemer of onderbewaarnemer die bij het sluiten van de overeenkomst uit hoofde waarvan hij de zaak ontving, wist of had behoren te weten dat zijn wederpartij jegens degene door wie hij werd aangesproken, niet bevoegd was de zaak aan hem in bewaring te geven.

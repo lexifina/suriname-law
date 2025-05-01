@@ -1,0 +1,2 @@
+# Boek 8, Artikel 384
+Het staat de vervoerder vrij geheel of gedeeltelijk afstand te doen van zijn uit de in artikel 382 lid 1 genoemde artikelen of uit de artikelen 383 en 388, artikel 414 lid 4 of artikel 423 voortvloeiende rechten en ontheffingen van aansprakelijkheid of zijn uit deze artikelen voortvloeiende aansprakelijkheden en verplichtingen te vermeerderen, mits in geval van een vervoerovereenkomst onder cognossement deze afstand of deze vermeerdering blijkt uit het aan de afzender afgegeven cognossement.

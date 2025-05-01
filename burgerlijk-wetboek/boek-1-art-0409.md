@@ -1,0 +1,3 @@
+# Boek 1, Artikel 409
+1. Indien een persoon die zijn woonplaats heeft verlaten niet voldoende orde op het bestuur van zijn goederen heeft gesteld, en er noodzakelijkheid bestaat om daarin geheel of gedeeltelijk te voorzien of de afwezige te doen vertegenwoordigen, benoemt de kantonrechter, op verzoek van belanghebbenden of het openbaar ministerie, een bewindvoerder, ten einde het bewind over het geheel of een gedeelte van de goederen van de afwezige te voeren en diens overige belangen waar te nemen.
+2. Voor de toepassing van deze afdeling wordt met iemand die zijn woonplaats heeft verlaten, gelijkgesteld degene wiens bestaan onzeker is geworden of die onbereikbaar is, ook al staat niet vast dat hij zijn woonplaats heeft verlaten.

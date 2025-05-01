@@ -1,0 +1,4 @@
+# Boek 8, Artikel 524
+1. Wanneer voor of tijdens het vervoer omstandigheden aan de zijde van de wederpartij van de vervoerder of de reiziger zich opdoen of naar voren komen, die de vervoerder bij het sluiten van de overeenkomst niet behoefde te kennen, doch die, indien zij hem wel bekend waren geweest, redelijkerwijs voor hem grond hadden opgeleverd de vervoerovereenkomst niet of op andere voorwaarden aan te gaan, is de vervoerder bevoegd de overeenkomst op te zeggen en de reiziger uit het schip te verwijderen.
+2. De opzegging geschiedt door een mondelinge of schriftelijke kennisgeving aan de wederpartij van de vervoerder of aan de reiziger en de overeenkomst eindigt op het ogenblik van ontvangst van de eerst ontvangen kennisgeving.
+3. Naar maatstaven van redelijkheid en billijkheid zijn partijen na opzegging der overeenkomst verplicht elkaar de daardoor geleden schade te vergoeden.

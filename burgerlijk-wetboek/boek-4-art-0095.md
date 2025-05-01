@@ -1,0 +1,7 @@
+# Boek 4, Artikel 95
+1. Een onderhandse uiterste wil kan niet geldig worden gemaakt door degene die door onkunde of door andere oorzaken niet in staat is geweest de uiterste wil te lezen.
+2. Een bij onderhandse akte gemaakte uiterste wil moet door de erflater zijn ondertekend. Is de uiterste wil door een ander dan de erflater of met mechanische middelen geschreven, en bestaat de wil uit meer dan één bladzijde, dan moet iedere bladzijde zijn genummerd en door de handtekening van de erflater zijn gewaarmerkt.
+3. Een onderhandse uiterste wil wordt door de erflater aan een notaris ter hand gesteld. De erflater moet daarbij verklaren dat het aangeboden stuk zijn uiterste wil bevat en dat aan de vereisten van lid 2 is voldaan. Indien het stuk gesloten wordt aangeboden, kan de erflater bij de aanbieding tevens verklaren dat het stuk slechts mag worden geopend, indien bepaalde door hem genoemde voorwaarden op de dag van zijn overlijden zijn vervuld.
+4. Van de bewaargeving en de verklaringen van de erflater maakt de notaris een akte op die door de erflater en de notaris wordt ondertekend.
+5. Wanneer de erflater verklaart dat hij door een met name door hem genoemde, na de ondertekening van de uiterste wil opgekomen oorzaak verhinderd wordt de akte van bewaargeving te ondertekenen, vervangt die verklaring zijn ondertekening van de akte van bewaargeving, mits de verklaring in de akte van bewaargeving wordt opgenomen.
+6. De onderhandse uiterste wil blijft berusten onder de minuten van de notaris die deze akte heeft ontvangen.

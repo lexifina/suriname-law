@@ -1,0 +1,2 @@
+# Boek 1, Artikel 367
+Nadat het Bureau voor Familierechtelijke Zaken van de kantonrechter een mededeling als bedoeld in artikel 366 heeft ontvangen, legt het Bureau, na onderzoek van de overige gedragingen van de voogd jegens de minderjarige, binnen zes weken na de dagtekening van die mededeling aan het oordeel van de kantonrechter de vraag voor of ontzetting van de voogd op grond van artikel 327 lid 1 onder b moet volgen.

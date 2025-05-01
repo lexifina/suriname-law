@@ -1,0 +1,5 @@
+# Boek 3, Artikel 260
+1. Hypotheek wordt gevestigd door een tussen partijen opgemaakte notariële akte waarbij de hypotheekgever aan de hypotheekhouder hypotheek op een registergoed verleent, gevolgd door haar inschrijving in de daartoe bestemde openbare registers. De akte moet een aanduiding bevatten van de vordering waarvoor de hypotheek tot zekerheid strekt, of van de feiten aan de hand waarvan die vordering zal kunnen worden bepaald. Tevens moet het bedrag worden vermeld waarvoor de hypotheek wordt verleend of, wanneer dit bedrag nog niet vaststaat, het maximumbedrag dat uit hoofde van de hypotheek op het goed kan worden verhaald. De hypotheekhouder moet in de akte hier te lande woonplaats kiezen.
+2. Tenzij anders is bedongen, komen de kosten van verlening en vestiging ten laste van de schuldenaar.
+3. Bij de in lid 1 bedoelde akte kan iemand slechts krachtens een bij authentieke akte verleende volmacht als gevolmachtigde voor de hypotheekgever optreden.
+4. Voor het overige vinden de algemene voorschriften die voor vestiging van beperkte rechten op registergoederen gegeven zijn, ook op de vestiging van een hypotheek toepassing.

@@ -1,0 +1,6 @@
+# Boek 3, Artikel 268
+1. Indien de schuldenaar in verzuim is met de voldoening van hetgeen waarvoor de hypotheek tot waarborg strekt, is de hypotheekhouder bevoegd het verbonden goed in het openbaar ten overstaan van een bevoegde notaris te doen verkopen.
+2. Op verzoek van de hypotheekhouder of hypotheekgever kan de kantonrechter bepalen dat de verkoop ondershands zal geschieden bij een overeenkomst die hem bij het verzoek ter goedkeuring wordt voorgelegd. Indien door de hypotheekgever of door een hypotheekhouder, beslaglegger of beperkt gerechtigde, die bij een hogere opbrengst van het goed belang heeft, vóór de afloop van de behandeling van het verzoek aan de rechter een gunstiger aanbod wordt voorgelegd, kan deze bepalen dat de verkoop overeenkomstig dit aanbod zal geschieden.
+3. Het verzoek wordt ingediend binnen de in het Wetboek van Burgerlijke Rechtsvordering daarvoor bepaalde termijn. Tegen een beschikking krachtens lid 2 is geen hogere voorziening toegelaten.
+4. Een executie als bedoeld in de leden 1 tot en met 3 geschiedt met inachtneming van de daarvoor in het Wetboek van Burgerlijke Rechtsvordering voorgeschreven formaliteiten.
+5. De hypotheekhouder kan niet op andere wijze zijn verhaal op het verbonden goed uitoefenen. Een daartoe strekkend beding is nietig.

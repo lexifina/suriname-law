@@ -1,0 +1,3 @@
+# Boek 1, Artikel 5b
+1. Een geschil tussen de ouders of toekomstige ouders over de naamskeuze kan op verzoek van beiden of een van hen aan de kantonrechter worden voorgelegd. Deze beproeft, alvorens te beslissen, een vergelijk tussen hen. De rechter neemt een zodanige beslissing als hem in het belang van het kind wenselijk voorkomt.
+2. Het verzoekschrift wordt ingediend voor het tijdstip waarop uiterlijk naamskeuze kan worden gedaan. Heeft de rechter niet beslist voor dat tijdstip, dan is de geslachtsnaam die het kind volgens de wet krijgt of behoudt een voorlopige, in afwachting van de beslissing van de rechter.

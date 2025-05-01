@@ -1,0 +1,5 @@
+# Boek 2, Artikel 356
+1. Indien aandelen of certificaten van aandelen van een splitsende vennootschap zijn opgenomen in de prijscourant van een beurs, kan de ruilverhouding afhankelijk zijn van de prijs van die aandelen onderscheidenlijk certificaten op die beurs op een of meer in het voorstel tot splitsing te bepalen tijdstippen, gelegen voor de dag waarop de splitsing van kracht wordt.
+2. Indien krachtens de ruilverhouding van de aandelen recht bestaat op geld of schuldvorderingen, mag het gezamenlijke bedrag daarvan een tiende van het door de toegekende aandelen vertegenwoordigde eigen vermogen niet te boven gaan.
+3. Bij de akte van splitsing kan een verkrijgende vennootschap eigen aandelen die zij zelf houdt of krachtens de akte van splitsing verkrijgt, intrekken tot ten hoogste de vermogenswaarde die de aandelen die zij toekent aan haar nieuwe aandeelhouders vertegenwoordigen.
+4. Aandelen van de splitsende vennootschap die worden gehouden door of voor rekening van een verkrijgende rechtspersoon of door of voor rekening van de splitsende vennootschap vervallen, indien de splitsende vennootschap bij de splitsing ophoudt te bestaan.

@@ -1,0 +1,3 @@
+# Boek 7, Artikel 29
+1. Heeft de koper de zaak ontvangen doch is hij voornemens deze te weigeren, dan moet hij als een zorgvuldig schuldenaar voor het behoud ervan zorgen; hij heeft op de zaak een retentierecht totdat hij door de verkoper voor de door hem in redelijkheid gemaakte kosten schadeloos is gesteld.
+2. De koper die voornemens is een aan hem verzonden en op de plaats van bestemming te zijner beschikking gestelde zaak te weigeren, moet, zo dit geen betaling van de koopprijs en geen ernstige bezwaren of onredelijke kosten meebrengt, deze in ontvangst nemen, tenzij de verkoper op de plaats van bestemming aanwezig is of iemand aldaar bevoegd is zich voor zijn rekening met de zorg voor de zaak te belasten.

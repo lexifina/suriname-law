@@ -1,0 +1,2 @@
+# Boek 8, Artikel 60
+De overeenkomst tot het doen vervoeren van goederen is de overeenkomst, waarbij de ene partij, de expediteur, zich jegens zijn wederpartij, de opdrachtgever, verbindt tot het te haren behoeve met een vervoerder sluiten van een of meer overeenkomsten van vervoer van door deze wederpartij ter beschikking te stellen zaken, dan wel tot het te haren behoeve maken van een beding in een of meer zodanige vervoerovereenkomsten.

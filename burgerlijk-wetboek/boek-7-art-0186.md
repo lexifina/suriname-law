@@ -1,0 +1,3 @@
+# Boek 7, Artikel 186
+1. De bepalingen van deze titel, met uitzondering van artikel 175a, zijn van overeenkomstige toepassing op andere giften dan schenkingen, voor zover de strekking van de betrokken bepalingen in verband met de aard van de handeling zich daartegen niet verzet.
+2. Als gift wordt aangemerkt iedere handeling die ertoe strekt dat degene die de handeling verricht, een ander ten koste van eigen vermogen verrijkt. Zolang degene tot wiens verrijking de handeling strekt, de prestatie niet heeft ontvangen, noch daarop aanspraak kan maken, worden handelingen als bedoeld in de eerste volzin niet als gift beschouwd.

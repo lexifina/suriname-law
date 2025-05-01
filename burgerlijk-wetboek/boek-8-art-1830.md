@@ -1,0 +1,4 @@
+# Boek 8, Artikel 1830
+1. Een rechtsvordering tot berekening en omslag van een averij-grosse, en die tot benoeming van een dispacheur hiertoe, verjaart door verloop van één jaar.
+2. De termijn van deze verjaring begint met de aanvang van de dag, volgende op de dag van het einde van de onderneming.
+3. Indien de averij-grosse geheel of gedeeltelijk uit hulploon bestaat en de vordering tot betaling van dit hulploon is ingesteld binnen de daarvoor in de artikelen 1820 en 1823 gestelde termijn, doch na verloop van een termijn van negen maanden beginnende met de aanvang van de dag, volgende op die waarop de in lid 1 bedoelde termijn aanvangt, verjaren de in lid 1 bedoelde rechtsvorderingen door verloop van een termijn van drie maanden, welke termijn begint met de aanvang van de dag, volgende op die waarop de vordering tot betaling van hulploon is ingesteld.

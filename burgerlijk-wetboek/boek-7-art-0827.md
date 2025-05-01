@@ -1,0 +1,4 @@
+# Boek 7, Artikel 827
+1. Na ontbinding van een vennootschap blijft de vennootschappelijke gemeenschap voortbestaan totdat de vereffening is geëindigd. Een gewezen vennoot kan niet beschikken over zijn aandeel in een bepaald tot die gemeenschap behorend goed noch over zijn aandeel in die gemeenschap. Zijn schuldeisers kunnen een aandeel als in de tweede volzin bedoeld niet uitwinnen. Verdeling van die gemeenschap kan niet worden gevorderd.
+2. Tot de vennootschappelijke gemeenschap behorende schulden kunnen na de ontbinding van de vennootschap op de goederen van die gemeenschap worden verhaald.
+3. De leden 1 en 2 zijn van overeenkomstige toepassing indien na ontbinding van de vennootschap de vennootschappelijke gemeenschap door verkrijging onder algemene titel nog slechts toekomt aan één rechthebbende.

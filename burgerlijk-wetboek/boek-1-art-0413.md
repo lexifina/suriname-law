@@ -1,0 +1,4 @@
+# Boek 1, Artikel 413
+1. Is het bestaan van een persoon onzeker en is de in lid 2 aangegeven tijdruimte verlopen, dan kunnen belanghebbenden de kantonrechter verzoeken dat hij aan hen zal gelasten de vermiste op te roepen ten einde van zijn in leven zijn te doen blijken, en dat hij, zo hiervan niet blijkt, zal verklaren dat er rechtsvermoeden van overlijden van de vermiste bestaat.
+2. De in lid 1 bedoelde tijdruimte beloopt vijf jaar, te rekenen van het vertrek van de vermiste of de laatste tijding van zijn leven. De termijn wordt verkort tot een jaar, indien de betrokkene gedurende die periode wordt vermist en de omstandigheden zijn dood waarschijnlijk maken.
+3. Het gelasten van de oproeping van de vermiste en de verklaring van rechtsvermoeden van overlijden, bedoeld in lid 1, kunnen ook worden verzocht door het openbaar ministerie.

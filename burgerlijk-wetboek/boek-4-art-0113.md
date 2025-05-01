@@ -1,0 +1,2 @@
+# Boek 4, Artikel 113
+Een erflater kan te allen tijde zijn onderhandse, in bewaring gegeven uiterste wil terugvorderen, mits hij ter verantwoording van de notaris of andere persoon die de akte krachtens wettelijk voorschrift onder zich heeft, van de teruggave doet blijken bij een ten overstaan van die notaris of, met overeenkomstige toepassing van artikel 103, ten overstaan van die persoon verleden akte. Door de teruggave wordt de onderhandse uiterste wil herroepen.

@@ -1,0 +1,3 @@
+# Boek 6, Artikel 90
+1. Bij een verhindering tot aflevering van een zaak die aan snel tenietgaan of achteruitgaan onderhevig is of waarvan om een andere reden de verdere bewaring zo bezwaarlijk is dat zij in de gegeven omstandigheden niet van de schuldenaar kan worden gevergd, is deze bevoegd de zaak op een geschikte wijze te doen verkopen. De schuldenaar is jegens de schuldeiser tot een zodanige verkoop gehouden, wanneer diens belangen deze verkoop onmiskenbaar eisen of de schuldeiser te kennen geeft de verkoop te verlangen.
+2. De netto-opbrengst treedt voor de zaak in de plaats, onverminderd de rechten van de schuldeiser wegens tekortkomingen in de nakoming van de verbintenis.

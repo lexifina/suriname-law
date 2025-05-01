@@ -1,0 +1,5 @@
+# Boek 3, Artikel 19
+1. Indien de voor een inschrijving nodige stukken worden aangeboden, de aangeboden stukken aan de wettelijke eisen voldoen en andere wettelijke vereisten voor de inschrijving zijn vervuld, geschiedt de inschrijving terstond na de aanbieding.
+2. Als tijdstip van inschrijving geldt het tijdstip van aanbieding van de voor de inschrijving vereiste stukken.
+3. Op verlangen van de aanbieder tekent de bewaarder de verrichte inschrijving op het ontvangstbewijs aan of doet hij in de gevallen en op de wijze bij of krachtens de wet, bedoeld in artikel 16 lid 2, vast te stellen, daarvan mededeling aan de aanbieder.
+4. Indien de bewaarder vermoedt dat de in de aangeboden stukken vermelde kenmerken niet overeenstemmen met die welke met betrekking tot het registergoed behoren te worden vermeld, of dat de in te schrijven rechtshandeling door een onbevoegde is verricht of onverenigbaar is met een andere rechtshandeling, ter inschrijving waarvan hem de nodige stukken zijn aangeboden, is hij bevoegd de aanbieder en andere belanghebbenden daarop opmerkzaam te maken.

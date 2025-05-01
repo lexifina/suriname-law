@@ -1,0 +1,3 @@
+# Boek 3, Artikel 25
+1. Indien op het tijdstip waarop een rechtshandeling ter verkrijging van een recht op een registergoed onder bijzondere titel wordt ingeschreven, een feit met betrekking tot dat registergoed in de registers was ingeschreven krachtens een authentieke akte waarin het feit door een ambtenaar met kracht van authenticiteit werd vastgesteld, kan de onjuistheid van dit feit aan de verkrijger niet worden tegengeworpen, tenzij hij deze onjuistheid kende of door raadpleging van de registers de mogelijkheid daarvan had kunnen kennen, dan wel lid 2 niet is nageleefd.
+2. Een verkrijger is, onverminderd lid 1, gehouden redelijke pogingen te doen om de juiste identiteit van de vervreemder en de juiste feitelijke gesteldheid van het goed vast te stellen.

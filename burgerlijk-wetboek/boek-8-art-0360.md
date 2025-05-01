@@ -1,0 +1,6 @@
+# Boek 8, Artikel 360
+1. De reder is naast een rompbevrachter met deze hoofdelijk aansprakelijk uit een deze laatste bindende rechtshandeling, die rechtstreeks strekt tot het in bedrijf brengen of houden van het schip. Onder rechtshandeling is hier het in ontvangst nemen van een verklaring begrepen.
+2. Lid 1 is niet van toepassing indien aan degene met wie de daar bedoelde rechtshandeling wordt verricht, kenbaar is gemaakt, dat de rompbevrachter de reder niet vermag te binden dan wel deze derde wist, of zonder eigen onderzoek moest weten, dat het in lid 1 bedoelde doel werd overschreden.
+3. Lid 1 is niet van toepassing ten aanzien van vervoerovereenkomsten, overeenkomsten tot het verrichten van arbeid met de bemanning aangegaan en overeenkomsten als bedoeld in afdeling 4.
+4. Lid 1 is niet van toepassing, wanneer aan de reder de feitelijke macht over het schip door een ongeoorloofde handeling was ontnomen en bovendien de schuldeiser niet te goeder trouw was.
+5. Degene, die loods-, kanaal- of havengelden dan wel andere scheepvaartrechten voldoet ten behoeve van de reder, een rompbevrachter, een tijdbevrachter of de kapitein dan wel enige andere schuldenaar daarvan, wordt van rechtswege gesubrogeerd in de rechten van de schuldeiser van deze vorderingen.

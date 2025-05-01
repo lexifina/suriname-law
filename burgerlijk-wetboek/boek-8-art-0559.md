@@ -1,0 +1,4 @@
+# Boek 8, Artikel 559
+1. Wanneer een schip door de bemanning is verlaten en door hulpverleners of de strandvonder is overgenomen, staat het de kapitein steeds vrij naar zijn schip terug te keren en het gezag daarover te hernemen, in welk geval de hulpverleners of de strandvonder terstond het gezag aan de kapitein moeten overdragen.
+2. Indien de kapitein of de rechthebbende bij de hulpverlening of ter plaatse, waar de geredde zaken worden aangebracht, tegenwoordig is en dit de hulpverlener of de strandvonder bekend is, moeten de hulpverleners of de strandvonder, onverminderd artikel 571, die zaken terstond te zijner beschikking stellen.
+3. In de gevallen, waarin de geredde zaken niet op grond van lid 2 terstond ter beschikking van de kapitein of van de rechthebbende moeten worden gesteld, moeten zij, voor zover zij tijdens de hulpverlening zich aan of op de buitengronden of het vaste zeestrand bevinden, terstond ter beschikking worden gesteld van de strandvonder.

@@ -1,0 +1,3 @@
+# Boek 4, Artikel 162
+1. Voor zover bij de instelling van het bewind niet anders is bepaald, wordt telkens bij het afleggen van de rekening en verantwoording hetgeen de goederen netto aan vruchten hebben opgebracht, onder aftrek van de verschuldigde beloning, uitgekeerd aan degene die daarop recht heeft. Op verzoek van deze kan de kantonrechter andere tijdstippen voor de uitkering vaststellen.
+2. Zolang er onzekerheid bestaat wie de rechthebbende is of de rechthebbende niet tot ontvangst in staat is, blijft de netto-opbrengst onder het bewind van de bewindvoerder, tenzij de uiterste wil of de kantonrechter anders bepaalt.

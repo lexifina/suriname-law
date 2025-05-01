@@ -1,0 +1,2 @@
+# Boek 8, Artikel 365
+Wordt een vordering als bedoeld in de artikelen 362 tot en met 364 buiten overeenkomst ingesteld tegen een ondergeschikte van een partij bij een exploitatieovereenkomst en kan die partij ter afwering van haar aansprakelijkheid voor de gedraging van de ondergeschikte een verweermiddel jegens de eiser ontlenen aan de overeenkomst waardoor haar aansprakelijkheid ingevolge die artikelen wordt beheerst, dan kan ook de ondergeschikte dit verweermiddel inroepen, als ware hijzelf bij de overeenkomst partij.

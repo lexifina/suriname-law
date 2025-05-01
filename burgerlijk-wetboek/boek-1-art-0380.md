@@ -1,0 +1,6 @@
+# Boek 1, Artikel 380
+1. De rechter voor wie het verzoek tot ondercuratelestelling aanhangig is of laatstelijk aanhangig was, kan, desverzocht of ambtshalve, een provisionele bewindvoerder benoemen; de beschikking vermeldt het tijdstip waarop zij in werking treedt.
+2. Hij regelt in deze beschikking de bevoegdheden van de bewindvoerder. Hij kan de bewindvoerder het bewind over bepaalde of alle goederen opdragen. Aan de bewindvoerder kan de rechter ook andere bevoegdheden toekennen, doch niet die welke een curator niet heeft. Voor zover de rechter niet anders bepaalt, kan degene wiens curatele is verzocht, met betrekking tot die goederen niet zonder medewerking van de bewindvoerder daden van beheer en van beschikking verrichten.
+3. In de beschikking kan tevens worden bepaald dat schulden die degene wiens curatele is verzocht, na de bekendmaking van de benoeming maakt, op de onder bewind gestelde goederen gedurende dit bewind en de curatele, indien deze volgt, niet kunnen worden verhaald.
+4. De beschikking kan te allen tijde worden gewijzigd of ingetrokken door de rechter voor wie het verzoek tot ondercuratelestelling aanhangig is of laatstelijk aanhangig was.
+5. De bewindvoerder komt als beloning toe 5% van de netto-opbrengst der door hem beheerde goederen, tenzij de kantonrechter daarvoor om bijzondere redenen een ander bedrag vaststelt.

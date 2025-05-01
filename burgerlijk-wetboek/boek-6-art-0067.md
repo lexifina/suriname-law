@@ -1,0 +1,2 @@
+# Boek 6, Artikel 67
+De inbewaringstelling van een geldsom geschiedt door consignatie overeenkomstig de wet, die van een af te leveren zaak door deze in bewaring te geven aan iemand die zijn bedrijf maakt van het bewaren van dergelijke zaken ter plaatse waar de aflevering moet geschieden. Op deze bewaring zijn de regels betreffende gerechtelijke bewaring van toepassing, voor zover uit de artikelen 68 tot en met 71 niet anders voortvloeit.

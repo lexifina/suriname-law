@@ -1,0 +1,6 @@
+# Boek 2, Artikel 282
+1. Indien naar het oordeel van de kantonrechter uit het verslag blijkt dat er sprake is geweest van wanbeleid, kan de kantonrechter dat vaststellen op verzoek van een persoon als bedoeld in artikel 279 lid 1.
+2. Het verzoek moet worden gedaan binnen twee maanden na nederlegging van het verslag. De kantonrechter behandelt het verzoek met de meeste spoed.
+3. Indien de kantonrechter vaststelt dat sprake is geweest van wanbeleid kan het een of meer van de in artikel 283 genoemde voorzieningen treffen, indien daarom is verzocht en de kantonrechter deze op grond van de uitkomst van het onderzoek geboden acht.
+4. Indien daartoe naar het oordeel van de kantonrechter aanleiding is, kan de kantonrechter bevelen dat een nader onderzoek wordt ingesteld ten aanzien van bepaalde onderwerpen of een bepaalde nader aan te duiden periode. De uitspraak op het verzoek ingevolge lid 1 wordt in dat geval aangehouden. De voorgaande artikelen van deze titel zijn zoveel mogelijk van overeenkomstige toepassing.
+5. De kantonrechter kan zijn uitspraak ten aanzien van de gevraagde voorzieningen voor een door de kantonrechter te bepalen termijn aanhouden, indien de rechtspersoon op zich neemt bepaalde maatregelen te treffen die een einde maken aan het geconstateerde wanbeleid of de gevolgen daarvan zoveel mogelijk ongedaan maken of beperken.

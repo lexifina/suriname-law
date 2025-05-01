@@ -1,0 +1,2 @@
+# Boek 7, Artikel 905
+Indien een ontbinding van een vaststellingsovereenkomst wegens een tekortkoming in de nakoming daarvan een reeds totstandgekomen, aan een partij of een derde opgedragen beslissing zou treffen, kan deze ontbinding niet door een eenzijdige verklaring geschieden en kan de rechter haar afwijzen op de grond dat degene die haar vordert, voldoende middelen heeft om van de wederpartij opheffing van of vergoeding voor de tekortkoming te verkrijgen.

@@ -1,0 +1,5 @@
+# Boek 8, Artikel 568
+1. Geen recht op betaling krachtens deze afdeling hebben zij, die hulp verleenden niettegenstaande een uitdrukkelijk en redelijk verbod als bedoeld in artikel 557 lid 1.
+2. Opvarenden kunnen wegens hulp door hen verleend aan het schip, zich aan boord daarvan bevindende zaken of daarvan afkomstige driftige, aangespoelde of gezonken zaken, slechts recht op betaling hebben, wanneer door hen diensten zijn bewezen, waartoe zij redelijkerwijs niet zijn gehouden.
+3. Geen betaling is verschuldigd krachtens deze afdeling tenzij de verleende diensten verder gaan dan wat redelijkerwijs kan worden aangemerkt als een gebruikelijke uitvoering van een overeenkomst die was gesloten voordat het gevaar ontstond.
+4. Indien de hulpverleners door hun schuld de hulpverlening hebben nodig gemaakt of bemoeilijkt of zich hebben schuldig gemaakt aan diefstal, verberging of andere bedrieglijke handelingen, kan de rechter de krachtens deze afdeling verschuldigde betaling geheel of gedeeltelijk ontzeggen.

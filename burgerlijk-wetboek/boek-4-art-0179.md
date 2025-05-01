@@ -1,0 +1,3 @@
+# Boek 4, Artikel 179
+1. Voor zover het bewind is ingesteld in het belang van een ander dan de rechthebbende, eindigt het, wanneer dat belang vervalt, alsmede wanneer de rechthebbende en degene in wiens belang de instelling geschiedde, een gemeenschappelijk besluit tot opheffing schriftelijk ter kennis van de bewindvoerder brengen. Het besluit tot opheffing kan ook slechts een of meer der onder bewind gestelde goederen betreffen.
+2. Is het bewind ingesteld in het belang van degene die is bevoordeeld bij een legaat onder opschortende tijdsbepaling of opschortende voorwaarde of bij een testamentaire last, dan kan het, wanneer dertig jaar na het overlijden van de erflater zijn verstreken, door opzegging worden beëindigd.

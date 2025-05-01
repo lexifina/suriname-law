@@ -1,0 +1,2 @@
+# Boek 7, Artikel 43
+De verkoper kan zijn in artikel 39 omschreven bevoegdheid niet uitoefenen, indien de koper voor de volle koopprijs handelspapier heeft geaccepteerd. Bij acceptatie voor een gedeelte van de prijs kan de verkoper die bevoegdheid slechts uitoefenen, indien hij ten behoeve van de koper zekerheid stelt voor de vergoeding van hetgeen de koper uit hoofde van zijn acceptatie zou moeten betalen.

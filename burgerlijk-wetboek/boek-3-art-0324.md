@@ -1,0 +1,5 @@
+# Boek 3, Artikel 324
+1. De bevoegdheid tot tenuitvoerlegging van een rechterlijke of arbitrale uitspraak verjaart door verloop van twintig jaar na de aanvang van de dag, volgende op die van de uitspraak, of, indien voor tenuitvoerlegging daarvan vereisten zijn gesteld waarvan de vervulling niet afhankelijk is van de wil van degene die de uitspraak heeft verkregen, na de aanvang van de dag, volgende op die waarop deze vereisten zijn vervuld.
+2. Wordt vóórdat de verjaring is voltooid, door een der partijen ter aantasting van de ten uitvoer te leggen veroordeling een rechtsmiddel of een eis ingesteld, dan begint de termijn eerst met de aanvang van de dag, volgende op die waarop het geding daarover is geëindigd.
+3. De verjaringstermijn bedraagt vijf jaar voor wat betreft hetgeen ingevolge de uitspraak bij het jaar of kortere termijn moet worden betaald.
+4. Voor wat betreft renten, boeten, dwangsommen en andere bijkomende veroordelingen, treedt de verjaring, behoudens stuiting of verlenging, niet later in dan de verjaring van de bevoegdheid tot tenuitvoerlegging van de hoofdveroordeling.

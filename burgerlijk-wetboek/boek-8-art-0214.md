@@ -1,0 +1,4 @@
+# Boek 8, Artikel 214
+De voorrechten, bedoeld in artikel 211, strekken zich uit tot:
+a. alle zaken die uit hoofde van hun bestemming blijvend met het schip zijn verbonden en die toebehoren aan de reder van het schip;
+b. de schadevergoedingen, verschuldigd voor het verlies van het schip of voor niet herstelde beschadiging daarvan, daarbij inbegrepen dat deel van een beloning voor hulpverlening, van een beloning voor vlotbrengen of van een vergoeding in averij-grosse, dat tegenover een zodanig verlies of beschadiging staat; dit geldt eveneens wanneer deze schadevergoedingen of vorderingen tot beloning zijn overgedragen of met pandrecht zijn bezwaard; deze schadevergoedingen omvatten echter niet vergoedingen die zijn verschuldigd krachtens een overeenkomst van verzekering van het schip, die dekking geeft tegen het risico van verlies of averij; artikel 283 van Boek 3 is niet van toepassing.

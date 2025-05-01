@@ -1,0 +1,3 @@
+# Boek 4, Artikel 36
+1. Een kind, stiefkind, pleegkind, behuwdkind of kleinkind van de erflater dat in diens huishouding of in het door hem uitgeoefende beroep of bedrijf gedurende zijn meerderjarigheid arbeid heeft verricht zonder een voor die arbeid passende beloning te ontvangen, kan aanspraak maken op een som ineens, strekkende tot een billijke vergoeding.
+2. Op de som ineens komt in mindering hetgeen de rechthebbende van de erflater heeft ontvangen of krachtens making, lastbevoordeling of sommenverzekering op het leven van de erflater verkrijgt of had kunnen verkrijgen, voor zover dat als een beloning voor zijn werkzaamheden kan worden beschouwd.

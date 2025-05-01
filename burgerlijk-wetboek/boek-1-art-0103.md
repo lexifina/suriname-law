@@ -1,0 +1,7 @@
+# Boek 1, Artikel 103
+1. Ieder der echtgenoten heeft het recht van de gemeenschap afstand te doen; alle daarmede strijdige overeenkomsten zijn nietig.
+2. Het deel der gemeenschap waarvan afstand wordt gedaan, wast aan bij het deel van de andere echtgenoot.
+3. De echtgenoot die afstand heeft gedaan, kan uit de gemeenschap niets terugvorderen dan alleen zijn bed met bijbehorend beddengoed en de kleren die hij voor zijn persoonlijk gebruik nodig heeft. Hij kan de papieren en gedenkstukken, tot zijn familie behorende, tegen de geschatte prijs overnemen.
+4. Door deze afstand wordt hij ontheven van de aansprakelijkheid en de draagplicht voor schulden der gemeenschap, waarvoor hij vóór de ontbinding der gemeenschap niet aansprakelijk was.
+5. Hij blijft aansprakelijk voor de schulden der gemeenschap, waarvoor hij vóór de ontbinding der gemeenschap aansprakelijk was. Indien hij een schuld waarvoor beide echtgenoten vóór de ontbinding der gemeenschap voor het geheel aansprakelijk waren, voor meer dan de helft heeft voldaan, heeft hij voor het meerdere verhaal tegen de andere echtgenoot.
+6. Indien de andere echtgenoot een schuld der gemeenschap, waarvoor hij vóór de ontbinding der gemeenschap niet aansprakelijk was, geheel of ten dele heeft voldaan, heeft hij deswege verhaal tegen de echtgenoot die de afstand heeft gedaan. Heeft hij een schuld waarvoor beide echtgenoten vóór de ontbinding der gemeenschap voor het geheel aansprakelijk waren, voor meer dan de helft voldaan, dan heeft hij voor het meerdere verhaal tegen de echtgenoot die de afstand heeft gedaan.

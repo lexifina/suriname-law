@@ -1,0 +1,7 @@
+# Boek 3, Artikel 86
+1. Ondanks onbevoegdheid van de vervreemder is een overdracht overeenkomstig artikel 90, 91 of 93 van een roerende zaak, niet-registergoed, of een recht aan toonder of order geldig, indien de overdracht anders dan om niet geschiedt en de verkrijger te goeder trouw is.
+2. Rust op een in lid 1 genoemd goed dat overeenkomstig artikel 90, 91 of 93 anders dan om niet wordt overgedragen, een beperkt recht dat de verkrijger op dit tijdstip kent noch behoort te kennen, dan vervalt dit recht, in het geval van overdracht overeenkomstig artikel 91 onder dezelfde opschortende voorwaarde als waaronder is geleverd.
+3. Niettemin kan de eigenaar van een roerende zaak, die het bezit daarvan door diefstal heeft verloren, deze gedurende drie jaarjaar, te rekenen van de dag van de diefstal af, als zijn eigendom opeisen, tenzij:
+a. de zaak door een natuurlijke persoon die niet in de uitoefening van een beroep of bedrijf handelde, is verkregen van een vervreemder die van het verhandelen aan het publiek van soortgelijke zaken anders dan als veilinghouder zijn bedrijf maakt in een daartoe bestemde bedrijfsruimte, zijnde een gebouwde onroerende zaak of een gedeelte daarvan met de bij het een en ander behorende grond, en in de normale uitoefening van dat bedrijf handelde, of
+b. het geld dan wel toonder- of orderpapier betreft.
+4. Op de in lid 3 bedoelde termijn zijn de artikelen 316, 318 en 319 betreffende stuiting van de verjaring van een rechtsvordering van overeenkomstige toepassing.

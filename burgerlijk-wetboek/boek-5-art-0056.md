@@ -1,0 +1,2 @@
+# Boek 5, Artikel 56
+Wanneer het voor het verrichten van werkzaamheden ten behoeve van een onroerende zaak noodzakelijk is van een andere onroerende zaak tijdelijk gebruik te maken, is de eigenaar van deze zaak gehouden dit na behoorlijke kennisgeving en tegen schadeloosstelling toe te staan, tenzij er voor deze eigenaar gewichtige redenen bestaan dit gebruik te weigeren of tot een later tijdstip te doen uitstellen.

@@ -1,0 +1,6 @@
+# Boek 1, Artikel 84
+1. De kosten der huishouding, daaronder begrepen de kosten der verzorging en opvoeding van de kinderen, komen ten laste van het gemene inkomen der echtgenoten en, voor zover dit ontoereikend is, ten laste van hun eigen inkomens in evenredigheid daarvan; voor zover de inkomens ontoereikend zijn, komen deze kosten ten laste van het gemene vermogen en, voor zover ook dit ontoereikend is, ten laste van de eigen vermogens naar evenredigheid daarvan. Een en ander geldt niet, voor zover bijzondere omstandigheden zich er tegen verzetten.
+2. De echtgenoten zijn jegens elkaar verplicht dienovereenkomstig tot de bestrijding van de in lid 1 bedoelde uitgaven voldoende gelden ter beschikking te stellen uit de onder hun bestuur staande goederen, voor zover bijzondere omstandigheden zich daartegen niet verzetten.
+3. Bij schriftelijke overeenkomst kan een van de leden 1 en 2 afwijkende regeling worden getroffen.
+4. Geschillen tussen de echtgenoten omtrent de toepassing van de leden 1 tot en met 3, worden door de kantonrechter op verzoek van beiden of een van hen beslist.
+5. Op verzoek van beide of van een der echtgenoten kan de rechter een gegeven beschikking of een onderling getroffen regeling wijzigen op grond van veranderde omstandigheden.

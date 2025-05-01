@@ -1,0 +1,2 @@
+# Boek 8, Artikel 179
+Indien de rederij in het handelsregister is ingeschreven, kunnen de aanstelling van een boekhouder of het eindigen van diens betrekking aan derden, die daarvan onkundig waren, niet worden tegengeworpen zolang niet inschrijving daarvan in het handelsregister heeft plaats gehad. Is de rederij niet in het handelsregister ingeschreven dan kunnen de aanstelling van een boekhouder of het eindigen van diens betrekking aan derden slechts worden tegengeworpen wanneer dit hun bekend was.

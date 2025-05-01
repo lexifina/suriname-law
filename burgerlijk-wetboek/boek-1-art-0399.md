@@ -1,0 +1,2 @@
+# Boek 1, Artikel 399
+De rechter kan de verplichting van bloed- en aanverwanten tot levensonderhoud matigen op grond van zodanige gedragingen van de tot onderhoud gerechtigde dat verstrekking van levensonderhoud naar redelijkheid niet of niet ten volle kan worden gevergd; onverminderd hetgeen in afdeling 2 is bepaald omtrent de voorziening in de kosten van de verzorging en opvoeding van minderjarige kinderen.

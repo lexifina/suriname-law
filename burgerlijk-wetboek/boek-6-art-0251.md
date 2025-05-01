@@ -1,0 +1,5 @@
+# Boek 6, Artikel 251
+1. Staat een uit een overeenkomst voortvloeiend, voor overgang vatbaar recht in een zodanig verband met een aan de schuldeiser toebehorend goed, dat hij bij dat recht slechts belang heeft zolang hij het goed behoudt, dan gaat dat recht over op degene die dat goed onder bijzondere titel verkrijgt.
+2. Is voor het recht een tegenprestatie overeengekomen, dan gaat de verplichting tot het verrichten van die tegenprestatie mee over voor zover deze betrekking heeft op de periode na de overgang. De vervreemder blijft naast de verkrijger jegens de wederpartij aansprakelijk, behoudens voor zover deze zich na de overgang in geval van uitblijven van de tegenprestatie van haar verbintenis kan bevrijden door ontbinding of beëindiging van de overeenkomst.
+3. De leden 1 en 2 gelden niet, indien de verkrijger van het goed tot de wederpartij bij de overeenkomst een verklaring richt dat hij de overgang van het recht niet aanvaardt.
+4. Uit de rechtshandeling waarbij het goed wordt overgedragen, kan voortvloeien dat geen overgang plaatsvindt.

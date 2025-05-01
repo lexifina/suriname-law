@@ -1,0 +1,2 @@
+# Boek 3, Artikel 182
+Als een verdeling wordt aangemerkt iedere rechtshandeling waartoe alle deelgenoten, hetzij in persoon, hetzij vertegenwoordigd, meewerken en krachtens welke een of meer van hen een of meer goederen der gemeenschap met uitsluiting van de overige deelgenoten verkrijgen. De handeling is niet een verdeling, indien zij strekt tot nakoming van een voor rekening van de gemeenschap komende schuld aan een of meer deelgenoten, die niet voortspruit uit een rechtshandeling als bedoeld in de vorige zin.

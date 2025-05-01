@@ -1,0 +1,4 @@
+# Boek 7, Artikel 971
+1. Bij het vestigen van een pandrecht op uit een sommenverzekering voortvloeiende rechten mist artikel 239 van Boek 3 toepassing. Bij overdracht tot zekerheid mist artikel 94 lid 3 van Boek 3 toepassing.
+2. Indien het pandrecht rust op een recht op uitkering, treedt voor de toepassing van de artikelen 246 en 253 van Boek 3 van het Burgerlijk Wetboek en artikel 490b van het Wetboek van Burgerlijke Rechtsvordering de hoofdgerechtigde voor de pandgever in de plaats. Heeft een als hoofdgerechtigde aangewezen derde zijn aanwijzing nog niet aanvaard, dan stelt de pandhouder de derde daartoe in de gelegenheid.
+3. In afwijking van lid 2 kan de pandhouder een overschot als bedoeld in artikel 253 lid 1, tweede volzin, van Boek 3 ook afdragen aan de verzekeraar. De verzekeraar is het bedrag verschuldigd aan de hoofdgerechtigde.

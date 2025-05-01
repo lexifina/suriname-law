@@ -1,0 +1,4 @@
+# Boek 7, Artikel 437
+1. Indien de agentuurovereenkomst is aangegaan voor een onbepaalde tijd of voor een bepaalde tijd met recht van tussentijdse opzegging, is ieder der partijen bevoegd haar te doen eindigen met inachtneming van de overeengekomen opzeggingstermijn. Bij gebreke van een overeenkomst dienaangaande zal de opzeggingstermijn vier maanden bedragen, vermeerderd met een maand na drie jaar looptijd van de overeenkomst en met twee maanden na zes jaar.
+2. De termijn van opzegging kan niet korter zijn dan een maand in het eerste jaar van de overeenkomst, twee maanden in het tweede jaar en drie maanden in de volgende jaren. Indien partijen langere termijnen overeenkomen, mogen deze voor de principaal niet korter zijn dan voor de handelsagent.
+3. Opzegging behoort plaats te vinden tegen het einde van een kalendermaand.

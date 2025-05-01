@@ -1,0 +1,2 @@
+# Boek 6, Artikel 65
+Wanneer bij een verbintenis tot aflevering van soortzaken de schuldenaar bepaalde, aan de verbintenis beantwoordende zaken voor de aflevering heeft aangewezen en de schuldeiser daarvan heeft verwittigd, dan is hij in geval van verzuim van de schuldeiser nog slechts tot aflevering van deze zaken verplicht. Hij blijft echter bevoegd tot aflevering van andere zaken die aan de verbintenis beantwoorden.

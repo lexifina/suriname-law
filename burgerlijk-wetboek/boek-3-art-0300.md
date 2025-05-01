@@ -1,0 +1,3 @@
+# Boek 3, Artikel 300
+1. Is iemand jegens een ander gehouden een rechtshandeling te verrichten, dan kan, tenzij de aard van de rechtshandeling zich hiertegen verzet, de rechter op vordering van de gerechtigde bepalen dat zijn uitspraak dezelfde kracht heeft als een in wettige vorm opgemaakte akte van degene die tot de rechtshandeling gehouden is, of dat een door hem aan te wijzen vertegenwoordiger de handeling zal verrichten. Wijst de rechter een vertegenwoordiger aan, dan kan hij bepalen dat de door deze te verrichten handeling zijn goedkeuring behoeft.
+2. Is de opgeroepene gehouden om tezamen met de eiser een akte op te maken, dan kan de rechter bepalen dat zijn uitspraak in de plaats van de akte of een deel daarvan zal treden.

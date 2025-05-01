@@ -1,0 +1,2 @@
+# Boek 7, Artikel 46g
+De natuurlijke persoon die niet handelt in de uitoefening van een beroep of bedrijf, van wie een betaalkaart frauduleus is gebruikt in het kader van koop op afstand, kan niet worden verplicht tot betaling van de hem als gevolg van dat frauduleuze gebruik in rekening gebrachte bedragen, behoudens voor zover dat gebruik een gevolg is van een omstandigheid die aan hem kan worden toegerekend. Het terzake reeds betaalde geldt als onverschuldigd betaald.

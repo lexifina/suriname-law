@@ -1,0 +1,4 @@
+# Boek 5, Artikel 149
+1. De President van de Republiek kan een categorie gebouwen aanwijzen waarvoor geldt dat het verboden is om een recht op een gebouw zonder vergunning van de Minister van Openbare Werken te splitsen in appartementsrechten als bedoeld in artikel 106 leden 1 en 4 indien een of meer appartementsrechten de bevoegdheid omvatten tot het gebruik van een of meer gedeelten van het gebouw als woonruimte.
+2. Bij staatsbesluit kunnen gevallen worden aangewezen waarvoor een vrijstelling geldt of waarin een ontheffing kan worden verleend van het verbod, bedoeld in lid 1. Aan een vrijstelling of ontheffing kunnen voorschriften en beperkingen worden verbonden.
+3. Op het verlenen van deelnemings- of lidmaatschapsrechten of het aangaan van een verbintenis daartoe door een rechtspersoon is het eerste lid van overeenkomstige toepassing.

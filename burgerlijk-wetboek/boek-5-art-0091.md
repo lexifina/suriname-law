@@ -1,0 +1,5 @@
+# Boek 5, Artikel 91
+1. In de akte van vestiging kan worden bepaald dat de erfpacht niet zonder toestemming van de eigenaar kan worden overgedragen of toebedeeld. Een zodanige bepaling staat aan executie door schuldeisers niet in de weg.
+2. In de akte van vestiging kan ook worden bepaald dat de erfpachter zijn recht niet zonder toestemming van de eigenaar kan splitsen door overdracht of toedeling van de erfpacht op een gedeelte van de zaak.
+3. Een beding als bedoeld in de leden 1 of 2 kan ook worden gemaakt ten aanzien van de appartementsrechten, waarin een gebouw door de erfpachter wordt gesplitst. Het kan slechts aan een verkrijger onder bijzondere titel van een recht op het appartementsrecht worden tegengeworpen, indien het in de akte van splitsing is omschreven.
+4. Indien de eigenaar de vereiste toestemming zonder redelijke gronden weigert of zich niet verklaart, kan zijn toestemming op verzoek van degene die haar behoeft, worden vervangen door een machtiging van de kantonrechter binnen wiens rechtsgebied de zaak of het grootste gedeelte daarvan is gelegen.

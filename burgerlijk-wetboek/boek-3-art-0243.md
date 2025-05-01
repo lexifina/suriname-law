@@ -1,0 +1,3 @@
+# Boek 3, Artikel 243
+1. Degene die uit hoofde van een pandrecht een zaak onder zich heeft, moet als een goed pandhouder voor de zaak zorgdragen.
+2. Door een pandhouder betaalde kosten tot behoud en tot onderhoud, met inbegrip van door hem betaalde aan het goed verbonden lasten, moeten hem door de pandgever worden terugbetaald; het pandrecht strekt mede tot zekerheid daarvoor. Andere door hem ten behoeve van het pand gemaakte kosten kan hij van de pandgever slechts terugvorderen, indien hij ze met diens toestemming heeft gemaakt, onverminderd diens aansprakelijkheid uit zaakwaarneming of ongerechtvaardigde verrijking.

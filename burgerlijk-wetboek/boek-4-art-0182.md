@@ -1,0 +1,3 @@
+# Boek 4, Artikel 182
+1. Met het overlijden van de erflater volgen zijn erfgenamen van rechtswege op in zijn voor overgang vatbare rechten en in zijn bezit en houderschap. De eerste volzin geldt niet wanneer de nalatenschap ingevolge artikel 13 wordt verdeeld; in dat geval volgt de echtgenoot van rechtswege op in het bezit en houderschap van de erflater.
+2. De erfgenamen worden van rechtswege schuldenaar van de schulden van de erflater die niet met zijn dood tenietgaan. Is een prestatie deelbaar, dan is ieder van hen verbonden voor een deel, evenredig aan zijn erfdeel, tenzij zij hoofdelijk zijn verbonden.

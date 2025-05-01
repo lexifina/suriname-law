@@ -1,0 +1,3 @@
+# Boek 3, Artikel 214
+1. Tenzij bij de vestiging anders is bepaald, moeten gelden die tot het vruchtgebruik behoren, in overleg met de hoofdgerechtigde vruchtdragend belegd of in het belang van de overige aan het vruchtgebruik onderworpen goederen worden besteed.
+2. In geval van geschil omtrent hetgeen ten aanzien van de in lid 1 bedoelde gelden dient te geschieden, beslist daaromtrent de persoon die bij de vestiging van het vruchtgebruik daartoe is aangewezen, of bij gebreke van een zodanige aanwijzing, de kantonrechter. Tegen een beschikking van de rechter krachtens dit lid is geen hogere voorziening toegelaten.

@@ -1,0 +1,3 @@
+# Boek 3, Artikel 71
+1. Verklaringen, door een gevolmachtigde afgelegd, kunnen door de wederpartij als ongeldig van de hand worden gewezen, indien zij de gevolmachtigde terstond om bewijs van de volmacht heeft gevraagd en haar niet onverwijld hetzij een geschrift waaruit de volmacht volgt, is overgelegd, hetzij de volmacht door de volmachtgever is bevestigd.
+2. Bewijs van volmacht kan niet worden verlangd indien de volmacht door de volmachtgever ter kennis van de wederpartij was gebracht, indien zij op een door wet of gebruik bepaalde wijze was bekendgemaakt of indien zij voortvloeit uit een aanstelling waarmede de wederpartij bekend is.

@@ -1,0 +1,2 @@
+# Boek 8, Artikel 509
+Onverminderd artikel 508 en onverminderd artikel 179 van Boek 6 is de reiziger verplicht de vervoerder de schade te vergoeden die hij of zijn bagage deze berokkende, behalve voor zover deze schade is veroorzaakt door een omstandigheid die een zorgvuldig reiziger niet heeft kunnen vermijden en voor zover zulk een reiziger de gevolgen daarvan niet heeft kunnen verhinderen. De reiziger kan niet om zich van zijn aansprakelijkheid te ontheffen beroep doen op de hoedanigheid of een gebrek van zijn bagage.

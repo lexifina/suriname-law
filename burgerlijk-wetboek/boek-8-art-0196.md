@@ -1,0 +1,3 @@
+# Boek 8, Artikel 196
+1. Zolang de teboekstelling in de openbare registers niet is doorgehaald heeft teboekstelling van een zeeschip in een buitenlands register of vestiging in het buitenland van rechten daarop, voor vestiging waarvan in Suriname inschrijving in de openbare registers vereist zou zijn geweest, geen rechtsgevolg.
+2. In afwijking van lid 1 wordt een teboekstelling of vestiging van rechten als daar bedoeld erkend, wanneer deze geschiedde onder voorwaarde van doorhaling van de teboekstelling in de openbare registers binnen dertig dagen na de teboekstelling van het schip in het buitenlandse register.

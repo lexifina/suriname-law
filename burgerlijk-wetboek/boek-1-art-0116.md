@@ -1,0 +1,4 @@
+# Boek 1, Artikel 116
+1. Bepalingen in huwelijkse voorwaarden kunnen aan derden die daarvan onkundig waren, slechts worden tegengeworpen, indien die bepalingen ingeschreven waren in het openbaar huwelijksgoederenregister, gehouden ter griffie van het kantongerecht binnen welks rechtsgebied het huwelijk is voltrokken, of, indien het huwelijk in het buitenland is aangegaan, ter griffie van het kantongerecht in het Eerste Kanton.
+2. De wijze van inrichting en raadpleging van het register wordt nader bij staatsbesluit geregeld.
+3. In afwijking van lid 1 kan bij staatsbesluit worden bepaald dat het register elders dan ter griffie van het kantongerecht wordt gehouden. Bij staatsbesluit kan eveneens worden bepaald dat de verstrekking van gegevens ter inschrijving in het register uitsluitend op een in dat besluit aan te geven wijze plaatsvindt.

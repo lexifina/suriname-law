@@ -1,0 +1,2 @@
+# Boek 1, Artikel 421
+Hetgeen in de artikelen 418 tot en met 420 is bepaald omtrent erfgenamen die goederen uit de nalatenschap ontvangen, is van overeenkomstige toepassing op de echtgenoot die goederen ontvangt ten gevolge van de ontbinding van een huwelijksgemeenschap of de afrekening uit hoofde van een verrekenbeding. Voor het uit deze hoofde ontvangene behoeft echter geen zekerheid te worden gesteld.

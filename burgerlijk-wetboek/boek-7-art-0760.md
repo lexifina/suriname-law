@@ -1,0 +1,4 @@
+# Boek 7, Artikel 760
+1. De gevolgen van een ondeugdelijke uitvoering van het werk, die te wijten is aan gebreken of ongeschiktheid van door de aannemer gebruikte materialen of hulpmiddelen, komen voor rekening van de aannemer.
+2. Is de ondeugdelijke uitvoering echter te wijten aan gebreken of ongeschiktheid van zaken afkomstig van de opdrachtgever, daaronder begrepen de grond waarop hij een werk laat uitvoeren, dan komen de gevolgen voor zijn rekening, voor zover de aannemer niet zijn in artikel 754 bedoelde waarschuwingsplicht heeft geschonden of anderszins met betrekking tot deze gebreken in deskundigheid of zorgvuldigheid tekort is geschoten.
+3. Lid 2 is van overeenkomstige toepassing in geval van fouten of gebreken in door de opdrachtgever verstrekte plannen, tekeningen, berekeningen, bestekken of uitvoeringsvoorschriften.

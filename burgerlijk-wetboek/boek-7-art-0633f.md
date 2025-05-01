@@ -1,0 +1,6 @@
+# Boek 7, Artikel 633f
+1. De werknemer is verplicht om uiterlijk aan het eind van de 20 (twintig) weken van de zwangerschap deze te melden aan de werkgever alsmede de vermoedelijke datum van bevalling hetgeen moet blijken uit een schriftelijke verklaring van een behandelende huisarts of diens vervanger, verloskundige of medisch specialist.
+2. De vrouwelijke werknemer en de vader maken uiterlijk aan het eind van 20 (twintig) weken van de zwangerschap, schriftelijk bekend op welke wijze ze hun zwangerschaps- en bevallingsverlof en het vaderschapsverlof wensen op te nemen. De werknemer heeft het recht om tot uiterlijk 6 (zes) weken voor de vermoedelijke datum van bevalling, de wijze waarop ze het verlof wenst op te nemen, te wijzigen, met inachtneming van de termijnen van artikel 633c.
+3. De vrouwelijke werknemer en indien van toepassing de vader zullen spoedig na de bevalling middels een geboorteakte van het Centraal Bureau voor Burgerzaken, de bevalling kenbaar maken aan de werkgever, doch uiterlijk 7 (zeven) werkdagen na de bevalling.
+4. De meldingsplicht geldt ook bij de adoptie van een pasgeboren kind als genoemd in artikel 633c lid
+6. 5. Het is de werknemer verboden om onjuiste informatie te verstrekken aan de werkgever.

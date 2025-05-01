@@ -1,0 +1,2 @@
+# Boek 1, Artikel 394
+De verwekker van een kind dat alleen een moeder heeft alsmede de man die als levensgezel van de moeder heeft ingestemd met een daad die de verwekking van het kind tot gevolg kan hebben gehad, is als ware hij ouder verplicht tot het voorzien in de kosten van verzorging en opvoeding van het kind dan wel, na het bereiken van de meerderjarigheid van het kind, tot het voorzien in de kosten van levensonderhoud en studie overeenkomstig de artikelen 395a en 395b. Nadien bestaat deze verplichting slechts in geval van behoeftigheid van het kind.

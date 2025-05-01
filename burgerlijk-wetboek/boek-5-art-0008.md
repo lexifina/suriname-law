@@ -1,0 +1,5 @@
+# Boek 5, Artikel 8
+1. Indien een bij de overheid in bewaring gegeven zaak aan snel tenietgaan of achteruitgang onderhevig is of wegens de onevenredig hoge kosten of ander nadeel de bewaring daarvan redelijkerwijs niet langer kan worden gevergd, is de overheid bevoegd haar te verkopen.
+2. Indien de zaak zich niet voor verkoop leent, is de overheid bevoegd haar om niet aan een derde in eigendom over te dragen of te vernietigen.
+3. Indien de gevonden zaak een dier is, is de overheid na verloop van acht dagen nadat het dier bij haar in bewaring is genomen, bevoegd het zo mogelijk tegen betaling van een koopprijs, en anders om niet, aan een derde in eigendom over te dragen. Mocht ook dit laatste zijn uitgesloten, dan is de overheid bevoegd het dier te doen afmaken. De termijn van acht dagen behoeft niet in acht te worden genomen, indien het dier slechts met onevenredig hoge kosten gedurende dat tijdvak kan worden bewaard, of afmaking om geneeskundige redenen vereist is.
+4. De opbrengst treedt in de plaats van de zaak.

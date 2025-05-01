@@ -1,0 +1,7 @@
+# Boek 7, Artikel 247
+1. De huurder dient, indien aan de woonruimte gebreken of tekortkomingen zijn die de bewoonbaarheid van de woonruimte aantasten of op andere wijze een gevaar vormen voor de veiligheid of gezondheid van de huurder en zijn gezin, de verhuurder daarvan schriftelijk te informeren en verzoeken de gebreken en tekortkomingen op te heffen.
+2. Onverminderd het bepaalde in afdeling 2 draagt de verhuurder er zorg voor de bewoonbaarheid van de verhuurde woonruimte die voldoet aan de minimumcriteria in het kader van veiligheid en gezondheid.
+3. Indien de verhuurder niet binnen 30 dagen na schriftelijke aanzegging door de huurder, de daarin gestelde gebreken of tekortkomingen ten aanzien van de woonruimte heeft opgeheven, kan de huurder bedoelde gebreken doen opheffen.
+4. De huurder dient met betrekking tot de kosten voor de reparatie tenminste drie offertes op te vragen van ter zake geregistreerde ondernemingen.
+5. De verhuurder is gehouden de huurder ten aanzien van de gemaakte kosten te vergoeden, bij gebreke waarvan de huurder deze kan verhalen op de door de huurder te betalen huurprijs te verdelen over tenminste twee huurtermijnen.
+6. Onverminderd het bepaalde in de vorige leden kan de huurder de Huurcommissie schriftelijk verzoeken om advies over de redelijkheid en de hoogte van de huurprijs, gelet op de ernst waarin de gebreken of tekortkomingen het woongenot van de huurder aantasten.

@@ -1,0 +1,3 @@
+# Boek 7, Artikel 824
+1. Een rechtsvordering tegen de uitgetreden vennoot of zijn erfgenamen tot nakoming van ten tijde van zijn uittreden bestaande verbintenissen van de openbare vennootschap verjaart op het tijdstip dat ook de rechtsvordering tegen de vennootschap verjaart en in ieder geval door verloop van vijf jaar na de aanvang van de dag volgend op die waarop zijn uittreden in het handelsregister is ingeschreven. Wordt zulk een verbintenis eerst opeisbaar na die inschrijving, dan begint op dat tijdstip die verjaringstermijn te lopen.
+2. Een vennoot die toetreedt of opvolgt, is slechts verbonden voor de verbintenissen na zijn toetreding of opvolging ontstaan.

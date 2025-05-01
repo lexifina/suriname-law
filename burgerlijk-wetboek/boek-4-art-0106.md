@@ -1,0 +1,3 @@
+# Boek 4, Artikel 106
+1. Degene die een akte van uiterste wil, van bewaargeving of van terugneming, als bedoeld in de artikelen 98, 100 tot en met 105 en 113 onder zich heeft, geeft de akte zo spoedig mogelijk in gesloten omslag in bewaring van een notaris. Deze maakt een akte van bewaargeving op, neemt de in lid 1 bedoelde akte op onder zijn minuten en geeft bericht aan het testamentenregister.
+2. Lid 1 geldt niet voor akten, opgemaakt door of ten overstaan van een volgens de gewone regelen bevoegde notaris of consulaire ambtenaar, en voor de door deze in bewaring genomen akten van uiterste wil.

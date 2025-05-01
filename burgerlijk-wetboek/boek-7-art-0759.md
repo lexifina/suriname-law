@@ -1,0 +1,3 @@
+# Boek 7, Artikel 759
+1. Indien het werk na oplevering gebreken vertoont waarvoor de aannemer aansprakelijk is, moet de opdrachtgever, tenzij zulks in verband met de omstandigheden niet van hem kan worden gevergd, aan de aannemer de gelegenheid geven de gebreken binnen een redelijke termijn weg te nemen, onverminderd de aansprakelijkheid van de aannemer voor schade ten gevolge van de gebrekkige oplevering.
+2. De opdrachtgever kan vorderen dat de aannemer de gebreken binnen redelijke termijn wegneemt, tenzij de kosten van herstel in geen verhouding zouden staan tot het belang van de opdrachtgever bij herstel in plaats van schadevergoeding.

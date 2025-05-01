@@ -1,0 +1,3 @@
+# Boek 1, Artikel 447
+1. Tenzij de beloning bij de instelling van het bewind anders is geregeld, komt de bewindvoerder of, wanneer er meer bewindvoerders zijn, aan hen tezamen 5% der netto-opbrengst van de onder bewind staande goederen toe. Op grond van bijzondere omstandigheden kan de kantonrechter, hetzij ambtshalve, hetzij op verzoek van de bewindvoerder of van de rechthebbende, voor bepaalde of onbepaalde tijd de beloning anders regelen dan bij de instelling of door de wet is aangegeven.
+2. Zijn er twee of meer bewindvoerders, dan wordt het loon dat hun gezamenlijk toekomt, tussen hen verdeeld in evenredigheid met de betekenis van de door ieder van hen verrichte werkzaamheden.

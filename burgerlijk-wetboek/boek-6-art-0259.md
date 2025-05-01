@@ -1,0 +1,5 @@
+# Boek 6, Artikel 259
+1. Indien een overeenkomst ertoe strekt een rechthebbende op of een gebruiker van een registergoed als zodanig te verplichten tot een prestatie die niet bestaat in of gepaard gaat met het dulden van voortdurend houderschap, kan de rechter op zijn verlangen de gevolgen van de overeenkomst wijzigen of deze geheel of gedeeltelijk ontbinden, indien:
+a. ten minste tien jaar na het sluiten van de overeenkomst zijn verlopen en het ongewijzigd voortduren van de verplichting in strijd is met het algemeen belang;
+b. de schuldeiser bij de nakoming van de verplichting geen redelijk belang meer heeft en het niet aannemelijk is dat dit belang zal terugkeren.
+2. Voor de termijn, vermeld in lid 1 onder a, telt mee de gehele periode waarin rechthebbenden op of gebruikers van het goed aan een beding van dezelfde strekking gebonden zijn geweest. De termijn geldt niet, voor zover de strijd met het algemeen belang hierin bestaat dat het beding een beletsel vormt voor verwezenlijking van een geldend door de overheid vastgesteld ruimtelijk ordeningsplan.

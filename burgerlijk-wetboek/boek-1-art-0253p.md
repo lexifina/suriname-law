@@ -1,0 +1,4 @@
+# Boek 1, Artikel 253p
+1. In de gevallen waarin door de rechter het gezag wordt opgedragen aan beide ouders of aan een ouder alleen, neemt dit een aanvang zodra de desbetreffende beschikking in kracht van gewijsde is gegaan, of, indien zij uitvoerbaar bij voorraad is verklaard, daags nadat de beschikking is verstrekt of verzonden.
+2. Na de gerechtelijke ontbinding van het huwelijk of na scheiding van tafel en bed begint het gezag nochtans niet voordat de beschikking houdende ontbinding van het huwelijk is ingeschreven in de registers van de burgerlijke stand of voordat de beschikking houdende scheiding van tafel en bed is ingeschreven in het huwelijksgoederenregister.
+3. Indien een aantekening was gedaan als bedoeld in artikel 252 lid 1 begint het aan één der ouders opgedragen gezag nochtans niet, dan nadat deze aantekening door de griffier is doorgehaald. Van de doorhaling doet de griffier schriftelijk mededeling aan beide ouders.

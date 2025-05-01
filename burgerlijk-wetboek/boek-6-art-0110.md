@@ -1,0 +1,2 @@
+# Boek 6, Artikel 110
+Opdat de aansprakelijkheid die ter zake van schade kan ontstaan niet gaat boven hetgeen redelijkerwijs door verzekering kan worden gedekt, kunnen bij staatsbesluit bedragen worden vastgesteld, waarboven de aansprakelijkheid zich niet uitstrekt. Afzonderlijke bedragen kunnen worden bepaald naar gelang van onder meer de aard van de gebeurtenis, de aard van de schade en de grond van de aansprakelijkheid.

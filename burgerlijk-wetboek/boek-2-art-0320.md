@@ -1,0 +1,4 @@
+# Boek 2, Artikel 320
+1. Hij die, anders dan als lid of aandeelhouder, een bijzonder recht jegens een verdwijnende rechtspersoon heeft, zoals een recht op een uitkering van winst of tot het nemen van aandelen, moet een gelijkwaardig recht in de verkrijgende rechtspersoon krijgen, of schadevergoeding. Schadevergoeding kan niet worden gevorderd door iemand die reeds op de voet van artikel 316 schadevergoeding heeft verzocht, tenzij de rechter in die procedure op dat verzoek nog niet heeft beslist.
+2. De schadevergoeding wordt bij gebreke van overeenstemming bepaald door een of meer onafhankelijke deskundigen, ten verzoeke van de meest gerede partij te benoemen door de rechter van de statutaire zetel van de verkrijgende rechtspersoon.
+3. Artikel 319 is van overeenkomstige toepassing op pandrecht of vruchtgebruik dat op de bijzondere rechten was gevestigd.

@@ -1,0 +1,3 @@
+# Boek 3, Artikel 66
+1. Een door de gevolmachtigde binnen de grenzen van zijn bevoegdheid in naam van de volmachtgever verrichte rechtshandeling treft in haar gevolgen de volmachtgever.
+2. Voor zover voor de geldigheid of de gevolgen van een rechtshandeling van belang zijn het al of niet aanwezig zijn van een wil of van wilsgebreken, alsmede bekendheid of onbekendheid met feiten, komen ter beoordeling daarvan de volmachtgever of de gevolmachtigde of beiden in aanmerking, al naar gelang het aandeel dat ieder van hen heeft gehad in de totstandkoming van de rechtshandeling en in de bepaling van haar inhoud.

@@ -1,0 +1,4 @@
+# Boek 3, Artikel 187
+1. De papieren en bewijzen van eigendom, tot de toegedeelde goederen behorende, worden overgegeven aan hem aan wie de goederen zijn toegedeeld.
+2. Algemene boedelpapieren en stukken als bedoeld in lid 1, die betrekking hebben op aan meer deelgenoten toegedeelde goederen, verblijven bij degene die de meerderheid der betrokken deelgenoten daartoe heeft benoemd, onder verplichting aan de overige deelgenoten inzage, en zo iemand dit verlangt, afschriften of uittreksels op diens kosten af te geven.
+3. Bij gebreke van een meerderheid als bedoeld in lid 2, geschiedt de daar bedoelde benoeming op verlangen van een deelgenoot door de rechter die de verdeling vaststelt, of in andere gevallen op verzoek van een deelgenoot door de kantonrechter. Tegen een beslissing krachtens dit lid is geen hogere voorziening toegelaten.

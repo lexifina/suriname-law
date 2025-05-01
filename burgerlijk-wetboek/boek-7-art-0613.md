@@ -1,0 +1,2 @@
+# Boek 7, Artikel 613
+De werkgever kan slechts een beroep doen op een schriftelijk beding dat hem de bevoegdheid geeft een in de arbeidsovereenkomst voorkomende arbeidsvoorwaarde te wijzigen, indien hij bij de wijziging een zodanig zwaarwichtig belang heeft dat het belang van de werknemer dat door de wijziging zou worden geschaad, daarvoor naar maatstaven van redelijkheid en billijkheid moet wijken.

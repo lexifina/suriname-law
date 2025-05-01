@@ -1,0 +1,3 @@
+# Boek 1, Artikel 407
+1. Wijziging van het bedrag van een periodieke uitkering tot voorziening in de kosten van verzorging en opvoeding kan zowel door het Bureau voor Familierechtelijke Zaken als door degene die het gezag over het kind uitoefent, worden verzocht.
+2. Gelijktijdig met een door de kantonrechter te geven uitspraak betreffende het over de kinderen uit te oefenen gezag na ontbinding van het huwelijk na scheiding van tafel en bed kan de rechter op verzoek van een ouder het bedrag wijzigen van een, in verband met de voorafgegane gezagsvoorziening, bepaalde periodieke uitkering tot voorziening in de kosten van verzorging en opvoeding.

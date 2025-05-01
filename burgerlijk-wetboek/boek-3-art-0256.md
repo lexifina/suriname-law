@@ -1,0 +1,2 @@
+# Boek 3, Artikel 256
+Wanneer een pandrecht is tenietgegaan, is de pandhouder verplicht te verrichten hetgeen zijnerzijds nodig is opdat de pandgever de hem toekomende feitelijke macht over het goed herkrijgt, en desverlangd aan de pandgever een schriftelijk bewijs te verstrekken dat het pandrecht geëindigd is. Is de vordering waarvoor het pandrecht tot zekerheid strekte, met een beperkt recht bezwaard, dan rust een overeenkomstige verplichting op de beperkt gerechtigde.

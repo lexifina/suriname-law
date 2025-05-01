@@ -1,0 +1,7 @@
+# Boek 5, Artikel 122
+1. Overgang onder bijzondere titel of toedeling van een appartementsrecht omvat, voor zover niet anders is bepaald, mede de als appartementseigenaar verkregen rechten.
+2. Na de overgang of toedeling moet de verkrijger onverwijld schriftelijk aan de vereniging van eigenaars mededeling doen van zijn verkrijging.
+3. Voor de ter zake van het verkregene verschuldigde bijdragen die in het lopende of het voorafgaande boekjaar opeisbaar zijn geworden of nog zullen worden, zijn de verkrijger en de vroegere appartementseigenaar hoofdelijk aansprakelijk.
+4. In het reglement kan worden bepaald in hoeverre voor bijdragen als bedoeld in lid 3 alleen de vroegere eigenaar of alleen de verkrijger aansprakelijk zal zijn. In het reglement kan ook worden bepaald dat voor bepaalde bijdragen die later opeisbaar worden, de vroegere appartementseigenaar in plaats van de verkrijger verbonden zal zijn.
+5. De notaris draagt zorg dat aan de akte van overdracht of toedeling een door het bestuur van de vereniging van eigenaars afgegeven verklaring wordt gehecht, die met betrekking tot de in lid 3 genoemde bijdragen waarvoor de verkrijger aansprakelijk zal zijn, een opgave inhoudt van hetgeen de betrokken appartementseigenaar op de dag van de overdracht of toedeling aan de vereniging schuldig is. De verkrijger is jegens de vereniging niet verder aansprakelijk dan tot het bedrag dat uit de opgave blijkt.
+6. De verklaring houdt tevens een opgave in van de omvang van het reservefonds van de vereniging, bedoeld in artikel 126 lid 1.

@@ -1,0 +1,2 @@
+# Boek 1, Artikel 26e
+De griffier van het college waarbij de zaak laatstelijk aanhangig was, zendt een afschrift van de beschikking aan de ambtenaar van de burgerlijke stand in wiens registers een op de belanghebbende betrekking hebbende akte is opgenomen, waaraan een latere vermelding van de beschikking moet worden toegevoegd. Is bij de beschikking een last tot inschrijving van een in het buitenland opgemaakte akte gegeven, dan zendt de griffier een afschrift van de beschikking aan de ambtenaar van de burgerlijke stand te Paramaribo.

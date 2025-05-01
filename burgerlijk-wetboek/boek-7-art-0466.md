@@ -1,0 +1,3 @@
+# Boek 7, Artikel 466
+1. Is op grond van artikel 465 voor het uitvoeren van een verrichting uitsluitend de toestemming van een daar bedoeld persoon in plaats van die van de patiënt vereist, dan kan tot de verrichting zonder die toestemming worden overgegaan indien de tijd voor het vragen van die toestemming ontbreekt aangezien onverwijlde uitvoering van de verrichting kennelijk nodig is teneinde ernstig nadeel voor de patiënt te voorkomen.
+2. Een volgens de artikelen 450 en 465 vereiste toestemming mag worden verondersteld te zijn gegeven, indien de desbetreffende verrichting niet van ingrijpende aard is.

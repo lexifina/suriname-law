@@ -1,0 +1,2 @@
+# Boek 8, Artikel 512
+De vervoerder is niet gehouden, doch wel gerechtigd zich te overtuigen van de aard of gesteldheid van de bagage, indien hij vermoedt dat hij, de aard of gesteldheid van door de reiziger aan boord gebrachte bagage kennende, deze niet aan boord zou hebben toegelaten. De vervoerder is gehouden dit onderzoek te doen geschieden in tegenwoordigheid van de reiziger of, zo dit niet mogelijk is, in tegenwoordigheid van twee personen van wier hulp hij overigens bij de uitvoering van zijn verbintenis geen gebruik maakt.

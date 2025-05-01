@@ -1,0 +1,3 @@
+# Boek 1, Artikel 95
+1. Een goed dat een echtgenoot anders dan om niet verkrijgt, blijft buiten de gemeenschap, indien het bij de verkrijging voor meer dan de helft van de tegenprestatie ten laste van zijn eigen vermogen komt. Voor zover de tegenprestatie ten laste van de gemeenschap komt, is de echtgenoot gehouden tot een vergoeding aan de gemeenschap. Het beloop van de vergoeding wordt bepaald overeenkomstig artikel 87 leden 2 en 3.
+2. Indien een goed tot de gemeenschap gaat behoren en een echtgenoot bij de verkrijging uit zijn eigen vermogen aan de tegenprestatie heeft bijgedragen, komt deze echtgenoot een vergoedingsvordering toe, waarvan het beloop overeenkomstig artikel 87 leden 2 en 3 wordt bepaald.

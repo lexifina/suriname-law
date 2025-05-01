@@ -1,0 +1,5 @@
+# Boek 2, Artikel 53
+1. Indien ongewijzigde handhaving van de statuten zou leiden tot gevolgen, die bij de oprichting redelijkerwijze niet kunnen zijn gewild, en de statuten de mogelijkheid van wijziging uitsluiten of daarin niet voorzien, of zij die tot wijziging de bevoegdheid hebben zulks nalaten, kan de rechter op verzoek van een oprichter, van het bestuur of van het openbaar ministerie de statuten wijzigen.
+2. De rechter wijkt daarbij zo min mogelijk van de bestaande statuten af. Indien wijziging van het doel noodzakelijk is, wijst hij een doel aan dat aan het bestaande verwant is. Met inachtneming van het vorenstaande is de rechter bevoegd, zo nodig, de statuten op andere wijze te wijzigen dan is verzocht.
+3. Met overeenkomstige toepassing van de leden 1 en 2 kan de rechter de statuten wijzigen om ontbinding van de stichting op een grond als vermeld in artikel 24 of artikel 57 lid 1 onder a te voorkomen.
+4. In een geding, waarin ontbinding van een stichting op een grond als in lid 3 vermeld wordt verzocht kan de rechter de in dit artikel bedoelde bevoegdheden ook ambtshalve uitoefenen.

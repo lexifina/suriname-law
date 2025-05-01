@@ -1,0 +1,6 @@
+# Boek 1, Artikel 23b
+1. Eenieder is bevoegd zich door de ambtenaar die met de afgifte van afschriften en uittreksels van akten van de burgerlijke stand is belast, een uittreksel van een onder deze ambtenaar berustende akte van geboorte, van huwelijk of van overlijden te doen afgeven. Het uittreksel bevat de bij staatsbesluit te vermelden gegevens, waaruit de afstamming van de persoon of personen waarop de akte betrekking heeft, niet blijkt.
+2. Van de in lid 1 bedoelde akten alsmede van de akten van erkenning of ontkenning van het vaderschap door de moeder wordt een afschrift slechts afgegeven indien de verzoeker aantoont dat hij bij de verkrijging een gerechtvaardigd belang heeft. Van andere akten die de in lid 1 bedoelde ambtenaar onder zijn berusting heeft, wordt steeds een afschrift afgegeven. Dit afschrift bevat de bij staatsbesluit te vermelden gegevens.
+3. Een verzoek om afgifte van een uittreksel of een afschrift dient op een bepaalde persoon of bepaalde personen betrekking te hebben.
+4. Bij staatsbesluit wordt geregeld al hetgeen overigens het opmaken en het verstrekken van afschriften en uittreksels betreft.
+5. Weigert de in lid 1 bedoelde ambtenaar een afschrift of een uittreksel af te geven, dan verstrekt hij aan de aanvrager een schriftelijke opgave van de gronden voor zijn weigering.

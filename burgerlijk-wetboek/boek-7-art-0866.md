@@ -1,0 +1,5 @@
+# Boek 7, Artikel 866
+1. De borg heeft voor het gehele bedrag dat hij aan hoofdsom, rente en kosten aan de schuldeiser heeft moeten voldoen, krachtens artikel 10 van Boek 6 een vordering op de hoofdschuldenaar.
+2. De borg kan noch aan artikel 10 van Boek 6, noch aan artikel 12 van dat boek een vordering op de hoofdschuldenaar ontlenen voor wettelijke rente over de periode waarin hij door hem persoonlijk betreffende omstandigheden in verzuim is geweest of voor kosten die hem persoonlijk betreffen of door hem in redelijkheid niet behoefden te worden gemaakt.
+3. Heeft iemand zich ter zake van dezelfde verbintenis borg gesteld voor twee of meer hoofdelijk verbonden hoofdschuldenaren, dan zijn deze in afwijking van artikel 10 lid 1 en artikel 12 lid 1 van Boek 6, jegens de borg hoofdelijk verbonden voor hetgeen deze aan hoofdsom, rente en kosten op hen kan verhalen.
+4. Uit de rechtsverhouding tussen de borg en een of meer hoofdschuldenaren kan iets anders voortvloeien dan de leden 1 tot en met 3 meebrengen.

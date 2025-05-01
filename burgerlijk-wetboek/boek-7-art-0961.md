@@ -1,0 +1,5 @@
+# Boek 7, Artikel 961
+1. Indien dezelfde schade door meer dan een verzekering wordt gedekt, kan de verzekerde met inachtneming van artikel 960 elke verzekeraar aanspreken. De verzekeraar is daarbij bevoegd de nakoming van zijn verplichting tot schadevergoeding op te schorten totdat de verzekerde de andere verzekeringen heeft genoemd.
+2. Voor de toepassing van lid 1 wordt met schade die door een verzekering wordt gedekt gelijkgesteld schade die door de verzekeraar onverplicht wordt vergoed.
+3. De verzekeraars hebben onderling verhaal opdat ieder zijn deel draagt, naar evenredigheid van de bedragen waarvoor een ieder afzonderlijk kan worden aangesproken. Verzekeraars hebben op gelijke voet onderling verhaal voor hun redelijke kosten tot het vaststellen van de schade, alsmede voor hun redelijke kosten van verweer in en buiten rechte. De verzekerde is jegens de verzekeraars afzonderlijk verplicht zich te onthouden van elke gedraging die ten koste van deze afbreuk doet aan hun onderling verhaal.
+4. De bij eenzelfde verzekering betrokken verzekeraars zijn niet verder aansprakelijk dan voor hun evenredig deel van hetgeen in totaal ten laste van die verzekering komt.

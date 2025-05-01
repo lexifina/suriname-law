@@ -1,0 +1,3 @@
+# Boek 3, Artikel 285
+1. Degene die uit hoofde van een overeenkomst tot aanneming van werk een vordering wegens bearbeiding van een zaak heeft, is deswege op die zaak bevoorrecht, mits hij persoonlijk aan de uitvoering van in de uitoefening van zijn bedrijf aangenomen werk pleegt deel te nemen, dan wel een vennootschap of een rechtspersoon is waarvan een of meer besturende vennoten of bestuurders dit plegen te doen. Het voorrecht vervalt na verloop van twee jaar sinds het ontstaan van de vordering.
+2. Het voorrecht heeft voorrang boven een overeenkomstig artikel 237 op de zaak gevestigd pandrecht, tenzij dit recht eerst na het ontstaan van de bevoorrechte vordering is gevestigd en de zaak in de macht van de pandhouder of een derde is gebracht.

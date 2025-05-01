@@ -1,0 +1,5 @@
+# Boek 8, Artikel 504
+1. De vervoerder is aansprakelijk voor schade veroorzaakt door dood of letsel van de reiziger, indien een voorval dat hiertoe leidde zich voordeed tijdens het vervoer en voor zover dit voorval is veroorzaakt door een omstandigheid die een zorgvuldig vervoerder heeft kunnen vermijden of door een omstandigheid waarvan zulk een vervoerder de gevolgen heeft kunnen verhinderen.
+2. Vermoed wordt dat een zorgvuldig vervoerder de omstandigheid die leidde tot schipbreuk, aanvaring, stranding, ontploffing of brand heeft kunnen vermijden alsmede dat zulk een vervoerder heeft kunnen verhinderen dat deze omstandigheid tot een dergelijk voorval leidde.
+3. Gebrekkigheid of slecht functioneren van het schip of van het materiaal waarvan hij zich voor het vervoer bedient wordt aangemerkt als een omstandigheid die een zorgvuldig vervoerder heeft kunnen vermijden en waarvan hij de gevolgen heeft kunnen verhinderen.
+4. Bij de toepassing van de leden 1 tot en met 3 wordt slechts dan rekening gehouden met een gedraging van een derde, indien geen andere omstandigheid, die mede tot het voorval leidde, voor rekening van de vervoerder is.

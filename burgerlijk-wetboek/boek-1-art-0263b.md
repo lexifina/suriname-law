@@ -1,0 +1,4 @@
+# Boek 1, Artikel 263b
+1. Voor de duur van de maatregel kan de kantonrechter op verzoek van de gezinsvoogd of ambtshalve een rechterlijke beslissing tot vaststelling van een regeling inzake de uitoefening van het omgangsrecht wijzigen voor zover dat noodzakelijk is met het oog op het doel van de ondertoezichtstelling.
+2. Op het verzoek van de met het gezag belaste ouder, de omgangsgerechtigde, de minderjarige van twaalf jaar of ouder en de gezinsvoogd kan de rechter de in lid 1 genoemde beslissing wijzigen op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.
+3. Zodra de ondertoezichtstelling is geëindigd, geldt een ingevolge deze bepaling vastgestelde regeling als een regeling als bedoeld in artikel 377a dan wel 377f.

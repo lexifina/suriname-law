@@ -1,0 +1,4 @@
+# Boek 6, Artikel 128
+1. De schuldeiser van een vordering aan toonder of order brengt deze in verrekening door zijn verrekeningsverklaring op het papier te stellen en dit aan de wederpartij af te geven.
+2. Indien de verrekening niet zijn gehele vordering betreft of hij het papier nog voor de uitoefening van andere rechten nodig heeft, kan hij het papier behouden, mits hij de verklaring niet alleen op het papier stelt, maar haar ook schriftelijk tot de wederpartij richt.
+3. Hij kan, ongeacht of de verrekening de gehele vordering betreft, bij enkele, niet op het papier gestelde schriftelijke verklaring verrekenen, mits hij op verlangen van de wederpartij aantoont dat het papier vernietigd of waardeloos is geworden, of zekerheid stelt voor twintig jaar of voor een zoveel kortere tijdsduur als verwacht mag worden dat de wederpartij nog aan een vordering uit hoofde van het papier bloot zal kunnen staan.

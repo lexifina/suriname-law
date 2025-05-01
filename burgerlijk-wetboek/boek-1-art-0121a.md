@@ -1,0 +1,2 @@
+# Boek 1, Artikel 121a
+Goederen alsmede de vruchten van die goederen, ten aanzien waarvan bij uiterste wilsbeschikking of bij de gift is bepaald dat zij buiten de gemeenschap vallen, blijven buiten de gemeenschap, ook al zijn echtgenoten bij huwelijkse voorwaarden overeengekomen dat krachtens erfopvolging bij versterf, making, lastbevoordeling of gift verkregen goederen dan wel de vruchten daarvan in de gemeenschap van goederen vallen.

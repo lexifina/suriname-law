@@ -1,0 +1,3 @@
+# Boek 8, Artikel 1832
+1. Een rechtsvordering tot betaling van een bijdrage in averij-grosse verjaart door verloop van één jaar.
+2. De termijn van deze verjaring begint met de aanvang van de dag, volgende op die waarop de dispache of een uittreksel daarvan dan wel, indien een verzoek tot herziening der dispache is gedaan, de naar aanleiding daarvan opgestelde dispache of een uittreksel daarvan aan partijen is meegedeeld, of aan deze is meegedeeld dat deze dispache ter griffie van het kantongerecht is gedeponeerd, doch in geval van homologatie eerst op de dag dat de dispache bij in kracht van gewijsde gegane beschikking is gehomologeerd.

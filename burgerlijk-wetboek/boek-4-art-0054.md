@@ -1,0 +1,3 @@
+# Boek 4, Artikel 54
+1. Rechtsvorderingen tot vernietiging van een uiterste wilsbeschikking verjaren een jaar nadat de dood van de erflater alsmede de uiterste wilsbeschikking en de vernietigingsgrond ter kennis zijn gekomen van degene die een beroep op deze grond kan doen, dan wel van zijn rechtsvoorganger.
+2. De bevoegdheid om ter vernietiging van een uiterste wilsbeschikking een beroep op een vernietigingsgrond te doen vervalt buiten het geval bedoeld in artikel 51 lid 3 van Boek 3 uiterlijk drie jaar nadat de dood van de erflater en de uiterste wilsbeschikking ter kennis zijn gekomen van degene aan wie deze bevoegdheid toekomt, dan wel van zijn rechtsvoorganger.

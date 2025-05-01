@@ -1,0 +1,6 @@
+# Boek 1, Artikel 263
+1. Indien dit in het belang van de verzorging en opvoeding noodzakelijk is, kan de kantonrechter het kind doen opnemen in een door hem aan te wijzen pleeggezin, inrichting of elders.
+2. Bij zijn keuze let de kantonrechter op de wensen van hen die het gezag uitoefenen, en op de godsdienstige gezindheid en levensovertuiging van het kind en van het gezin waartoe het kind behoort.
+3. De kantonrechter bepaalt de duur van de opneming op een termijn van ten hoogste een jaar. Hij kan deze termijn telkens met een jaar verlengen en te allen tijde verkorten.
+4. Voor plaatsing in een gesloten inrichting is een uitdrukkelijk daartoe strekkende machtiging van de kantonrechter vereist. Deze machtiging wordt slechts verleend indien zij vereist is wegens ernstige gedragsstoornissen van het kind. Zodra een verzoek tot zulk een machtiging of tot verlenging daarvan bij de kantonrechter is ingediend, wordt het kind door de kantonrechter ambtshalve een raadsman toegevoegd.
+5. Opneming in een inrichting eindigt mede door een besluit van de Minister van Justitie, de kantonrechter gehoord, wanneer de Minister van Justitie dit in verband met een juiste verdeling der in de aangewezen inrichtingen beschikbare plaatsruimte noodzakelijk oordeelt.

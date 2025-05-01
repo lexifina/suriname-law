@@ -1,0 +1,7 @@
+# Boek 2, Artikel 277
+1. De bestuurders, commissarissen en werknemers van de rechtspersoon, de voormalige bestuurders, commissarissen en werknemers daaronder begrepen, alsmede de in artikel 7 lid 1 genoemde personen, zijn gehouden aan het onderzoek alle vereiste medewerking te verlenen.
+2. Alle naar het oordeel van de onderzoekers relevante boeken, bescheiden en verdere gegevensdragers moeten aan hen ter inzage of in afschrift worden gegeven en alle bezittingen van de rechtspersoon moeten desgevraagd aan hen worden getoond.
+3. Ter zake van de verplichtingen in de leden 1 en 2 is de kantonrechter bevoegd op verzoek van de onderzoeker of de rechtspersoon de hem geraden voorkomende bevelen te geven.
+4. De in lid 3 bedoelde bevelen kunnen inhouden de opdracht aan de openbare macht om voor zoveel nodig bijstand te verlenen en de last om een woning binnen te treden, wanneer de plaats waar de boeken, bescheiden en andere gegevensdragers of de bezittingen zich bevinden, een woning is, of alleen door een woning toegankelijk. De woning wordt niet tegen de wil van de bewoner binnengetreden dan na vertoon van de last van de kantonrechter.
+5. Artikel 276 lid 7 is van overeenkomstige toepassing, met dien verstande dat een dwangsom slechts kan worden opgelegd op verzoek van de onderzoeker, en slechts kan worden verbeurd ten behoeve van de rechtspersoon en niet ter zake van een tot de rechtspersoon gericht bevel.
+6. Het is de onderzoekers verboden hetgeen hun bij het onderzoek blijkt, verder bekend te maken dan hun opdracht met zich brengt.

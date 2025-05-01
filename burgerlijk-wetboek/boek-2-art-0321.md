@@ -1,0 +1,4 @@
+# Boek 2, Artikel 321
+1. Op het tijdstip met ingang waarvan de verkrijgende rechtspersoon de financiële gegevens van een verdwijnende rechtspersoon zal verantwoorden in de eigen jaarrekening of andere financiële verantwoording, is het laatste boekjaar van die verdwijnende rechtspersoon geëindigd.
+2. De verplichtingen omtrent de jaarrekening of andere financiële verantwoording van de verdwijnende rechtspersonen rusten na de fusie op de verkrijgende rechtspersoon.
+3. Waarderingsverschillen tussen de verantwoording van activa en passiva in de laatste jaarrekening of andere financiële verantwoording van de verdwijnende rechtspersonen en in de eerste jaarrekening of andere financiële verantwoording waarin de verkrijgende rechtspersoon deze activa en passiva verantwoordt, moeten worden toegelicht.

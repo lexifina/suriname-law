@@ -1,0 +1,5 @@
+# Boek 3, Artikel 238
+1. Ondanks onbevoegdheid van de pandgever is de vestiging van een pandrecht op een roerende zaak, op een recht aan toonder of order of op het vruchtgebruik van een zodanige zaak of een zodanig recht geldig, indien de pandhouder te goeder trouw is op het tijdstip waarop de zaak of het toonder- of geëndosseerde orderpapier in zijn macht of in die van een derde is gebracht.
+2. Rust op een in lid 1 genoemd goed een beperkt recht dat de pandhouder op het in dat lid bedoelde tijdstip kent noch behoort te kennen, dan gaat het pandrecht in rang boven dit beperkte recht.
+3. Wordt het pandrecht gevestigd op een roerende zaak waarvan de eigenaar het bezit door diefstal heeft verloren, of op een vruchtgebruik op een zodanige zaak, dan is artikel 86 lid 3 aanhef en onder b en lid 4 van overeenkomstige toepassing.
+4. Dit artikel kan niet worden tegengeworpen aan degene die de zaak opeist, indien volgens artikel 86a lid 1 ook artikel 86 niet aan hem tegengeworpen zou kunnen worden.

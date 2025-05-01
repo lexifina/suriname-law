@@ -1,0 +1,6 @@
+# Boek 5, Artikel 131
+1. Het bestuur van de vereniging wordt gevormd door een bestuurder, tenzij de statuten bepalen dat er twee of meer zullen zijn.
+2. Het bestuur wordt door de vergadering van eigenaars, al dan niet uit de leden, benoemd en kan te allen tijde door haar worden geschorst of ontslagen. Een veroordeling tot herstel van de dienstbetrekking tussen de vereniging en een bestuurder kan door de rechter niet worden uitgesproken.
+3. Voor zover de statuten niet anders bepalen, beheert het bestuur de middelen der vereniging en draagt het zorg voor de tenuitvoerlegging van de besluiten van de vergadering van eigenaars.
+4. Het bestuur vertegenwoordigt de vereniging, voor zover de wet, de statuten en het in artikel 111 onder d bedoelde reglement niet anders bepalen. Zijn er twee of meer bestuurders, dan vertegenwoordigt ieder hunner de vereniging, voor zover in de statuten niet anders is bepaald. De statuten kunnen ook andere personen dan bestuurders de bevoegdheid tot vertegenwoordiging toekennen.
+5. Bij besluit van de vergadering van eigenaars kan van de leden 3 en 4 worden afgeweken en kunnen aan het bestuur aanwijzingen met betrekking tot de uitoefening van zijn taak worden gegeven. Deze besluiten kunnen niet worden ingeroepen tegen de wederpartij, tenzij zij haar bekend waren of behoorden te zijn.

@@ -1,0 +1,4 @@
+# Boek 7, Artikel 6
+1. Bij een consumentenkoop kan van de afdelingen 1 tot en met 7 niet ten nadele van de koper worden afgeweken en kunnen de rechten en vorderingen die de wet aan de koper ter zake van een tekortkoming in de nakoming van de verplichtingen van de verkoper toekent, niet worden beperkt of uitgesloten.
+2. Lid 1 is niet van toepassing op de artikelen 11, 12, 13, 26 en 35, doch bedingen in algemene voorwaarden waarbij ten nadele van de koper wordt afgeweken van die artikelen, worden als onredelijk bezwarend aangemerkt.
+3. De toepasselijkheid op de consumentenkoop van een recht dat de door deze titel voorziene bescherming niet of slechts ten dele biedt, kan er niet toe leiden dat de koper de bescherming verliest die hem krachtens de dwingende bepalingen van deze titel wordt geboden, indien hij in Suriname zijn gewone verblijfplaats heeft.

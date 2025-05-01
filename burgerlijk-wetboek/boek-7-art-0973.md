@@ -1,0 +1,2 @@
+# Boek 7, Artikel 973
+Aan de overeenkomst kunnen geen rechten worden ontleend door degene die onherroepelijk veroordeeld is ter zake dat hij de verwezenlijking van het risico opzettelijk teweeg heeft gebracht of daaraan opzettelijk meegewerkt heeft. In de overeenkomst kan worden bepaald dat ook zonder veroordeling opzettelijk veroorzaakte verwezenlijking van het risico tot uitsluiting van dekking leidt.

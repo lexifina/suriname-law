@@ -1,0 +1,2 @@
+# Boek 5, Artikel 80
+De rechter kan op vordering van de eigenaar van het heersende erf de inhoud van een erfdienstbaarheid, wanneer door onvoorziene omstandigheden de uitoefening blijvend of tijdelijk onmogelijk is geworden of het belang van de eigenaar van het heersende erf aanzienlijk is verminderd, zodanig wijzigen dat de mogelijkheid van uitoefening of het oorspronkelijke belang wordt hersteld, mits deze wijziging naar maatstaven van redelijkheid en billijkheid van de eigenaar van het dienende erf kan worden gevergd.

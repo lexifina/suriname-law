@@ -1,0 +1,4 @@
+# Boek 4, Artikel 104
+1. De erflater is in de gevallen van de artikelen 98, 101 en 102 ook bevoegd een door hem ondertekende onderhandse uiterste wil te maken, die hij in tegenwoordigheid van twee getuigen in bewaring geeft aan een persoon te wiens overstaan hij ingevolge die artikelen een uiterste wil kan doen verlijden. Deze persoon maakt daarvan onmiddellijk een akte van bewaargeving op, hetzij op het papier van de uiterste wil, hetzij op de omslag daarvan, hetzij op een afzonderlijk papier; artikel 103 is op die akte van overeenkomstige toepassing.
+2. Artikel 98 lid 4 en artikel 100 zijn van overeenkomstige toepassing.
+3. Op degene die de geldigheid van de in bewaring gegeven uiterste wil bestrijdt op grond dat de erflater de wil niet eigenhandig heeft ondertekend, rust de bewijslast daarvan.

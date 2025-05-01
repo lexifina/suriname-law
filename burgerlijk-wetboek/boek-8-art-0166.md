@@ -1,0 +1,2 @@
+# Boek 8, Artikel 166
+De boekhouder is verplicht, zo dikwijls een ter zake mogelijk bestaand gebruik dit meebrengt, doch in ieder geval telkens na verloop van een jaar en bij het einde van zijn beheer, binnen zes maanden aan de leden der rederij rekening en verantwoording te doen van zijn beheer met overlegging van alle bewijsstukken daarop betrekking hebbende. Hij is verplicht aan ieder van hen uit te keren wat hem toekomt.

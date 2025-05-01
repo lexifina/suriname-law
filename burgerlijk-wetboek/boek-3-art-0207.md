@@ -1,0 +1,4 @@
+# Boek 3, Artikel 207
+1. Een vruchtgebruiker mag de aan het vruchtgebruik onderworpen goederen gebruiken of verbruiken overeenkomstig de bij de vestiging van het vruchtgebruik gestelde regels of, bij gebreke van zodanige regels, met inachtneming van de aard van de goederen en de ten aanzien van het gebruik of verbruik bestaande plaatselijke gewoonten.
+2. Een vruchtgebruiker is voorts bevoegd tot alle handelingen die tot een goed beheer van de aan het vruchtgebruik onderworpen goederen dienstig kunnen zijn. Tot alle overige handelingen ten aanzien van die goederen zijn de hoofdgerechtigde en de vruchtgebruiker slechts tezamen bevoegd.
+3. Jegens de hoofdgerechtigde is de vruchtgebruiker verplicht ten aanzien van de aan het vruchtgebruik onderworpen goederen en het beheer daarover de zorg van een goed vruchtgebruiker in acht te nemen.

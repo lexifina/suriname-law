@@ -1,0 +1,3 @@
+# Boek 4, Artikel 136
+1. Bevat een uiterste wil een erfstelling onder tijdsbepaling, dan wordt deze beschikking aangemerkt als een dadelijk ingaande erfstelling van degene die, bij uitvoering van de uiterste wil zoals deze luidt, het laatst tot het erfdeel zou zijn geroepen, belast met een legaat van vruchtgebruik van het erfdeel voor de gestelde tijd ten behoeve van degene die het eerst tot het erfdeel zou zijn geroepen.
+2. In geval van een erfstelling onder een ontbindende tijdsbepaling zonder een daarbij aansluitende erfstelling onder opschortende tijdsbepaling komt de eerstgeroepene vruchtgebruik met bevoegdheid tot vervreemding en vertering toe, voor zover de erflater deze bevoegdheid niet heeft uitgesloten.

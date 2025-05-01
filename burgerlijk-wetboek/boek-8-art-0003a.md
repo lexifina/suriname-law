@@ -1,0 +1,4 @@
+# Boek 8, Artikel 3a
+1. In dit wetboek worden onder luchtvaartuigen verstaan toestellen die in de dampkring kunnen worden gehouden ten gevolge van krachten die de lucht daarop uitoefent, met uitzondering van toestellen die blijkens hun constructie bestemd zijn zich te verplaatsen op een luchtkussen, dat wordt in stand gehouden tussen het toestel en het oppervlak der aarde.
+2. Het casco, de motoren, de luchtschroeven, de radiotoestellen en alle andere voorwerpen bestemd voor gebruik in of aan het toestel, onverschillig of zij daarin of daaraan zijn aangebracht dan wel tijdelijk ervan zijn gescheiden, zijn bestanddeel van het luchtvaartuig.
+3. Bij staatsbesluit kunnen zaken die geen luchtvaartuigen zijn, voor de toepassing van bepalingen van dit wetboek als luchtvaartuig worden aangewezen, dan wel bepalingen van dit wetboek niet van toepassing worden verklaard op zaken die luchtvaartuigen zijn.

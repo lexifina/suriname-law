@@ -1,0 +1,2 @@
+# Boek 6, Artikel 14
+Afstand door de schuldeiser van zijn vorderingsrecht jegens een hoofdelijke schuldenaar bevrijdt deze niet van zijn verplichting tot bijdragen. De schuldeiser kan hem niettemin van zijn verplichting tot bijdragen jegens een medeschuldenaar bevrijden door zich jegens deze laatste te verbinden zijn vordering op hem te verminderen met het bedrag dat als bijdrage had kunnen worden gevorderd.

@@ -1,0 +1,2 @@
+# Boek 3, Artikel 11
+Goede trouw van een persoon, vereist voor enig rechtsgevolg, ontbreekt niet alleen indien hij de feiten of het recht, waarop zijn goede trouw betrekking moet hebben, kende, maar ook indien hij ze in de gegeven omstandigheden behoorde te kennen. Onmogelijkheid van onderzoek belet niet dat degene die goede reden tot twijfel had, aangemerkt wordt als iemand die de feiten of het recht behoorde te kennen.

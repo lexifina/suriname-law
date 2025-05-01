@@ -1,0 +1,3 @@
+# Boek 1, Artikel 417
+1. Zodra de beschikking, houdende verklaring dat er rechtsvermoeden van overlijden bestaat, in kracht van gewijsde is gegaan, zendt de griffier van het college waarvoor de zaak laatstelijk aanhangig was, een afschrift van de beschikking aan de ambtenaar van de burgerlijke stand van de verlaten woonplaats of, bij gebreke van verlaten woonplaats in Suriname, aan de ambtenaar van de burgerlijke stand te Paramaribo. Deze ambtenaar maakt van de beschikking een akte van inschrijving op, welke in overeenstemming is met de beschikking en dit uitdrukkelijk vermeldt.
+2. Deze akte bewijst ten aanzien van eenieder dwingend dat de vermiste op de in de akte vermelde dag is overleden.

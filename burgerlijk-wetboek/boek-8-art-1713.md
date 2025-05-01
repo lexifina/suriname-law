@@ -1,0 +1,2 @@
+# Boek 8, Artikel 1713
+Behoudens artikel 1716 en in afwijking van artikel 1717, begint in geval van een door een afzender tegen een vervoerder ingestelde rechtsvordering ter zake van niet terbeschikkingstelling van het vervoermiddel of niet aanwezig zijn daarvan, de in artikel 1711 genoemde termijn met de aanvang van de dag, volgende op de dag dat het vervoermiddel ter beschikking gesteld had moeten zijn.

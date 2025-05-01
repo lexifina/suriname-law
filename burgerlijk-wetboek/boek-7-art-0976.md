@@ -1,0 +1,2 @@
+# Boek 7, Artikel 976
+Artikel 978 lid 1, artikel 980 lid 1 en artikel 981, alsmede artikel 986 voor zover het op deze bepalingen betrekking heeft, missen toepassing bij verzekeringen strekkende tot voorziening in de kosten van lijkbezorging. Bij staatsbesluit kunnen hiervoor nadere maatstaven worden gesteld. De waarde van deze verzekeringen en de uit deze verzekeringen voortvloeiende rechten zijn niet vatbaar voor beslag en blijven buiten het faillissement van de verzekeringnemer en vereffening van zijn nalatenschap.

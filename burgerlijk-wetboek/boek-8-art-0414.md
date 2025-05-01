@@ -1,0 +1,5 @@
+# Boek 8, Artikel 414
+1. Tegenbewijs tegen het cognossement wordt niet toegelaten, wanneer het is overgedragen aan een derde te goeder trouw.
+2. Indien in het cognossement de clausule: 'inhoud, hoedanigheid, aantal, gewicht of maat onbekend', of enige andere clausule van dergelijke strekking is opgenomen, binden zodanige in het cognossement voorkomende vermeldingen omtrent de zaken de vervoerder niet, tenzij bewezen wordt, dat hij de inhoud of de hoedanigheid der zaken heeft gekend of had behoren te kennen of dat de zaken hem toegeteld, toegewogen of toegemeten zijn.
+3. Een cognossement, dat de uiterlijk zichtbare staat of gesteldheid van de zaak niet vermeldt, levert, behoudens tegenbewijs dat ook jegens een derde mogelijk is, een vermoeden op dat de vervoerder die zaak voor zover uiterlijk zichtbaar in goede staat of gesteldheid heeft ontvangen.
+4. De in het cognossement opgenomen opgave, bedoeld in artikel 388 lid 1, schept, behoudens tegenbewijs, een vermoeden, doch bindt niet de vervoerder die haar kan betwisten.

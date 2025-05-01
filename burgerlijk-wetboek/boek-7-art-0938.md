@@ -1,0 +1,4 @@
+# Boek 7, Artikel 938
+1. Behoudens het geval van opzet van de verzekeringnemer of de derde, bedoeld in artikel 928 leden 2 of 3, om de verzekeraar te misleiden is geen premie verschuldigd indien in het geheel geen risico is gelopen. Indien over een vol verzekeringsjaar geen risico is gelopen, is over dat jaar geen premie verschuldigd. De verzekeraar heeft recht op een billijke vergoeding van de te zijnen laste gekomen kosten.
+2. Gedurende één maand na afloop van een vol verzekeringsjaar waarin geen risico is gelopen, mag elke partij de overeenkomst met ingang van het nieuwe verzekeringsjaar opzeggen. Deze opzegging heeft geen rechtskracht, indien risico is gelopen tussen de aanvang van het nieuwe verzekeringsjaar en de opzegging.
+3. Is slechts risico gelopen over een kleiner aantal zaken of een kleinere hoeveelheid dan was verzekerd, dan zijn de leden 1 en 2 van toepassing voor zover geen risico is gelopen.

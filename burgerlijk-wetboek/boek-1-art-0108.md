@@ -1,0 +1,3 @@
+# Boek 1, Artikel 108
+1. Afstand van de gemeenschap, door een echtgenoot of een erfgenaam van een echtgenoot gedaan nadat door de andere echtgenoot of een of meer van diens erfgenamen afstand werd gedaan, heeft niet de gevolgen, omschreven in artikel 103 leden 2 en 3, en verplicht hen die tot de gemeenschap gerechtigd zijn, haar te vereffenen. Titel 6, afdeling 3, van Boek 4 betreffende de vereffening van nalatenschappen is zoveel mogelijk van overeenkomstige toepassing.
+2. Indien degene die tot vereffening van de gemeenschap gehouden is, na tot het afleggen van de rekening en verantwoording te zijn aangemaand, in gebreke blijft aan deze verplichting te voldoen, verliest hij de bevoegdheid artikel 103 lid 4 in te roepen.

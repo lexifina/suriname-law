@@ -1,0 +1,3 @@
+# Boek 2, Artikel 30
+1. De vereffenaar maakt de activa van de rechtspersoon te gelde, wikkelt de verhoudingen tot derden af en betaalt de schulden. Wat na de voldoening van de schuldeisers overblijft wordt aan hen die krachtens de statuten daartoe zijn gerechtigd uitgekeerd, of anders aan de leden of aandeelhouders. Bij de naamloze vennootschap zijn artikel 118 lid 3 overeenkomstige toepassing. Heeft geen ander recht op het overschot dan keert de vereffenaar dit uit aan de Staat.
+2. De vereffenaar is bevoegd om, indien de staat van de boedel daartoe aanleiding geeft, uitkeringen bij voorbaat te doen.

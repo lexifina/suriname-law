@@ -1,0 +1,2 @@
+# Boek 6, Artikel 215
+Voldoet een overeenkomst aan de omschrijving van twee of meer door de wet geregelde bijzondere soorten van overeenkomsten, dan zijn de voor elk van die soorten gegeven bepalingen naast elkaar op de overeenkomst van toepassing, behoudens voor zover deze bepalingen niet verenigbaar zijn of de strekking daarvan in verband met de aard van de overeenkomst zich tegen toepassing verzet.

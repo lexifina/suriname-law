@@ -1,0 +1,2 @@
+# Boek 8, Artikel 386
+Niettegenstaande artikel 382 lid 1, staat het de vervoerder en de afzender vrij in een vervoerovereenkomst enig beding, enige voorwaarde, enig voorbehoud of enige ontheffing op te nemen met betrekking tot de verplichtingen en aansprakelijkheden van de vervoerder of het schip voor het verlies of de schaden opgekomen aan de zaken of betreffende hun bewaring, verzorging of behandeling vóór het laden in en na het lossen uit het over zee vervoerende schip.

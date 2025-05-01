@@ -1,0 +1,2 @@
+# Boek 8, Artikel 184
+Indien tot ontbinding der rederij is besloten, moet het schip worden verkocht. Indien binnen twee maanden na het besluit het schip nog niet is verkocht, kan de rechter op een binnen twee maanden door een lid der rederij gedaan verzoek, bevelen tot deze verkoop over te gaan. De wijze van verkoop wordt door de rechter bepaald. Een besluit tot verkoop of een ingevolge artikel 170, artikel 173 of artikel 174 gegeven bevel tot verkoop van het schip staat gelijk met een besluit tot ontbinding der rederij.

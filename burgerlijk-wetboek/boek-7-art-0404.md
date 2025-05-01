@@ -1,0 +1,2 @@
+# Boek 7, Artikel 404
+Indien de opdracht is verleend met het oog op een persoon die met de opdrachtnemer of in zijn dienst een beroep of een bedrijf uitoefent, is die persoon gehouden de werkzaamheden, nodig voor de uitvoering van de opdracht, zelf te verrichten, behoudens voor zover uit de opdracht voortvloeit dat hij deze onder zijn verantwoordelijkheid door anderen mag laten uitvoeren; alles onverminderd de aansprakelijkheid van de opdrachtnemer.

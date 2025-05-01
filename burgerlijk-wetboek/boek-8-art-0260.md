@@ -1,0 +1,3 @@
+# Boek 8, Artikel 260
+1. De kapitein is bevoegd die rechtshandelingen te verrichten die rechtstreeks strekken om het schip in bedrijf te brengen of te houden. Onder rechtshandeling is hier het in ontvangst nemen van een verklaring begrepen.
+2. De kapitein is bevoegd cognossementen af te geven voor zaken die ten vervoer zijn ontvangen en aangenomen en passagebiljetten af te geven voor met het schip te vervoeren reizigers. Tevens is hij bevoegd namens de reder en de rechthebbenden op de zaken aan boord van het schip een overeenkomst omtrent hulpverlening te sluiten alsmede om het hulploon of de bijzondere vergoeding te innen.

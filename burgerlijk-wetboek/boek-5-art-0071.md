@@ -1,0 +1,3 @@
+# Boek 5, Artikel 71
+1. De last die een erfdienstbaarheid op het dienende erf legt, bestaat in een verplichting om op, boven of onder een der beide erven iets te dulden of niet te doen. In de akte van vestiging kan worden bepaald dat de last bovendien een verplichting inhoudt tot het aanbrengen van gebouwen, werken of beplantingen die voor de uitoefening van die erfdienstbaarheid nodig zijn, mits deze gebouwen, werken en beplantingen zich geheel of gedeeltelijk op het dienende erf zullen bevinden.
+2. De last die een erfdienstbaarheid op het dienende erf legt, kan ook bestaan in een verplichting tot onderhoud van het dienende erf of van gebouwen, werken of beplantingen die zich geheel of gedeeltelijk op het dienende erf bevinden of zullen bevinden.

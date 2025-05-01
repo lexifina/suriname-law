@@ -1,0 +1,2 @@
+# Boek 4, Artikel 40
+Indien ten aanzien van de erflater afdeling 2 of 3 van titel 18 van Boek 1 is toegepast, lopen de termijnen, genoemd in artikel 28 lid 1, artikel 31 leden 2 en 3, artikel 37 lid 1, tweede volzin, lid 2 en lid 3, alsmede artikel 38 lid 4 vanaf de dag waarop de beschikking, bedoeld in artikel 417 lid 1 onderscheidenlijk artikel 427 lid 1 van Boek 1, in kracht van gewijsde is gegaan.

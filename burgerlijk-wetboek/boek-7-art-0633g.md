@@ -1,0 +1,6 @@
+# Boek 7, Artikel 633g
+1. De werkgever mag de arbeidsovereenkomst met een werknemer niet opzeggen gedurende de zwangerschap en na haar bevalling anders dan vanwege dringende redenen. Het gestelde in de eerste volzin is niet van toepassing indien de formele ontslagprocedure al was ingezet vóór de datum van de melding van de zwangerschap.
+2. De werkgever mag de arbeidsovereenkomst met een werknemer niet opzeggen gedurende de periode waarin zij bevallingsverlof als bedoeld in artikel 633c geniet en na werkhervatting, dan wel aansluitend op een periode van ongeschiktheid tot het verrichten van arbeid die haar oorzaak vindt in de bevalling of de daaraan voorafgaande zwangerschap en die aansluit op dat bevallingsverlof, anders dan vanwege dringende redenen.
+3. De werknemer die zwangerschaps- en bevallingsverlof heeft genoten, heeft het recht om terug te keren naar het werk en wel in dezelfde dan wel een gelijkwaardige functie en met behoud van dezelfde beloning en voorzieningen.
+4. De werkgever mag de werknemer niet ontslaan of op andere wijze benadelen in zijn arbeidsvoorwaarden wegens de omstandigheid dat de werknemer vaderschapsverlof heeft aangevraagd of vaderschapsverlof aan hem is verleend.
+5. Elke beëindiging van de dienstbetrekking en elk beding in strijd met de leden 1 tot en met 4, is nietig.

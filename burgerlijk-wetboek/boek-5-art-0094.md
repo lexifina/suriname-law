@@ -1,0 +1,4 @@
+# Boek 5, Artikel 94
+1. De erfpachter is bevoegd de zaak waarop het recht van erfpacht rust, te verhuren, voor zover in de akte van vestiging niet anders is bepaald.
+2. Na het einde van de erfpacht is de eigenaar verplicht een bevoegdelijk aangegane verhuur gestand te doen. Hij kan nochtans gestanddoening weigeren, voor zover zonder zijn toestemming hetzij de overeengekomen tijdsduur van de huur langer is dan met het plaatselijk gebruik overeenstemt of, bij gebreke van zulk een gebruik, langer is dan twee jaren, hetzij de verhuring is geschied op ongewone voor hem bezwarende voorwaarden.
+3. Hij verliest de bevoegdheid gestanddoening te weigeren, wanneer de huurder hem een redelijke termijn heeft gesteld om zich omtrent de gestanddoening te verklaren en hij zich niet binnen deze termijn heeft uitgesproken.

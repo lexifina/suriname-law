@@ -1,0 +1,3 @@
+# Boek 1, Artikel 427
+1. De beschikking, houdende verklaring dat de in artikel 426 bedoelde persoon is overleden, noemt de dag en zo mogelijk het uur van het overlijden. Indien de dag van overlijden niet bekend is, wordt deze door de kantonrechter vastgesteld en in de beschikking vermeld. De rechter houdt hierbij rekening met alle bewijzen en aanwijzingen omtrent de omstandigheden waaronder of het tijdstip waarop het overlijden moet hebben plaatsgehad.
+2. Voorts vermeldt de beschikking de geslachtsnaam, de voornamen, het geslacht en, zo mogelijk, de plaats van het overlijden, de woonplaats van de overledene, de plaats en de dag van geboorte van de overledene en de geslachtsnaam en de voornamen van de persoon of van de personen met wie de overledene gehuwd is geweest.

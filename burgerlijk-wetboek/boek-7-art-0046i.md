@@ -1,0 +1,12 @@
+# Boek 7, Artikel 46i
+1. Artikel 46b lid 2, artikel 46c, artikel 46d leden 1 tot en met 3 en lid 4 onder a, artikel 46e en artikel 46f leden 1 en 2 zijn van overeenkomstige toepassing op de overeenkomst op afstand tot het verrichten van diensten die niet een financiële dienst zijn. De artikelen 46g tot en met 46h zijn van overeenkomstige toepassing op overeenkomsten op afstand tot het verrichten van diensten.
+2. In afwijking van lid 1, zijn de in dat lid genoemde artikelen niet van toepassing op de overeenkomst op afstand:
+a. tot het verrichten van diensten, die wordt gesloten met een telecommunicatie-exploitant door gebruikmaking van een openbare telefoon;
+b. tot aanneming van werk die strekt tot de bouw van een onroerende zaak.
+3. In afwijking van lid 1, zijn de artikelen 46c tot en met 46e en artikel 46f lid 1 niet van toepassing op de overeenkomst op afstand tot het verrichten van diensten die logies, vervoer, het restaurantbedrijf of vrijetijdsbesteding betreft, indien de dienstverlener zich er bij het sluiten van de overeenkomst toe verplicht, deze diensten te verrichten op een bepaalde datum of tijdens een bepaalde periode.
+4. In afwijking van lid 1, is artikel 46c lid 2 niet van toepassing op de overeenkomst op afstand tot het verrichten van diensten die in één keer worden verricht met behulp van een techniek voor communicatie op afstand en die in rekening worden gebracht door de communicatietechniekexploitant. Desalniettemin moet aan de wederpartij steeds het bezoekadres van de vestiging van de dienstverlener waar de wederpartij een klacht kan indienen, worden medegedeeld.
+5. In afwijking van lid 1, is artikel 46d niet van toepassing op de overeenkomst op afstand tot het verrichten van diensten:
+a. waarvan de nakoming met instemming van de wederpartij is begonnen voordat de in artikel 46d lid 1, eerste en derde volzin, bedoelde termijn is verstreken;
+b. betreffende weddenschappen en loterijen.
+6. In geval van een overeenkomst op afstand tot het verrichten van diensten lopen de in artikel 46d lid 1, eerste en tweede volzin, bedoelde termijnen vanaf het sluiten van de overeenkomst.
+7. Een beding in een overeenkomst op afstand tot het verrichten van financiële diensten dat de wederpartij belast met het bewijs ter zake van de naleving van de verplichtingen die krachtens de dwingende bepalingen van deze titel op de dienstverlener rusten, is vernietigbaar.

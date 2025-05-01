@@ -1,0 +1,4 @@
+# Boek 7, Artikel 621
+1. Voldoening van het loon, anders dan bij artikel 620 is bepaald of, in andere vormen vastgesteld dan door artikel 617 is toegestaan, is niet bevrijdend. De werknemer behoudt het recht om betaling van het verschuldigde loon of, zo dit in een andere vorm dan geld is vastgesteld, de waarde van de verschuldigde prestatie van de werkgever te verzoeken zonder gehouden te zijn het bij de niet-bevrijdende voldoening ontvangene terug te geven.
+2. Niettemin kan de rechter bij toewijzing van het verzoek van de werknemer de veroordeling beperken tot zodanig bedrag als hem met het oog op de omstandigheden billijk zal voorkomen, maar uiterlijk tot de som waarop de door de werknemer geleden schade zal worden vastgesteld.
+3. Een rechtsvordering van de werknemer op grond van dit artikel verjaart door verloop van zes maanden na de dag waarop de niet-bevrijdende voldoening plaatsvindt.

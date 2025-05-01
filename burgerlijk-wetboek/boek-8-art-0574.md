@@ -1,0 +1,3 @@
+# Boek 8, Artikel 574
+1. Indien de rechthebbende op de schepen of andere zaken waaraan hulp is verleend, niet opkomt, is hij, die vaststelling van het hulploon of de bijzondere vergoeding kan vorderen, gerechtigd deze voor rekening en gevaar van de rechthebbende onder zich te houden dan wel bij een derde op te slaan in een daarvoor geschikte bewaarplaats.
+2. De derdebewaarnemer en de rechthebbende zijn jegens elkaar verbonden, als ware de omtrent de bewaring gesloten overeenkomst mede tussen hen aangegaan. De bewaarnemer is echter niet gerechtigd tot afgifte dan na schriftelijke toestemming daartoe van hem, die de zaken in bewaring gaf.

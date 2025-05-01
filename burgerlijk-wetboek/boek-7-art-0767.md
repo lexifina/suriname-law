@@ -1,0 +1,2 @@
+# Boek 7, Artikel 767
+De opdrachtgever kan slechts worden verplicht tot het doen van betalingen die, althans bij benadering, overeenstemmen met de voortgang van de bouw of met de waarde van de aan hem overgedragen goederen, behoudens dat kan worden bedongen dat hij ter verzekering van de nakoming van zijn verplichtingen een bedrag dat niet hoger is dan 10% van de aanneemsom, in depot stort bij een in Suriname gevestigde notaris of advocaat dan wel voor dit bedrag vervangende zekerheid stelt. Het teveel betaalde geldt als onverschuldigd betaald.

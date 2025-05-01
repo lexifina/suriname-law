@@ -1,0 +1,3 @@
+# Boek 1, Artikel 117
+1. Huwelijkse voorwaarden, vóór het huwelijk gemaakt of gewijzigd, zijn slechts geldig, indien zij wier toestemming tot het huwelijk noodzakelijk is, bij de akte hun toestemming tot de huwelijkse voorwaarden of de wijziging hebben gegeven; is de toestemming van de kantonrechter nodig, dan kan worden volstaan met vasthechting van zijn beschikking aan de minuut van de akte. Op het verzoek tot toestemming van de kantonrechter is artikel 39 lid 1 van overeenkomstige toepassing.
+2. Vóór het huwelijk gemaakte huwelijkse voorwaarden beginnen te werken van het tijdstip der voltrekking van het huwelijk; geen ander tijdstip kan daarvoor worden aangewezen.

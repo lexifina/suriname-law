@@ -1,0 +1,4 @@
+# Boek 4, Artikel 103
+1. De uiterste willen, bedoeld in de artikelen 98, 101 en 102, worden verleden in tegenwoordigheid van twee getuigen. Zij worden op behoorlijke wijze op schrift gesteld en door de erflater, alsmede door de getuigen en degene te wiens overstaan zij zijn verleden, ondertekend.
+2. De getuigen moeten meerderjarig zijn en de taal verstaan, waarin de uiterste wil is opgesteld. In de gevallen van de artikelen 98 en 102 geldt het vereiste van meerderjarigheid niet voor getuigen die militairen zijn of deelnemen aan het bestrijden van een ramp of een zwaar ongeval.
+3. Indien de erflater of een van de getuigen verklaart door onkunde of een andere met name door hem genoemde oorzaak niet te kunnen ondertekenen, vervangt die verklaring zijn ondertekening, mits zij in de akte wordt opgenomen.

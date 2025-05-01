@@ -1,0 +1,5 @@
+# Boek 2, Artikel 81
+1. Behoudens het in artikel 82 bepaalde, hebben alle leden die niet geschorst zijn, toegang tot de algemene vergadering en hebben zij daar ieder één stem. Een geschorst lid heeft toegang tot de vergadering waarin het besluit tot schorsing wordt behandeld, en is bevoegd daarover het woord te voeren. De statuten kunnen aan bepaalde leden meer dan één stem toekennen.
+2. Tenzij de statuten anders bepalen, treden de voorzitter en de secretaris van het bestuur of hun vervangers, als zodanig ook op bij de algemene vergadering.
+3. De statuten kunnen bepalen dat personen die deel uitmaken van andere organen der vereniging en die geen lid zijn, in de algemene vergadering stemrecht kunnen uitoefenen. Het aantal door hen gezamenlijk uitgebrachte stemmen zal echter niet meer mogen zijn dan de helft van het aantal door de leden uitgebrachte stemmen.
+4. Tenzij de statuten anders bepalen, kan iemand die krachtens lid 1 of lid 3 stemgerechtigd is, aan een andere stemgerechtigde schriftelijk volmacht verlenen tot het uitbrengen van zijn stem.

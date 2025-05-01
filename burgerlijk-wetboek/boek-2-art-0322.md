@@ -1,0 +1,4 @@
+# Boek 2, Artikel 322
+1. Indien ten gevolge van de fusie een overeenkomst van een fuserende rechtspersoon naar maatstaven van redelijkheid en billijkheid niet ongewijzigd in stand behoort te blijven, wijzigt of ontbindt de rechter de overeenkomst op vordering van een der partijen. Aan de wijziging of ontbinding kan terugwerkende kracht worden verleend.
+2. De bevoegdheid tot het instellen van de vordering vervalt door verloop van zes maanden na de nederlegging van de akte van fusie ten kantore van de in artikel 318 lid 3, bedoelde registers. De vordering kan niet worden ingesteld door iemand die reeds op de voet van artikel 316 wijziging of ontbinding van de overeenkomst heeft verzocht, tenzij de rechter in die procedure op dat verzoek nog niet heeft beslist.
+3. Indien uit de wijziging of ontbinding van de overeenkomst schade ontstaat voor de wederpartij, is de rechtspersoon gehouden tot vergoeding daarvan.

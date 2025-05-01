@@ -1,0 +1,2 @@
+# Boek 2, Artikel 257
+De statuten kunnen bepalen dat in gevallen, in de statuten omschreven, de aandeelhouder gehouden is zijn aandelen of een deel daarvan aan de vennootschap dan wel aan een of meer medeaandeelhouders aan te bieden en over te dragen tegen voorwaarden, zoals deze bij de statuten zijn bepaald of krachtens de statuten door onafhankelijke deskundigen zullen worden vastgesteld, een en ander onverminderd het bepaalde in artikel 108a.

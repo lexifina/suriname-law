@@ -1,0 +1,3 @@
+# Boek 7, Artikel 400
+1. De overeenkomst van opdracht is de overeenkomst waarbij de ene partij, de opdrachtnemer, zich jegens de andere partij, de opdrachtgever, verbindt buiten dienstbetrekking werkzaamheden te verrichten die in iets anders bestaan dan het tot stand brengen van een werk van stoffelijke aard, het bewaren van zaken, het uitgeven van werken of het vervoeren of doen vervoeren van personen of zaken.
+2. De artikelen 401 tot en met 412 zijn, onverminderd artikel 413, van toepassing, tenzij iets anders voortvloeit uit de wet, de inhoud of aard van de overeenkomst van opdracht of van een andere rechtshandeling, of de gewoonte.

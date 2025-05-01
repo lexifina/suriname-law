@@ -1,0 +1,3 @@
+# Boek 3, Artikel 55
+1. De bevoegdheid om ter vernietiging van een rechtshandeling een beroep op een vernietigingsgrond te doen vervalt, wanneer hij aan wie deze bevoegdheid toekomt, de rechtshandeling heeft bevestigd, nadat de verjaringstermijn ter zake van de rechtsvordering tot vernietiging op die grond een aanvang heeft genomen.
+2. Eveneens vervalt de bevoegdheid om een beroep op een vernietigingsgrond te doen, wanneer een onmiddellijk belanghebbende na de aanvang van de verjaringstermijn aan hem aan wie deze bevoegdheid toekomt een redelijke termijn heeft gesteld om te kiezen tussen bevestiging en vernietiging en deze binnen de gestelde redelijke termijn geen keuze heeft gedaan.

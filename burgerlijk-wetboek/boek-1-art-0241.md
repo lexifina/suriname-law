@@ -1,0 +1,3 @@
+# Boek 1, Artikel 241
+1. Indien het Bureau voor Familierechtelijke Zaken blijkt, dat een minderjarige niet onder het wettelijk vereiste gezag staat, of dat dit gezag niet over hem wordt uitgeoefend, verzoekt hij de kantonrechter in de gezagsuitoefening over de minderjarige te voorzien.
+2. Indien het ter voorkoming van de zedelijke of lichamelijke ondergang van zulk een minderjarige dringend en onverwijld noodzakelijk is, kan het openbaar ministerie hem voorlopig aan het Bureau voor Familierechtelijke Zaken toevertrouwen; deze laatste wendt zich in dit geval binnen zes weken tot de kantonrecher ten einde een voorziening in het gezag over deze minderjarige te verkrijgen.

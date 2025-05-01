@@ -1,0 +1,2 @@
+# Boek 4, Artikel 102
+Op plaatsen waar voor de erflater het normale verkeer met een notaris of bevoegde consulaire ambtenaar verboden of verbroken is als gevolg van rampen, gevechtshandelingen, besmettelijke ziekten of andere buitengewone omstandigheden, kan hij een uiterste wil maken ten overstaan van een consulaire ambtenaar, ook indien deze niet krachtens de gewone regelen bevoegd is, of elke openbare ambtenaar, een kandidaatnotaris, een advocaat, een officier van de krijgsmacht of van een brandweer.

@@ -1,0 +1,3 @@
+# Boek 7, Artikel 435
+1. De handelsagent heeft recht op een beloning, indien hij bereid is zijn verplichtingen uit de agentuurovereenkomst na te komen of deze reeds heeft nagekomen, doch de principaal van de diensten van de handelsagent geen gebruik heeft gemaakt of in aanzienlijk geringere mate gebruik heeft gemaakt dan deze als normaal mocht verwachten, tenzij de gedraging van de principaal voortvloeit uit omstandigheden die redelijkerwijs niet voor zijn rekening komen.
+2. Bij de bepaling van deze beloning wordt rekening gehouden met het bedrag van de in de voorafgaande tijd verdiende provisie en met alle andere ter zake in acht te nemen factoren, zoals de onkosten die de handelsagent zich door het niet verrichten van werkzaamheden bespaart.

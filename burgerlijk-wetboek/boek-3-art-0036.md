@@ -1,0 +1,2 @@
+# Boek 3, Artikel 36
+Tegen degene die als derde op grond van een verklaring of gedraging, overeenkomstig de zin die hij daaraan onder de gegeven omstandigheden redelijkerwijze mocht toekennen, het ontstaan, bestaan of tenietgaan van een bepaalde rechtsbetrekking heeft aangenomen en in redelijk vertrouwen op de juistheid van die veronderstelling heeft gehandeld, kan door degene om wiens verklaring of gedraging het gaat, met betrekking tot deze handeling op de onjuistheid van die veronderstelling geen beroep worden gedaan.

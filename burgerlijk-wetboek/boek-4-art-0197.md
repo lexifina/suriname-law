@@ -1,0 +1,4 @@
+# Boek 4, Artikel 197
+1. Een notaris die op verzoek van een erfgenaam als boedelnotaris voor de beneficiair aanvaarde nalatenschap optreedt, doet zich als zodanig inschrijven in het boedelregister en geeft daarvan zo spoedig mogelijk kennis aan de overige erfgenamen.
+2. Op een verzoek, uiterlijk twee maanden na die kennisgeving gedaan door de meerderheid van de erfgenamen of door een of meer erfgenamen die samen voor meer dan de helft gerechtigd zijn in de nalatenschap, kan de kantonrechter een andere notaris, die daartoe bereid is, als boedelnotaris aanwijzen. Deze doet de vervanging inschrijven en brengt haar zo spoedig mogelijk ter kennis van de eerst aangewezene en de erfgenamen.
+3. In geval van bekendmaking van de beneficiaire aanvaarding overeenkomstig artikel 196, wordt de aanwijzing van een boedelnotaris op dezelfde wijze, onder vermelding van zijn naam en adres, bekendgemaakt.

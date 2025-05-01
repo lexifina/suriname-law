@@ -1,0 +1,4 @@
+# Boek 1, Artikel 45
+1. Een aanstaande echtgenoot die in de onmogelijkheid is zijn door artikel 44 vereiste geboorteakte te vertonen, kan dit verhelpen door een akte van bekendheid, afgegeven door de kantonrechter van zijn geboorteplaats of woonplaats, op verklaring van vier meerderjarige getuigen.
+2. Deze verklaring houdt de vermelding in van de plaats en, zo na mogelijk, van het tijdstip der geboorte, benevens de oorzaken die beletten een akte daarvan over te leggen.
+3. Het ontbreken van een geboorteakte kan ook worden verholpen, hetzij door een dergelijke, maar beëdigde verklaring, afgelegd door de getuigen die bij de voltrekking van het huwelijk tegenwoordig zijn, of wel door een bij de ambtenaar van de burgerlijke stand afgelegde beëdigde verklaring van de aanstaande echtgenoot, inhoudende dat hij zich geen geboorteakte of akte van bekendheid kan verschaffen. In de huwelijksakte wordt van de afgelegde verklaring melding gemaakt.

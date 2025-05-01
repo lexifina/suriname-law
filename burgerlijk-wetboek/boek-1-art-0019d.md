@@ -1,0 +1,4 @@
+# Boek 1, Artikel 19d
+1. Indien het geslacht van het kind twijfelachtig is, wordt een geboorteakte opgemaakt, waarin wordt vermeld dat het geslacht van het kind niet kan worden vastgesteld.
+2. Binnen drie maanden na de geboorte, of, bij overlijden binnen die termijn, ter gelegenheid van de aangifte van het overlijden, wordt onder doorhaling van de in lid 1 bedoelde akte een nieuwe geboorteakte opgemaakt, waarin het geslacht, indien dit inmiddels is vastgesteld, wordt vermeld aan de hand van een ter zake overgelegde medische verklaring.
+3. Is binnen de in lid 2 genoemde termijn geen medische verklaring overgelegd, of blijkt uit de overgelegde medische verklaring dat het geslacht niet kan worden vastgesteld, dan vermeldt de nieuwe geboorteakte dat het geslacht van het kind niet kan worden vastgesteld.

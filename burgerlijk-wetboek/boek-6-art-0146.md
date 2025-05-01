@@ -1,0 +1,3 @@
+# Boek 6, Artikel 146
+1. Na een overdracht overeenkomstig artikel 93 van Boek 3 van een vordering aan toonder of aan order kan de schuldenaar een verweermiddel, gegrond op zijn verhouding tot een vorige schuldeiser, niet tegenwerpen aan de verkrijger en diens rechtsopvolgers, tenzij op het tijdstip van de overdracht het verweermiddel bekend was aan de verkrijger of voor hem kenbaar was uit het papier.
+2. Een beroep op onbekwaamheid of onbevoegdheid kan ook jegens een daarmee niet bekende verkrijger worden gedaan, indien zij ten tijde van zijn verkrijging kenbaar was uit een in een openbaar register opgenomen inschrijving, bij of krachtens de wet voorgeschreven teneinde kennisneming mogelijk te maken van de feiten waarop de onbekwaamheid of onbevoegdheid berust.

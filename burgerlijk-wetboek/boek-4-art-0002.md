@@ -1,0 +1,3 @@
+# Boek 4, Artikel 2
+1. Wanneer de volgorde waarin twee of meer personen zijn overleden niet kan worden bepaald, worden die personen geacht gelijktijdig te zijn overleden en valt aan de ene persoon geen voordeel uit de nalatenschap van de andere ten deel.
+2. Indien een belanghebbende ten gevolge van omstandigheden die hem niet kunnen worden toegerekend, moeilijkheden ondervindt bij het bewijs van de volgorde van overlijden, kan de rechter hem een of meermalen uitstel verlenen, zulks voor zover redelijkerwijs mag worden aangenomen dat het bewijs binnen de termijn van het uitstel kan worden geleverd.

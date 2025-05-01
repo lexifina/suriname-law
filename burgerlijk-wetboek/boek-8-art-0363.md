@@ -1,0 +1,2 @@
+# Boek 8, Artikel 363
+Indien een partij bij een exploitatieovereenkomst ter zake van een bij de exploitatie van het schip ontstane schade buiten overeenkomst wordt aangesproken door een andere partij bij een dusdanige overeenkomst, dan is zij tegenover deze niet verder aansprakelijk dan zij dit zou zijn als ware zij wederpartij bij de exploitatieovereenkomst, die is aangegaan door degene die haar aanspreekt en die in de keten der exploitatieovereenkomsten tussen haar en deze laatste ligt.

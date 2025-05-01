@@ -1,0 +1,4 @@
+# Boek 7, Artikel 852
+1. Verweermiddelen die de hoofdschuldenaar jegens de schuldeiser heeft, kunnen ook door de borg worden ingeroepen, indien zij het bestaan, de inhoud of het tijdstip van nakoming van de verbintenis van de hoofdschuldenaar betreffen.
+2. Indien de hoofdschuldenaar bevoegd is om ter vernietiging van de rechtshandeling waaruit de verbintenis voortspruit, een beroep op een vernietigingsgrond te doen en hem door de borg of door de schuldeiser een redelijke termijn is gesteld ter uitoefening van die bevoegdheid, is de borg gedurende die termijn bevoegd de nakoming van zijn verbintenis op te schorten.
+3. Zolang de hoofdschuldenaar bevoegdelijk de nakoming van zijn verbintenis jegens de schuldeiser opschort, is ook de borg bevoegd de nakoming van zijn verbintenis op te schorten.

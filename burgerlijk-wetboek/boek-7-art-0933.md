@@ -1,0 +1,3 @@
+# Boek 7, Artikel 933
+1. Alle mededelingen waartoe de bepalingen van deze titel of de overeenkomst de verzekeraar aanleiding geven, geschieden schriftelijk. De verzekeraar kan zich daarbij houden aan de laatste hem bekende woonplaats van de geadresseerde.
+2. Bij staatsbesluit kunnen van lid 1 afwijkende regels worden gesteld ten aanzien van de verzending van mededelingen langs elektronische weg. Daarbij kunnen ook regels worden gesteld ten aanzien van de verzending aan de verzekeraar langs elektronische weg van mededelingen waartoe de bepalingen van deze titel of de overeenkomst aanleiding geven.

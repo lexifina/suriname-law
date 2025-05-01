@@ -1,0 +1,11 @@
+# Boek 7, Artikel 967
+1. Tenzij van een andere bedoeling blijkt, vervalt de aanwijzing van een begunstigde, indien hij overlijdt vóórdat:
+a. hij de aanwijzing heeft aanvaard, of
+b. een uitkering waarop de aanwijzing betrekking had, opeisbaar is geworden.
+2. Is de begunstigde in hoedanigheid aangeduid, dan wordt de aanwijzing vermoed te zijn gedaan ten behoeve van hem die deze hoedanigheid bezit ten tijde dat de aanwijzing volgens artikel 968 onder b tot en met d onherroepelijk wordt. Indien de begunstigde zowel bij naam als in hoedanigheid is aangeduid, wordt de aanwijzing vermoed te zijn gedaan ten behoeve van de bij naam aangewezen begunstigde.
+3. In afwijking van het in lid 2 bepaalde strekt de begunstiging steeds ten behoeve van de begunstigde wiens aanwijzing door aanvaarding onherroepelijk is geworden, terwijl hij de in de aanwijzing aangeduide hoedanigheid bezat.
+4. Zijn de als zodanig aangeduide erfgenamen van de verzekeringnemer of van de verzekerde als begunstigden aangewezen, dan worden daaronder diegenen verstaan die als erfgenamen tot de nalatenschap zijn geroepen, ongeacht of zij haar hebben aanvaard. Zij zijn tot de uitkering gerechtigd in dezelfde verhouding als waarin zij tot de nalatenschap zijn geroepen.
+5. Is de nalatenschap van de verzekeringnemer of van de verzekerde als begunstigde aangewezen, dan komt het recht op uitkering toe aan de erfgenamen die de nalatenschap hebben aanvaard. Zij zijn tot de uitkering gerechtigd in dezelfde verhouding als waarin zij in de nalatenschap delen.
+6. Zijn als zodanig aangeduide kinderen als begunstigden aangewezen, dan worden daaronder hun afstammelingen bij plaatsvervulling begrepen.
+7. Indien een uitkering door de dood van de verzekerde opeisbaar wordt en deze en een begunstigde derde gelijktijdig zijn overleden, dan wel indien beiden zijn gestorven en men niet kan weten wie het eerst is overleden, valt, tenzij van een andere bedoeling blijkt, de uitkering niet aan die begunstigde ten deel.
+8. Zolang geen derde als begunstigde is aangewezen, komt het recht op uitkering toe aan de verzekeringnemer. De verzekeringnemer wordt voorts geacht zichzelf als begunstigde te hebben aangewezen voor het geval dat geen aanwijzing van een derde als begunstigde gevolg heeft.

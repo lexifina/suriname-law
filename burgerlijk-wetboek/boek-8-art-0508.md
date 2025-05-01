@@ -1,0 +1,2 @@
+# Boek 8, Artikel 508
+De vervoerder is ter zake van door de reiziger aan boord gebrachte zaken die hij, indien hij hun aard of gesteldheid had gekend, niet aan boord zou hebben toegelaten en waarvoor hij geen bewijs van ontvangst heeft afgegeven, geen enkele schadevergoeding verschuldigd indien de reiziger wist of behoorde te weten, dat de vervoerder de zaken niet ten vervoer zou hebben toegelaten; de reiziger is alsdan aansprakelijk voor alle kosten en schaden voor de vervoerder voortvloeiend uit de aanbieding ten vervoer of uit het vervoer zelf.

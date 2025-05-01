@@ -1,0 +1,2 @@
+# Boek 1, Artikel 50
+Een huwelijk kan worden gestuit, wanneer partijen niet de vereisten in zich verenigen om een huwelijk aan te gaan of wanneer partijen niet beiden hun vrije toestemming tot het huwelijk zullen geven dan wel wanneer het oogmerk van de aanstaande echtgenoten, of één hunner, niet is gericht op de vervulling van de door de wet aan de huwelijkse staat verbonden plichten, doch op het verkrijgen van toelating in Suriname.

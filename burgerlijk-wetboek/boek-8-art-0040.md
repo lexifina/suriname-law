@@ -1,0 +1,2 @@
+# Boek 8, Artikel 40
+De overeenkomst van gecombineerd goederenvervoer is de overeenkomst van goederenvervoer, waarbij de vervoerder, gecombineerd vervoerder, zich bij een en dezelfde overeenkomst tegenover de afzender verbindt dat het vervoer deels over zee, over binnenwateren, over de weg, langs spoorstaven, door de lucht of door een pijpleiding dan wel door middel van enige andere vervoerstechniek zal geschieden.

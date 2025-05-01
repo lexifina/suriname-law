@@ -1,0 +1,2 @@
+# Boek 4, Artikel 34d
+Giften van de erflater aan zijn echtgenoot worden voor de toepassing van artikel 34 buiten beschouwing gelaten voor zover zich, ten gevolge van een gemeenschap van goederen waarin de erflater en de echtgenoot ten tijde van de gift gehuwd waren of ten gevolge van een tussen hen op dat tijdstip geldend verrekenbeding, geen verrijking ten koste van het vermogen van de gever heeft voorgedaan.

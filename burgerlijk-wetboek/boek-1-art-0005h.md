@@ -1,0 +1,2 @@
+# Boek 1, Artikel 5h
+Indien een kind door gerechtelijke vaststelling van het vaderschap in familierechtelijke betrekking tot de vader komt te staan, houdt het de geslachtsnaam van de moeder, tenzij de moeder en de man, wiens vaderschap is vastgesteld, ter gelegenheid van de vaststelling gezamenlijk verklaren naamskeuze te doen. De rechterlijke uitspraak inzake de vaststelling van het vaderschap vermeldt de verklaring van de ouders hieromtrent.

@@ -1,0 +1,4 @@
+# Boek 3, Artikel 212
+1. Voor zover de aan een vruchtgebruik onderworpen goederen bestemd zijn om vervreemd te worden, is de vruchtgebruiker tot vervreemding overeenkomstig hun bestemming bevoegd.
+2. Bij de vestiging van het vruchtgebruik kan aan de vruchtgebruiker de bevoegdheid worden gegeven ook over andere dan de in lid 1 bedoelde goederen te beschikken. Ten aanzien van deze goederen vinden artikel 208, artikel 210 lid 2 en artikel 217 lid 2, lid 3, tweede volzin, en lid 4 geen toepassing.
+3. In andere gevallen mag een vruchtgebruiker slechts vervreemden of bezwaren met toestemming van de hoofdgerechtigde of machtiging van de kantonrechter. De machtiging wordt alleen gegeven, wanneer het belang van de vruchtgebruiker of de hoofdgerechtigde door de vervreemding of bezwaring wordt gediend en het belang van de ander daardoor niet wordt geschaad.

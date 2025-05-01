@@ -1,0 +1,6 @@
+# Boek 5, Artikel 139
+1. De akte van splitsing kan worden gewijzigd met medewerking van alle appartementseigenaars.
+2. De wijziging kan ook met medewerking van het bestuur geschieden, indien het tot de wijziging strekkende besluit, met inachtneming van artikel 139a, is genomen in de vergadering van eigenaars met een meerderheid van ten minste vier vijfden van het aantal stemmen dat aan de appartementseigenaars toekomt of met een zodanige grotere meerderheid als in de akte van splitsing is bepaald.
+3. Wijziging van de akte van splitsing behoeft de toestemming van hen die een beperkt recht op een appartementsrecht hebben, van hen die daarop beslag hebben gelegd alsmede, indien een recht van erfpacht, grondhuur of opstal in de splitsing is betrokken, van de grondeigenaar. Ook is toestemming nodig van de gerechtigden tot een erfdienstbaarheid, indien hun recht door de wijziging wordt verkort.
+4. Indien de wijziging uitsluitend betrekking heeft op het reglement, is de toestemming van de beslagleggers niet nodig.
+5. De wijziging geschiedt door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers. Indien de wijziging betrekking heeft op de begrenzing van gedeelten van het gebouw of de grond die bestemd zijn als afzonderlijk geheel te worden gebruikt, is artikel 109 lid 2 van overeenkomstige toepassing.

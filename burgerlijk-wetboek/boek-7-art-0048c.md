@@ -1,0 +1,4 @@
+# Boek 7, Artikel 48c
+1. Gedurende veertien dagen na de terhandstelling van de akte of een afschrift daarvan overeenkomstig artikel 48b lid 2 heeft de koper het recht de koop zonder opgave van redenen te ontbinden. Indien de akte niet alle bij staatsbesluit bepaalde gegevens vermeldt, wordt deze termijn verlengd met de tijd die is verstreken vanaf de terhandstelling van de akte of een afschrift daarvan totdat alle ontbrekende gegevens alsnog schriftelijk aan de koper zijn verstrekt, doch ten hoogste met een maand.
+2. De koper oefent zijn in lid 1 bedoelde recht de overeenkomst te ontbinden uit door binnen de gestelde termijn een schriftelijke verklaring te richten tot de verkoper of tot degene die daartoe overeenkomstig het in het staatsbesluit bepaalde in de akte is vermeld.
+3. In geval van ontbinding overeenkomstig de leden 1 en 2 is de koper aan de verkoper ten hoogste 3% van de prijs als vergoeding verschuldigd.

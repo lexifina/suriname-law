@@ -1,0 +1,5 @@
+# Boek 2, Artikel 20
+1. Een stem is nietig in de gevallen waarin een eenzijdige rechtshandeling nietig is; een stem kan niet worden vernietigd.
+2. Een onbekwame die lid is van een vereniging, kan zijn stemrecht daarin zelf uitoefenen, voor zover de statuten zich daartegen niet verzetten. In andere gevallen komt de uitoefening van het stemrecht toe aan zijn wettelijke vertegenwoordiger.
+3. Tenzij de statuten anders bepalen, is het in de vergadering van een orgaan van een rechtspersoon uitgesproken oordeel van de voorzitter omtrent de uitslag van een stemming beslissend. Hetzelfde geldt voor de inhoud van een genomen besluit, voor zover werd gestemd over een niet schriftelijk vastgelegd voorstel.
+4. Wordt onmiddellijk na het uitspreken van het oordeel van de voorzitter de juistheid daarvan betwist, dan vindt een nieuwe stemming plaats, indien de meerderheid der vergadering of, indien de oorspronkelijke stemming niet hoofdelijk of schriftelijk geschiedde, een stemgerechtigde aanwezige dit verlangt. Door deze nieuwe stemming vervallen de rechtsgevolgen van de oorspronkelijke stemming.

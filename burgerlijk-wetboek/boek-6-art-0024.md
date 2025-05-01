@@ -1,0 +1,3 @@
+# Boek 6, Artikel 24
+1. Nadat een ontbindende voorwaarde is vervuld, is de schuldeiser verplicht de reeds verrichte prestaties ongedaan te maken, tenzij uit de inhoud of strekking van de rechtshandeling anders voortvloeit.
+2. Strekt de verplichting tot ongedaanmaking tot teruggave van een goed, dan komen de na de vervulling van de voorwaarde afgescheiden natuurlijke of opeisbaar geworden burgerlijke vruchten aan de schuldenaar toe en zijn de artikelen 120 tot en met 124 van Boek 3 van overeenkomstige toepassing met betrekking tot hetgeen daarin is bepaald omtrent de vergoeding van kosten en van schade, voor zover die kosten en die schade na de vervulling zijn ontstaan.

@@ -1,0 +1,5 @@
+# Boek 3, Artikel 137
+1. De trustee is verplicht het trustvermogen afgescheiden te houden van een ander trustvermogen en van zijn niet aan een trust onderworpen vermogen.
+2. De trustee is verplicht binnen Suriname van elk trustvermogen een zodanige afzonderlijke administratie te voeren en de daartoe behorende boeken, bescheiden en andere gegevensdragers op zodanige wijze te bewaren dat te allen tijde de samenstelling, de inkomsten en uitgaven van elk trustvermogen uit de administratie zijn vast te stellen. De administratie van beleggingstrusts kan ook buiten Suriname worden gevoerd.
+3. Tenzij in de trustakte anders is bepaald, is de trustee verplicht jaarlijks, alsmede bij het einde van de trust, aan de begunstigde rekening en verantwoording af te leggen over zijn bestuur. Daarbij wordt uitdrukkelijk melding gemaakt van rechtshandelingen waarbij een trustee of protector een tegenstrijdig eigen belang had.
+4. De trustee is verplicht op verzoek van het openbaar ministerie inlichtingen te verschaffen die nodig zijn voor de uitoefening van diens uit deze titel voortvloeiende taken.

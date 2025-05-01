@@ -1,0 +1,3 @@
+# Boek 3, Artikel 307
+1. Een rechtsvordering tot nakoming van een verbintenis uit overeenkomst tot een geven of een doen verjaart door verloop van vijf jaar na de aanvang van de dag, volgende op die waarop de vordering opeisbaar is geworden.
+2. In geval van een verbintenis tot nakoming na onbepaalde tijd loopt de termijn pas van de aanvang van de dag, volgende op die waartegen de schuldeiser heeft meegedeeld tot opeising over te gaan, en verjaart de rechtsvordering in elk geval door verloop van twintig jaar na de aanvang van de dag, volgende op die waartegen de opeising, zo nodig na opzegging door de schuldeiser, op zijn vroegst mogelijk was.

@@ -1,0 +1,3 @@
+# Boek 8, Artikel 573
+1. De rechter kan, voordat hij het hulploon of de bijzondere vergoeding vaststelt, bevelen dat aan degene die gerechtigd is de vaststelling daarvan te vorderen, een naar billijkheid te bepalen bedrag bij wijze van voorschot wordt betaald. De rechter kan aan dit bevel voorwaarden verbinden die gezien de omstandigheden billijk zijn, daaronder begrepen de voorwaarde dat voor de gehele of gedeeltelijke terugbetaling van het voorschot zekerheid zal worden gesteld.
+2. Is krachtens artikel 572 zekerheid gesteld, dan wordt het bedrag van de gestelde zekerheid verminderd met het bedrag van het betaalde voorschot.

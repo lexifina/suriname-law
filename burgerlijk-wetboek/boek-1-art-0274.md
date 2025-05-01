@@ -1,0 +1,4 @@
+# Boek 1, Artikel 274
+1. Indien de ouders gezamenlijk het gezag uitoefenen, wordt na de ontheffing of ontzetting van een van hen voortaan het gezag door de andere ouder alleen uitgeoefend.
+2. In geval van ontheffing of ontzetting van een ouder die het gezag alleen uitoefent, kan de andere ouder de kantonrechter te allen tijde verzoeken met de uitoefening van het gezag te worden belast. Dit verzoek wordt slechts afgewezen, indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.
+3. De rechter die het verzoek, bedoeld in lid 2, heeft afgewezen, kan deze beschikking steeds wijzigen. Hij doet dit echter slechts op verzoek van de betrokken ouder, en niet dan op grond van omstandigheden, waarmede de rechter bij het geven van de beschikking geen rekening heeft kunnen houden.

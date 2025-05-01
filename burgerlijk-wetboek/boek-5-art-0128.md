@@ -1,0 +1,3 @@
+# Boek 5, Artikel 128
+1. De vergadering van eigenaars is bevoegd regels te stellen betreffende het gebruik van de gedeelten die niet bestemd zijn als afzonderlijk geheel te worden gebruikt, voor zover het reglement daarover geen bepalingen bevat.
+2. Iedere appartementseigenaar kan een gebruiker vragen te verklaren of hij bereid is een regel als bedoeld in lid 1, na te leven. Is de gebruiker daartoe niet bereid of verklaart hij zich niet, dan kan de kantonrechter binnen wiens rechtsgebied het gebouw of het grootste gedeelte daarvan is gelegen op verzoek van iedere appartementseigenaar beslissen dat de regel ten aanzien van de gebruiker komt te gelden.

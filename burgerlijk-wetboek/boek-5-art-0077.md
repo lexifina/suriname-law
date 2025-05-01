@@ -1,0 +1,4 @@
+# Boek 5, Artikel 77
+1. Behoort het heersende of het dienende erf toe aan twee of meer personen, hetzij als deelgenoten, hetzij als eigenaars van verschillende gedeelten daarvan, dan zijn zij hoofdelijk verbonden tot nakoming van de uit de erfdienstbaarheid voortvloeiende geldelijke verplichtingen die tijdens hun recht opeisbaar worden, voor zover deze niet over hun rechten zijn verdeeld.
+2. Na overdracht of toedeling van het heersende of het dienende erf of van een gedeelte daarvan of een aandeel daarin zijn de verkrijger en zijn rechtsvoorganger hoofdelijk verbonden voor de in lid 1 bedoelde geldelijke verplichtingen die in de voorafgaande twee jaren opeisbaar zijn geworden.
+3. In de akte van vestiging kan van de leden 1 en 2 worden afgeweken, doch van lid 2 niet ten nadele van de verkrijger.

@@ -1,0 +1,3 @@
+# Boek 6, Artikel 169
+1. Voor schade, aan een derde toegebracht door een als een doen te beschouwen gedraging van een kind dat nog niet de leeftijd van veertien jaar heeft bereikt, en aan wie deze gedraging als een onrechtmatige daad zou kunnen worden toegerekend als zijn leeftijd daaraan niet in de weg zou staan, is degene die het ouderlijk gezag of de voogdij over het kind uitoefent, aansprakelijk.
+2. Voor schade, aan een derde toegebracht door een fout van een kind dat de leeftijd van veertien jaren al wel maar die van zestien jaren nog niet heeft bereikt, is degene die het ouderlijk gezag of de voogdij over het kind uitoefent, aansprakelijk, tenzij hem niet kan worden verweten dat hij de gedraging van het kind niet heeft belet.

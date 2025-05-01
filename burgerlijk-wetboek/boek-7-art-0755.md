@@ -1,0 +1,2 @@
+# Boek 7, Artikel 755
+In geval van door de opdrachtgever gewenste toevoegingen of veranderingen in het overeengekomen werk kan de aannemer slechts dan een verhoging van de prijs vorderen, wanneer hij de opdrachtgever tijdig heeft gewezen op de noodzaak van een daaruit voortvloeiende prijsverhoging, tenzij de opdrachtgever die noodzaak uit zichzelf had moeten begrijpen. Van deze bepaling kan niet ten nadele van de opdrachtgever worden afgeweken.

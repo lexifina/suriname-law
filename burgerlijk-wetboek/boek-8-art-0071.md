@@ -1,0 +1,2 @@
+# Boek 8, Artikel 71
+Indien een overeenkomst tot het doen vervoeren van goederen niet naar behoren wordt uitgevoerd, dan wel een zaak niet zonder vertraging ter bestemming wordt afgeleverd in de staat, waarin zij ter beschikking is gesteld, is de expediteur, die te dier zake buiten overeenkomst wordt aangesproken, behoudens de artikelen 361 tot en met 366, niet verder aansprakelijk dan hij dit zou zijn tegenover zijn opdrachtgever.

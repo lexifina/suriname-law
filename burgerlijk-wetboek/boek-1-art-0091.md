@@ -1,0 +1,5 @@
+# Boek 1, Artikel 91
+1. Indien een echtgenoot door afwezigheid of een andere oorzaak in de onmogelijkheid verkeert zijn goederen of de goederen der gemeenschap te besturen, of in ernstige mate tekortschiet in het bestuur van de goederen der gemeenschap, kan de kantonrechter op verzoek van de andere echtgenoot aan deze het bestuur over die goederen of een deel daarvan met uitsluiting van de eerstgenoemde echtgenoot opdragen. De rechter kan bij de opdracht nadere regels stellen omtrent het bestuur en de vertegenwoordiging in de zin van lid 4.
+2. Artikel 86 leden 2 tot en met 4 en artikel 90 lid 3 zijn van overeenkomstige toepassing.
+3. De rechter gelast de oproeping van beide echtgenoten en, zo de in lid 1 eerstgenoemde echtgenoot een vertegenwoordiger heeft aangesteld, ook deze.
+4. De echtgenoot aan wie het bestuur over goederen wordt opgedragen, is bevoegd tot vertegenwoordiging van de echtgenoot aan wie het wordt onttrokken, bij andere dan bestuurshandelingen met betrekking tot die goederen.

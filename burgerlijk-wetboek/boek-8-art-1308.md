@@ -1,0 +1,2 @@
+# Boek 8, Artikel 1308
+Op een teboekstaand luchtvaartuig kan een zakelijk recht worden gevestigd, bestaande in het recht van de houder van het luchtvaartuig om na betaling van een zeker bedrag of na vervulling van enige andere voorwaarde de eigendom daarvan krachtens een door hem reeds gesloten of nog te sluiten koopovereenkomst te verkrijgen. In de notariële akte bestemd voor de vestiging van dit recht, wordt duidelijk het aan dit recht onderworpen luchtvaartuig vermeld.

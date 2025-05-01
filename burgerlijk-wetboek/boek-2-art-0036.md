@@ -1,0 +1,3 @@
+# Boek 2, Artikel 36
+1. Voor de toepassing van de bepalingen van dit boek wordt met een schriftelijke uiting gelijkgesteld een per exploot, telegram, telex, telefax, e-mail of ander tekst overbrengend communicatiemiddel gedane uiting. De statuten kunnen het gebruik van deze communicatiemiddelen beperken.
+2. Alle geschriften, gedrukte stukken en schriftelijke uitingen van de rechtspersoon, met uitzondering van uitingen per telegram, telex, telefax, e-mail of ander tekstoverbrengend communicatiemiddel, moeten de volledige naam van de rechtspersoon, zijn statutaire zetel en het adres waar hij feitelijk gevestigd is of kantoor houdt bevatten. Is de rechtspersoon ingeschreven in het handelsregister dan wordt ook het inschrijfnummer vermeld.

@@ -1,0 +1,3 @@
+# Boek 8, Artikel 517
+1. Behoudens de artikelen 504 tot en met 507, is de vervoerder niet aansprakelijk voor schade ontstaan door een handeling, onachtzaamheid of nalatigheid van de kapitein of de schipper, een ander lid van de bemanning, de loods of de ondergeschikten van de vervoerder, gepleegd bij de navigatie van het schip.
+2. Behoudens de artikelen 504 tot en met 507, wordt generlei afwijking van de koers tot redding of poging tot redding van mensenlevens of goederen en generlei redelijke afwijking van de koers beschouwd als een schending van enige vervoerovereenkomst en de vervoerder is niet aansprakelijk voor enig verlies of enige schade daardoor ontstaan.

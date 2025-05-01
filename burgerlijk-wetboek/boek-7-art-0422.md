@@ -1,0 +1,7 @@
+# Boek 7, Artikel 422
+1. Lastgeving eindigt, behalve door opzegging overeenkomstig artikel 408, door:
+a. de dood, de ondercuratelestelling of het faillissement van de lastgever, met dien verstande dat de dood of de ondercuratelestelling de overeenkomst doet eindigen op het tijdstip waarop de lasthebber daarvan kennis krijgt;
+b. de dood, de ondercuratelestelling of het faillissement van de lasthebber.
+2. Van artikel 408 lid 1, voor zover van toepassing op lastgeving, en van lid 1 onder a kan niet worden afgeweken. Voor zover de overeenkomst strekt tot het verrichten van een rechtshandeling in het belang van de lasthebber of van een derde, kan echter worden bepaald dat zij niet door de lastgever kan worden opgezegd, of dat zij niet eindigt door de dood of de ondercuratelestelling van de lastgever. Artikel 74 lid 1, tweede volzin, en de leden 2 en 4 van Boek 3 is van overeenkomstige toepassing.
+3. Eindigt de lastgeving door de dood of de ondercuratelestelling van de lastgever, dan is de lasthebber niettemin verplicht al datgene te doen wat de omstandigheden in het belang van de wederpartij eisen.
+4. Eindigt de lastgeving door de dood van de lasthebber, dan zijn diens erfgenamen, indien zij kennis dragen van de erfopvolging en van de lastgeving, verplicht al datgene te doen wat de omstandigheden in het belang van de wederpartij eisen. Een overeenkomstige verplichting rust op degenen in wier dienst of met wie de lasthebber een beroep of bedrijf uitoefende.

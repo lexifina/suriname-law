@@ -1,0 +1,2 @@
+# Boek 8, Artikel 1717
+Behoudens de artikelen 1713 tot en met 1716 en de artikelen 1718, 1719 en 1822, begint in geval van een rechtsvordering gegrond op een tijdbevrachting, de in artikel 1711 genoemde termijn met de aanvang van de dag, volgende op die waarop de uitvoering van de overeenkomst is geëindigd; in geval van een rechtsvordering gegrond op een reisbevrachting begint deze termijn met de aanvang van de dag, volgende op die waarop de reis, naar aanleiding waarvan de vordering is ontstaan, is geëindigd.

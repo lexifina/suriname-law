@@ -1,0 +1,2 @@
+# Boek 1, Artikel 182
+Artikel 154 lid 2 en de artikelen 157 tot en met 160 zijn van overeenkomstige toepassing, met dien verstande dat de in artikel 157 leden 3 tot en met 6 bedoelde termijnen worden verminderd met de tijd gedurende welke tijdens de scheiding van tafel en bed een verplichting tot levensonderhoud jegens de andere echtgenoot bestond en dat de duur van het huwelijk wordt berekend tot de dag waarop de beschikking tot scheiding van tafel en bed is ingeschreven.

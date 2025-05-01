@@ -1,0 +1,2 @@
+# Boek 3, Artikel 42
+Beantwoordt de strekking van een nietige rechtshandeling in een zodanige mate aan die van een andere, als geldig aan te merken rechtshandeling, dat aangenomen moet worden dat die andere rechtshandeling zou zijn verricht, indien van de eerstgenoemde wegens haar ongeldigheid was afgezien, dan komt haar de werking van die andere rechtshandeling toe, tenzij dit onredelijk zou zijn jegens een belanghebbende die niet tot de rechtshandeling als partij heeft medegewerkt.

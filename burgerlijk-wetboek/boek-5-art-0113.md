@@ -1,0 +1,6 @@
+# Boek 5, Artikel 113
+1. De aandelen die door de splitsing in appartementsrechten ontstaan zijn gelijk, tenzij bij de akte van splitsing een andere verhouding is bepaald. In het laatste geval blijkt uit de akte op welke grondslag die verhouding berust.
+2. In de schulden en kosten die ingevolge de wet of het reglement voor rekening van de gezamenlijke appartementseigenaars komen, moeten zij onderling en jegens de vereniging van eigenaars voor elk appartementsrecht een gelijk deel bijdragen, tenzij daarvoor bij het reglement een andere verhouding is bepaald.
+3. Indien de appartementseigenaars voor een in lid 2 genoemde schuld jegens de schuldeisers gezamenlijk aansprakelijk zijn en de verschuldigde prestatie deelbaar is, zijn zij ieder verbonden voor een deel, in de verhouding, bedoeld in lid 2.
+4. Indien de appartementseigenaars voor een in lid 2 genoemde schuld gezamenlijk aansprakelijk zijn, is de vereniging voor die schuld hoofdelijk verbonden.
+5. Voor de schulden der vereniging zijn zij die appartementseigenaar waren ten tijde van het ontstaan van de schuld, met de vereniging hoofdelijk verbonden en wel, indien de prestatie deelbaar is, ieder voor een deel in de verhouding bedoeld in lid 2.

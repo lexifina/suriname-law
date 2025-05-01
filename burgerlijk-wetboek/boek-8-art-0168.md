@@ -1,0 +1,2 @@
+# Boek 8, Artikel 168
+De goedkeuring der rekening en verantwoording door de meerderheid van de leden der rederij bindt slechts hen, die daartoe hebben meegewerkt, behoudens dat zij ook een lid dat aan de rekening en verantwoording niet heeft meegewerkt, bindt, wanneer dit lid nalaat de rekening en verantwoording in rechte te betwisten binnen één jaar, nadat hij daarvan heeft kunnen kennisnemen en nadat de goedkeuring door de meerderheid hem schriftelijk is meegedeeld.

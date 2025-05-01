@@ -1,0 +1,4 @@
+# Boek 3, Artikel 203
+1. Vruchtgebruik kan worden gevestigd ten behoeve van één persoon, ofwel ten behoeve van twee of meer personen, hetzij gezamenlijk, hetzij bij opvolging. In het laatste geval moeten ook de later geroepenen op het ogenblik van de vestiging bestaan.
+2. Vruchtgebruik kan niet worden gevestigd voor langer dan het leven van de vruchtgebruiker. Vruchtgebruik ten behoeve van twee of meer personen wast bij het einde van het recht van een hunner bij dat van anderen aan, bij ieder in evenredigheid van zijn aandeel, en eindigt eerst door het tenietgaan van het recht van de laatst overgeblevene, tenzij anders is bepaald.
+3. Is de vruchtgebruiker een rechtspersoon, dan eindigt het vruchtgebruik door ontbinding van de rechtspersoon, en in ieder geval na verloop van dertig jaar na de dag van vestiging.

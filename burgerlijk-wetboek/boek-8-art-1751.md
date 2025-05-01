@@ -1,0 +1,3 @@
+# Boek 8, Artikel 1751
+1. Een rechtsvordering jegens de vervoerder ter zake van aan een reiziger overkomen letsel verjaart door verloop van drie jaar, welke termijn begint met de aanvang van de dag, volgende op de dag van het de reiziger overkomen voorval of ongeval.
+2. Een rechtsvordering jegens de vervoerder ter zake van dood van een reiziger verjaart door verloop van drie jaar, welke termijn begint met de aanvang van de dag, volgende op de dag van overlijden van de reiziger, doch welke niet langer loopt dan vijf jaar beginnend met de aanvang van de dag, volgende op de dag van het de reiziger overkomen voorval of ongeval.

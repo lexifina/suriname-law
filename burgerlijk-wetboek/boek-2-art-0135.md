@@ -1,0 +1,4 @@
+# Boek 2, Artikel 135
+1. Een besluit van de algemene vergadering kan ook tot stand komen door schriftelijke stemuitbrenging buiten vergadering, mits alle vergadergerechtigden met deze wijze van besluitvorming instemmen. Bestuurders en commissarissen worden voorafgaand aan de besluitvorming in de gelegenheid gesteld om advies uit te brengen.
+2. Artikel 133, leden 1 tot en met 5, is van overeenkomstige toepassing.
+3. Indien alle aandeelhouders tevens bestuurder van de vennootschap zijn, geldt ondertekening van de jaarrekening door alle bestuurders en commissarissen tevens als goedkeuring van de jaarrekening door de algemene vergadering, mits alle vergadergerechtigden in de gelegenheid zijn gesteld om kennis te nemen van de opgemaakte jaarrekening en met deze wijze van goedkeuring hebben ingestemd. De statuten kunnen de in de eerste volzin bedoelde wijze van goedkeuring van de jaarrekening uitsluiten.

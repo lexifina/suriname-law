@@ -1,0 +1,4 @@
+# Boek 1, Artikel 446
+1. Voor zover de kantonrechter niet anders bepaalt, wordt bij het afleggen van de periodieke rekening en verantwoording hetgeen de goederen netto aan vruchten hebben opgebracht, onder aftrek van de verschuldigde beloning, aan de rechthebbende uitgekeerd. Op verzoek van de rechthebbende kan de rechter andere tijdstippen voor de uitkering vaststellen.
+2. Bij zijn eindrekening en verantwoording draagt de bewindvoerder alle goederen af aan degene die na hem tot het beheer der goederen bevoegd is. De bewindvoerder is bevoegd de afdracht op te schorten tot de voldoening van een hem toekomend saldo.
+3. Wordt de rekening en verantwoording aan de rechter afgelegd, dan blijven, tenzij de rechter anders bepaalt, de netto-opbrengst of de af te dragen goederen onder het bewind van de bewindvoerder, totdat de rechthebbende tot de ontvangst in staat is of de onzekerheid wie rechthebbende is, is opgeheven.

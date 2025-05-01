@@ -1,0 +1,2 @@
+# Boek 6, Artikel 117
+Indien de betaling overeenkomstig artikel 116 moet geschieden op een andere plaats dan de woonplaats van de schuldeiser op het tijdstip van het ontstaan van de verbintenis en het voldoen aan de verbintenis daardoor voor de schuldenaar aanmerkelijk bezwaarlijker zou worden, is deze bevoegd de betaling op te schorten, totdat de schuldeiser in een der in artikel 116 lid 2 bedoelde landen een andere plaats voor de betaling heeft aangewezen, waaraan een zodanig bezwaar niet is verbonden.

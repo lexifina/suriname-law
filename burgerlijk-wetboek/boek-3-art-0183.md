@@ -1,0 +1,3 @@
+# Boek 3, Artikel 183
+1. De verdeling kan geschieden op de wijze en in de vorm die partijen goeddunkt, mits de deelgenoten en zij wier medewerking vereist is, allen het vrije beheer over hun goederen hebben en in persoon of bij een door hen aangewezen vertegenwoordiger meewerken, dan wel in geval van bewind over hun recht, worden vertegenwoordigd door de bewindvoerder, voorzien van de daartoe vereiste toestemming of machtiging.
+2. In andere gevallen moet, tenzij de rechter anders bepaalt, de verdeling geschieden bij notariële akte en worden goedgekeurd door de kantonrechter die bevoegd is de wettelijke vertegenwoordiger van degene die het vrije beheer over zijn goederen mist, tot beschikkingshandelingen te machtigen.

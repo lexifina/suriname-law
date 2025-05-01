@@ -1,0 +1,4 @@
+# Boek 7, Artikel 980
+1. Het niet-betalen van vervolgpremie heeft eerst gevolg, indien de verzekeraar na de vervaldag de verzekeringnemer, de begunstigde, indien deze zijn aanwijzing heeft aanvaard, de pandhouder en de beslaglegger door een mededeling op dat gevolg heeft gewezen en betaling binnen een daarbij op ten minste één maand gestelde termijn is uitgebleven.
+2. Indien betaling is uitgebleven, wordt de verzekering die premievrije waarde heeft, premievrij voortgezet of, indien de overeenkomst daarin voorziet, voortgezet door middel van verrekening van de premie en de bedongen rente en kosten met de afkoopwaarde. Bestaat geen recht op voortzetting als in de vorige volzin bedoeld, dan eindigt de verzekering, en heeft de verzekeringnemer bij een verzekering die afkoopwaarde heeft, recht op die waarde.
+3. In afwijking van lid 1 kan worden bedongen dat van de vervaldag af rente en kosten verschuldigd zijn.

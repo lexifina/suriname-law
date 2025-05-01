@@ -1,0 +1,5 @@
+# Boek 3, Artikel 239
+1. Pandrecht op een tegen een of meer bepaalde personen uit te oefenen recht dat niet aan toonder of order luidt, of op het vruchtgebruik van een zodanig recht kan ook worden gevestigd bij akte, zonder mededeling daarvan aan die personen, mits dit recht op het tijdstip van de vestiging van het pandrecht reeds bestaat of rechtstreeks zal worden verkregen uit een dan reeds bestaande rechtsverhouding.
+2. Artikel 237 lid 2 is van overeenkomstige toepassing.
+3. Wanneer de pandgever of de schuldenaar in zijn verplichtingen jegens de pandhouder tekortschiet of hem goede grond geeft te vrezen dat in die verplichtingen zal worden tekortgeschoten, is deze bevoegd van de verpanding mededeling te doen aan de in lid 1 genoemde personen. Pandhouder en pandgever kunnen overeenkomen dat deze bevoegdheid op een ander tijdstip ingaat.
+4. Artikel 88 geldt slechts voor de pandhouder, wiens recht overeenkomstig lid 1 is gevestigd, indien hij te goeder trouw is op het tijdstip van de in lid 3 bedoelde mededeling.

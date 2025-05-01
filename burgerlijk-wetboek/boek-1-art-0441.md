@@ -1,0 +1,12 @@
+# Boek 1, Artikel 441
+1. Tijdens het bewind vertegenwoordigt de bewindvoerder bij de vervulling van zijn taak de rechthebbende in en buiten rechte. De bewindvoerder draagt zorg voor een doelmatige belegging van het vermogen van de rechthebbende, voor zover dit onder het bewind staat en niet besteed behoort te worden voor een voldoende verzorging van de rechthebbende.
+2. Hij behoeft echter toestemming van de rechthebbende of, indien deze daartoe niet in staat of weigerachtig is, machtiging van de kantonrechter voor de volgende handelingen:
+a. beschikken en aangaan van overeenkomsten tot beschikking over een onder het bewind staand goed, tenzij de handeling als een gewone beheersdaad kan worden beschouwd of krachtens rechterlijk bevel geschiedt;
+b. een making of gift waaraan lasten of voorwaarden zijn verbonden, aannemen;
+c. geld lenen of de rechthebbende als borg of hoofdelijke medeschuldenaar verbinden;
+d. overeenkomen dat een boedel waartoe de rechthebbende gerechtigd is, voor een bepaalde tijd onverdeeld wordt gelaten;
+e. het aangaan, buiten het geval van artikel 20 van het Wetboek van Burgerlijke Rechtsvordering, van een overeenkomst tot het beëindigen van een geschil, tenzij het voorwerp van het geschil een door de President van het Hof van Justitie vastgestelde waarde niet te boven gaat;
+f. andere bij de instelling van het bewind of nadien aangewezen handelingen.
+3. De kantonrechter kan ook aan de bewindvoerder een doorlopende machtiging met zodanige voorwaarden als hij geraden acht, verlenen om handelingen als in lid 2 bedoeld, te verrichten, en een verleende machtiging te allen tijde wijzigen of intrekken.
+4. De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd de verdeling te vorderen van goederen waarvan een onverdeeld aandeel tot zijn bewind behoort. Tot een verdeling, ook al geschiedt zij krachtens rechterlijk bevel, behoeft de bewindvoerder toestemming of machtiging overeenkomstig lid 2. De kantonrechter kan, in stede van machtiging te verlenen, met overeenkomstige toepassing van artikel 181 van Boek 3 een onzijdig persoon benoemen, die in plaats van de bewindvoerder de rechthebbende bij de verdeling vertegenwoordigt.
+5. De bewindvoerder is, met uitsluiting van de rechthebbende, bevoegd een aan de rechthebbende opgekomen nalatenschap te aanvaarden. Tenzij de aanvaarding geschiedt met toestemming van de rechthebbende, kan de bewindvoerder niet anders aanvaarden dan onder het voorrecht van boedelbeschrijving.

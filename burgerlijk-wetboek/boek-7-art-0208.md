@@ -1,0 +1,2 @@
+# Boek 7, Artikel 208
+Onverminderd de gevolgen van niet-nakoming van de verplichting van artikel 206 is de verhuurder tot vergoeding van de door een gebrek veroorzaakte schade verplicht, indien het gebrek na het aangaan van de overeenkomst is ontstaan en aan hem is toe te rekenen, alsmede indien het gebrek bij het aangaan van de overeenkomst aanwezig was en de verhuurder het toen kende of had behoren te kennen, of toen aan de huurder heeft te kennen gegeven dat de zaak het gebrek niet had.

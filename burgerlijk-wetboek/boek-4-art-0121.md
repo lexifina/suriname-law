@@ -1,0 +1,3 @@
+# Boek 4, Artikel 121
+1. Een legataris is bevoegd de hem opgelegde sublegaten en tot een uitgave in geld of goed verplichtende lasten te verminderen, voor zover de waarde van het hem gelegateerde ontoereikend is of door vermindering ontoereikend wordt om aan de hem opgelegde verplichtingen te voldoen.
+2. Tenzij uit de uiterste wil een andere wijze van vermindering voortvloeit, ondergaan deze verplichtingen alle een evenredige vermindering, met dien verstande dat voor zover de prestatie is te beschouwen als voldoening aan een natuurlijke verbintenis van de erflater, die verplichting pas na de andere voor vermindering in aanmerking komt.

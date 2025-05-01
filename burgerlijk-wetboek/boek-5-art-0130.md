@@ -1,0 +1,4 @@
+# Boek 5, Artikel 130
+1. Wanneer een appartementseigenaar van oordeel is dat een besluit van een orgaan van de vereniging van eigenaars waarop artikel 129 niet van toepassing is, door de inhoud of wijze van totstandkoming zijn belangen onredelijk aantast, kan hij binnen een maand na het tijdstip waarop hij van het besluit kennis heeft kunnen nemen, aan de kantonrechter binnen wiens rechtsgebied het gebouw of het grootste gedeelte daarvan is gelegen verzoeken het te vernietigen.
+2. De verzoeker, alle andere stemgerechtigden en de vereniging van eigenaars worden bij name opgeroepen om op het verzoek te worden gehoord. Hoger beroep kan door de verzoeker of de vereniging slechts worden ingesteld binnen een maand na de dagtekening der eindbeschikking; de eerste volzin is in hoger beroep van overeenkomstige toepassing.
+3. De rechter voor wie het verzoek aanhangig is, is bevoegd het besluit te schorsen totdat op het verzoek onherroepelijk is beslist.

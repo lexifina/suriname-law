@@ -1,0 +1,11 @@
+# Boek 7, Artikel 246
+1. De huurprijs van woonruimte kan op verzoek van de huurder of verhuurder worden gewijzigd, met dien verstande dat de huurprijs niet binnen een jaar
+nadat deze is overeengekomen wordt verhoogd.
+2. Een voorstel tot wijziging van de huurprijs moet door de verhuurder ten minste drie maanden vóór de voorgestelde datum van ingang van de wijziging schriftelijk aan de huurder worden gedaan en dient te vermelden:
+a. de geldende huurprijs;
+b. het percentage of het bedrag van de wijziging van de huurprijs;
+c. de voorgestelde huurprijs;
+d. de voorgestelde datum van ingang van de voorgestelde huurprijs;
+e. de gronden waarop de voorgestelde wijziging is gebaseerd met dien verstande dat, bij onveranderde woonruimte of woonomstandigheden, de huurprijs slechts mag worden aangepast op basis van het percentage van de jaarinflatie zoals door ABS vastgesteld en bekendgemaakt.
+3. Indien de huurder met een voorstel van de verhuurder tot wijziging van de huurprijs niet instemt, kan de huurder binnen twee weken na het tijdstip waarop door de verhuurder de melding van de wijziging van de huurprijs is gedaan hiertegen bezwaar maken bij de verhuurder. Indien partijen daarna niet tot overeenstemming kunnen komen over de verhoging van de huurprijs, kan de huurder of de verhuurder tot uiterlijk een maand na kennisgeving de Huurcommissie schriftelijk verzoeken om advies omtrent de juistheid dan wel de redelijkheid van het voorstel en de hoogte van de huurprijs vast te stellen.
+4. De Huurcommissie doet binnen twee weken voor het ingaan van de voorgestelde wijziging van de huurprijs schriftelijk advies omtrent de redelijkheid van de overeengekomen of voorgestelde huurprijs. Indien de Huurcommissie de door de verhuurder voorgestelde huurprijs mede gelet op de kwaliteit van de woonruimte niet redelijk acht, vermeldt de Huurcommissie in haar advies de huurprijs die zij wel redelijk acht. Indien de Huurcommissie het ongewijzigd blijven van de huurprijs redelijk acht, wordt zulks eveneens in het advies vermeld. Het voorgaande, indien partijen of een der partijen zich in het advies van de Huurcommissie niet kunnen (kan) terugvinden, laat onverlet de bevoegdheid van partijen de kantonrechter te adiëren.

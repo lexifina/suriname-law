@@ -1,0 +1,2 @@
+# Boek 7, Artikel 934
+Het niet nakomen van de verplichting tot betaling van de vervolgpremie kan eerst leiden tot beëindiging of schorsing van de verzekeringsovereenkomst of de dekking, nadat de schuldenaar na de vervaldag onder vermelding van de gevolgen van het uitblijven van betaling vruchteloos is aangemaand tot betaling binnen een termijn van veertien dagen, aanvangende op de dag na aanmaning. De eerste volzin geldt niet voor het geval, bedoeld in artikel 83 onder c van Boek 6.

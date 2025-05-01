@@ -1,0 +1,2 @@
+# Boek 3, Artikel 57
+Behoeft een rechtshandeling om het beoogde gevolg te hebben goedkeuring, machtiging, vergunning of enige andere vorm van toestemming van een overheidsorgaan of van een andere persoon die geen partij bij de rechtshandeling is, dan kan iedere onmiddellijk belanghebbende aan degenen die partij bij de rechtshandeling zijn geweest, aanzeggen dat indien niet binnen een redelijke, bij die aanzegging gestelde termijn die toestemming wordt verkregen, de handeling te zijnen aanzien zonder gevolg zal blijven.

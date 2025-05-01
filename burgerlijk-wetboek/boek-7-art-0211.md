@@ -1,0 +1,4 @@
+# Boek 7, Artikel 211
+1. Wanneer tegen de huurder door een derde een vordering wordt ingesteld tot uitwinning of tot verlening van een recht waarmee de zaak waarop de huurovereenkomst betrekking heeft, ingevolge die overeenkomst niet belast had mogen zijn, is de verhuurder na kennisgeving daarvan door de huurder gehouden in het geding tussen te komen.
+2. De verhuurder moet aan de huurder alle door deze vordering ontstane kosten vergoeden, maar, als de kennisgeving niet onverwijld is geschied, alleen de na de kennisgeving ontstane kosten.
+3. Wanneer tegen de onderhuurder een vordering betreffende het ondergehuurde wordt ingesteld door de hoofdverhuurder, zijn de leden 1 en 2 van overeenkomstige toepassing op de onderverhuurder. Voor de toepassing van artikel 73 van het Wetboek van Burgerlijke Rechtsvordering wordt deze vordering gelijkgesteld aan een vordering tot uitwinning.

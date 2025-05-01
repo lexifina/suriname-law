@@ -1,0 +1,3 @@
+# Boek 1, Artikel 174
+1. Indien een tussen de echtgenoten bestaande gemeenschap van goederen door één van hen is benadeeld doordat hij na de aanvang van het geding of binnen zes maanden daarvóór lichtvaardig schulden heeft gemaakt, goederen der gemeenschap heeft verspild, of rechtshandelingen als bedoeld in artikel 88 zonder de vereiste toestemming of machtiging heeft verricht, is hij gehouden, nadat de beschikking van scheiding van tafel en bed is ingeschreven, de aangerichte schade aan de gemeenschap te vergoeden.
+2. Een op lid 1 gegronde rechtsvordering kan niet later worden ingesteld dan drie jaar nadat de beschikking van scheiding van tafel en bed is ingeschreven.

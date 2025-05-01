@@ -1,0 +1,2 @@
+# Boek 1, Artikel 372
+Na het einde van zijn bewind doet de voogd daarvan onverwijld rekening en verantwoording. De kosten worden door de voogd betaald. Zij komen echter ten laste van de minderjarige, tenzij het bewind wegens ontzetting van de voogd eindigt. Voor zover de kosten niet op de minderjarige kunnen worden verhaald, komen zij ten laste van de ouders, en, zo zij ook op hen niet kunnen worden verhaald, ten laste van de Staat.

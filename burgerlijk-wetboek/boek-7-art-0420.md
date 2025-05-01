@@ -1,0 +1,4 @@
+# Boek 7, Artikel 420
+1. Indien een lasthebber die in eigen naam een overeenkomst heeft gesloten met een derde, zijn verplichtingen jegens de lastgever niet nakomt of in staat van faillissement geraakt, kan de lastgever de voor overgang vatbare rechten van de lasthebber jegens de derde door een schriftelijke verklaring aan hen beiden op zich doen overgaan, behoudens voor zover zij in de onderlinge verhouding tussen lastgever en lasthebber aan deze laatste toekomen.
+2. Dezelfde bevoegdheid heeft de lastgever indien de derde zijn verplichtingen tegenover de lasthebber niet nakomt, tenzij deze de lastgever voldoet alsof de derde zijn verplichtingen was nagekomen.
+3. De lasthebber is in de in de leden 1 en 2 bedoelde gevallen gehouden de naam van de derde aan de lastgever op diens verzoek mee te delen.

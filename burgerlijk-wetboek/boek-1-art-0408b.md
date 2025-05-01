@@ -1,0 +1,2 @@
+# Boek 1, Artikel 408b
+Hebben twee personen langdurig samengeleefd als waren zij gehuwd en is aan deze samenleving anders dan door de dood een einde gekomen, dan kan de rechter, indien dat redelijk is, aan een van hen op diens verzoek ten laste van de ander een uitkering tot levensonderhoud toekennen. Het bepaalde omtrent een uitkering tot levensonderhoud aan een gewezen echtgenoot is van overeenkomstige toepassing.

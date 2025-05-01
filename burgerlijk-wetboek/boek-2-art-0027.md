@@ -1,0 +1,6 @@
+# Boek 2, Artikel 27
+1. De rechtspersoon wordt, onverminderd het elders in de wet bepaalde, ontbonden:
+a. door een daartoe strekkend besluit van de algemene vergadering of, indien de rechtspersoon een stichting is en de statuten dat toelaten, door een besluit van een daartoe in de statuten aangewezen orgaan of derde;
+b. na faillietverklaring, door hetzij opheffing van het faillissement wegens gebrek aan baten, hetzij insolventie.
+2. Van de ontbinding wordt door de vereffenaars, in het geval van lid 1 onder b, door de curator, mededeling gedaan in het blad waarin van overheidswege de officiële berichten worden geplaatst en in een in Suriname verschijnend dagblad. Indien de rechtspersoon is ingeschreven in het handelsregister wordt van de ontbinding tevens opgave gedaan ten kantore van het handelsregister, ter inschrijving.
+3. De statuten kunnen andere wijzen van ontbinding aangeven. Een ontbinding krachtens een statutaire bepaling als bedoeld in dit lid treedt niet in werking alvorens daaraan bekendheid is gegeven overeenkomstig het lid 2. De statutaire bepaling verliest haar geldigheid indien de vereffenaars niet binnen zes maanden na het tijdstip waarop dat voor het eerst mogelijk was, al het nodige hebben gedaan om de in lid 2 bedoelde mededeling en inschrijving te doen plaatsvinden.

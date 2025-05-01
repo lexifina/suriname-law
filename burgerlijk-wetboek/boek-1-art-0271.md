@@ -1,0 +1,6 @@
+# Boek 1, Artikel 271
+1. Indien de kantonrechter het in het belang van het kind noodzakelijk acht, kan hij een ouder wiens ontzetting is verzocht, hangende het onderzoek geheel of gedeeltelijk in de uitoefening van het gezag over een of meer van zijn kinderen schorsen. Gelijke bevoegdheid komt hem toe ten opzichte van een ouder wiens ontheffing is verzocht, in de gevallen, bedoeld in artikel 268 lid 2.
+2. Indien de andere ouder mede het gezag uitoefent, wordt gedurende de schorsing het gezag door hem alleen uitgeoefend.
+3. Acht de rechter in dit laatste geval de schorsing van de te ontzetten ouder onvoldoende om het kind aan diens invloed te onttrekken, dan kan hij ook de andere ouder schorsen.
+4. Betreft de schorsing beide ouders of een ouder die het gezag alleen uitoefent, dan vertrouwt de rechter het kind voorlopig toe aan het Bureau voor Familierechtelijke Zaken, waarbij hij deze laatste ten aanzien van persoon en vermogen van dit kind de bevoegdheden verleent die hij geschikt acht.
+5. De in dit artikel bedoelde beschikkingen blijven van kracht, totdat de uitspraak omtrent de ontzetting of de ontheffing in kracht van gewijsde is gegaan. De rechter kan zodanige beschikking evenwel met ingang van een vroeger tijdstip herroepen.

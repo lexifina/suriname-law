@@ -1,0 +1,3 @@
+# Boek 7, Artikel 36
+1. In geval van ontbinding van de koop is, wanneer de zaak een dagprijs heeft, de schadevergoeding gelijk aan het verschil tussen de in de overeenkomst bepaalde prijs en de dagprijs ten dage van de niet-nakoming.
+2. Voor de berekening van deze schadevergoeding is de in aanmerking te nemen dagprijs die van de markt waar de zaak had moeten worden afgeleverd, of, indien er geen dergelijke dagprijs is of deze bezwaarlijk zou kunnen worden toegepast, de prijs van de markt die deze redelijkerwijs kan vervangen; hierbij wordt rekening gehouden met verschillen in de kosten van vervoer van de zaak.

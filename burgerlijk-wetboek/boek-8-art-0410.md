@@ -1,0 +1,2 @@
+# Boek 8, Artikel 410
+Indien een vervoerovereenkomst is gesloten en bovendien een cognossement is afgegeven, wordt, behoudens artikel 441 lid 2, tweede volzin, de rechtsverhouding tussen de vervoerder en de afzender door de bedingen van de vervoerovereenkomst en niet door die van dit cognossement beheerst. Behoudens het in artikel 441 lid 1 gestelde vereiste van houderschap van het cognossement, strekt dit aan hen dan slechts tot bewijs van de ontvangst der zaken door de vervoerder.

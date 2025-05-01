@@ -1,0 +1,2 @@
+# Boek 8, Artikel 1701
+Een termijn, bij afloop waarvan een rechtsvordering verjaart of vervalt, kan worden verlengd bij overeenkomst tussen partijen, gesloten nadat het feit, dat de rechtsvordering heeft doen ontstaan, heeft plaatsgehad. In afwijking van artikel 1700 lid 1, wordt een dergelijke verlenging niet aangemerkt als een wijziging van aansprakelijkheid van degene aan wie een beroep op een dergelijke termijn toekomt.

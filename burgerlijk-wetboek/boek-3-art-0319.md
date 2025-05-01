@@ -1,0 +1,3 @@
+# Boek 3, Artikel 319
+1. Door stuiting van de verjaring van een rechtsvordering, anders dan door het instellen van een eis die door toewijzing wordt gevolgd, begint een nieuwe verjaringstermijn te lopen met de aanvang van de volgende dag. Is een bindend advies gevraagd en verkregen, dan begint de nieuwe verjaringstermijn te lopen met de aanvang van de dag, volgende op die waarop het bindend advies is uitgebracht.
+2. De nieuwe verjaringstermijn is gelijk aan de oorspronkelijke, doch niet langer dan vijf jaar. Niettemin treedt de verjaring in geen geval op een eerder tijdstip in dan waarop ook de oorspronkelijke termijn zonder stuiting zou zijn verstreken.

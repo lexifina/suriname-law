@@ -1,0 +1,3 @@
+# Boek 7, Artikel 661
+1. De werknemer die bij de uitvoering van de overeenkomst schade toebrengt aan de werkgever of aan een derde jegens wie de werkgever tot vergoeding van die schade is gehouden, is te dier zake niet jegens de werkgever aansprakelijk, tenzij de schade een gevolg is van zijn opzet of bewuste roekeloosheid. Uit de omstandigheden van het geval kan, mede gelet op de aard van de overeenkomst, anders voortvloeien dan in de eerste volzin is bepaald.
+2. Afwijking van lid 1 en van artikel 170 lid 3 van Boek 6 ten nadele van de werknemer is slechts mogelijk bij schriftelijke overeenkomst en slechts voor zover de werknemer te dier zake verzekerd is.

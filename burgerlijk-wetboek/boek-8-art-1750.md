@@ -1,0 +1,3 @@
+# Boek 8, Artikel 1750
+1. Behoudens de artikelen 1751 tot en met 1754, verjaart een op een overeenkomst van personenvervoer als bedoeld in titel 5, afdeling 3, gegronde rechtsvordering door verloop van één jaar, welke termijn begint met de aanvang van de dag, volgende op die waarop de reiziger het vervoermiddel heeft verlaten of had moeten verlaten.
+2. In afwijking van lid 1 zijn op de verjaring van een rechtsvordering ter zake van het vervoer van bagage, geen hut- of handbagage in de zin van de artikel 500, noch een als bagage ten vervoer aangenomen voertuig of schip of levend dier zijnde, de artikelen 1710 tot en met 1722 van overeenkomstige toepassing.

@@ -1,0 +1,7 @@
+# Boek 3, Artikel 136
+1. Met betrekking tot een tot het trustvermogen behorend goed ter zake waarvan inschrijvingen kunnen plaatsvinden in een ingevolge de wet gehouden register, kan de trustee verlangen dat een inschrijving geschiedt op zijn naam en in zijn hoedanigheid van trustee, of op een zodanige andere wijze dat van het bestaan van de trust blijkt.
+2. Tenzij in de trustakte anders is bepaald, moet de trustee het bestaan van het trustverband doen inschrijven:
+a. in de openbare registers, bedoeld in titel 1, afdeling 2, voor zover het trustvermogen bestaat uit registergoederen;
+b. in het register van aandeelhouders, voor zover het trustvermogen bestaat uit aandelen op naam in een naamloze vennootschap;
+c. in het handelsregister, voor zover het trustvermogen bestaat uit een onderneming of een aandeel van een volledig aansprakelijke vennoot in een openbare vennootschap.
+3. Tenzij in de trustakte anders is bepaald of zulks naar verkeersopvattingen niet van de trustee kan worden gevergd, dan wel naar het toepasselijke recht onmogelijk of verboden is, moet de trustee aan zijn wederpartij kenbaar maken dat hij handelt in zijn hoedanigheid van trustee. Is aan de wederpartij kenbaar dat de trustee handelt in zijn hoedanigheid, dan is geen verhaal mogelijk op het niet aan de trust onderworpen vermogen van de trustee, tenzij de trustee de verplichtingen die voor hem uit de trust voortvloeien heeft geschonden.

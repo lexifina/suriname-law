@@ -1,0 +1,4 @@
+# Boek 8, Artikel 394
+1. De afzender is verplicht de vervoerder omtrent de zaken alsmede omtrent de behandeling daarvan tijdig al die opgaven te doen, waartoe hij in staat is of behoort te zijn, en waarvan hij weet of behoort te weten, dat zij voor de vervoerder van belang zijn, tenzij hij mag aannemen dat de vervoerder deze gegevens kent.
+2. De vervoerder is niet gehouden, doch wel gerechtigd te onderzoeken of de hem gedane opgaven juist en volledig zijn.
+3. Is bij het verstrijken van de tijd, waarbinnen de zaken ter beschikking van de vervoerder moeten zijn gesteld, door welke oorzaak dan ook, niet of slechts gedeeltelijk voldaan aan de in lid 1 genoemde verplichting van de afzender, dan is, behalve in het geval van tijdbevrachting, artikel 392 leden 2 tot en met 5 van overeenkomstige toepassing.

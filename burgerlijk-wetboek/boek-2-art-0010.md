@@ -1,0 +1,11 @@
+# Boek 2, Artikel 10
+1. Behoudens beperkingen die uit de wet, de statuten, een vennootschappelijke overeenkomst of een reglement voortvloeien, wordt de rechtspersoon vertegenwoordigd door het bestuur. Indien er meer bestuurders zijn wordt de rechtspersoon vertegenwoordigd door iedere bestuurder, voor zover niet anders voortvloeit uit een regeling als bedoeld in de eerste volzin.
+2. Beperkingen van de bestuursbevoegdheid, bedoeld in artikel 8 lid 2, strekken mede tot beperking van de daarmee samenhangende vertegenwoordigingsbevoegdheid.
+3. Voor zover de statuten dit niet uitsluiten kan een beperking van de vertegenwoordigingsbevoegdheid als bedoeld in de leden 1 en 2 worden tegengeworpen aan een wederpartij die:
+a. van de beperking op de hoogte was of zonder eigen onderzoek moest zijn;
+b. door raadpleging van het handelsregister op de hoogte kon zijn van de beperking.
+De leden 2 en 3 van artikel 61 van Boek 3 vinden overeenkomstige toepassing. Aan de wederpartij komt slechts toe een beroep op de leden 4 en 5.
+4. Een wederpartij mag afgaan op een door het bestuur of een bestuurder aan de wederpartij gerichte verklaring dat de rechtspersoon geen beroep zal doen op een of meer beperkingen als bedoeld in de leden 1 en 2.
+5. Onverminderd het bepaalde in lid 4 is het bestuur verplicht om op verzoek van een wederpartij uitsluitsel te geven over de vraag of er sprake is van een beperking als bedoeld in de leden 1 en 2 en wat de aard daarvan is. Wordt het gevraagde uitsluitsel niet binnen een door de wederpartij gestelde, redelijke termijn gegeven, dan kan deze de rechtshandeling als ongeldig van de hand wijzen, mits dit onverwijld na afloop van die termijn geschiedt. Hetzelfde geldt indien het bestuur niet binnen een door de wederpartij gestelde, redelijke termijn aan deze mede deelt dat aan de voorwaarden voor opheffing van een beperking is voldaan. Iedere bestuurder is bevoegd om namens het bestuur een verklaring als in dit lid bedoeld af te geven.
+6. Een uiting als omschreven in de leden 4 of 5 wordt schriftelijk gedaan. Een onvolledige of onduidelijke verklaring kan niettemin op andere wijze worden aangevuld of verduidelijkt.
+7. De statuten kunnen ook aan andere door of krachtens de statuten aan te wijzen functionarissen, al dan niet tezamen met bestuurders, vertegenwoordigingsbevoegdheid toekennen.

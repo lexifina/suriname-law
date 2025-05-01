@@ -1,0 +1,7 @@
+# Boek 7, Artikel 215
+1. De huurder is niet bevoegd de inrichting of gedaante van het gehuurde geheel of gedeeltelijk te veranderen dan na schriftelijke toestemming van de verhuurder, tenzij het gaat om veranderingen en toevoegingen die bij het einde van de huur zonder noemenswaardige kosten kunnen worden ongedaan gemaakt en verwijderd.
+2. Indien de verhuurder de toestemming niet verleent, kan de huurder vorderen dat de rechter hem zal machtigen tot het aanbrengen van de veranderingen. Indien de verhuurder niet tevens de eigenaar, vruchtgebruiker, grondhuurder of erfpachter van de zaak is, draagt de verhuurder ervoor zorg dat ook de eigenaar, vruchtgebruiker, grondhuurder of erfpachter tijdig in het geding wordt geroepen. Indien op de zaak een hypotheek rust, bestaat deze verplichting tevens ten aanzien van de hypotheekhouder.
+3. De rechter wijst de vordering slechts toe, indien de veranderingen noodzakelijk zijn voor een doelmatig gebruik van het gehuurde door de huurder of het woongenot verhogen en geen zwaarwichtige bezwaren aan de zijde van de verhuurder zich tegen het aanbrengen daarvan verzetten.
+4. De rechter kan aan de machtiging voorwaarden verbinden of daarbij een last opleggen; hij kan op vordering van de verhuurder de huurprijs verhogen, indien de veranderingen daartoe aanleiding geven.
+5. In geval van huur van een gebouwde onroerende zaak of een gedeelte daarvan kan van de leden 1 tot en met 5 niet ten nadele van de huurder worden afgeweken.
+6. Dit artikel is niet van toepassing op woonruimte waarop afdeling 5 van toepassing is.

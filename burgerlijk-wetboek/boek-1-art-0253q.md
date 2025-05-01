@@ -1,0 +1,6 @@
+# Boek 1, Artikel 253q
+1. Wanneer een van de ouders die gezamenlijk het gezag over hun minderjarige kinderen uitoefenen, op een der in artikel 246 genoemde gronden daartoe onbevoegd is, oefent de andere ouder alleen het gezag over de kinderen uit. Wanneer de grond van de onbevoegdheid is weggevallen, herleeft van rechtswege het gezamenlijke gezag.
+2. Wanneer beide ouders die gezamenlijk het gezag over hun minderjarige kinderen uitoefenen, daartoe op een der in artikel 246 genoemde gronden onbevoegd zijn, benoemt de kantonrechter een voogd.
+3. Wanneer een ouder die alleen het gezag uitoefent, op een der in artikel 246 genoemde gronden daartoe onbevoegd is, belast de kantonrechter de andere ouder met het gezag, tenzij gegronde vrees bestaat dat de belangen van de kinderen zouden worden verwaarloosd. Alsdan benoemt hij een voogd.
+4. De in de leden 2 en 3 bedoelde beslissingen worden gegeven op verzoek van een ouder, bloed- of aanverwanten van de minderjarige, het Bureau voor Familierechtelijke Zaken of ambtshalve.
+5. Wanneer de grond van de onbevoegdheid van de in lid 3 eerstgenoemde ouder is vervallen, wordt hij, op zijn verzoek, wederom met het gezag belast, indien de kantonrechter overtuigd is dat het kind wederom aan de ouder mag worden toevertrouwd. Op verzoek van de ouders of een van hen kan hij de ouders gezamenlijk met het gezag belasten.

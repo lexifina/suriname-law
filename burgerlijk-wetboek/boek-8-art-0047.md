@@ -1,0 +1,2 @@
+# Boek 8, Artikel 47
+Indien een overeenkomst van gecombineerd goederenvervoer is gesloten en bovendien een CT-document is afgegeven, wordt, behoudens artikel 51 lid 2, tweede volzin, de rechtsverhouding tussen de gecombineerd vervoerder en de afzender door de bedingen van de overeenkomst van gecombineerd goederenvervoer en niet door die van dit CT-document beheerst. Behoudens het in artikel 51 lid 1 gestelde vereiste van houderschap van het CT-document, strekt dit aan hen dan slechts tot bewijs van de ontvangst der zaken door de gecombineerd vervoerder.

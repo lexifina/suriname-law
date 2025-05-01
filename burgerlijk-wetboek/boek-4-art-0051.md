@@ -1,0 +1,3 @@
+# Boek 4, Artikel 51
+1. Wanneer een echtgenoot ten laste van zijn gezamenlijke erfgenamen een bepaald goed uit de huwelijksgemeenschap heeft vermaakt, kan de legataris levering van het gehele goed van hen vorderen, doch zij kunnen, voor zover het goed bij de verdeling van de huwelijksgemeenschap aan de andere echtgenoot of diens erfgenamen wordt toebedeeld, volstaan met uitkering van de waarde van het goed. Deze bevoegdheid komt ook toe aan de andere echtgenoot die enig erfgenaam is, en diens erfgenamen.
+2. Lid 1 is alleen van toepassing indien de huwelijksgemeenschap op het ogenblik dat de beschikking werd gemaakt, nog niet was ontbonden.

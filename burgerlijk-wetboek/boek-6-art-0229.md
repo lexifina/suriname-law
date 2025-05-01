@@ -1,0 +1,2 @@
+# Boek 6, Artikel 229
+Een overeenkomst die de strekking heeft voort te bouwen op een reeds tussen partijen bestaande rechtsverhouding, is vernietigbaar, indien deze rechtsverhouding ontbreekt, tenzij dit in verband met de aard van de overeenkomst, de in het verkeer geldende opvattingen of de omstandigheden van het geval voor rekening van degene die zich op dit ontbreken beroept, behoort te blijven.

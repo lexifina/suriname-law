@@ -1,0 +1,3 @@
+# Boek 1, Artikel 104
+1. De echtgenoot die van het in artikel 103 omschreven voorrecht wil gebruik maken, is verplicht binnen drie maanden na de ontbinding der gemeenschap een akte van afstand te doen inschrijven in het huwelijksgoederenregister, aangewezen in artikel 116, op verbeurte van dit voorrecht.
+2. Indien de gemeenschap door de dood van de andere echtgenoot wordt ontbonden, begint de termijn van drie maanden te lopen op de dag waarop de echtgenoot die van het voorrecht wil gebruik maken, van dat overlijden kennis heeft genomen. Indien de gemeenschap door opheffing of door scheiding van tafel en bed is ontbonden, eindigt de termijn drie maanden nadat de beschikking in kracht van gewijsde is gegaan.

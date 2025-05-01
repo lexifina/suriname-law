@@ -1,0 +1,3 @@
+# Boek 7, Artikel 935
+1. De verzekeraar kan hetgeen hij schuldig is aan de tot uitkering gerechtigde die geen schuldenaar van de premie is, verrekenen met opeisbare premie voor dezelfde verzekering, de schade wegens vertraging in de voldoening daarvan en de kosten, bedoeld in artikel 96 lid 2 onder c van Boek 6. De eerste volzin geldt niet bij verzekeringen die aan toonder of order zijn gesteld.
+2. Bij een verzekering tegen aansprakelijkheid kan de verzekeraar in afwijking van artikel 127 lid 2 van Boek 6 geen andere premie, schade en kosten als bedoeld in lid 1 verrekenen met hetgeen hij aan de tot uitkering gerechtigde schuldig is, dan die ter zake van dezelfde verzekering.

@@ -1,0 +1,4 @@
+# Boek 6, Artikel 173
+1. De bezitter van een roerende zaak waarvan bekend is dat zij, zo zij niet voldoet aan de eisen die men in de gegeven omstandigheden aan de zaak mag stellen, een bijzonder gevaar voor personen of zaken oplevert, is, wanneer dit gevaar zich verwezenlijkt, aansprakelijk, tenzij aansprakelijkheid op grond van afdeling 1 zou hebben ontbroken indien hij dit gevaar op het tijdstip van ontstaan daarvan zou hebben gekend.
+2. Indien de zaak niet aan de in lid 1 bedoelde eisen voldoet wegens een gebrek als bedoeld in afdeling 3, bestaat geen aansprakelijkheid op grond van lid 1 voor schade als in die afdeling bedoeld, tenzij alle omstandigheden in aanmerking genomen, aannemelijk is dat het gebrek niet bestond op het tijdstip waarop het product in het verkeer is gebracht of dat het gebrek op een later tijdstip is ontstaan.
+3. De leden 1 en 2 zijn niet van toepassing op dieren, schepen en luchtvaartuigen.

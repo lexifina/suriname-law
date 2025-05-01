@@ -1,0 +1,6 @@
+# Boek 7, Artikel 464
+1. Indien in de uitoefening van een geneeskundig beroep of bedrijf anders dan krachtens een behandelingsovereenkomst handelingen op het gebied van de geneeskunst worden verricht, zijn deze afdeling alsmede artikel 404, artikel 405 lid 2 en artikel 406 van overeenkomstige toepassing, voor zover de aard van de rechtsbetrekking zich daartegen niet verzet.
+2. Betreft het handelingen als omschreven in artikel 446 lid 5, dan:
+a. worden de in artikel 454 bedoelde bescheiden slechts bewaard zolang dat noodzakelijk is in verband met het doel van het onderzoek, tenzij het bij of krachtens de wet bepaalde zich tegen vernietiging verzet;
+b. wordt de persoon op wie het onderzoek betrekking heeft in de gelegenheid gesteld mee te delen of hij de uitslag en de gevolgtrekking van het onderzoek wenst te vernemen. Indien die wens is geuit en de handelingen niet worden verricht in verband met een totstandgekomen arbeidsverhouding of burgerrechtelijke verzekering dan wel een opleiding waartoe de betrokkene reeds is toegelaten, wordt bedoelde persoon tevens in de gelegenheid gesteld mee te delen of hij van de uitslag en de gevolgtrekking als eerste kennis wenst te nemen teneinde te kunnen beslissen of daarvan mededeling aan anderen wordt gedaan.
+.

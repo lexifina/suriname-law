@@ -1,0 +1,4 @@
+# Boek 4, Artikel 17
+1. De echtgenoot kan, behoudens het bepaalde in de leden 2 en 3, de in artikel 13 lid 3 bedoelde geldvordering en de in artikel 13 lid 4 bedoelde verhoging te allen tijde geheel of gedeeltelijk voldoen. Een betaling wordt in de eerste plaats in mindering gebracht op de hoofdsom, vervolgens op de verhoging, tenzij de erflater, dan wel de echtgenoot en het kind tezamen, anders hebben bepaald.
+2. Indien een kind een bevoegdheid toekomt tot het doen van een verzoek als bedoeld in de artikelen 19, 20, 21 of 22, gaan de echtgenoot of diens erfgenamen niet over tot voldoening dan na te hebben gehandeld overeenkomstig artikel 25 lid 3.
+3. Is het in lid 2 bedoelde kind minderjarig, of meerderjarig doch heeft dit niet het vrije beheer over zijn vermogen, dan behoeft de voldoening de goedkeuring van de kantonrechter. Deze beslist naar de maatstaf van artikel 26 lid 1.

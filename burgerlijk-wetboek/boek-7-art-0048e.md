@@ -1,0 +1,4 @@
+# Boek 7, Artikel 48e
+1. Ontbinding van de koop overeenkomstig artikel 48c leden 1 en 2 brengt van rechtswege en zonder dat de koper een boete is verschuldigd de ontbinding mee van een overeenkomst die ertoe strekt dat de verkoper aan de koper ten behoeve van de voldoening van de prijs een geldsom leent.
+2. In geval van ontbinding van de koop overeenkomstig artikel 48c leden 1 en 2 heeft de koper tevens het recht, zonder gebondenheid aan de in artikel 48c lid 1 bedoelde termijn, een ingevolge een overeenkomst tussen de verkoper en een derde aangegane overeenkomst die ertoe strekt dat de derde aan de koper ten behoeve van de voldoening van de prijs een geldsom leent, zonder boete te ontbinden. Op de ontbinding overeenkomstig de voorgaande volzin is artikel 48c lid 2 van overeenkomstige toepassing.
+3. In geval van ontbinding overeenkomstig de leden 1 en 2 is de koper geen enkele vergoeding verschuldigd.

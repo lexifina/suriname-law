@@ -1,0 +1,3 @@
+# Boek 3, Artikel 160
+1. In de in artikel 159 lid 1onder a, c en e vermelde gevallen draagt de trustee bij zijn eindrekening en verantwoording alle tot het trustvermogen behorende goederen, overeenkomstig de voor elk van die goederen geldende regelen, over aan degene, die daartoe in de trustakte is aangewezen en bij gebreke van zodanige aanwijzing, aan de insteller of zijn rechtsopvolgers onder algemene titel. Ingeval ook deze ontbreken, dient de eindrekening en verantwoording te worden afgelegd aan de Centrale Bank van Suriname en dienen de overblijvende goederen te worden verkocht, met afdracht van de opbrengst daarvan aan de Staat.
+2. Ontbreekt een trustee, dan benoemt de kantonrechter, op verzoek van een belanghebbende of ambtshalve, een vereffenaar.

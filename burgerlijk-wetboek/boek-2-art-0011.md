@@ -1,0 +1,3 @@
+# Boek 2, Artikel 11
+1. De bevoegdheid ter zake van rechtshandelingen met of rechtsgedingen tegen een bestuurder berust bij de raad van commissarissen. Ontbreekt een raad van commissarissen dan berust deze bevoegdheid bij de algemene vergadering of een voor dat geval door de algemene vergadering aan te wijzen persoon of orgaan. Bij de stichting geschiedt de aanwijzing door de rechter op verzoek van een belanghebbende.
+2. Van lid 1 kan in de statuten worden afgeweken. Daarvan kan ook worden afgeweken in een krachtens de statuten door de algemene vergadering, bij de stichting door een ander orgaan dan het bestuur, vastgesteld reglement.

@@ -1,0 +1,2 @@
+# Boek 1, Artikel 96a
+Indien een echtgenoot door een begunstiging bij een door zijn overlijden tot uitkering komende sommenverzekering een gift aan een derde heeft gedaan en ten laste van de gemeenschap premies voor die verzekering zijn gekomen, is de echtgenoot deswege gehouden tot vergoeding aan de gemeenschap. De vergoeding beloopt een gedeelte van de waarde van de uitkering, evenredig aan het uit de gemeenschap afkomstige aandeel in de premies.

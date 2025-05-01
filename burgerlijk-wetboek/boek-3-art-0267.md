@@ -1,0 +1,2 @@
+# Boek 3, Artikel 267
+In de hypotheekakte kan worden bedongen dat de hypotheekhouder bevoegd is om het verhypothekeerde goed in beheer te nemen, indien de hypotheekgever in zijn verplichtingen jegens hem in ernstige mate te kort schiet en de kantonrechter hem machtiging verleent. Eveneens kan in de akte worden bedongen dat de hypotheekhouder bevoegd is de aan de hypotheek onderworpen zaak onder zich te nemen, indien zulks met het oog op de executie vereist is. Zonder uitdrukkelijke bedingen mist de hypotheekhouder deze bevoegdheden.

@@ -1,0 +1,4 @@
+# Boek 4, Artikel 221
+1. De in artikel 214 leden 1 en 5 en artikel 218 omschreven verplichtingen rusten op de erfgenamen die uit hoofde van aanvaarding onder voorrecht van boedelbeschrijving vereffenaar zijn, slechts indien de kantonrechter dit bepaalt.
+2. Een door de rechter benoemde vereffenaar behoeft een rekening en verantwoording en een uitdelingslijst niet neer te leggen, wanneer alle hem voor de afloop van de in artikel 218 lid 1 bedoelde termijn bekend geworden schulden ten volle worden voldaan, of wanneer de kantonrechter hem van deze neerlegging vrijstelt. Deze vrijstelling wordt niet verleend, wanneer een schuldeiser daartegen bezwaar maakt.
+3. Wordt de rekening en verantwoording niet neergelegd, dan geschiedt zij aan hen die een recht op het overschot hebben, op de wijze als voor bewindvoerders is bepaald.

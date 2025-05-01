@@ -1,0 +1,2 @@
+# Boek 8, Artikel 488
+Onverminderd het omtrent averij-grosse bepaalde en onverminderd titel 4, afdeling 1, van Boek 6 zijn de afzender, de ontvanger en, indien een cognossement is afgegeven, de in artikel 441 bedoelde houder daarvan, hoofdelijk verbonden de vervoerder de schade te vergoeden, geleden doordat deze zich als zaakwaarnemer inliet met de behartiging van de belangen van een rechthebbende op ten vervoer ontvangen zaken dan wel doordat de kapitein zijn in artikel 261 genoemde verplichtingen is nagekomen.

@@ -1,0 +1,2 @@
+# Boek 7, Artikel 754
+De aannemer is bij het aangaan of het uitvoeren van de overeenkomst verplicht de opdrachtgever te waarschuwen voor onjuistheden in de opdracht voor zover hij deze kende of redelijkerwijs behoorde te kennen. Hetzelfde geldt in geval van gebreken en ongeschiktheid van zaken afkomstig van de opdrachtgever, daaronder begrepen de grond waarop de opdrachtgever een werk laat uitvoeren, alsmede fouten of gebreken in door de opdrachtgever verstrekte plannen, tekeningen, berekeningen, bestekken of uitvoeringsvoorschriften.

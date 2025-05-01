@@ -1,0 +1,4 @@
+# Boek 7, Artikel 668
+1. Indien de arbeidsovereenkomst, welke niet zuiver het verrichten van losse, ongeregelde arbeid ten doel heeft, na het verstrijken van de tijd, in artikel 667 lid 1 omschreven, door partijen zonder tegenspraak wordt voortgezet, wordt zij geacht voor dezelfde duur, doch voor telkens ten hoogste een jaar, op de vroegere voorwaarden te zijn aangegaan.
+2. Hetzelfde geldt in de gevallen, waarin tijdige opzegging, welke bij een arbeidsovereenkomst aangegaan voor bepaalde tijd behoort plaats te hebben, achterwege blijft en de gevolgen voor de voortzetting van de arbeidsovereenkomst niet opzettelijk zijn geregeld.
+3. Hetzelfde geldt, indien in de bij artikel 667 lid 2 gestelde gevallen tijdige opzegging achterwege blijft en partijen de gevolgen daarvan niet opzettelijk hebben geregeld.

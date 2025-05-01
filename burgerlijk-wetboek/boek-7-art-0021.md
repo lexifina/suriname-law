@@ -1,0 +1,10 @@
+# Boek 7, Artikel 21
+1. Beantwoordt het afgeleverde niet aan de overeenkomst, dan kan de koper eisen:
+a. aflevering van het ontbrekende;
+b. herstel van de afgeleverde zaak, mits de verkoper hieraan redelijkerwijs kan voldoen;
+c. vervanging van de afgeleverde zaak, tenzij de afwijking van het overeengekomene te gering is om dit te rechtvaardigen, dan wel de zaak na het tijdstip dat de koper redelijkerwijs met ongedaanmaking rekening moet houden, teniet of achteruit is gegaan doordat hij niet als een zorgvuldig schuldenaar voor het behoud ervan heeft gezorgd.
+2. De kosten van nakoming van de in lid 1 bedoelde verplichtingen kunnen niet aan de koper in rekening worden gebracht.
+3. De verkoper is verplicht om, mede gelet op de aard van de zaak en op het bijzondere gebruik van de zaak dat bij de overeenkomst is voorzien, binnen een redelijke termijn en zonder ernstige overlast voor de koper, zijn in lid 1 bedoelde verplichtingen na te komen.
+4. Bij een consumentenkoop komt de koper, in afwijking van lid 1, slechts dan geen herstel of vervanging van de afgeleverde zaak toe indien herstel of vervanging onmogelijk is of van de verkoper redelijkerwijs niet gevergd kan worden.
+5. Herstel of vervanging kan bij een consumentenkoop van de verkoper niet gevergd worden indien de kosten daarvan in geen verhouding staan tot de kosten van uitoefening van een ander recht of een andere vordering die de koper toekomt, mede gelet op de beschikbaarheid van vervangende zaken of onderdelen, de waarde van de zaak indien zij aan de overeenkomst zou beantwoorden, de mate van afwijking van het overeengekomene en de vraag of de uitoefening van een ander recht of een andere vordering geen ernstige overlast voor de koper veroorzaakt.
+6. Indien bij een consumentenkoop de verkoper niet binnen een redelijke tijd nadat hij daartoe door de koper schriftelijk is aangemaand, aan zijn verplichting tot herstel van de afgeleverde zaak heeft voldaan, is de koper bevoegd het herstel door een derde te doen plaatsvinden en de kosten daarvan op de verkoper te verhalen.

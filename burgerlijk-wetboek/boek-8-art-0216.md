@@ -1,0 +1,2 @@
+# Boek 8, Artikel 216
+De vorderingen, bedoeld in artikel 211, doen een voorrecht op het schip ontstaan en zijn alsdan daarop verhaalbaar, zelfs wanneer zij zijn ontstaan tijdens de terbeschikkingstelling van het schip aan een bevrachter, dan wel tijdens de exploitatie van het schip door een ander dan de reder, tenzij aan deze de feitelijke macht over het schip door een ongeoorloofde handeling was ontnomen en bovendien de schuldeiser niet te goeder trouw was.

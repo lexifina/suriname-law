@@ -1,0 +1,6 @@
+# Boek 4, Artikel 120
+1. Schulden van de nalatenschap uit een legaat worden slechts ten laste van de nalatenschap voldaan, indien alle andere schulden van de nalatenschap daaruit ten volle kunnen worden voldaan.
+2. Voor zover de nalatenschap niet toereikend is om de schulden uit legaten te voldoen uit de erfdelen van de erfgenamen op wie zij rusten, worden zij verminderd.
+3. Tenzij uit de uiterste wil een andere wijze van vermindering voortvloeit, ondergaan deze verplichtingen alle een evenredige vermindering, met dien verstande dat, voor zover de prestatie is te beschouwen als voldoening aan een natuurlijke verbintenis van de erflater, die verplichting pas na de andere voor vermindering in aanmerking komt.
+4. Vermindering geschiedt door een verklaring aan de legataris door de met het legaat belaste erfgenamen of, indien de nalatenschap is verdeeld overeenkomstig artikel 13, de echtgenoot van de erflater. Voor zover de prestatie reeds is verricht, blijft de rechtsgrond daarvoor in stand, behoudens de mogelijkheid van terugvordering en verhaal als bedoeld in de artikelen 216 en 220 lid 3.
+5. Ondanks de vermindering blijven de erfgenamen die met hun gehele vermogen aansprakelijk zijn, gehouden tot voldoening voor het geheel.

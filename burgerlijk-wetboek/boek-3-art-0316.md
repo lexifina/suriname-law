@@ -1,0 +1,4 @@
+# Boek 3, Artikel 316
+1. De verjaring van een rechtsvordering wordt gestuit door het instellen van een eis, alsmede door iedere andere daad van rechtsvervolging van de zijde van de gerechtigde die in de vereiste vorm geschiedt.
+2. Leidt een ingestelde eis niet tot toewijzing, dan is de verjaring slechts gestuit, indien binnen zes maanden nadat het geding door het in kracht van gewijsde gaan van een uitspraak of op andere wijze is geëindigd, een nieuwe eis wordt ingesteld en deze alsnog tot toewijzing leidt. Wordt een daad van rechtsvervolging ingetrokken, dan stuit zij de verjaring niet.
+3. De verjaring van een rechtsvordering wordt ook gestuit door een handeling, strekkende tot verkrijging van een bindend advies, mits van die handeling met bekwame spoed mededeling wordt gedaan aan de wederpartij en zij tot verkrijging van een bindend advies leidt. Is dit laatste niet het geval, dan is lid 2 van overeenkomstige toepassing.

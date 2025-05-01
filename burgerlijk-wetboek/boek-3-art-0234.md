@@ -1,0 +1,4 @@
+# Boek 3, Artikel 234
+1. Indien voor eenzelfde vordering zowel goederen van de schuldenaar als van een derde zijn verpand of verhypothekeerd, kan de derde, wanneer de schuldeiser tot executie overgaat, verlangen dat die van de schuldenaar mede in de verkoop worden begrepen en het eerst worden verkocht.
+2. Zijn voor eenzelfde vordering twee of meer goederen verpand of verhypothekeerd en rust op een daarvan een beperkt recht dat de schuldeiser bij de executie niet behoeft te eerbiedigen, dan heeft de beperkt gerechtigde een overeenkomstige bevoegdheid als in lid 1 is vermeld.
+3. Indien de schuldeiser weigert aan een op lid 1 of lid 2 gegrond verlangen te voldoen, kan de kantonrechter op verzoek van de meest gerede partij of, in geval van een hypotheek, van de notaris ten overstaan van wie de verkoop zal geschieden, op deze weigering beslissen. Het verzoek schorst de executie. Tegen een beschikking krachtens dit lid is geen hogere voorziening toegelaten.

@@ -1,0 +1,6 @@
+# Boek 8, Artikel 484
+1. De vracht is verschuldigd na aflevering van de zaken ter bestemming of ter plaatse, waar de vervoerder hen met inachtneming van artikel 440 afleverde. Is de vracht bepaald naar gewicht of omvang der zaken, dan wordt hij berekend naar deze gegevens bij aflevering.
+2. Vracht die in één som voor alle zaken ter bestemming is bepaald, is, ook wanneer slechts een gedeelte van die zaken is afgeleverd, in zijn geheel verschuldigd.
+3. Onder voorbehoud van lid 5 is voor zaken, die onderweg zijn verkocht omdat hun beschadigdheid verder vervoer redelijkerwijs niet toeliet, de vracht verschuldigd, doch ten hoogste tot het bedrag van hun opbrengst.
+4. Vracht, die vooruit te voldoen is of voldaan is, is en blijft, behalve in geval van tijdbevrachting, in zijn geheel verschuldigd, ook wanneer de zaken niet ter bestemming worden afgeleverd.
+5. In waardeloze toestand afgeleverde zaken worden aangemerkt als niet te zijn afgeleverd. Zaken, die niet zijn afgeleverd, of die in waardeloze toestand zijn afgeleverd, worden desalniettemin aangemerkt als afgeleverde zaken, voor zover het niet of in waardeloze toestand afleveren het gevolg is van de aard of een gebrek van de zaken, dan wel van een handeling of nalaten van een rechthebbende op of de afzender of ontvanger van de zaken.

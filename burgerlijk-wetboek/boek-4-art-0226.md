@@ -1,0 +1,5 @@
+# Boek 4, Artikel 226
+1. Is de vereffening voltooid en met een overschot geëindigd, dan geeft een door de rechter benoemde vereffenaar de overgebleven goederen af aan de erfgenamen dan wel, indien de nalatenschap ingevolge artikel 13 is verdeeld, aan de echtgenoot van de erflater. Zijn er geen erfgenamen, is het niet bekend of er erfgenamen zijn, of zijn de erfgenamen niet bereid de goederen in ontvangst te nemen, dan geeft hij deze aan de Staat af.
+2. Zijn de erfgenamen die zich tot de inontvangstneming bereid tonen, slechts tot een deel van de nalatenschap gerechtigd, dan draagt de vereffenaar zorg dat de nalatenschap eerst wordt verdeeld. Daarna geeft hij hetgeen is toegedeeld aan erfgenamen die onbekend zijn of hebben nagelaten tot de verdeling mede te werken, aan de Staat af.
+3. De Staat is bevoegd de hem afgegeven goederen te verkopen; registergoederen mag hij slechts in het openbaar verkopen, tenzij de kantonrechter hem tot onderhandse verkoop machtigt.
+4. Is een goed van de nalatenschap of hetgeen daarvoor in de plaats is gekomen binnen twintig jaar nadat de nalatenschap is opengevallen door niemand opgeëist, dan vervalt het aan de Staat.

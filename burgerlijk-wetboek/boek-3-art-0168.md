@@ -1,0 +1,6 @@
+# Boek 3, Artikel 168
+1. De deelgenoten kunnen het genot, het gebruik en het beheer van gemeenschappelijke goederen bij overeenkomst regelen.
+2. Voor zover een overeenkomst ontbreekt, kan de kantonrechter op verzoek van de meest gerede partij een zodanige regeling treffen, zo nodig met onderbewindstelling van de goederen. Hij houdt daarbij naar billijkheid rekening zowel met de belangen van partijen als met het algemeen belang.
+3. Een bestaande regeling kan op verzoek van de meest gerede partij door de kantonrechter wegens onvoorziene omstandigheden gewijzigd of buiten werking worden gesteld.
+4. Een regeling is ook bindend voor de rechtverkrijgenden van een deelgenoot.
+5. Op een overeenkomstig lid 2 ingesteld bewind zijn, voor zover de kantonrechter niet anders heeft bepaald, de artikelen 154, 157 tot en met 166, 168, 172, 173 en 174 van Boek 4 van overeenkomstige toepassing, met dien verstande dat de kantonrechter de in artikel 159 van Boek 4 bedoelde beloning ook op grond van bijzondere omstandigheden anders kan regelen, alsmede dat hij de in artikel 160 van Boek 4 bedoelde zekerheidstelling te allen tijde kan bevelen. Het kan door een gezamenlijk besluit van de deelgenoten of op verzoek van een hunner door de kantonrechter worden opgeheven.

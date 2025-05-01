@@ -1,0 +1,3 @@
+# Boek 7, Artikel 904
+1. Indien gebondenheid aan een beslissing van een partij of van een derde in verband met inhoud of wijze van totstandkoming daarvan in de gegeven omstandigheden naar maatstaven van redelijkheid en billijkheid onaanvaardbaar zou zijn, is die beslissing vernietigbaar.
+2. Indien de beslissing van een partij of een derde vernietigd wordt, nietig blijkt of niet binnen een aan die partij of derde daartoe te stellen redelijke termijn wordt verkregen, kan de rechter een beslissing geven, tenzij uit de overeenkomst of de aard van de beslissing voortvloeit dat zij op andere wijze moet worden vervangen.

@@ -1,0 +1,3 @@
+# Boek 8, Artikel 393
+1. In geval van reisbevrachting is de vervrachter tegen zekerheidstelling voor wat hij van de bevrachter heeft te vorderen, op diens verlangen verplicht de reis te aanvaarden met een gedeelte der overeengekomen zaken. De bevrachter is verplicht de vervrachter de dientengevolge geleden schade te vergoeden.
+2. De vervrachter is bevoegd in plaats van de ontbrekende zaken andere aan te nemen. Hij is niet gehouden de vracht, die hij voor het vervoer van deze zaken ontvangt, met de bevrachter te verrekenen, behalve voor zover hij zijnerzijds van de bevrachter vergoeding van door hem geleden schade heeft geïnd of gevorderd.

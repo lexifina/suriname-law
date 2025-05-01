@@ -1,0 +1,2 @@
+# Boek 7, Artikel 950
+Indien de verzekeringnemer overlijdt, kunnen zijn erfgenamen en de verzekeraar de overeenkomst binnen negen maanden nadat zij met dit overlijden bekend zijn geworden met inachtneming van een termijn van een maand opzeggen. Wanneer de nalatenschap van de verzekeringnemer ingevolge artikel 13 van Boek 4 wordt verdeeld, komt de bevoegdheid van de erfgenamen, bedoeld in de eerste volzin, toe aan zijn echtgenoot.

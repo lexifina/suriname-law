@@ -1,0 +1,2 @@
+# Boek 5, Artikel 119a
+De artikelen 118, 118a en 119 zijn niet van toepassing op deeltijdappartementsrechten. Tot het vestigen van een erfdienstbaarheid, een recht van erfpacht of een recht van opstal en het aanbrengen van veranderingen, als in die artikelen bedoeld, zijn slechts de tot gebruik van de betrokken gedeelten bevoegde deeltijdappartementseigenaars gezamenlijk bevoegd na een besluit, genomen op de wijze en met de meerderheid als in het reglement van splitsing is voorgeschreven.

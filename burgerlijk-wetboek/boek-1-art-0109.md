@@ -1,0 +1,2 @@
+# Boek 1, Artikel 109
+Een echtgenoot kan opheffing van de gemeenschap verzoeken, wanneer de andere echtgenoot op lichtvaardige wijze schulden maakt, de goederen der gemeenschap verspilt, handelingen verricht die kennelijk indruisen tegen het bestuur van de andere echtgenoot over goederen der gemeenschap, of weigert de nodige inlichtingen te geven omtrent de stand van de goederen der gemeenschap en van de daarop verhaalbare schulden en het over die goederen gevoerde bestuur.

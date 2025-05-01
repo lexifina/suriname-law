@@ -1,0 +1,2 @@
+# Boek 8, Artikel 70
+Indien een overeenkomst tot het doen vervoeren van goederen niet naar behoren wordt uitgevoerd, dan wel een zaak niet zonder vertraging ter bestemming wordt afgeleverd in de staat, waarin zij ter beschikking is gesteld, is de expediteur, die te dier zake door zijn wederpartij buiten overeenkomst wordt aangesproken, jegens deze niet verder aansprakelijk dan hij dit zou zijn op grond van de door hen gesloten overeenkomst tot het doen vervoeren van die zaak.

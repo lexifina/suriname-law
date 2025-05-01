@@ -1,0 +1,4 @@
+# Boek 1, Artikel 159
+1. Bij de overeenkomst kan worden bedongen dat zij niet bij rechterlijke uitspraak zal kunnen worden gewijzigd op grond van een wijziging van omstandigheden. Een zodanig beding kan slechts schriftelijk worden gemaakt.
+2. Het beding vervalt, indien de overeenkomst is aangegaan vóór de indiening van het verzoek tot echtscheiding, tenzij dit binnen drie maanden na de overeenkomst is ingediend. Het voorgaande is van overeenkomstige toepassing bij een gemeenschappelijk verzoek.
+3. Ondanks een zodanig beding kan op verzoek van een der partijen de overeenkomst door de rechter bij de echtscheidingsbeschikking of bij latere beschikking worden gewijzigd op grond van een zo ingrijpende wijziging van omstandigheden dat de verzoeker naar maatstaven van redelijkheid en billijkheid niet langer aan het beding mag worden gehouden.

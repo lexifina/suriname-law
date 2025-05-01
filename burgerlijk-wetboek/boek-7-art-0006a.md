@@ -1,0 +1,8 @@
+# Boek 7, Artikel 6a
+1. Indien in geval van een consumentenkoop in een garantie door de verkoper of de producent bepaalde eigenschappen zijn toegezegd, bij het ontbreken waarvan de koper bepaalde rechten of vorderingen worden toegekend, dan kan de koper deze uitoefenen onverminderd alle andere rechten of vorderingen die de wet de koper toekent.
+2. In een garantie moet op duidelijke en begrijpelijke wijze worden vermeld welke in lid 1 bedoelde rechten of vorderingen een koper worden toegekend en moet worden vermeld dat deze een koper toekomen onverminderd de rechten of vorderingen die de wet hem toekent. Voorts moeten in een garantie de naam en het adres worden vermeld van de verkoper of de producent van wie de garantie afkomstig is, alsmede de duur en het gebied waarvoor de garantie geldt.
+3. De in lid 2 bedoelde gegevens moeten de koper op zijn verlangen worden verstrekt. Dit geschiedt schriftelijk of op een andere ter beschikking van de koper staande en voor hem toegankelijke duurzame gegevensdrager.
+4. De aan de koper door de verkoper of de producent in een garantiebewijs toegekende rechten of vorderingen komen hem ook toe indien de zaak niet de eigenschappen bezit die in een reclame door deze verkoper of producent zijn toegezegd.
+5. In dit artikel wordt verstaan onder:
+a. garantie: een in een garantiebewijs of reclame gedane toezegging als bedoeld in lid 1;
+b. producent: de fabrikant van de zaak, degene die de zaak in Suriname invoert, alsmede een ieder die zich als producent presenteert door zijn naam, zijn merk of een ander onderscheidingsteken op de zaak aan te brengen.

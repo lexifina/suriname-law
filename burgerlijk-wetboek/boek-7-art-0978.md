@@ -1,0 +1,3 @@
+# Boek 7, Artikel 978
+1. De verzekeringnemer heeft het recht de verzekering, voor zover deze stellig voorziet in een of meer uitkeringen, geheel of gedeeltelijk door de verzekeraar te doen afkopen. Door afkoop eindigt de verzekering, behoudens voor zover uit de verzekering nog uitkeringen kunnen voortvloeien. De afkoopwaarde komt de verzekeringnemer toe.
+2. Indien de verzekering premievrije waarde heeft, komt de verzekeringnemer het recht toe haar premievrij te doen voortzetten. Dit recht kan worden uitgesloten voor het geval dat bij premievrijmaking tegen verminderde bedragen de hoogte van de verminderde uitkering of uitkeringen beneden een bij staatsbesluit vast te stellen grens zou blijven.

@@ -1,0 +1,3 @@
+# Boek 5, Artikel 9
+1. Degene die de zaak opeist van de overheid of van de vinder die aan de hem in artikel 5 lid 1 gestelde eisen heeft voldaan, is verplicht de kosten van bewaring en onderhoud en tot opsporing van de eigenaar of een andere tot ontvangst bevoegde te vergoeden. De overheid of de vinder is bevoegd de afgifte op te schorten totdat deze verplichting is nagekomen. Indien degene die de zaak opeist, de verschuldigde kosten niet binnen een maand nadat ze hem zijn opgegeven, heeft voldaan, wordt hij geacht zijn recht te hebben prijsgegeven.
+2. De vinder die aan de hem opgelegde verplichtingen heeft voldaan, heeft naar omstandigheden recht op een redelijke beloning.

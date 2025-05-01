@@ -1,0 +1,2 @@
+# Boek 4, Artikel 20
+Indien een kind overeenkomstig artikel 13 lid 3 een geldvordering op zijn langstlevende ouder ter zake van de nalatenschap van zijn eerst overleden ouder heeft verkregen en de langstlevende ouder bij diens overlijden gehuwd was, dan zijn de erfgenamen van de langstlevende ouder of is de stiefouder, indien de nalatenschap is verdeeld overeenkomstig titel 3, afdeling 1, verplicht aan het kind op diens verzoek goederen over te dragen met een waarde van ten hoogste die geldvordering, vermeerderd met de in artikel 13 lid 4 bedoelde verhoging.

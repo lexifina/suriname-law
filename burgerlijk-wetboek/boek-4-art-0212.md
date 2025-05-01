@@ -1,0 +1,2 @@
+# Boek 4, Artikel 212
+Wanneer de wettelijke vertegenwoordiger van een erfgenaam of een door de rechter benoemde vereffenaar aan schuldeisers der nalatenschap schade heeft toegebracht, doordat hij opzettelijk goederen der nalatenschap aan het verhaal van de schuldeisers heeft onttrokken, kunnen zij van hem de voldoening van hun vordering eisen, voor zover hij niet bewijst dat hun schade op een lager bedrag moet worden gesteld.

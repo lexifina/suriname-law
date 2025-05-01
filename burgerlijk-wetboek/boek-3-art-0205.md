@@ -1,0 +1,7 @@
+# Boek 3, Artikel 205
+1. Tenzij een bewind reeds tot een voldoende boedelbeschrijving heeft geleid of daartoe verplicht, moet de vruchtgebruiker in tegenwoordigheid of na behoorlijke oproeping van de hoofdgerechtigde een notariële beschrijving van de goederen opmaken. De beschrijving kan ondershands worden opgemaakt, indien de hoofdgerechtigde tegenwoordig is en hoofdgerechtigde en vruchtgebruiker een regeling hebben getroffen omtrent haar bewaring.
+2. Zowel de vruchtgebruiker als de hoofdgerechtigde heeft het recht om in de beschrijving alle bijzonderheden te doen opnemen, die dienstig zijn om de toestand waarin de aan het vruchtgebruik onderworpen zaken zich bevinden, te doen kennen.
+3. De hoofdgerechtigde is bevoegd de levering en afgifte van de aan het vruchtgebruik onderworpen goederen op te schorten, indien de vruchtgebruiker niet tezelfdertijd zijn verplichting tot beschrijving nakomt.
+4. De vruchtgebruiker moet jaarlijks aan de hoofdgerechtigde een ondertekende nauwkeurige opgave zenden van de goederen die niet meer aanwezig zijn, van de goederen die daarvoor in de plaats zijn gekomen, en van de voordelen die de goederen hebben opgeleverd en die geen vruchten zijn.
+5. De vruchtgebruiker kan van de verplichtingen die ingevolge de leden 1 tot en met 4 op hem rusten, niet worden vrijgesteld.
+6. Tenzij anders is bepaald, komen de kosten van de beschrijving en van de in lid 4 bedoelde jaarlijkse opgave ten laste van de vruchtgebruiker.

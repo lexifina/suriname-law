@@ -1,0 +1,2 @@
+# Boek 6, Artikel 257
+Kan een partij bij een overeenkomst ter afwering van haar aansprakelijkheid voor een gedraging van een aan haar ondergeschikte aan de overeenkomst een verweermiddel jegens haar wederpartij ontlenen, dan kan ook de ondergeschikte, indien hij op grond van deze gedraging door de wederpartij wordt aangesproken, dit verweermiddel inroepen, als ware hijzelf bij de overeenkomst partij.

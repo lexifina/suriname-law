@@ -1,0 +1,4 @@
+# Boek 4, Artikel 223
+1. Gedurende de vereffening is een schuldeiser alleen bevoegd zijn vordering op goederen der nalatenschap ten uitvoer te leggen, indien deze bevoegdheid hem ook in geval van faillissement van de erflater zou zijn toegekomen. De artikelen 53 tot en met 56 van de Faillissementswet zijn van overeenkomstige toepassing.
+2. Ook tijdens de vereffening kan een schuldeiser van de nalatenschap zijn vorderingsrecht, of de voorrang die zijn vordering toekomt, bij vonnis doen vaststellen. Een vonnis waarbij een vordering tegen een vereffenaar is vastgesteld, kan op de persoonlijke goederen van een erfgenaam die met zijn gehele vermogen aansprakelijk is, alleen worden ten uitvoer gelegd, indien deze in het geding partij is geweest.
+3. Op verzoek van een vereffenaar kunnen reeds gelegde beslagen, voor zover dat voor de vereffening nodig is, door de kantonrechter worden opgeheven.

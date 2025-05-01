@@ -1,0 +1,3 @@
+# Boek 7, Artikel 806
+1. Een vennoot kan niet beschikken over zijn aandeel in een bepaald tot de vennootschappelijke gemeenschap behorend goed noch, behoudens in geval van overdracht van zijn aandeel bij zijn opvolging als vennoot of in geval van overdracht van een aandeel aan een toetredende vennoot, over zijn aandeel in die gemeenschap. Zijn schuldeisers kunnen een aandeel als in de eerste volzin bedoeld niet uitwinnen. Verdeling van die gemeenschap kan niet worden gevorderd.
+2. Tot de vennootschappelijke gemeenschap behorende schulden kunnen op de goederen van die gemeenschap worden verhaald, ook al zijn na het ontstaan van die schulden vennoten uitgetreden, toegetreden of opgevolgd.

@@ -1,0 +1,2 @@
+# Boek 1, Artikel 20g
+De ambtenaar van de burgerlijke stand die aan de geboorteakte van een minderjarige een latere vermelding toevoegt, waaruit blijkt dat de minderjarige is erkend, dat het vaderschap van de minderjarige gerechtelijk is vastgesteld of dat een naam van hem is gewijzigd, geeft van dit feit kennis aan de bewaarder van het in artikel 244 bedoelde openbare register waarin rechtsfeiten omtrent die minderjarige zijn opgenomen.

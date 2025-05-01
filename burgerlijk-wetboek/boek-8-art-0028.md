@@ -1,0 +1,4 @@
+# Boek 8, Artikel 28
+1. Wanneer vóór of bij de aanbieding van de zaken aan de vervoerder omstandigheden aan de zijde van een der partijen zich opdoen of naar voren komen, die haar wederpartij bij het sluiten van de overeenkomst niet behoefde te kennen, doch die, indien zij haar wel bekend waren geweest, redelijkerwijs voor haar grond hadden opgeleverd de vervoerovereenkomst niet of op andere voorwaarden aan te gaan, is deze wederpartij bevoegd de overeenkomst op te zeggen.
+2. De opzegging geschiedt door een mondelinge of schriftelijke kennisgeving en de overeenkomst eindigt op het ogenblik van ontvangst daarvan.
+3. Naar maatstaven van redelijkheid en billijkheid zijn partijen na opzegging der overeenkomst verplicht elkaar de daardoor geleden schade te vergoeden.

@@ -1,0 +1,2 @@
+# Boek 3, Artikel 219
+Buiten de gevallen geregeld in de artikelen 112 en 212 van Boek 2 en artikel 123 van Boek 5, blijft de uitoefening van stemrecht, verbonden aan een goed dat aan vruchtgebruik is onderworpen, de hoofdgerechtigde toekomen, tenzij bij de vestiging van het vruchtgebruik anders is bepaald. Bij een vruchtgebruik als bedoeld in de artikelen 19 en 21 van Boek 4 komt het stemrecht eveneens aan de vruchtgebruiker toe, tenzij anders wordt bepaald bij de vestiging van het vruchtgebruik door partijen of door de kantonrechter op grond van artikel 23 lid 4 van Boek 4.

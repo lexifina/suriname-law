@@ -1,0 +1,2 @@
+# Boek 8, Artikel 73
+Het totaal van de bedragen, verhaalbaar op de expediteur, al dan niet gezamenlijk met het bedrag, verhaalbaar op de wederpartij van degene die de vordering instelt, en hun ondergeschikten mag, behoudens in geval van schade ontstaan uit eigen handeling of nalaten van de aangesprokene, geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien, niet overtreffen het totaal, dat op grond van de door hen ingeroepen overeenkomst is verschuldigd.

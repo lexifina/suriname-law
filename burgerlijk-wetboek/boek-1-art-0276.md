@@ -1,0 +1,4 @@
+# Boek 1, Artikel 276
+1. Indien de ontheven of ontzette ouder het bewind over het vermogen van zijn kind voerde, wordt hij tevens veroordeeld tot het afleggen van rekening en verantwoording aan zijn opvolger in dit bewind.
+2. Zijn er kinderen die goederen gemeen hebben en komen zij onder het gezag van verschillende personen, dan kan de rechter een van deze personen of een derde aanwijzen om over deze goederen tot de verdeling het bewind te voeren. De aangewezen bewindvoerder stelt de waarborgen die de rechter van hem verlangt.
+3. Op het bewind krachtens lid 2 is artikel 253k van toepassing, indien een der ouders als bewindvoerder is aangewezen, en anders afdeling 6, paragraaf 10. De bewindvoerder is bij uitsluiting bevoegd tot vernietiging van rechtshandelingen van minderjarige deelgenoten, strekkend tot beheer of beschikking met betrekking tot de onder bewind staande goederen.

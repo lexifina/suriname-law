@@ -1,0 +1,6 @@
+# Boek 2, Artikel 14
+1. Elke bestuurder is tegenover de rechtspersoon gehouden tot een behoorlijke vervulling van zijn taak.
+2. Tot de taak van de bestuurder behoren alle bestuurstaken die niet bij of krachtens de wet, de statuten, een vennootschappelijke overeenkomst of een reglement aan een of meer andere bestuurders zijn toebedeeld.
+3. De bestuurders aan wie ingevolge lid 2 bepaalde taken zijn toebedeeld houden de overige bestuurders regelmatig op de hoogte van de stand van zaken op dat taakgebied.
+4. Elke bestuurder draagt verantwoordelijkheid voor de algemene gang van zaken. Hij is voor het geheel aansprakelijk ter zake van onbehoorlijk bestuur. Niet aansprakelijk is echter de bestuurder aan wie, mede gelet op de aan anderen toebedeelde taken en de periode gedurende welke hij in functie is geweest, geen ernstig verwijt kan worden gemaakt, mits hij niet nalatig is geweest in het treffen van maatregelen om de gevolgen van onbehoorlijk bestuur af te wenden.
+5. Wordt in geval van faillissement van de rechtspersoon een vordering uit hoofde van dit artikel ingesteld door de curator dan komt aan de bestuurder een beroep op kwijting, in welke vorm dan ook door de rechtspersoon verleend, niet toe. De bestuurder kan in dit geval ook geen beroep doen op verrekening met een vordering op de rechtspersoon.

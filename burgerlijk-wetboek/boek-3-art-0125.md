@@ -1,0 +1,4 @@
+# Boek 3, Artikel 125
+1. Degene die het bezit van een goed heeft verkregen, kan op grond van een daarna ingetreden bezitsverlies of bezitsstoornis tegen derden dezelfde rechtsvorderingen instellen tot terugverkrijging van het goed en tot opheffing van de stoornis, die de rechthebbende op het goed toekomen. Nochtans moeten deze rechtsvorderingen binnen het jaar na het verlies of de stoornis worden ingesteld.
+2. De vordering wordt afgewezen, indien de opgeroepene een beter recht dan de eiser heeft tot het houden van het goed of de storende handelingen krachtens een beter recht heeft verricht, tenzij de opgeroepene met geweld of op heimelijke wijze aan de eiser het bezit heeft ontnomen of diens bezit heeft gestoord.
+3. Dit artikel laat voor de bezitter, ook nadat het in lid 1 bedoelde jaar is verstreken, en voor de houder onverlet de mogelijkheid een vordering op grond van onrechtmatige daad in te stellen, indien daartoe gronden zijn.

@@ -1,0 +1,2 @@
+# Boek 7, Artikel 13
+Indien bij een consumentenkoop de zaak bij de koper wordt bezorgd door de verkoper of een door deze aangewezen vervoerder, kunnen daarvoor slechts kosten worden gevorderd, voor zover zij bij het sluiten van de overeenkomst door de verkoper afzonderlijk zijn opgegeven of door de verkoper de gegevens zijn verschaft op grond waarvan zij door hem worden berekend. Hetzelfde geldt voor kosten, verschuldigd voor andere werkzaamheden die de verkoper in verband met de koop voor de koper verricht.

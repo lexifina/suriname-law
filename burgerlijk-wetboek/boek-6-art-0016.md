@@ -1,0 +1,2 @@
+# Boek 6, Artikel 16
+Wanneer met de schuldenaar is overeengekomen dat twee of meer personen als schuldeiser de prestatie van hem voor het geheel kunnen vorderen, met dien verstande dat de voldoening aan de een hem ook jegens de anderen bevrijdt, doch in de onderlinge verhouding van die personen de prestatie niet aan hen allen gezamenlijk toekomt, zijn op hun rechtsverhouding jegens de schuldenaar de in geval van gemeenschap geldende regels van overeenkomstige toepassing.

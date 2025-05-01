@@ -1,0 +1,3 @@
+# Boek 6, Artikel 191
+1. De rechtsvordering tot schadevergoeding van de benadeelde tegen de producent ingevolge artikel 185 lid 1 verjaart door verloop van drie jaar na de aanvang van de dag, volgende op die waarop de benadeelde met de schade, het gebrek en de identiteit van de producent bekend is geworden of had moeten worden.
+2. Het recht op schadevergoeding van de benadeelde jegens de producent ingevolge artikel 185 lid 1 vervalt door verloop van tien jaar na de aanvang van de dag, volgende op die waarop de producent de zaak die de schade heeft veroorzaakt, in het verkeer heeft gebracht. Hetzelfde geldt voor het recht van een derde die mede voor de schade aansprakelijk is, ter zake van regres jegens de producent.

@@ -1,0 +1,2 @@
+# Boek 7, Artikel 652
+Een proeftijd, gedurende welke ieder der partijen bevoegd is de dienstbetrekking zonder opzegging of zonder inachtneming van de voor opzegging geldende bepalingen te doen eindigen, kan, op straffe van nietigheid, uitsluitend bij schriftelijke overeenkomst worden overeengekomen. Elk beding waarbij de proeftijd niet voor beide partijen gelijk, of op langer dan twee maanden gesteld wordt, alsmede elk beding, waarbij door het aangaan van een nieuwe proeftijd de gezamenlijke proeftijden langer dan twee maanden worden, is nietig.

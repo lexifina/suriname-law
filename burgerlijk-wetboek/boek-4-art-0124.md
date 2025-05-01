@@ -1,0 +1,2 @@
+# Boek 4, Artikel 124
+Tenzij de erflater anders heeft beschikt, heeft een legataris aan wie een bepaald goed der nalatenschap of het vruchtgebruik van een zodanig goed, van de gehele nalatenschap of van een aandeel daarin is vermaakt, recht op uitkering van de vruchten van het hem vermaakte die de erfgenamen hebben geïnd nadat zijn vordering opeisbaar is geworden. De rechtsvordering tot uitkering van deze vruchten verjaart door verloop van drie jaar nadat zij zijn geïnd.

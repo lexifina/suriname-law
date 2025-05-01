@@ -1,0 +1,4 @@
+# Boek 1, Artikel 22
+1. De akte van geboorte bewijst ten aanzien van eenieder dat op de in de akte vermelde plaats, dag en uur uit de daarin genoemde moeder een kind van het daarin vermelde geslacht is geboren. Vermeldt de akte dat de plaats van de geboorte van het kind niet bekend is, dan komt dezelfde bewijskracht toe aan de vermelding van de plaats waar het is aangetroffen.
+2. De akte van overlijden bewijst ten aanzien van eenieder dat op de plaats, de dag en het uur, in de akte vermeld, de daarin genoemde persoon is overleden of, indien de akte krachtens artikel 19f lid 2 is opgemaakt, dat het lijk van de daarin genoemde persoon op de plaats, de dag en het uur, in de akte vermeld, is gevonden.
+3. Voor het overige hebben akten van de burgerlijke stand dezelfde bewijskracht als andere authentieke akten.

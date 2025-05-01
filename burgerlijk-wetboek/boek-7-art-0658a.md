@@ -1,0 +1,3 @@
+# Boek 7, Artikel 658a
+1. De werkgever is verplicht zo tijdig mogelijk zodanige maatregelen te treffen en voorschriften te geven als redelijkerwijs nodig is, opdat de werknemer, die in verband met ongeschiktheid ten gevolge van ziekte verhinderd is de bedongen arbeid te verrichten, in staat wordt gesteld de eigen of andere passende arbeid te verrichten.
+2. Onder passende arbeid als bedoeld in lid 1 wordt verstaan alle arbeid die voor de krachten en bekwaamheden van de werknemer is berekend, tenzij aanvaarding om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd.

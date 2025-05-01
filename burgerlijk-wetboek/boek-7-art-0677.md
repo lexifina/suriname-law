@@ -1,0 +1,6 @@
+# Boek 7, Artikel 677
+1. Ieder der partijen is bevoegd de arbeidsovereenkomst onverwijld op te zeggen om een dringende reden, onder gelijktijdige mededeling van die reden aan de wederpartij. De partij die opzegt zonder een dringende reden of zonder gelijktijdige mededeling van de dringende reden is schadeplichtig.
+2. De partij die opzegt tegen een eerdere dag dan tussen partijen geldt, is schadeplichtig.
+3. Eveneens is schadeplichtig de partij die door opzet of schuld aan de wederpartij een dringende reden heeft gegeven om de arbeidsovereenkomst onverwijld op te zeggen, indien de wederpartij van die bevoegdheid heeft gebruik gemaakt of de rechter op die grond krachtens artikel 685 de arbeidsovereenkomst heeft ontbonden.
+4. Ingeval een der partijen schadeplichtig is, heeft de wederpartij de keus aanspraak te maken op de in artikel 680 genoemde gefixeerde schadevergoeding of een volledige schadevergoeding.
+5. Het niet in acht nemen van artikel 670 leden 1 tot en met 5 maakt de werkgever niet schadeplichtig. De werknemer kan in die gevallen gedurende twee maanden na de opzegging van de arbeidsovereenkomst een beroep doen op de vernietigingsgrond. Het beroep op de vernietigingsgrond geschiedt door kennisgeving aan de werkgever. Artikel 55 van Boek 3 is niet van toepassing.

@@ -1,0 +1,4 @@
+# Boek 2, Artikel 13
+1. De rechtspersoon treedt niet buiten zijn statutaire doelomschrijving.
+2. Tenzij de statuten een beroep op doeloverschrijding uitsluiten is een door de rechtspersoon verrichte rechtshandeling vernietigbaar indien daardoor het doel werd overschreden en de wederpartij dit wist of zonder eigen onderzoek moest weten. Slechts de rechtspersoon kan een beroep op deze grond tot vernietiging doen. Bij de stichting kan een beroep op doeloverschrijding niet worden uitgesloten.
+3. Krachtens een besluit van de algemene vergadering kan een rechtspersoon die geen stichting is een rechtshandeling, waardoor het doel werd overschreden, bevestigen dan wel afstand doen van een beroep op doeloverschrijding. Artikel 10 lid 4 is van overeenkomstige toepassing ten aanzien van de rechtspersoon die geen stichting is.

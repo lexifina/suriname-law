@@ -1,0 +1,3 @@
+# Boek 1, Artikel 267
+1. Ontheffing wordt slechts uitgesproken op verzoek van het Bureau voor Familierechtelijke Zaken of van het openbaar ministerie.
+2. In het geval, bedoeld in artikel 268 lid 2 onder d, kan, indien de kantonrechter een verzoek van de ouders om toestemming tot wijziging in het verblijf van hun kind heeft afgewezen, de ontheffing bovendien verzocht worden door degene die het kind op het tijdstip van het verzoek ten minste een jaar heeft verzorgd en opgevoed. Indien het kind door meer dan een persoon wordt verzorgd en opgevoed, kan het verzoek slechts door deze gemeenschappelijk worden gedaan. Is de ontheffing verzocht, dan blijft artikel 253s lid 2 buiten toepassing totdat op het verzoek bij gewijsde is beslist.

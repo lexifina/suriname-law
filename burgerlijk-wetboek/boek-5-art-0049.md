@@ -1,0 +1,3 @@
+# Boek 5, Artikel 49
+1. Ieder der eigenaars van aangrenzende erven in een aaneengesloten gedeelte van een district kan te allen tijde vorderen dat de andere eigenaar ertoe meewerkt dat op de grens van de erven een scheidsmuur van anderhalve meter hoogte wordt opgericht, voor zover een staatsbesluit of een plaatselijke gewoonte de wijze of de hoogte der afscheiding niet anders regelt. De kosten van de aanleg van de scheidsmuur komen voor rekening van de eiser, doch de andere eigenaar draagt daarin bij voor zover dit gelet op de eisen van een goed nabuurschap redelijkerwijze van hem kan worden verlangd.
+2. Lid 1 is niet toepasselijk, indien een der erven een openbare weg of een openbaar vaarwater is.

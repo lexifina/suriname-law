@@ -1,0 +1,3 @@
+# Boek 3, Artikel 195
+1. Een verdeling waaraan niet alle deelgenoten en alle andere personen wier medewerking vereist was, hebben deelgenomen, is nietig, tenzij zij is geschied bij een notariële akte, in welk geval zij slechts kan worden vernietigd op vordering van degene die niet aan de verdeling heeft deelgenomen. Deze rechtsvordering verjaart door verloop van één jaar nadat de verdeling te zijner kennis is gekomen, onverminderd artikel 200.
+2. Heeft aan een verdeling iemand deelgenomen die niet tot de gemeenschap gerechtigd was, of is een deelgenoot bij de verdeling opgekomen voor een groter aandeel dan hem toekwam, dan kan het ten onrechte uitgekeerde ten behoeve van de gemeenschap worden teruggevorderd; voor het overige blijft de verdeling van kracht.

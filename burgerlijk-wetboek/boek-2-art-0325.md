@@ -1,0 +1,5 @@
+# Boek 2, Artikel 325
+1. Indien aandelen of certificaten van aandelen van een te fuseren vennootschap zijn opgenomen in de prijscourant van een beurs, kan de ruilverhouding afhankelijk zijn van de prijs van die aandelen onderscheidenlijk certificaten op die beurs op een of meer in het voorstel tot fusie te bepalen tijdstippen, gelegen voor de dag waarop de fusie van kracht wordt.
+2. Indien krachtens de ruilverhouding van de aandelen recht bestaat op geld of schuldvorderingen, mag het gezamenlijke bedrag daarvan een tiende van het door de toegekende aandelen vertegenwoordigde eigen vermogen niet te boven gaan.
+3. Bij de akte van fusie kan de verkrijgende vennootschap eigen aandelen die zij zelf of een andere fuserende vennootschap houdt, intrekken tot ten hoogste de vermogenswaarde die de aandelen die zij toekent aan haar nieuwe aandeelhouders vertegenwoordigen.
+4. Aandelen van de verdwijnende vennootschappen die worden gehouden door of voor rekening van de fuserende vennootschappen, vervallen.

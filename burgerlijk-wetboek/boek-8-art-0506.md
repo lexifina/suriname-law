@@ -1,0 +1,2 @@
+# Boek 8, Artikel 506
+Onder voorbehoud van artikel 505 is de vervoerder aansprakelijk voor schade veroorzaakt door geheel of gedeeltelijk verlies dan wel beschadiging van bagage, indien een voorval dat hiertoe leidde zich voordeed tijdens het vervoer tenzij en voor zover dit voorval is veroorzaakt door een omstandigheid die een zorgvuldig vervoerder niet heeft kunnen vermijden en waarvan zulk een vervoerder de gevolgen niet heeft kunnen verhinderen.

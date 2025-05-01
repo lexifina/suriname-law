@@ -1,0 +1,3 @@
+# Boek 6, Artikel 34
+1. De schuldenaar die heeft betaald aan iemand die niet bevoegd was de betaling te ontvangen, kan aan degene aan wie moest worden betaald, tegenwerpen dat hij bevrijdend heeft betaald, indien hij op redelijke gronden heeft aangenomen dat de ontvanger der betaling als schuldeiser tot de prestatie gerechtigd was of dat uit anderen hoofde aan hem moest worden betaald.
+2. Indien iemand zijn recht om betaling te vorderen verliest, in dier voege dat het met terugwerkende kracht aan een ander toekomt, kan de schuldenaar een inmiddels gedane betaling aan die ander tegenwerpen, tenzij hetgeen hij omrent dit verlies kon voorzien, hem van de betaling had behoren te weerhouden.

@@ -1,0 +1,5 @@
+# Boek 2, Artikel 134
+1. Behoudens beperkingen volgens de statuten en onverminderd het bepaalde in artikel 5 is de algemene vergadering bevoegd de statuten te wijzigen. Een met algemene stemmen genomen besluit tot statutenwijziging waaraan alle stemgerechtigde personen hebben meegewerkt is geldig, ongeacht het daarover in de statuten bepaalde.
+2. Een statutaire bepaling die in de gegeven situatie tot gevolg zou hebben dat er geen stemgerechtigde personen als bedoeld in lid 1 zijn, wordt, zolang die situatie voortduurt, voor niet geschreven gehouden.
+3. Gedurende het faillissement van de vennootschap kunnen de statuten slechts worden gewijzigd met instemming van de curator.
+4. Een besluit tot wijziging van de statuten waardoor de rechtspositie van een krachtens de wet of de statuten bij de organisatie van de vennootschap betrokken persoon ernstig wordt aangetast, wordt op vordering van de betrokkene vernietigd, mits deze een zwaarwegend belang heeft bij de handhaving van die rechtspositie. Artikel 21 leden 4 en 5, zijn van overeenkomstige toepassing.

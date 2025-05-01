@@ -1,0 +1,3 @@
+# Boek 5, Artikel 30
+1. Een verplaatsing van de oeverlijn wijzigt de grens niet meer nadat deze is vastgelegd, hetzij door de eigenaars van land en water overeenkomstig artikel 31, hetzij door de rechter op vordering van een hunner tegen de ander overeenkomstig artikel 32. De vastlegging geldt jegens eenieder.
+2. Indien bij de vastlegging in plaats van de werkelijke eigenaar van een erf iemand die als zodanig in de openbare registers was ingeschreven, partij is geweest, is niettemin lid 1 van toepassing, tenzij de werkelijke eigenaar tegen inschrijving van de akte of het vonnis verzet heeft gedaan voordat zij is geschied.

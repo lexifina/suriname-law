@@ -1,0 +1,4 @@
+# Boek 2, Artikel 108
+1. Aan de nemer of houder van een aandeel wordt desgevraagd een op naam gesteld aandeelbewijs afgegeven. De dag van afgifte en alle op het aandeel betrekking hebbende gegevens, zoals deze op de dag van afgifte ingevolge lid 1 van artikel 109 in het aandeelhoudersregister behoren te zijn opgenomen, worden op het aandeelbewijs vermeld.
+2. Als aandeelbewijs kan ook gelden een ten name van de aandeelhouder gesteld uittreksel uit het aandeelhoudersregister als bedoeld in artikel 109, dat de op die aandelen betrekking hebbende gegevens bevat.
+3. Aan de latere verkrijger te goeder trouw kan niet worden tegengeworpen dat het daarop door of vanwege de vennootschap vermelde onjuist of onvolledig is, zulks onverminderd de aansprakelijkheid van de vennootschap voor schade door de verkrijger te goeder trouw geleden, indien de onjuistheid of onvolledigheid aan de vennootschap is te wijten.

@@ -1,0 +1,4 @@
+# Boek 2, Artikel 361
+1. Tenzij de statuten anders bepalen, kan een verkrijgende vennootschap bij bestuursbesluit tot splitsing besluiten. Hetzelfde geldt voor de splitsende vennootschap, mits alle verkrijgende rechtspersonen bij de splitsing opgerichte naamloze vennootschappen zijn en de splitsende vennootschap daarvan bij de splitsing enig aandeelhouder wordt.
+2. Dit besluit kan slechts worden genomen, indien de vennootschap het voornemen hiertoe heeft vermeld in de aankondiging dat het voorstel tot splitsing is neergelegd.
+3. Het besluit kan niet worden genomen, indien een of meer aandeelhouders die tezamen ten minste een tiende van het eigen vermogen vertegenwoordigen, of een zoveel geringer bedrag als in de statuten is bepaald, binnen een maand na de aankondiging aan het bestuur hebben verzocht de algemene vergadering bijeen te roepen om over de splitsing te besluiten. Artikel 346 is dan van toepassing.

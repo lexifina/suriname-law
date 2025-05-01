@@ -1,0 +1,5 @@
+# Boek 7, Artikel 986
+1. Van artikel 984 kan niet worden afgeweken.
+2. Van de artikelen 977, 981 en 982 kan niet ten nadele van de verzekeringnemer, de begunstigde of de pandhouder worden afgeweken.
+3. Van artikel 978 lid 2 en de artikelen 980 en 983 kan niet ten nadele van de verzekeringnemer, de begunstigde, de pandhouder of de beslaglegger worden afgeweken, indien de verzekeringnemer is een natuurlijk persoon en deze de verzekering sluit anders dan in verband met de uitoefening van een beroep of bedrijf.
+4. Beperking of uitsluiting van het recht, bedoeld in artikel 978 lid 1, kan niet worden tegengeworpen aan schuldeisers van de verzekeringnemer, de curator in het faillissement van de verzekeringnemer, diens bewindvoerder in geval van surséance van betaling, dan wel de vereffenaar van de nalatenschap van de verzekeringnemer. Bij een verzekering die recht geeft op periodieke uitkeringen of verstrekkingen, mist de eerste volzin toepassing voor zover de ter zake voldane premies voor de heffing van de inkomstenbelasting in aanmerking konden worden genomen voor de bepaling van het belastbaar inkomen.

@@ -1,0 +1,3 @@
+# Boek 3, Artikel 233
+1. De pand- of hypotheekgever die niet tevens de schuldenaar is, is aansprakelijk voor waardevermindering van het goed, voor zover de waarborg van de schuldeiser daardoor in gevaar wordt gebracht en daarvan aan de pand- of hypotheekgever of aan een persoon waarvoor deze aansprakelijk is, een verwijt kan worden gemaakt.
+2. Door hem ten behoeve van het goed anders dan tot onderhoud daarvan gemaakte kosten kan hij van de pand- of hypotheekhouder terugvorderen, doch slechts indien deze zich op het goed heeft verhaald en voor zover genoemde kosten tot een hogere opbrengst van het goed te diens bate hebben geleid.

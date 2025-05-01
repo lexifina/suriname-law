@@ -1,0 +1,3 @@
+# Boek 6, Artikel 278
+1. De partij die ontbinding kiest van een reeds uitgevoerde overeenkomst, nadat de verhouding in waarde tussen hetgeen wederzijds bij ongedaanmaking zou moeten worden verricht, zich ten gunste van haar heeft gewijzigd, is verplicht door bijbetaling de oorspronkelijke waardeverhouding te herstellen, indien aannemelijk is dat zij zonder deze wijziging geen ontbinding zou hebben gekozen.
+2. Lid 1 is van overeenkomstige toepassing in geval de partij ten gunste van wie de wijziging is ingetreden, op andere grond dan ontbinding de stoot tot ongedaanmaking geeft en aannemelijk is dat zij daartoe zonder deze wijziging niet zou zijn overgegaan.

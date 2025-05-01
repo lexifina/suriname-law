@@ -1,0 +1,4 @@
+# Boek 3, Artikel 86a
+1. Artikel 86 kan niet worden tegengeworpen aan degene die als eigenaar een roerende zaak opeist, die op het tijdstip waarop hij het bezit daarvan verloor, een cultuurgoed was, dat een integrerend deel vormde van een als zodanig aangewezen monument of van een archeologische vindplaats, of dat deel uitmaakte van een openbare collectie.
+2. De rechter die een vordering als bedoeld in lid 1, toewijst, kent aan de bezitter een naar gelang van de omstandigheden billijke vergoeding toe, indien deze bewijst bij de verkrijging van de zaak de nodige zorgvuldigheid te hebben betracht, tenzij opeising zonder vergoeding bij toepasselijkheid van artikel 86 lid 3 mogelijk zou zijn geweest.
+3. De vergoeding omvat in elk geval hetgeen aan de bezitter verschuldigd is krachtens de artikelen 120 en 121. Zij wordt bij afgifte van de zaak uitgekeerd.

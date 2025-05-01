@@ -1,0 +1,6 @@
+# Boek 4, Artikel 214
+1. Een vereffenaar roept de schuldeisers der nalatenschap, zo dit nog niet is geschied, openlijk op om hun vorderingen vóór een door de kantonrechter bepaalde datum bij de boedelnotaris of, indien deze ontbreekt, bij hemzelf in te dienen. De oproeping geschiedt op dezelfde wijze als de bekendmaking van de beneficiaire aanvaarding of de benoeming van de vereffenaar en zoveel mogelijk tegelijkertijd.
+2. De vereffenaar moet bovendien de hem bekende schuldeisers der nalatenschap per brief oproepen. Is hem het adres van een schuldeiser der nalatenschap onbekend gebleven, dan deelt hij dit mede aan de kantonrechter.
+3. Aanmelding van een vordering stuit de verjaring.
+4. De vereffenaar geeft, indien hij zich met een ingediende vordering of een ingeroepen voorrang niet kan verenigen, daarvan onverwijld onder opgave van redenen kennis aan degene die de vordering heeft ingediend.
+5. Zo spoedig mogelijk na het verstrijken van de bij de oproep der schuldeisers gestelde termijn legt de vereffenaar een lijst van de door hem erkende en betwiste vorderingen en aanspraken op voorrang ten kantore van de boedelnotaris of, indien deze ontbreekt, ter griffie van het kantongerecht neer, ter inzage van de erfgenamen, de legatarissen en allen die zich als schuldeiser hebben aangemeld. Hij geeft ieder van hen van deze neerlegging kennis.

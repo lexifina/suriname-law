@@ -1,0 +1,2 @@
+# Boek 5, Artikel 10
+Indien een vinder die op grond van artikel 6 eigenaar is geworden van een bij de overheid in bewaring gegeven zaak, zich niet binnen één maand na zijn verkrijging bij haar heeft aangemeld om de zaak in ontvangst te nemen, is deze met overeenkomstige toepassing van artikel 8 bevoegd de zaak voor rekening van de Staat te verkopen, om niet aan een derde over te dragen of te vernietigen. Hetzelfde geldt indien geen vinder eigenaar van de zaak is geworden.
