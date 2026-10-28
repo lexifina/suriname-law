@@ -1,0 +1,10 @@
+{
+  "path": "sr",
+  "code": "SR",
+  "name": "Suriname",
+  "level": "country",
+  "repo": "https://github.com/lexifina/suriname-law",
+  "build": "gazette-rebuilt: Grondwet from the 1992 consolidation, 1992 to today (3 versions)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}

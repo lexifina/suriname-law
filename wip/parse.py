@@ -422,9 +422,26 @@ def main():
             'date and commencement clause could not be read online, so the real in-force day may be a few days later.',
             'Grondwet: S.B. 2023 no. 157 took effect the day after its afkondiging (art. II lid 2); it was uitgegeven on '
             '26 October 2023, so the in-force day is 2023-10-27.',
-            'Grondwet: the 2023 text is read from S.B. 2025 no. 15 (official consolidation, with a text layer) because '
-            'the S.B. 2023 no. 157 PDF is a scan; units that differ from the 1992 consolidation are credited to S.B. '
-            '2023 no. 157 only where S.B. 2025 no. 15 footnotes them "Gew. bij S.B. 2023 no. 157".',
+            'Grondwet: three versions. 1992-04-08 is the dna.sr 1992 consolidation. 2023-10-27 is that text with arts. '
+            '60, 61, 161 and 163, the articles S.B. 2025 no. 15 footnotes "Gew. bij S.B. 2023 no. 157", replaced by '
+            'their S.B. 2025 no. 15 wording and credited to S.B. 2023 no. 157 (whose own PDF is a scan with no text '
+            'layer). 2025-02-07, the day S.B. 2025 no. 15 was uitgegeven, is S.B. 2025 no. 15 in full; every other '
+            'difference from 1992 has no amending law and is committed uncredited by the publisher.',
+            'Grondwet: the wording S.B. 2025 no. 15 gives arts. 60, 61, 161 and 163 was compared by eye with the page '
+            'images of S.B. 2023 no. 157. It agrees, except that the act reads "per ressort, en de methode" in art. 161 '
+            'lid 4 where S.B. 2025 no. 15 has no comma. The 2023-10-27 version uses the S.B. 2025 no. 15 wording, so '
+            'that comma is not in this history; adding it would mean transcribing a scan.',
+            'Grondwet: S.B. 2025 no. 15 is a republication by Resolutie (no. 14.227/24), not an amending law, so its '
+            'changes against the 1992 consolidation are not credited to any law; each is listed below.',
+            'Grondwet: art. 56 lid 2 "in geval van oorlog of andere buitengewone omstandigheden" is read as in the '
+            'dna.sr 1992 consolidation; the sris.sr 1992 edition with memorie van toelichting agrees, while the gov.sr '
+            'copy and S.B. 2025 no. 15 omit "oorlog". The omission appears in the 2025-02-07 commit, uncredited.',
+            'Grondwet: the two publishers break some paragraphs differently (the preamble clauses, the oaths in arts. '
+            '93 and 114, art. 66, the list in art. 142 lid 1). Where the words agree, the 1992 version takes the line '
+            'breaks of S.B. 2025 no. 15, so layout does not show up as change.',
+            'Grondwet: parse completeness was checked word by word against each PDF text layer: every body word of '
+            'S.B. 2025 no. 15 is in the units in order, apart from headings (kept in grondwet/indeling.md) and words '
+            'joined across a line-end hyphen.',
             'Chapter and section headings are kept in one unit, grondwet/indeling.md, so article files hold only '
             'article text.',
             'Quotes and dashes are normalised to straight quotes and "-"; words the typesetter broke at a line end are '
@@ -432,13 +449,16 @@ def main():
         ] + report,
         'ai_use': [
             'Claude Opus 5.5 (claude-opus-5-5, Claude Code) researched the sources and wrote fetch.py and parse.py. '
-            'It viewed page images of S.B. 2023 no. 157 to identify the amending act and its commencement clause; '
-            'no legal text in this corpus was written, transcribed or OCRed by a model: all text comes from PDF text '
+            'It viewed the 6 page images of S.B. 2023 no. 157 to identify the amending act and its commencement '
+            'clause and to compare its wording of arts. 60, 61, 161 and 163 with S.B. 2025 no. 15 (one difference '
+            'found and recorded in decisions, not applied); no legal text in this corpus was written, transcribed or OCRed by a model: all text comes from PDF text '
             'layers via PyMuPDF.',
         ],
     }
     out = json.dumps(corpus, ensure_ascii=False, indent=1, sort_keys=False) + '\n'
-    (HERE / 'corpus.json').write_text(out, encoding='utf-8', newline='\n')
+    tmp = HERE / 'corpus.json.tmp'
+    tmp.write_text(out, encoding='utf-8', newline='\n')
+    tmp.replace(HERE / 'corpus.json')          # atomic: autopush builds every change
     for a in corpus['acts']:
         print(a['slug'], [(v['from'], len(v['units']), len(v['credits'])) for v in a['versions']])
     for r in report:
