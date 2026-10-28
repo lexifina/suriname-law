@@ -442,6 +442,10 @@ def main():
             'Grondwet: parse completeness was checked word by word against each PDF text layer: every body word of '
             'S.B. 2025 no. 15 is in the units in order, apart from headings (kept in grondwet/indeling.md) and words '
             'joined across a line-end hyphen.',
+            'Wetboek van Strafrecht and Burgerlijk Wetboek not included: no official consolidation after 2005, and '
+            'later amending acts (WvSr: S.B. 2023 no. 133 scan, S.B. 2020 no. 42 uncorrected OCR layer, S.B. 2017 '
+            'no. 85 not listed; BW: 2016 and S.B. 2022 no. 34 scans) cannot be applied from official text, so no '
+            'text in force today could be built and checked. No data protection law was found in the DNA lists.',
             'Chapter and section headings are kept in one unit, grondwet/indeling.md, so article files hold only '
             'article text.',
             'Quotes and dashes are normalised to straight quotes and "-"; words the typesetter broke at a line end are '
