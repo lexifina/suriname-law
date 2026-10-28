@@ -113,9 +113,13 @@ def joinlines(parts: list[str]) -> str:
         if not out:
             out = p
         elif re.search(r'[a-zà-ÿ]-$', out) and re.match(r'^(en|of)', p):
-            out += ' ' + p              # "uit- en inwendige": a real hyphen before "en"/"of"
+            out += ' ' + p              # "uit- en inwendige", "hoofd- of werkelijk": a real hyphen before "en"/"of"
         elif re.search(r'[a-zà-ÿ]-$', out) and re.match(r'^[a-zà-ÿ]', p):
             out = out[:-1] + p          # a word the typesetter broke at the line end
+        elif re.search(r'[a-zà-ÿ]-$', out) and re.match(r'^[A-Z]', p):
+            out += p                    # "Vice-" / "President": a compound with a capital keeps its hyphen
+        elif re.search(r'[A-Z]{2}-$', out) and re.match(r'^[A-Z]{2}', p):
+            out = out[:-1] + p          # "VOLKSRAAD-" / "PLEGING": a capitalised word broken at the line end
         else:
             out += ' ' + p
     return out
