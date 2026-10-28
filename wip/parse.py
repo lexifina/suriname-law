@@ -78,6 +78,9 @@ def pdf_rows(path: Path, body_min: float = 11.0) -> tuple[list[dict], dict[str, 
             spans.sort(key=lambda s: s['bbox'][0])
             body = [s for s in spans if s['size'] >= body_min and not s['font'].startswith('Courier')]
             small = [s for s in spans if s['size'] < body_min and not s['font'].startswith('Courier')]
+            if small and not body:
+                # a footnote line: S.B. 2025 no. 15 sets some footnote numbers in Courier (note 60, art. 163)
+                small = [s for s in spans if s['size'] < body_min]
             text = ''.join(s['text'] for s in body)
             if norm(text):
                 refs = [norm(s['text']) for s in small if norm(s['text']).isdigit()]
@@ -112,7 +115,7 @@ def joinlines(parts: list[str]) -> str:
             continue
         if not out:
             out = p
-        elif re.search(r'[a-zà-ÿ]-$', out) and re.match(r'^(en|of)', p):
+        elif re.search(r'[a-zà-ÿ]-$', out) and re.match(r'^(en|of)\b', p):
             out += ' ' + p              # "uit- en inwendige", "hoofd- of werkelijk": a real hyphen before "en"/"of"
         elif re.search(r'[a-zà-ÿ]-$', out) and re.match(r'^[a-zà-ÿ]', p):
             out = out[:-1] + p          # a word the typesetter broke at the line end
