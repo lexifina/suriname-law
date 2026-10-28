@@ -8,6 +8,7 @@ cache gives the same bytes.
 """
 from __future__ import annotations
 
+import difflib
 import hashlib
 import json
 import re
@@ -231,36 +232,123 @@ def grondwet(url: str, first_page: int, footnote_law: dict) -> tuple[dict, dict,
 FOOTNOTE_LAW = {r'1992\s*no\.?\s*38': 'sb-1992-38', r'2023\s*no\.?\s*157': 'sb-2023-157'}
 
 
+def relayout(old: str, new: str) -> str | None:
+    """The words of `old` broken into lines where `new` breaks them. The two publishers set paragraph breaks
+    differently (the 1992 consolidation runs oath sentences and the preamble's clauses together); this keeps such
+    layout differences out of the history. Returns None when a break of `new` falls inside changed words."""
+    oh, *ob = old.rstrip('\n').split('\n')
+    nh, *nb = new.rstrip('\n').split('\n')
+    if oh != nh:
+        return None
+    ow = ' '.join(ob).split(' ')
+    nw, breaks = [], []
+    for line in nb:
+        if nw:
+            breaks.append(len(nw))
+        nw.extend(line.split(' '))
+    sm = difflib.SequenceMatcher(None, ow, nw, autojunk=False)
+    nmap = {}
+    for tag, i1, i2, j1, j2 in sm.get_opcodes():
+        if tag == 'equal':
+            for d in range(i2 - i1):
+                nmap[j1 + d] = i1 + d
+    cuts = []
+    for b in breaks:
+        # a break maps when the word before it (or, failing that, the word after it) is unchanged
+        if b - 1 in nmap:
+            cuts.append(nmap[b - 1] + 1)
+        elif b in nmap:
+            cuts.append(nmap[b])
+        else:
+            return None
+    if cuts != sorted(set(cuts)) or (cuts and (cuts[0] <= 0 or cuts[-1] >= len(ow))):
+        return None
+    lines, prev = [], 0
+    for c in cuts + [len(ow)]:
+        lines.append(' '.join(ow[prev:c]))
+        prev = c
+    return '\n'.join([oh] + lines) + '\n'
+
+
+def word_changes(old: str, new: str) -> list[str]:
+    """Plain list of the word-level differences between two texts of one unit, for the decisions."""
+    ow, nw = old.split(), new.split()
+    out = []
+    for tag, i1, i2, j1, j2 in difflib.SequenceMatcher(None, ow, nw, autojunk=False).get_opcodes():
+        if tag == 'equal':
+            continue
+        a, b = ' '.join(ow[i1:i2]), ' '.join(nw[j1:j2])
+        out.append(f'"{a}" -> "{b}"' if a and b else (f'adds "{b}"' if b else f'drops "{a}"'))
+    return out
+
+
+LAW_2023 = 'sb-2023-157'
+SB_2025_ISSUED = '2025-02-07'     # "Uitgegeven te Paramaribo, de 7e februari 2025" (S.B. 2025 no. 15, page 1)
+
+
 def build_grondwet() -> tuple[dict, list[str]]:
     u92, n92, _ = grondwet(DNA_GW_1992, 0, FOOTNOTE_LAW)
-    u23, n23, _ = grondwet(SB_2025_15, 2, FOOTNOTE_LAW)
-    report = []
-    # cross-check: the gov.sr copy of the 1992 consolidation must give the same units
+    u25, n25, _ = grondwet(SB_2025_15, 2, FOOTNOTE_LAW)
+    report: list[str] = []
+    # cross-check: the gov.sr copy of the 1992 consolidation
     ug, _, _ = grondwet(GOV_GW_1992, 0, FOOTNOTE_LAW)
     for k in sorted(set(u92) | set(ug)):
-        if u92.get(k, {}).get('text') != ug.get(k, {}).get('text'):
-            report.append(f'1992 text: dna.sr and gov.sr copies differ in {k}')
-    credits = {}
-    for k in sorted(set(u92) | set(u23)):
-        if u92.get(k, {}).get('text') == u23.get(k, {}).get('text'):
-            continue
-        if 'sb-2023-157' in n23.get(k, []):
-            credits[k] = ['sb-2023-157']
-        else:
-            report.append(f'{k}: differs between the 1992 and 2025 consolidations with no S.B. 2023 no. 157 footnote '
-                          f'(left uncredited)')
-    v1 = {'from': '1992-04-08', 'source_url': DNA_GW_1992, 'sha256': sha(DNA_GW_1992), 'units': u92, 'credits': {},
+        a, b = u92.get(k, {}).get('text', ''), ug.get(k, {}).get('text', '')
+        if a != b:
+            ch = word_changes(a, b)
+            report.append(f'Grondwet {k}: the gov.sr copy of the 1992 consolidation differs from the dna.sr copy '
+                          f'used here' + (f' ({"; ".join(ch)})' if ch else ' (paragraph layout only)') + '.')
+    if set(u92) != set(u25):
+        raise SystemExit(f'unit sets differ: {sorted(set(u92) ^ set(u25))}')
+    by_2023 = sorted(k for k in u25 if LAW_2023 in n25.get(k, []))
+    if by_2023 != ['art-060', 'art-061', 'art-161', 'art-163']:
+        raise SystemExit(f'unexpected S.B. 2023 no. 157 footnotes: {by_2023}')
+    # 1992: the dna.sr consolidation, with the 2025 paragraph breaks where the words allow
+    v1u = {}
+    for k, u in u92.items():
+        t = u['text']
+        if k not in by_2023 and t != u25[k]['text']:
+            r = relayout(t, u25[k]['text'])
+            if r is not None:
+                t = r
+            else:
+                report.append(f'Grondwet {k}: 1992 paragraph breaks kept (a 2025 break falls inside changed words).')
+        v1u[k] = dict(u, text=t)
+    # 2023-10-27: the 1992 text with the four articles S.B. 2023 no. 157 rewrote, in their S.B. 2025 no. 15 wording
+    v2u = dict(v1u)
+    for k in by_2023:
+        v2u[k] = u25[k]
+    # 2025-02-07: S.B. 2025 no. 15 in full; whatever else differs has no amending law and stays uncredited
+    v3u = u25
+    editorial = []
+    for k in sorted(v3u):
+        if v2u[k]['text'] != v3u[k]['text']:
+            ch = word_changes(v2u[k]['text'], v3u[k]['text'])
+            editorial.append(k)
+            report.append(f'Grondwet {k}: S.B. 2025 no. 15 differs from the 1992 consolidation with no amending law: '
+                          + ('; '.join(ch) if ch else 'paragraph layout only') + '. Left uncredited (publisher).')
+    marked92 = ', '.join(k for k in sorted(n92) if 'sb-1992-38' in n92[k])
+    v1 = {'from': '1992-04-08', 'source_url': DNA_GW_1992, 'sha256': sha(DNA_GW_1992), 'units': v1u, 'credits': {},
           'note': ('Oldest text available online: the Grondwet of 1987 (S.B. 1987 no. 116) as amended by the Wet van '
                    '8 april 1992 (S.B. 1992 no. 38), in the consolidation published by De Nationale Assemblee. '
-                   'Footnotes in that consolidation mark these units as changed, inserted or repealed by S.B. 1992 '
-                   'no. 38: ' + ', '.join(k for k in sorted(n92) if 'sb-1992-38' in n92[k]) + '.')}
-    v2 = {'from': '2023-10-27', 'source_url': SB_2025_15, 'sha256': sha(SB_2025_15), 'units': u23, 'credits': credits,
-          'note': ('Text from the official consolidation placed in the Staatsblad by Resolutie of 6 February 2025 '
-                   '(S.B. 2025 no. 15); the amending act S.B. 2023 no. 157 is a scanned PDF without a text layer.')}
+                   'Its footnotes mark these units as changed, inserted or repealed by S.B. 1992 no. 38: '
+                   + marked92 + '.')}
+    v2 = {'from': '2023-10-27', 'source_url': SB_2025_15, 'sha256': sha(SB_2025_15), 'units': v2u,
+          'credits': {k: [LAW_2023] for k in by_2023},
+          'note': ('Arts. 60, 61, 161 and 163 as rewritten by S.B. 2023 no. 157 (in force the day after its '
+                   'afkondiging on 26 October 2023), in the wording of the official consolidation S.B. 2025 no. 15, '
+                   'which footnotes exactly these four articles "Gew. bij S.B. 2023 no. 157". The amending act '
+                   'itself is a scanned PDF with no text layer. All other units are unchanged from 1992.')}
+    v3 = {'from': SB_2025_ISSUED, 'source_url': SB_2025_15, 'sha256': sha(SB_2025_15), 'units': v3u, 'credits': {},
+          'note': ('The official consolidation placed in the Staatsblad by Resolutie of 6 February 2025 no. 14.227/24 '
+                   '(S.B. 2025 no. 15, uitgegeven 7 February 2025). It states the Grondwet as amended by S.B. 1992 '
+                   'no. 38 and S.B. 2023 no. 157 only, yet differs from the 1992 consolidation in '
+                   + str(len(editorial)) + ' further units (spelling, punctuation, numbering, one omitted word). '
+                   'No amending law explains these, so they are committed by the publisher, unexplained.')}
     act = {'slug': 'grondwet', 'short': 'Grondwet',
            'title': 'Grondwet van de Republiek Suriname',
            'url': 'https://www.dna.sr/wetgeving/surinaamse-wetten/geldende-teksten-t-m-2005/grondwet-van-de-republiek-suriname/',
-           'first_law': None, 'earlier_laws': ['sb-1987-116', 'sb-1992-38'], 'versions': [v1, v2]}
+           'first_law': None, 'earlier_laws': ['sb-1987-116', 'sb-1992-38'], 'versions': [v1, v2, v3]}
     return act, report
 
 
