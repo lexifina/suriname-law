@@ -1,0 +1,31 @@
+{
+ "country": "SR",
+ "acts": [
+  {
+   "slug": "grondwet",
+   "short": "Grondwet",
+   "title": "Grondwet van de Republiek Suriname",
+   "url": "https://www.dna.sr/wetgeving/surinaamse-wetten/geldende-teksten-t-m-2005/grondwet-van-de-republiek-suriname/",
+   "versions": [
+    {
+     "from": "1992-04-08",
+     "units": 188,
+     "source_url": "https://www.dna.sr/media/vyjchhar/grondwet-suriname.pdf",
+     "sha256": "b5e44c87207c44a6afa10033c4bf45f8770374e3ec4c3788d344e3fdef260ad1"
+    },
+    {
+     "from": "2023-10-27",
+     "units": 188,
+     "source_url": "https://sris.sr/wp-content/uploads/2025/04/RESOLUTIE-van-6-februari-2025-no.14.22724-houdende-plaatsing-staatsblad-republiek-suriname-thans-geldende-tekst-grondwet-rep-sur-S.B.-2025-no.-15.pdf",
+     "sha256": "9330947c961daf1235446f1ac23864b646d10b3658a9b482f74510783a7ca4e6"
+    },
+    {
+     "from": "2025-02-07",
+     "units": 188,
+     "source_url": "https://sris.sr/wp-content/uploads/2025/04/RESOLUTIE-van-6-februari-2025-no.14.22724-houdende-plaatsing-staatsblad-republiek-suriname-thans-geldende-tekst-grondwet-rep-sur-S.B.-2025-no.-15.pdf",
+     "sha256": "9330947c961daf1235446f1ac23864b646d10b3658a9b482f74510783a7ca4e6"
+    }
+   ]
+  }
+ ]
+}
