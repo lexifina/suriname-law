@@ -386,7 +386,7 @@ def main():
         'country': {
             'code': 'SR', 'name': 'Suriname', 'slug': 'suriname', 'lang': 'nl', 'tz': 'America/Paramaribo',
             'future_branch': 'toekomst',
-            'publisher': {'name': 'De Nationale Assemblee (dna.sr)', 'email': 'wetgeving@dna.invalid'},
+            'publisher': {'name': 'Staatsblad van de Republiek Suriname (dna.sr, sris.sr)', 'email': 'staatsblad@dna.invalid'},
             'default_in_force_rule': {
                 'text': ('Grondwet art. 80 lid 1: laws "verkrijgen kracht van wet na afkondiging"; art. 118 leaves the '
                          'manner and moment to the law; Wet Algemene Bepalingen (G.B. 1868 no. 14) art. 1: no '
