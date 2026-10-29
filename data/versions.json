@@ -1,0 +1,135 @@
+{
+ "country": "SR",
+ "acts": [
+  {
+   "slug": "grondwet",
+   "short": "Grondwet",
+   "title": "Grondwet van de Republiek Suriname",
+   "url": "https://www.dna.sr/wetgeving/surinaamse-wetten/geldende-teksten-t-m-2005/grondwet-van-de-republiek-suriname/",
+   "versions": [
+    {
+     "from": "1992-04-08",
+     "units": 188,
+     "source_url": "https://www.dna.sr/media/vyjchhar/grondwet-suriname.pdf",
+     "sha256": "b5e44c87207c44a6afa10033c4bf45f8770374e3ec4c3788d344e3fdef260ad1"
+    },
+    {
+     "from": "2023-10-27",
+     "units": 188,
+     "source_url": "https://sris.sr/wp-content/uploads/2025/04/RESOLUTIE-van-6-februari-2025-no.14.22724-houdende-plaatsing-staatsblad-republiek-suriname-thans-geldende-tekst-grondwet-rep-sur-S.B.-2025-no.-15.pdf",
+     "sha256": "9330947c961daf1235446f1ac23864b646d10b3658a9b482f74510783a7ca4e6"
+    },
+    {
+     "from": "2025-02-07",
+     "units": 188,
+     "source_url": "https://sris.sr/wp-content/uploads/2025/04/RESOLUTIE-van-6-februari-2025-no.14.22724-houdende-plaatsing-staatsblad-republiek-suriname-thans-geldende-tekst-grondwet-rep-sur-S.B.-2025-no.-15.pdf",
+     "sha256": "9330947c961daf1235446f1ac23864b646d10b3658a9b482f74510783a7ca4e6"
+    }
+   ]
+  },
+  {
+   "slug": "burgerlijk-wetboek",
+   "short": "BW",
+   "title": "Burgerlijk Wetboek (Boeken 1-8)",
+   "url": "https://www.sris.sr/wp-content/uploads/2025/01/S.B-2024-no.-164-Burgerlijk-Wetboek.pdf",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 2426,
+     "source_url": "https://www.sris.sr/wp-content/uploads/2025/01/S.B-2024-no.-164-Burgerlijk-Wetboek.pdf",
+     "sha256": "830caa2aa0259f9eda76814b6154e138ff1a87b9c6b4fb256b01bfbb1e21db6d"
+    }
+   ]
+  },
+  {
+   "slug": "rechtsvordering",
+   "short": "Rv",
+   "title": "Wetboek van Burgerlijke Rechtsvordering",
+   "url": "https://www.sris.sr/wp-content/uploads/2025/01/S.B.-2024-no.-170-Wetboek-van-Burgerlijke-Rechtsvordering.pdf",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 839,
+     "source_url": "https://www.sris.sr/wp-content/uploads/2025/01/S.B.-2024-no.-170-Wetboek-van-Burgerlijke-Rechtsvordering.pdf",
+     "sha256": "f2846e265216b220b667cbd27a2b0e0753dd6cd4818ff3d9dcc06be1f155e1ef"
+    }
+   ]
+  },
+  {
+   "slug": "kiesregeling",
+   "short": "Kiesregeling",
+   "title": "Kiesregeling",
+   "url": "https://www.sris.sr/wp-content/uploads/2025/04/RESOLUTIE-van-6-februari-2025-no.-14.228-24-houdende-plaatsing-staatsblad-republiek-suriname-thans-geldende-tekst-kiesregeling-S.B.-2025-no.-16.pdf",
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "units": 152,
+     "source_url": "https://www.sris.sr/wp-content/uploads/2025/04/RESOLUTIE-van-6-februari-2025-no.-14.228-24-houdende-plaatsing-staatsblad-republiek-suriname-thans-geldende-tekst-kiesregeling-S.B.-2025-no.-16.pdf",
+     "sha256": "09cf9314fab6d7efab0dcf3c0c613669006504edca94a312bba6ee11ab8feb29"
+    }
+   ]
+  },
+  {
+   "slug": "algemene-termijnenwet",
+   "short": "Algemene termijnenwet",
+   "title": "Algemene termijnenwet",
+   "url": "https://www.sris.sr/wp-content/uploads/2025/01/S.B.-2024-no.-167-Algemene-termijnenwet.pdf",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 6,
+     "source_url": "https://www.sris.sr/wp-content/uploads/2025/01/S.B.-2024-no.-167-Algemene-termijnenwet.pdf",
+     "sha256": "ef5cb61ebba376ec58a9effc278f5a5fecbf5561fc62d4c7b0be0e797debf9aa"
+    }
+   ]
+  },
+  {
+   "slug": "handelsregisterwet",
+   "short": "Handelsregisterwet",
+   "title": "Handelsregisterwet",
+   "url": "https://www.sris.sr/wp-content/uploads/2025/01/S.B.-2024-no.-169-Handelsregisterwet.pdf",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 27,
+     "source_url": "https://www.sris.sr/wp-content/uploads/2025/01/S.B.-2024-no.-169-Handelsregisterwet.pdf",
+     "sha256": "05be64ed6abcb29b57027a52fb08f7546297931dd6900da314627cb6855357c4"
+    }
+   ]
+  },
+  {
+   "slug": "kinderombudspersoon",
+   "short": "Wet Kinderombudspersoon",
+   "title": "Wet Kinderombudspersoon",
+   "url": "https://www.sris.sr/wp-content/uploads/2025/02/S.B.-2025-no.-1-Wet-kinderombudspersoon.pdf",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 29,
+     "source_url": "https://www.sris.sr/wp-content/uploads/2025/02/S.B.-2025-no.-1-Wet-kinderombudspersoon.pdf",
+     "sha256": "9174faa60db6c744bcf9649f385a100093fd1f02a4b1c65630d29e607b442e7c"
+    }
+   ]
+  },
+  {
+   "slug": "spaar-en-stabilisatiefonds",
+   "short": "Wet SSFS 2024",
+   "title": "Wet Spaar- en Stabilisatie Fonds Suriname 2024",
+   "url": "https://www.sris.sr/wp-content/uploads/2025/02/S.B.-2024-no.-179-Wet-van-30-december-2024-houdende-vaststelling-van-regels-over-het-spaar-en-stabilisatie-fonds-suriname.pdf",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 23,
+     "source_url": "https://www.sris.sr/wp-content/uploads/2025/02/S.B.-2024-no.-179-Wet-van-30-december-2024-houdende-vaststelling-van-regels-over-het-spaar-en-stabilisatie-fonds-suriname.pdf",
+     "sha256": "bdbd89b5ebe0764646f3bf3a293038239f4efece52b26d48649365b57d2f70f5"
+    },
+    {
+     "from": "2025-07-29",
+     "units": 23,
+     "source_url": "https://www.sris.sr/wp-content/uploads/2025/10/S.B.-2025-no.-103-VERBETERBLAD-op-het-Staatsblad-2024-no.-179.pdf",
+     "sha256": "3989335cf331efeea49b3cbebcdee7868c9315cc90b3148ab2b3c1f193c3ffac"
+    }
+   ]
+  }
+ ]
+}

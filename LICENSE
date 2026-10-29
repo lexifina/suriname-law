@@ -1,0 +1,20 @@
+The legal texts are official texts of the Republic of Suriname, published in the Staatsblad van de Republiek
+Suriname and read from:
+
+  De Nationale Assemblee, Surinaamse wetten, https://www.dna.sr/wetgeving/surinaamse-wetten/
+  Surinaams Rechtsinformatiesysteem, https://sris.sr/
+  retrieved 28 October 2026.
+
+Neither site publishes a licence. Their copyright status under Surinamese law is not confirmed here; they are
+reproduced as official texts with the attribution above.
+
+Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph per line;
+spacing, quotes and dashes were normalised; words broken at a line end were joined; footnotes and page furniture were
+removed from the text and the footnotes used only to credit the amending law; where two publishers break a paragraph
+differently but the words agree, the older text takes the newer line breaks; and the versions were arranged as git
+commits credited to the laws that made each change. The wording of the law was not changed. Neither publisher
+endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

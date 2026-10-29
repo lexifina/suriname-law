@@ -1,0 +1,10 @@
+{
+  "path": "sr",
+  "code": "SR",
+  "name": "Suriname",
+  "level": "country",
+  "repo": "https://github.com/lexifina/suriname-law",
+  "build": "gazette-rebuilt: Grondwet from the 1992 consolidation, 1992 to today (3 versions); Burgerlijk Wetboek and Wetboek van Burgerlijke Rechtsvordering of 2024 as enacted (in force 2025-05-01); Kiesregeling current text (S.B. 2025 no. 16); Algemene termijnenwet, Handelsregisterwet, Wet Kinderombudspersoon and Wet Spaar- en Stabilisatie Fonds Suriname 2024 as enacted (the last corrected by S.B. 2025 no. 103)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}
