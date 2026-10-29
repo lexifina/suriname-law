@@ -1,0 +1,32 @@
+{
+ "parts": {
+  "20-burgerlijk-wetboek.json": {
+   "acts": [
+    "burgerlijk-wetboek"
+   ],
+   "sha256": "2fba9ba0d7b0311fe24a61b3b2fcccf591546f7756744c5ec0d4059e5f892bb7"
+  },
+  "30-rechtsvordering.json": {
+   "acts": [
+    "rechtsvordering"
+   ],
+   "sha256": "31bcc25663a2dbeffa07e2fab05981ee17f499e15b99db7d33cbc075828c7278"
+  },
+  "40-kiesregeling.json": {
+   "acts": [
+    "kiesregeling"
+   ],
+   "sha256": "45cfd0ddebfe35b5dd40340774e0d7ce54be2a6d01b27a8380b0a4cfd98203da"
+  },
+  "50-wetten.json": {
+   "acts": [
+    "algemene-termijnenwet",
+    "handelsregisterwet",
+    "kinderombudspersoon",
+    "spaar-en-stabilisatiefonds"
+   ],
+   "sha256": "bec69af90f78fbf2b8b307697853cb967f82fb64189d45463e8a32d5c6fbd9c9"
+  }
+ },
+ "schema": 1
+}
