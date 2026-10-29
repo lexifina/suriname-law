@@ -1,0 +1,938 @@
+{
+ "laws": {
+  "sb-1987-62": {
+   "label": "S.B. 1987 no. 62",
+   "title": "Wet van 29 september 1987, houdende regels voor de verkiezing van leden voor de volksvertegenwoordigende lichamen in Suriname (Kiesregeling)",
+   "kind": "law",
+   "enacted": "1987-09-29",
+   "published": null,
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "sb-1987-70": {
+   "label": "S.B. 1987 no. 70",
+   "title": "Decreet van 17 oktober 1987, tot wijziging van de Kiesregeling",
+   "kind": "decree",
+   "enacted": "1987-10-17",
+   "published": null,
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "sb-1987-71": {
+   "label": "S.B. 1987 no. 71",
+   "title": "Decreet van 19 oktober 1987, tot wijziging van de Kiesregeling",
+   "kind": "decree",
+   "enacted": "1987-10-19",
+   "published": null,
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "sb-1987-83": {
+   "label": "S.B. 1987 no. 83",
+   "title": "Decreet van 23 november 1987, tot wijziging van de Kiesregeling",
+   "kind": "decree",
+   "enacted": "1987-11-23",
+   "published": null,
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "sb-1987-84": {
+   "label": "S.B. 1987 no. 84",
+   "title": "Decreet van 23 november 1987, tot wijziging van de Kiesregeling",
+   "kind": "decree",
+   "enacted": "1987-11-23",
+   "published": null,
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "sb-2005-6": {
+   "label": "S.B. 2005 no. 6",
+   "title": "Wet van 3 maart 2005, tot wijziging van de Kiesregeling",
+   "kind": "law",
+   "enacted": "2005-03-03",
+   "published": null,
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "sb-2010-29": {
+   "label": "S.B. 2010 no. 29",
+   "title": "Wet van 10 maart 2010, tot wijziging van de Kiesregeling",
+   "kind": "law",
+   "enacted": "2010-03-10",
+   "published": null,
+   "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "sb-2019-55": {
+   "label": "S.B. 2019 no. 55",
+   "title": "Wet van 23 mei 2019, tot wijziging van de Kiesregeling",
+   "kind": "law",
+   "enacted": "2019-05-23",
+   "published": null,
+   "url": "https://www.sris.sr/wp-content/uploads/2019/08/S.B.-2019-no.-55-Wijziging-Kiesregeling.pdf",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "sb-2023-158": {
+   "label": "S.B. 2023 no. 158",
+   "title": "Wet van 25 oktober 2023, houdende nadere wijziging van de Kiesregeling",
+   "kind": "law",
+   "enacted": "2023-10-25",
+   "published": null,
+   "url": "https://www.sris.sr/wp-content/uploads/2023/10/SB-2023-158-nadere-wijziging-van-de-Kiesregeling.pdf",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "sb-2024-59": {
+   "label": "S.B. 2024 no. 59",
+   "title": "Wet van 31 mei 2024, houdende regels ter nadere wijziging van de Kiesregeling",
+   "kind": "law",
+   "enacted": "2024-05-31",
+   "published": "2024-05-31",
+   "url": "https://www.sris.sr/wp-content/uploads/2024/06/S.B.-2024-no.-59-wijziging-van-de-Kiesregeling.pdf",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "sb-2025-8": {
+   "label": "S.B. 2025 no. 8",
+   "title": "Wet van 15 januari 2025, houdende nadere wijziging van de Kiesregeling",
+   "kind": "law",
+   "enacted": "2025-01-15",
+   "published": "2025-01-20",
+   "url": "https://www.sris.sr/wp-content/uploads/2025/04/S.B.-2025-no.-8-Wet-Kiesregeling-wijziging.pdf",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "sources": [
+  {
+   "name": "Surinaams Rechtsinformatiesysteem (sris.sr)",
+   "url": "https://www.sris.sr/",
+   "retrieved": "2026-10-29",
+   "licence": "Official Staatsblad text; no licence stated",
+   "notes": "Staatsblad PDFs with a born-digital text layer (Microsoft Word). Found through the site's WordPress media listing, https://sris.sr/wp-json/wp/v2/media (1,757 files, read 2026-10-29), which shows no amending act for either code up to October 2026.",
+   "requests": 19
+  }
+ ],
+ "acts": [
+  {
+   "slug": "kiesregeling",
+   "short": "Kiesregeling",
+   "title": "Kiesregeling",
+   "url": "https://www.sris.sr/wp-content/uploads/2025/04/RESOLUTIE-van-6-februari-2025-no.-14.228-24-houdende-plaatsing-staatsblad-republiek-suriname-thans-geldende-tekst-kiesregeling-S.B.-2025-no.-16.pdf",
+   "first_law": null,
+   "earlier_laws": [
+    "sb-1987-62",
+    "sb-1987-70",
+    "sb-1987-71",
+    "sb-1987-83",
+    "sb-1987-84",
+    "sb-2005-6",
+    "sb-2010-29",
+    "sb-2019-55",
+    "sb-2023-158",
+    "sb-2024-59",
+    "sb-2025-8"
+   ],
+   "versions": [
+    {
+     "from": "2025-02-07",
+     "source_url": "https://www.sris.sr/wp-content/uploads/2025/04/RESOLUTIE-van-6-februari-2025-no.-14.228-24-houdende-plaatsing-staatsblad-republiek-suriname-thans-geldende-tekst-kiesregeling-S.B.-2025-no.-16.pdf",
+     "sha256": "09cf9314fab6d7efab0dcf3c0c613669006504edca94a312bba6ee11ab8feb29",
+     "units": {
+      "art-0001": {
+       "label": "Artikel 1",
+       "kind": "art",
+       "text": "# Artikel 1\n1. Er is een Onafhankelijk Kiesbureau, verder te noemen het Kiesbureau, dat toezicht houdt op de algemene verkiezingen en de uitslag van de verkiezingen voor de samenleving bindend vaststelt.\n2. Het Kiesbureau is samengesteld uit ten minste 7 leden en 3 plaatsvervangende leden, die allen door de President worden benoemd en ontslagen.\nDe benoeming geschiedt voor zes jaren. Zij kunnen terstond worden herbenoemd.\nHij die ter vervulling van een opengevallen plaats is benoemd, treedt af op het tijdstip waarop degene, in wiens plaats hij benoemd is, zou moeten aftreden.\n3. Uit de leden worden door de President, de Voorzitter en de plaatsvervangende Voorzitter aangewezen.\n4. Aan het Kiesbureau wordt een secretaris, alsmede een secretarie toegevoegd. De secretaris wordt door de President benoemd.\n5. De Voorzitter, de leden en de plaatsvervangende leden van het Kiesbureau leggen in handen van de President de navolgende eed of belofte af:\n\"Ik zweer (beloof) dat ik als Voorzitter (lid, plaatsvervangend lid) van het Onafhankelijk Kiesbureau bij de uitoefening van mijn taak de bepalingen van de Grondwet, de Kiesregeling en het Kiesbesluit nauwgezet in acht zal nemen en mij dienovereenkomstig zal gedragen.\nZo waarlijk helpe mij God Almachtig (Dat beloof ik)!\".\n6.a. De leden en de plaatsvervangende leden worden door de President ontslagen:\n1. op eigen verzoek;\n2. wanneer zij de leeftijd van zeventig jaar hebben bereikt;\n3. bij gebleken ongeschiktheid wegens aanhoudende ziekten, ziels- of lichaamsgebreken;\n4. wanneer zij onder curatele zijn gesteld;\n5. bij aanvaarding van een functie, welke met hun ambt onverenigbaar is.\nb. De leden en de plaatsvervangende leden kunnen door de President worden ontslagen:\n1. wanneer zij wegens misdrijf zijn veroordeeld;\n2. wanneer zij in staat van faillissement zijn verklaard of surséance van betaling hebben verkregen of wegens schulden zijn gegijzeld;\n3. wegens wangedrag of ongeschiktheid of bij gebleken voortdurende achteloosheid in de waarneming van hun ambt;\n4. wanneer zij, anders dan krachtens hun verleend verlof, langer dan vijf maanden buiten Suriname verblijf houden.\n7. Benoembaar tot lid van het Kiesbureau zijn de ingezetenen, die de Surinaamse nationaliteit bezitten, de leeftijd van 23 jaar hebben bereikt en niet van de uitoefening van het kiesrecht zijn uitgesloten.\n8. Een lid of plaatsvervangend lid van het Kiesbureau kan niet tegelijkertijd zijn Minister, Onderminister, lid van de Nationale Assemblee, lid van de Rechterlijke Macht, lid van de Staatsraad, lid van de gewapende machten, lid van de Rekenkamer, dan wel van het Constitutionele Hof of kandidaat dan wel kandidaat plaatsvervanger bij enige verkiezing waarbij hij of zij actief de werkzaamheden als in deze wet bedoeld mee uitoefent.\n9. Bij staatsbesluit kunnen andere groepen van personen worden uitgesloten van het lidmaatschap van het Onafhankelijk Kiesbureau.\n"
+      },
+      "art-0002": {
+       "label": "Artikel 2",
+       "kind": "art",
+       "text": "# Artikel 2\n1a. Het Kiesbureau is belast met de controle van het kiezersregister, als bedoeld in artikel 13, en heeft desgewenst onmiddellijk toegang tot de bron van de gegevens en krijgt daarbij de volle medewerking van de Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen en van alle betrokken medewerkers bij het Centraal Bureau voor Burgerzaken.\n1b. Het Kiesbureau ziet toe, dat de in artikel 16 van deze wet bedoelde kiezerslijsten met zorg zijn samengesteld en doorlopend zijn bijgewerkt, en vergewist zich ervan, of deze in overeenstemming met de nodig gebleken, dan wel door de rechter bevolen verbeteringen en aanvullingen zijn aangebracht.\n2. Op verzoek van het Kiesbureau brengt de Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen bij constatering van onjuistheden de nodige verbeteringen en aanvullingen in de kiezerslijsten aan.\n3.a. Het Kiesbureau ziet toe, dat elke kiezer, die bevoegd is aan de stemming deel te nemen, ten minste drie dagen vóór de tot de stemming bepaalde dag, de in artikel 90 van deze wet voorgeschreven oproepingskaart ontvangt.\nb. Op aanvraag van het Kiesbureau verstrekken de Districts-Commissarissen alle inlichtingen omtrent de organisatie van de werkzaamheden in verband met de uitreiking der oproepingskaarten aan het Kiesbureau, dat bevoegd is aanbevelingen ter zake te doen.\nc. Het Kiesbureau ziet toe, dat door de betrokken Districts-Commissaris de mogelijkheid wordt geschapen, dat de daartoe gerechtigde kiezers nog op de dag der stemming de oproepingskaarten kunnen afhalen.\n4.a. Het Kiesbureau ziet toe, dat er zoveel mogelijk uniforme instructies met betrekking tot het optreden van de onderscheidene stembureaus in de kiesdistricten worden gegeven en dat de stembureaus op de dag der stemming op de voorgeschreven wijze hun werkzaamheden verrichten.\nb. Het Kiesbureau is bevoegd toezichthouders aan te wijzen, die controle op de richtige gang der werkzaamheden van de stembureaus uitoefenen en bij constatering van onregelmatigheden zo spoedig mogelijk daarover verslag uitbrengen.\nc. De voorzitters en overige leden en plaatsvervangende leden van het Centraal Hoofdstembureau, de hoofdstembureaus en de stembureaus zijn gehouden aan de door het Kiesbureau aangewezen toezichthouders de voor de uitoefening van hun taak benodigde inlichtingen te verschaffen.\nd. Bij klachten omtrent een niet-behoorlijke functionering van het Centraal Hoofdstembureau, enig hoofdstembureau of stembureau treft het Kiesbureau onverwijld die maatregelen, welke naar zijn oordeel noodzakelijk zijn.\n5.a. Het Kiesbureau is bevoegd door één of meer zijner leden of plaatsvervangende leden dan wel door zijn secretaris of zijn ambtenaren, desgewenst met medewerking van door het Kiesbureau aangewezen personen, in de daarvoor in aanmerking komende burelen van openbare dienst de inlichtingen te doen inwinnen en het onderzoek te doen verrichten, welke het Kiesbureau voor de uitvoering van zijn taak, hem bij deze wet opgelegd, nodig acht.\nb. De Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen verstrekt het Kiesbureau binnen de kortst mogelijke termijn de inlichtingen, die het Kiesbureau voor de uitoefening van zijn taak, hem bij deze wet opgelegd, nodig acht.\n6.a. Het Kiesbureau brengt jaarlijks vóór 1 april verslag uit aan de Regering en De Nationale Assemblee over zijn werkzaamheden in het afgelopen dienstjaar.\nb. Binnen twee maanden na de dag, waarop een periodieke of tussentijdse verkiezing voor een volksvertegenwoordigend lichaam is gehouden, brengt het Kiesbureau schriftelijk verslag uit aan de Regering en De Nationale Assemblee over het door hem uitgeoefende toezicht op de gehouden verkiezingen.\n7.a. Het Kiesbureau stelt zijn reglement van orde vast.\nb. Dit reglement wordt na goedkeuring door de President, door plaatsing in het Staatsblad van de Republiek Suriname openbaar gemaakt.\n8.a. De remuneraties ten behoeve van de voorzitter en leden van het Kiesbureau alsmede de vacatiegelden ten behoeve van de plaatsvervangende leden, voor elke vergadering, waaraan die overeenkomstig het bepaalde in deze wet deelnemen worden bij staatsbesluit vastgesteld.\nb. Het salaris van de secretaris van het Kiesbureau wordt bij staatsbesluit vastgesteld.\n9. Nadere regelen met betrekking tot de werkzaamheden van het Kiesbureau worden bij staatsbesluit vastgesteld.\n"
+      },
+      "art-0003": {
+       "label": "Artikel 3",
+       "kind": "art",
+       "text": "# Artikel 3\nDe leden van De Nationale Assemblée worden gekozen door degenen, die op de veertigste dag vóór de dag der kandidaatstelling ingezetenen zijn van Suriname, de Surinaamse nationaliteit bezitten en vóór of op de dag der stemming de leeftijd van achttien jaar hebben bereikt.\n"
+      },
+      "art-0004": {
+       "label": "Artikel 4",
+       "kind": "art",
+       "text": "# Artikel 4\nDe leden van een Ressortraad worden gekozen door degenen, die op de veertigste dag vóór de dag der kandidaatstelling hun hoofd- of werkelijk verblijf hebben in het betreffende ressort van het district, de Surinaamse nationaliteit bezitten en vóór of op de dag der stemming de leeftijd van achttien jaar hebben bereikt.\n"
+      },
+      "art-0005": {
+       "label": "Artikel 5",
+       "kind": "art",
+       "text": "# Artikel 5\nZij, die in het bevolkingsregister van een district opgenomen zijn, worden voor de toepassing van deze wet, behoudens bewijs van tegendeel, geacht hun hoofd- of werkelijk verblijf te hebben in dat district.\n"
+      },
+      "art-0006": {
+       "label": "Artikel 6",
+       "kind": "art",
+       "text": "# Artikel 6\nVan de uitoefening van het kiesrecht zijn uitgesloten:\na. zij, die krachtens onherroepelijke rechterlijke uitspraak het kiesrecht missen;\nb. zij, die rechtens van hun vrijheid zijn beroofd;\nc. zij, die krachtens onherroepelijke rechterlijke uitspraak wegens krankzinnigheid of zwakheid van vermogens de beschikking of het beheer over hun goederen hebben verloren.\n"
+      },
+      "art-0006a": {
+       "label": "Artikel 6a",
+       "kind": "art",
+       "text": "# Artikel 6a\nVerkiesbaar zijn de ingezetenen die de Surinaamse nationaliteit bezitten, de leeftijd van eenentwintig jaren hebben bereikt en niet op de in artikel 6 onder a en c genoemde gronden van de uitoefening van het kiesrecht zijn uitgesloten.\n"
+      },
+      "art-0007": {
+       "label": "Artikel 7",
+       "kind": "art",
+       "text": "# Artikel 7\nVoor de toepassing van deze wet wordt als politieke organisatie beschouwd een organisatie welke voldoet aan de in het 'Decreet Politieke Organisaties' gestelde vereisten en niet van deelneming aan verkiezingen is uitgesloten op grond van het bepaalde in artikel 8 van het eerder genoemde Decreet.\n"
+      },
+      "art-0008": {
+       "label": "Artikel 8",
+       "kind": "art",
+       "text": "# Artikel 8\n1. De leden van De Nationale Assemblee worden gekozen voor een periode van vijf jaren.\n2. Zij treden tegelijk af op het tijdstip dat de nieuw gekozen Nationale Assemblee in functie treedt.\n"
+      },
+      "art-0009": {
+       "label": "Artikel 9",
+       "kind": "art",
+       "text": "# Artikel 9\n1. De Nationale Assemblée bestaat uit 51 leden die worden gekozen op grond van algemene, vrije en geheime verkiezingen krachtens het stelsel van evenredige vertegenwoordiging bij grootste gemiddelde en voorkeurstemmen.\n2. Personen, die zich kandidaat hebben gesteld ter verkiezing tot lid van De Nationale Assemblée zijn aaneengesloten twee jaren voorafgaand aan de dag der stemming ingezetene van Suriname en bezitten de Surinaamse nationaliteit.\n"
+      },
+      "art-0010": {
+       "label": "Artikel 10",
+       "kind": "art",
+       "text": "# Artikel 10\n1. De leden van de Ressortraden worden gekozen voor een periode van vijf jaren.\n2. Zij treden tegelijk af op het tijdstip dat de nieuw gekozen Ressortraad in functie treedt.\n3. Voor de samenstelling van een Ressortraad geldt de volgende verdeling:\nminder dan 1.001 inwoners - 7 zetels\nvan 1.001-2.000 inwoners - 9 zetels\nvan 2.001-5.000 inwoners - 11 zetels\nvan 5.001-10.000 inwoners - 13 zetels\nvan 10.001-13.000 inwoners - 15 zetels\nboven 13.000 inwoners - 17 zetels\n"
+      },
+      "art-0011": {
+       "label": "Artikel 11",
+       "kind": "art",
+       "text": "# Artikel 11\n1. De politieke organisaties, die aan de verkiezing voor de Ressortraden deelnemen, stellen op de dag der kandidaatstelling eveneens kandidaten ter afvaardiging naar de Districtsraad.\n2. De Districtsraad heeft een zittingsperiode van vijf jaren.\n3. De samenstelling van de Districtsraden vindt plaats na gehouden verkiezingen in de districten voor de samenstelling van de Ressortraden.\n4. De zetels in een Districtsraad worden toegekend aan de in de Ressortraden van het betreffende district vertegenwoordigende politieke organisaties, naar evenredigheid van het totaal aantal in de Ressortraden verworven zetels.\n5. Voor de samenstelling van een Districtsraad geldt de volgende verdeling:\nminder dan 10.001 inwoners - 7 zetels\nvan 10.001-30.000 inwoners - 9 zetels\nvan 30.001-50.000 inwoners - 11 zetels\nvan 50.001-100.000 inwoners - 15 zetels\nboven 100.000 inwoners - 21 zetels\n"
+      },
+      "art-0012": {
+       "label": "Artikel 12",
+       "kind": "art",
+       "text": "# Artikel 12\nHij, die ter vervulling van een tussentijds opengevallen plaats lid wordt van De Nationale Assemblee, een Districtsraad of een Ressortraad, treedt af op het tijdstip waarop degene, in wiens plaats hij is benoemd, zou hebben moeten aftreden.\n"
+      },
+      "art-0013": {
+       "label": "Artikel 13",
+       "kind": "art",
+       "text": "# Artikel 13\nVanwege de Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen wordt een kiezersregister bijgehouden en dagelijks bijgewerkt, vermeldende de in het Centraal Bevolkingsregister opgenomen kiesgerechtigde personen.\n"
+      },
+      "art-0014": {
+       "label": "Artikel 14",
+       "kind": "art",
+       "text": "# Artikel 14\n1. De tot het bevolkingsregister behorende persoonskaarten kunnen, voor zover zij op de kiezers betrekking hebben, als kiezersregister worden aangemerkt en als zodanig worden gebezigd.\n2. Eveneens kan als kiezersregister worden aangemerkt en als zodanig worden gebezigd het geautomatiseerde bestand, welk deel uitmaakt van het centraal persoonsregister, voor zover betrekking hebbende op de kiezers.\n"
+      },
+      "art-0015": {
+       "label": "Artikel 15",
+       "kind": "art",
+       "text": "# Artikel 15\n1. Van elke kiezer worden in het kiezersregister vermeld de geslachtsnaam, de voornamen of de beginletters daarvan, de datum, het jaar en de plaats van geboorte, het adres, de datum van afgifte van de identiteitskaart, het identiteitsnummer alsmede het nummer van het ressort.\n2. Indien de kiezer een gehuwde vrouw of een weduwe is en daartoe schriftelijk de wens te kennen geeft, wordt in het kiezersregister haar geslachtsnaam vermeld onder toevoeging van de naam van haar echtgenoot, onderscheidenlijk overleden echtgenoot, vooraf gegaan door de woorden \"gehuwd met\" onderscheidenlijk \"weduwe van\".\n"
+      },
+      "art-0016": {
+       "label": "Artikel 16",
+       "kind": "art",
+       "text": "# Artikel 16\n1. Uit het kiezersregister worden kiezerslijsten samengesteld, die afzonderlijk aanwijzen zowel de kiesgerechtigden van het kiesdistrict als die van een ressort, welke bevoegd zijn tot het kiezen van respectievelijk de leden van De Nationale Assemblee en die van de Ressortraden.\n2. De kiezerslijsten worden vanaf de dertigste dag vóór hun afsluiting ter inzage gelegd op het Ministerie van Binnenlandse Zaken en in de districten op de Districts-Commissariaten alsmede de politiestations.\n3. Iedere kiesgerechtigde is bevoegd te onderzoeken of hij op de kiezerslijst van zijn district en zijn ressort is opgebracht.\n4. De Minister van Justitie verstrekt regelmatig en zo spoedig mogelijk aan de Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen een opgave van personen, die van de uitoefening van het kiesrecht zijn uitgesloten.\nDe Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen, stelt, na ontvangst van voornoemde mededeling, betrokkene(n) in kennis van deze uitsluitingen de duur daarvan.\n5. De kiezerslijsten worden op de veertigste dag vóór de dag der kandidaatstelling afgesloten. Deze lijsten zijn geldend voor de desbetreffende verkiezing met inachtneming van de wijzigingen en/of aanvullingen, die in deze periode, overeenkomstig het bepaalde in de artikelen 17 t/m 21 worden aangebracht.\n6. De kiezerslijsten worden tegen betaling van de kosten verkrijgbaar gesteld.\n"
+      },
+      "art-0016a": {
+       "label": "Artikel 16a",
+       "kind": "art",
+       "text": "# Artikel 16a\n1. Bij iedere verkiezing worden de kiezerslijsten gehanteerd, welke ten minste honderd dagen voor de verkiezingen is vastgesteld.\n2. De Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen, stelt jaarlijks voor zover het geen verkiezingsjaar betreft, doch uiterlijk veertien maart van het desbetreffend jaar de kiezerslijsten vast en stelt deze ter beschikking aan het Onafhankelijk Kiesbureau voor controle, als bedoeld in artikel 2 leden 1 en 2.\n3. Indien het een verkiezingsjaar betreft, is artikel 16 van toepassing.\n"
+      },
+      "art-0017": {
+       "label": "Artikel 17",
+       "kind": "art",
+       "text": "# Artikel 17\n1. De Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen is bevoegd ambts-halve nodig gebleken wijzigingen en/of aanvullingen van de kiezerslijsten aan te brengen.\n2. Een ieder is bevoegd schriftelijk aan de Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen verbetering en/of aanvulling van de kiezerslijsten te vragen op grond, dat hij zelf of een andere daarin al dan niet behoorlijk is opgenomen. De Minister beslist binnen vijf dagen op dit verzoek. Dit verzoek dient uiterlijk op de veertigste dag vóór de dag der kandidaatstelling te worden ingediend.\n3. De vorm en inrichting van voormeld verzoek worden bij staatsbesluit vastgesteld.\nHet formulier waarop het verzoek wordt gedaan, wordt kosteloos ter beschikking gesteld en is verkrijgbaar bij het Ministerie van Binnenlandse Zaken, bij de Districts-Commissariaten alsmede bij de politiestations in de districten.\n"
+      },
+      "art-0018": {
+       "label": "Artikel 18",
+       "kind": "art",
+       "text": "# Artikel 18\nDe beslissing van de Minister op een verzoek om verbetering en/of aanvulling van de kiezerslijsten wordt onverwijld schriftelijk ter kennis gebracht van alle betrokken partijen. Deze beslissing wordt door middel van plaatsing in het Advertentieblad van de Republiek Suriname ter openbare kennis gebracht.\n"
+      },
+      "art-0019": {
+       "label": "Artikel 19",
+       "kind": "art",
+       "text": "# Artikel 19\n1. Tegen de beslissing van de Minister als bedoeld in artikel 18 staat binnen vijf dagen na de openbare kennisgeving van de beslissing beroep open bij de President.\n2. De President beslist bij een met reden omkleed besluit binnen vijf dagen na de indiening over het ingesteld beroep. Van deze beslissing wordt aan belanghebbende alsmede aan het publiek kennis gegeven op de wijze zoals geregeld in artikel 18.\n3. De Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen wordt in kennis gesteld van de beslissing van de President. De Minister geeft onverwijld gevolg aan deze beslissing.\n"
+      },
+      "art-0020": {
+       "label": "Artikel 20",
+       "kind": "art",
+       "text": "# Artikel 20\n1. Binnen tien dagen na de openbare publikatie van de beslissing van de President kan iedere belanghebbende van deze beslissing, onder overlegging van de nodige bewijsstukken en van een afschrift van de desbetreffende beslissing, bij een met reden omkleed verzoekschrift in beroep gaan bij de Kantonrechter in het Eerste Kanton.\n2. Vanwege het Kantongerecht wordt, binnen drie dagen na ontvangst van het verzoekschrift, hiervan mededeling gedaan aan de Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen en, indien de beslissing, waarvan het beroep een andere dan verzoeker betreft, aan die ander per aangetekende brief.\n3. Het verzoekschrift wordt onverwijld ter Griffie van het Kantongerecht neergelegd en ligt aldaar gedurende drie dagen voor een ieder ter inzage.\n"
+      },
+      "art-0021": {
+       "label": "Artikel 21",
+       "kind": "art",
+       "text": "# Artikel 21\n1. Een ieder is tot uiterlijk zes dagen na afloop van de in het vorige artikel bedoelde termijn tot tegenspraak bevoegd. De tegenspraak wordt schriftelijk bij de rechter ingediend.\n2. Uiterlijk eenentwintig dagen na de indiening van het verzoekschrift doet de rechter uitspraak en beveelt, indien de uitspraak daartoe leidt, verbetering of aanvulling van de kiezerslijsten.\n3. Van voornoemde rechterlijke uitspraken geeft de Griffier binnen twee maal vierentwintig uur kennis aan de Minister, die bevordert dat de kiezerslijsten overeenkomstig deze uitspraak worden verbeterd of aangevuld.\n"
+      },
+      "art-0022": {
+       "label": "Artikel 22",
+       "kind": "art",
+       "text": "# Artikel 22\n1. De procedure is vrij van griffiekosten en legesgelden.\n2. De rechter kan, daartoe gronden vindend, bij toewijzing van het gedane verzoek bepalen, dat de overige gemaakte kosten ten laste van de Staatskas komen.\n"
+      },
+      "art-0023": {
+       "label": "Artikel 23",
+       "kind": "art",
+       "text": "# Artikel 23\nAl hetgeen overigens de kiezersadministratie betreft, wordt bij staatsbesluit geregeld.\n"
+      },
+      "art-0024": {
+       "label": "Artikel 24",
+       "kind": "art",
+       "text": "# Artikel 24\n1. Voor de verkiezingen van de leden van De Nationale Assemblee is er 1 kiesdistrict, waarvan de grenzen samenvallen met de landsgrenzen.\n2. Voor de verkiezing van de leden van de Ressortraden worden de districten in ressorten verdeeld waarvan de grenzen bij afzonderlijk wet worden vastgesteld als bepaald in artikel 26 lid 1.\n"
+      },
+      "art-0025": {
+       "label": "Artikel 25",
+       "kind": "art",
+       "text": "# Artikel 25\n1. Er is voor elk ressort tenminste één stembureau, bestaande uit vijf leden van wie één voorzitter en één waarnemend voorzitter is en vijf plaatsvervangende leden, die alle worden benoemd en ontslagen door de Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen.\n2. De voorzitter, de leden en de plaatsvervangende leden van de stembureaus leggen in handen van de Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen of een door hem aan te wijzen functionaris, de navolgende eed af:\n\"Ik zweer (beloof) dat ik als voorzitter (lid, plaatsvervangend lid) van het stembureau bij de uitoefening van mijn taak de bepalingen van de Grondwet, de Kiesregeling en het Kiesbesluit nauwgezet in acht zal nemen en mij dienovereenkomstig zal gedragen.\nZo waarlijk helpe mij God Almachtig (Dat beloof ik)!\".\n3. Bij staatsbesluit worden nadere regelen gesteld omtrent de werkzaamheden van de stembureaus, alsmede de begrenzing van het gebied van elk stembureau.\n4. Iedere kiezer brengt voor de verkiezing van de leden van De Nationale Assemblée en van de leden van de Ressortraden, zijn stem uit ten overstaan van het voor hem aangewezen stembureau in het ressort van het district waar de kiezer staat ingeschreven in het bevolkingsregister.\n5. Vervallen.\n"
+      },
+      "art-0026": {
+       "label": "Artikel 26",
+       "kind": "art",
+       "text": "# Artikel 26\n1. Voor de verkiezing van de leden van De Nationale Assemblee, alsmede voor die van de leden van de Ressortraden wordt voor elk district een hoofdstembureau ingesteld, waarvan de grenzen van de districten en de grenzen van de ressorten samenvallen met de grenzen, zoals die respectievelijk zijn aangegeven in het Decreet Distriktenindeling 1983 (S.B. 1983 no. 24) en het Decreet Ressortenindeling 1987 (S.B. 1987 no. 67).\n2. Het Hoofdstembureau bestaat uit vijf leden, waarvan één voorzitter en één waarnemend voorzitter is en drie plaatsvervangende leden. Het aantal leden en plaatsvervangende leden voor het Hoofdstembureau Paramaribo kan, voor een periode waarin zulks noodzakelijk wordt geacht, worden uitgebreid met ten hoogste drie leden respectievelijk vijf plaatsvervangende leden. Het hoofdstembureau dat is ingesteld in het kader van de verkiezing van de leden van de Ressortraden, geldt als hoofdstembureau voor de vaststelling en samenstelling van de Ressort- en Districtsraden.\n3. Voorzitter is de Districts-Commissaris van het district, waar het hoofdstembureau is gevestigd. Bij afwezigheid of ontstentenis van de Districts-Commissaris wijst de Minister, aan wie de zorg voor Binnenlandse Zaken is opgedragen, de voorzitter van het hoofdstembureau aan.\n4. De voorzitter, de leden en plaatsvervangende leden worden door de President benoemd en ontslagen.\n5. De voorzitter wijst uit de leden een secretaris van het hoofdstembureau aan.\n6. De stembureaus in het district vallen allen onder de verantwoordelijkheid van het Hoofdstembureau.\n"
+      },
+      "art-0027": {
+       "label": "Artikel 27",
+       "kind": "art",
+       "text": "# Artikel 27\nBij staatsbesluit wordt overigens al hetgeen de hoofdstembureaus betreft geregeld.\n"
+      },
+      "art-0028": {
+       "label": "Artikel 28",
+       "kind": "art",
+       "text": "# Artikel 28\nDe voorzitter, de leden en de plaatsvervangende leden van de hoofdstembureaus leggen in handen van de Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen of een door hem aan te wijzen functionaris de navolgende eed of belofte af:\n\"Ik zweer (beloof) dat ik als voorzitter (lid, plaatsvervangend lid) van het hoofdstembureau bij de uitoefening van mijn taak de bepalingen van de Grondwet, de Kiesregeling en het Kiesbesluit nauwgezet in acht zal nemen en mij dienovereenkomstig zal gedragen.\nZo waarlijk helpe mij God Almachtig (Dat beloof ik)!\".\n"
+      },
+      "art-0029": {
+       "label": "Artikel 29",
+       "kind": "art",
+       "text": "# Artikel 29\n1. Er is voor de verkiezing van de leden van De Nationale Assemblee een Centraal Hoofdstembureau en zetelt te Paramaribo.\n2. Het Centraal Hoofdstembureau is belast met:\na. de kandidaatstelling van de leden van De Nationale Assemblée,\nb. de vaststelling van de samenstelling van De Nationale Assemblée op grond van de uitslag van de verkiezingen voor de leden van De Nationale Assemblée, en\nc. het controleren van de vaststelling van de Hoofdstembureaus, van de samenstelling van respectievelijk de Ressortraden en Districtsraden, op grond van de uitslag van de verkiezingen voor de Ressortraden.\n3. Het Centraal Hoofdstembureau, bedoeld in lid 1, treedt eveneens als Centraal Hoofdstembureau op voor de verkiezing van de leden van de Ressortraden.\n4. Het Centraal Hoofdstembureau is samengesteld uit ten minste zeven leden en ten minste drie plaatsvervangende leden, die allen door de President worden benoemd en ontslagen. De benoeming geschiedt voor zes jaren. Zij kunnen terstond worden herbenoemd. De President benoemt uit de leden een Voorzitter en een Plaatsvervangend Voorzitter. Een secretaris wordt toegevoegd.\n5. Benoembaar tot lid van het Centraal Hoofdstembureau zijn:\n- de ingezetenen, die de Surinaamse nationaliteit bezitten en\n- de leeftijd van 23 jaar hebben bereikt, niet van de uitoefening van het kiesrecht zijn uitgesloten en\n- nimmer door een rechter zijn veroordeeld voor het plegen van een strafbaar feit.\n6. De leden en de plaatsvervangende leden worden door de President ontslagen op de gronden zoals aangegeven in artikel 1 lid 6 onder a en b.\n7. De Hoofdstembureaus functioneren onder de verantwoordelijkheid van het Centraal Hoofdstembureau.\n8. Bij of krachtens staatsbesluit worden de remuneraties ten behoeve van de voorzitter, de overige leden en de plaatsvervangende leden van het Centraal Hoofdstembureau vastgesteld.\n"
+      },
+      "art-0030": {
+       "label": "Artikel 30",
+       "kind": "art",
+       "text": "# Artikel 30\nDe voorzitter, de leden en de plaatsvervangende leden van het Centraal Hoofdstembureau leggen in handen van de President de navolgende eed of belofte af:\n\"Ik zweer (beloof) dat ik als voorzitter (lid, plaatsvervangend lid) van het Centraal Hoofdstembureau bij de uitoefening van mijn taak de bepalingen van de Grondwet, de Kiesregeling en het Kiesbesluit nauwgezet in acht zal nemen en mij dienovereenkomstig zal gedragen. Zo waarlijk helpe mij God Almachtig (Dat beloof ik)!\"\n"
+      },
+      "art-0031": {
+       "label": "Artikel 31",
+       "kind": "art",
+       "text": "# Artikel 31\n1. Een politieke organisatie kan ten behoeve van de verkiezing van de leden van een volksvertegenwoordigend lichaam aan het Centraal Hoofdstembureau verzoeken haar naam, een aanduiding daarvan of beide alsmede desgewenst een partijsymbool in te schrijven in een openbaar register, dat door dit bureau wordt bijgehouden. Daarbij wordt tevens aangegeven een gekozen woonplaats in Suriname.\n2. De aanbieding tot registratie geschiedt door twee personen die hiertoe door de politieke organisatie schriftelijk zijn gemachtigd. Zij overleggen daarbij de schriftelijke volmacht waaruit hun bevoegdheid blijkt. Bij het verzoek worden stukken bijgevoegd, die ingevolge het Decreet Politieke Organisaties (S.B. 1987 no. 61, zoals gewijzigd bij S.B. 2019 no. 54), vereist zijn.\n3. De gelegenheid tot aanbieding bestaat van de vierendertigste tot en met de negenentwintigste dag vóór de ingevolge artikel 85 lid 1 vastgestelde dag der kandidaatstelling. Registratie is mogelijk van des voormiddags 8.00 uur tot des namiddags 15.00 uur bij het Centraal Hoofdstembureau.\n4. Aan de registratie als bedoeld in lid 3 is een waarborgsom verbonden.\n5. De betaalde waarborgsom als bedoeld in lid 4 wordt volledig gerestitueerd binnen dertig dagen, nadat de uitslag van de verkiezingen bindend is verklaard, en indien:\na. het totaal aantal behaalde stemmen door de politieke organisatie voor De Nationale Assemblée ten minste 1% van het aantal kiesgerechtigden bedraagt, of\nb. het totaal aantal behaalde stemmen door de politieke organisatie voor de Ressortraad ten minste 1% van het aantal kiesgerechtigden bedraagt.\n6. De hoogte van de waarborgsom is gelijk aan 1% (één procent) van het aantal kiesgerechtigden vermenigvuldigd met SRD 129,42 (Eénhonderd en negenentwintig Surinaamse Dollar en tweeënveertig centen). Nadere regels vastgesteld voor de verdere uitwerking van de waarborgsom worden vastgesteld bij staatsbesluit.\n"
+      },
+      "art-0032": {
+       "label": "Artikel 32",
+       "kind": "art",
+       "text": "# Artikel 32\nDe ter registratie aangeboden gegevens liggen ter inzage op de secretarie van het Centraal Hoofdstembureau gedurende drie opeenvolgende werkdagen na het verstrijken van de periode genoemd in het vorige artikel.\n"
+      },
+      "art-0033": {
+       "label": "Artikel 33",
+       "kind": "art",
+       "text": "# Artikel 33\nGedurende de in het vorige artikel vermelde termijn kan een politieke organisatie, die zelf registratie heeft verzocht, bij het Centraal Hoofdstembureau schriftelijk met redenen omklede bezwaren indienen tegen de registratie van een andere politieke organisatie indien de naam dan wel de aanduiding van laatstgenoemde geheel of in hoofdzaak overeenstemt met de door haar gebezigde naam of aanduiding of met haar symbool, waardoor verwarring te duchten is.\n"
+      },
+      "art-0034": {
+       "label": "Artikel 34",
+       "kind": "art",
+       "text": "# Artikel 34\nHet Centraal Hoofdstembureau neemt binnen twee dagen over de registratie een beslissing, welke onverwijld aan belanghebbende(n) wordt medegedeeld en ter openbare kennis gebracht, op de voorgeschreven wijze.\n"
+      },
+      "art-0035": {
+       "label": "Artikel 35",
+       "kind": "art",
+       "text": "# Artikel 35\n1. Het Centraal Hoofdstembureau weigert de registratie in de volgende gevallen:\na. indien de aanbieding niet binnen de daarvoor gestelde termijn heeft plaatsgevonden;\nb. indien in het ter registratie aangeboden symbool het wapen of de vlag van Suriname is verwerkt of het symbool in strijd is met de openbare orde of de goede zeden;\nc. indien tegen de registratie van een naam, korte aanduiding of symbool een bezwaarschrift is ingediend, dat gegrond is bevonden door het Centraal Hoofdstembureau;\nd. indien niet aan de voorwaarden is voldaan die zijn omschreven in het Decreet Politieke Organisaties;\ne. indien niet voldaan is aan de waarborgsom als bedoeld in artikel 31 lid 4.\n2. Onverminderd het bepaalde in lid 1 wordt de registratie tevens geweigerd, indien twee organisaties tegen de registratie van elkaars gegevens een bezwaarschrift hebben ingediend en de gegevens niet meer algemeen kenmerkend zijn voor de ene organisatie dan wel voor de andere. Alsdan kan de registratie van een der politieke organisatie worden geweigerd.\n3. Eveneens kan de registratie door het Centraal Hoofdstembureau op grond van de in lid 2 vermelde omstandigheid ambtshalve worden geweigerd.\n4. De in een beschikking vastgelegde weigering is met redenen omkleed.\n"
+      },
+      "art-0036": {
+       "label": "Artikel 36",
+       "kind": "art",
+       "text": "# Artikel 36\n1. Gedurende twee werkdagen na de dag van ontvangst van de beslissing van het Centraal Hoofdstembureau kan de politieke organisatie aan wie de registratie is geweigerd, respectievelijk de organisatie wiens bezwaarschrift ongegrond is bevonden, tegen die beslissing schriftelijk beroep aantekenen bij de President.\n2. De President beslist bij een met redenen omkleed besluit binnen drie dagen op dit beroep. De beslissing wordt onverwijld aan belanghebbenden medegedeeld en ter openbare kennis gebracht, op de voorgeschreven wijze. Van de beslissing van de President wordt aan het Centraal Hoofdstembureau kennis gegeven, die voor de uitvoering hiervan zorg draagt.\n"
+      },
+      "art-0037": {
+       "label": "Artikel 37",
+       "kind": "art",
+       "text": "# Artikel 37\n1. De politieke organisatie, wier registratie in eerste instantie dan wel in beroep geweigerd is op de in artikel 35 lid 1 onder b en c genoemde gronden of wier bezwaarschrift ongegrond is bevonden kan gedurende drie werkdagen na de dag van ontvangst van de beslissing van het Centraal Hoofdstembureau dan wel die van de President, nog eenmaal een aanbieding, als in artikel 31 lid 1 bedoeld, verrichten.\n2. Het Centraal Hoofdstembureau neemt zo spoedig mogelijk een beslissing, waaromtrent het bepaalde in artikel 35 van toepassing is. De registratie wordt geweigerd in de gevallen genoemd in artikel 35 lid 1 onder a en b en voorts indien het Centraal Hoofdstembureau met inachtneming van de in artikel 33 neergelegde norm van oordeel is, dat redelijkerwijs tot weigering moet worden besloten. Tegen deze beslissing staat generlei voorziening open.\n3. Het Centraal Hoofdstembureau kan echter gedurende de in lid 1 van dit artikel bedoelde werkdagen in overeenstemming met het bestuur van de politieke organisatie tot vaststelling van naar het oordeel van het Kiesbureau voor registratie vatbare gegevens overgaan.\n"
+      },
+      "art-0038": {
+       "label": "Artikel 38",
+       "kind": "art",
+       "text": "# Artikel 38\n1. Op de dag der kandidaatstelling voor de verkiezing van leden voor De Nationale Assemblee kunnen bij het Centraal Hoofdstembureau van des voormiddags 8.00 uur tot des namiddags 15.00 uur lijsten van kandidaten zowel schriftelijk als digitaal worden ingeleverd.\n2. Ten minste veertien dagen voor de dag der kandidaatstelling wordt hiervan door het Centraal Hoofdstembureau tijdig openbaar kennis gegeven.\n3. De vorm en de inrichting der lijsten worden geregeld bij staatsbesluit, dat tevens aanwijst de tijd, waarop en de plaats waar de formulieren, kosteloos, voor de kiezers verkrijgbaar zijn.\n"
+      },
+      "art-0039": {
+       "label": "Artikel 39",
+       "kind": "art",
+       "text": "# Artikel 39\n1. Elke lijst wordt ondertekend door tenminste de meerderheid van het dagelijks bestuur inclusief de voorzitter en bij ontstentenis van deze, diens statutaire vervanger of een ander statutair bevoegd orgaan dat de politieke organisatie in en buiten rechte vertegenwoordigd.\n2. De personen, die de lijsten ondertekenen moeten volgens de kiezerslijst, geldende op het ogenblik der indiening, kiesgerechtigd zijn en bevoegd tot stemmen.\n"
+      },
+      "art-0040": {
+       "label": "Artikel 40",
+       "kind": "art",
+       "text": "# Artikel 40\nBoven de partijlijst worden de aanduiding van de politieke organisatie en, indien die organisatie dat heeft doen registreren, haar partij-symbool vermeld.\n"
+      },
+      "art-0041": {
+       "label": "Artikel 41",
+       "kind": "art",
+       "text": "# Artikel 41\n1. De kandidaten worden op de lijsten geplaatst met vermelding van hun naam, voorletters en woonplaats. De voorletters mogen geheel of ten dele door voornamen worden vervangen. Indien de kandidaat een gehuwde vrouw of een weduwe is en daartoe schriftelijk de wens te kennen geeft, wordt op de kandidatenlijst haar geslachtsnaam vermeld onder toevoeging van de naam van haar echtgenoot, onderscheidenlijk overleden echtgenoot, vooraf gegaan door de woorden \"gehuwd met\" onderscheidenlijk \"weduwe van\".\n2. De namen van de kandidaten worden op de lijsten geplaatst in de volgorde, waarin de ondertekenaars aan hen de voorkeur geven.\n3. De naam van eenzelfde kandidaat mag niet voorkomen op meer dan één lijst.\n"
+      },
+      "art-0042": {
+       "label": "Artikel 42",
+       "kind": "art",
+       "text": "# Artikel 42\n1. Voor het kiesdistrict, als bedoeld in artikel 24 lid 1, wordt één kandidatenlijst ingediend.\n2. Op dezelfde lijst mogen niet meer kandidaten worden geplaatst dan het aantal zetels, dat het betreffende kiesdistrict toekomt.\n3. Op de lijst, als bedoeld in lid 1, kunnen ten hoogste vijfentwintig kandidaten- plaatsvervangers worden geplaatst. Hun rangorde op de lijst wordt bepaald door de plaats, die zij op de kandidatenlijst innemen.\n"
+      },
+      "art-0043": {
+       "label": "Artikel 43",
+       "kind": "art",
+       "text": "# Artikel 43\n1. Bij een lijst wordt overgelegd een schriftelijke verklaring van iedere daarop voorkomende kandidaat, dat hij bewilligt in zijn kandidaatstelling op deze lijst.\n2. De vorm en de inrichting dezer verklaring worden geregeld bij staatsbesluit, dat tevens aanwijst de tijd, waarop en de plaats waar formulieren voor de kiezers, kosteloos, verkrijgbaar zijn.\n"
+      },
+      "art-0044": {
+       "label": "Artikel 44",
+       "kind": "art",
+       "text": "# Artikel 44\n1. De inlevering van de kandidatenlijsten geschiedt door twee personen, die hiertoe door de politieke organisatie, die is geregistreerd in het openbaar register als bedoeld in artikel 31, zijn gemachtigd.\n2. De in lid 1 bedoelde personen moeten het volgende overleggen:\na. een schriftelijke volmacht waaruit hun bevoegdheid blijkt;\nb. een bewijs van de betaling van de waarborgsom als bedoeld in artikel 31.\n"
+      },
+      "art-0045": {
+       "label": "Artikel 45",
+       "kind": "art",
+       "text": "# Artikel 45\nHet Centraal Hoofdstembureau maakt kopieën van de ingeleverde kandidatenlijsten met de bijbehorende bijlagen, die na afsluiting van de periode van indiening onmiddellijk, gedurende drie dagen, voor een ieder ter inzage worden gelegd. Bij staatsbesluit worden de bijlagen vastgesteld.\n"
+      },
+      "art-0046": {
+       "label": "Artikel 46",
+       "kind": "art",
+       "text": "# Artikel 46\nOp de dag der kandidaatstelling, onmiddellijk na het verstrijken van de tijd, die in artikel 38 lid 1 is vermeld, houdt het Centraal Hoofdstembureau een zitting tot het onderzoeken van de lijsten.\n"
+      },
+      "art-0047": {
+       "label": "Artikel 47",
+       "kind": "art",
+       "text": "# Artikel 47\nIndien bij het onderzoek blijkt van één of meer der navolgende verzuimen, geeft het Centraal Hoofdstembureau onverwijld bij aangetekende brief of tegen gedagtekend ontvangstbewijs daarvan kennis aan hen, die de lijst hebben ingeleverd, alsmede aan het bestuur van de politieke organisatie:\na. dat een kandidaat op een lijst niet is vermeld op de wijze, zoals voorgeschreven in artikel 41 lid 1;\nb. dat ten aanzien van een kandidaat ontbreekt de in artikel 43 lid 1 bedoelde verklaring;\nc. dat de lijst niet persoonlijk is ingeleverd door de personen, bedoeld in artikel 44 lid 1;\nd. dat de naam of aanduiding der politieke organisatie niet in overeenstemming is met die welke krachtens de artikelen 31 t/m 37 is geregistreerd, dan wel dat de machtiging, bedoeld in artikel 44 lid 2.a of het bewijs van registratie, bedoeld in artikel 44 lid 2.b ontbreekt.\n"
+      },
+      "art-0048": {
+       "label": "Artikel 48",
+       "kind": "art",
+       "text": "# Artikel 48\n1. Binnen drie dagen na de dag waarop de kennisgeving is verzonden, kunnen de personen, die de lijst hebben ingeleverd, het verzuim of de verzuimen, in de kennisgeving aangeduid, herstellen ter secretarie van het Centraal Hoofdstembureau, van des voormiddags 08.00 uur tot des namiddags 15.00 uur.\n2. Bij verhindering of ontstentenis van een der personen of van beide personen, die de lijst hebben ingeleverd, treden één of twee andere in hun plaats, die door de politieke organisatie schriftelijk is/zijn gemachtigd.\n"
+      },
+      "art-0049": {
+       "label": "Artikel 49",
+       "kind": "art",
+       "text": "# Artikel 49\nOnmiddellijk nadat de lijsten door het Centraal Hoofdstembureau zijn onderzocht, doet de voorzitter deze ter secretarie van het hoofdstembureau, voor een ieder ter inzage nederleggen.\n"
+      },
+      "art-0050": {
+       "label": "Artikel 50",
+       "kind": "art",
+       "text": "# Artikel 50\n1. Uiterlijk op de achtste dag na de inlevering van de kandidatenlijsten beslist het Centraal Hoofdstembureau in een openbare zitting over de geldigheid der lijsten, alsmede over de handhaving der daarop voorkomende kandidaten.\n2. De lijsten die niet in overeenstemming zijn met de artikelen 31 lid 1, 39 lid 1 en 44 leden 1 en 2 zijn ongeldig.\n3. In de volgende gevallen worden kandidaten van de lijst(en) geschrapt;\na. indien van een kandidaat niet is overgelegd een verklaring dat hij bewilligt in zijn kandidaatstelling;\nb. indien een kandidaat voorkomt op meer dan één partijlijst;\nc. indien meer kandidaten op de lijst voorkomen dan het in artikel 42 lid 2 toegestane aantal;\nd. indien een kandidaat die voorkomt op de kandidatenlijst zijn hoofd- of werkelijke verblijf niet heeft in de Republiek Suriname.\n"
+      },
+      "art-0051": {
+       "label": "Artikel 51",
+       "kind": "art",
+       "text": "# Artikel 51\nHet Centraal Hoofdstembureau zendt de ongeldig verklaarde lijsten, alsmede de lijsten waarop kandidaten zijn geschrapt, zo spoedig mogelijk aan de President, vergezeld van de notulen van de vergadering waarin hiertoe is besloten.\n"
+      },
+      "art-0052": {
+       "label": "Artikel 52",
+       "kind": "art",
+       "text": "# Artikel 52\n1. Binnen drie dagen na de dag, waarop het Centraal Hoofdstembureau over de geldigheid van de kandidatenlijsten en over de handhaving van de daarop voorkomende kandidaten heeft beslist, kan iedere ondertekenaar beroep aantekenen bij de President tegen de genomen beslissing.\n2. De President beslist uiterlijk op de achtste dag, nadat het beroepschrift is ingekomen bij een met redenen omkleed besluit. De beslissing wordt aan appellant(en), alsmede aan het Centraal Hoofdstembureau medegedeeld.\n"
+      },
+      "art-0053": {
+       "label": "Artikel 53",
+       "kind": "art",
+       "text": "# Artikel 53\n1. Onmiddellijk nadat de termijn voor beroep is verstreken of nadat de President in geval van beroep zijn beslissing aan het Centraal Hoofdstembureau heeft medegedeeld:\na. stelt het Centraal Hoofdstembureau in een openbare zitting de kandidatenlijsten, zoals zij geldig zijn verklaard vast, waarna middels loting de volgorde van alle deelnemende politieke organisaties naast elkaar wordt bepaald op een verzamellijst; en\nb. wordt door het Centraal Hoofdstembureau digitaal een afschrift van de verzamellijst gestuurd voor de Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen.\n2. De verzamellijst wordt onverwijld door plaatsing in het Advertentieblad van de Republiek Suriname ter openbare kennis gebracht. Afschrift van deze lijst wordt voor een ieder ter inzage gelegd op de Districts-Commissariaten en op alle politiestations in de districten.\n"
+      },
+      "art-0054": {
+       "label": "Artikel 54",
+       "kind": "art",
+       "text": "# Artikel 54\n1. Op de dag der kandidaatstelling voor de verkiezing van leden voor de Ressortraden kunnen bij het hoofdstembureau van het district waarvan het betreffende ressort deel uitmaakt, van des voormiddags 08.00 uur tot des namiddags 15.00 uur lijsten van kandidaten zowel schriftelijk als digitaal worden ingeleverd.\n2. Ten minste veertien dagen vóór de dag der kandidaatstelling wordt hiervan door het Centraal Hoofdstembureau tijdig openbare kennis gegeven.\n3. De vorm en de inrichting der lijsten worden geregeld bij staatsbesluit, dat tevens aanwijst de tijd, waarop en de plaats, waar formulieren, kosteloos voor de kiezers verkrijgbaar zijn.\n"
+      },
+      "art-0055": {
+       "label": "Artikel 55",
+       "kind": "art",
+       "text": "# Artikel 55\n1. Elke lijst wordt ondertekend door tenminste de meerderheid van het dagelijks bestuur inclusief de voorzitter en bij ontstentenis van deze, diens statutaire vervanger of een ander statutair bevoegd orgaan dat de politieke organisatie in en buiten rechte vertegenwoordigd.\n2. De personen, die de lijsten ondertekenen moeten volgens de kiezerslijst geldende op het ogenblik der indiening, kiesgerechtigd zijn en bevoegd tot stemmen.\n"
+      },
+      "art-0056": {
+       "label": "Artikel 56",
+       "kind": "art",
+       "text": "# Artikel 56\nBoven de kandidatenlijst worden de aanduiding van de politieke organisatie en haar partij-symbool vermeld.\n"
+      },
+      "art-0057": {
+       "label": "Artikel 57",
+       "kind": "art",
+       "text": "# Artikel 57\nDe kandidaten worden op de lijsten geplaatst met vermelding van hun naam, voorletters en woonplaats. De voorletters mogen geheel of ten dele door voornamen worden vervangen.\nIndien de kandidaat een gehuwde vrouw of een weduwe is en daartoe schriftelijk de wens te kennen geeft, wordt op de kandidatenlijst haar geslachtsnaam vermeld onder toevoeging van de naam van haar echtgenoot, onderscheidenlijk overleden echtgenoot, vooraf gegaan door de woorden \"gehuwd met\" onderscheidenlijk \"weduwe van\".\n"
+      },
+      "art-0058": {
+       "label": "Artikel 58",
+       "kind": "art",
+       "text": "# Artikel 58\n1. Op de kandidatenlijst mogen niet meer kandidaten worden geplaatst dan er in de Ressortraad zetels te vervullen zijn.\n2. Op de in lid 1 bedoelde lijst kunnen ten hoogste tien kandidaten-plaatsvervanger worden geplaatst; hun rangorde op de lijst wordt bepaald door de plaats die zij op de kandidatenlijst innemen.\n3. De naam van eenzelfde kandiaat mag niet voorkomen op meer dan één lijst.\n"
+      },
+      "art-0059": {
+       "label": "Artikel 59",
+       "kind": "art",
+       "text": "# Artikel 59\n1. Bij een lijst wordt overgelegd een schriftelijke verklaring van iedere daarop voorkomende kandidaat, dat hij bewilligt in zijn kandidaatstelling op deze lijst.\n2. De vorm en de inrichting dezer verklaring worden geregeld bij staatsbesluit, dat tevens aanwijst de tijd, waarop en de plaats, waar formulieren voor de kiezers kosteloos, verkrijgbaar zijn.\n"
+      },
+      "art-0060": {
+       "label": "Artikel 60",
+       "kind": "art",
+       "text": "# Artikel 60\n1. De inlevering van de kandidatenlijsten geschiedt door twee personen, die hiertoe door de politieke organisatie zijn gemachtigd.\n2. De in lid 1 bedoelde personen moeten het volgende overleggen:\na. een schriftelijke volmacht waaruit hun bevoegdheden blijkt;\nb. een verklaring van het Centraal Hoofdstembureau waaruit de registratie van de politieke organisatie in het openbaar register en een bewijs van de betaling van de waarborgsom, als bedoeld in artikel 31 lid 4, blijkt.\n"
+      },
+      "art-0061": {
+       "label": "Artikel 61",
+       "kind": "art",
+       "text": "# Artikel 61\nHet Hoofdstembureau maakt kopieën van de ingeleverde kandidatenlijsten met de bijbehorende bijlagen, die na afsluiting van de periode van indiening onmiddellijk, gedurende drie dagen, voor een ieder ter inzage worden gelegd. Bij staatsbesluit worden de bijlagen vastgesteld.\n"
+      },
+      "art-0062": {
+       "label": "Artikel 62",
+       "kind": "art",
+       "text": "# Artikel 62\nOp de dag der kandidaatstelling, onmiddellijk na het verstrijken van de tijd, die in artikel 54 is vermeld, houdt het hoofdstembureau een zitting tot het onderzoeken van de lijsten.\n"
+      },
+      "art-0063": {
+       "label": "Artikel 63",
+       "kind": "art",
+       "text": "# Artikel 63\nIndien bij het onderzoek blijkt van een of meer der navolgende verzuimen, geeft het hoofdstembureau onverwijld bij aangetekende brief of tegen gedagtekend ontvangstbewijs daarvan kennis aan hen, die de lijst hebben ingeleverd, alsmede aan het bestuur van de politieke organisatie:\na. dat een kandidaat op een lijst niet is vermeld op de wijze, zoals voorgeschreven in artikel 57;\nb. dat ten aanzien van een kandidaat ontbreekt de in artikel 59 lid 1 bedoelde verklaring;\nc. dat de lijst niet persoonlijk is ingeleverd door de personen bedoeld in artikel 60 lid 1.\n"
+      },
+      "art-0064": {
+       "label": "Artikel 64",
+       "kind": "art",
+       "text": "# Artikel 64\n1. Binnen drie dagen na de dag waarop de kennisgeving is verzonden, kunnen de personen die de lijst hebben ingeleverd, het verzuim of de verzuimen, in de kennisgeving aangeduid, herstellen ter secretarie van het hoofdstembureau, van des voormiddags 8.00 uur tot des namiddags 15.00 uur.\n2. Bij verhindering of ontstentenis van de persoon die de lijst ingeleverd heeft, treedt een andere ondertekenaar in diens plaats.\n"
+      },
+      "art-0065": {
+       "label": "Artikel 65",
+       "kind": "art",
+       "text": "# Artikel 65\nOnmiddellijk nadat de lijsten door het hoofdstembureau zijn onderzocht, doet de voorzitter deze ter secretarie van het hoofdstembureau, voor een ieder ter inzage nederleggen.\n"
+      },
+      "art-0066": {
+       "label": "Artikel 66",
+       "kind": "art",
+       "text": "# Artikel 66\n1. Uiterlijk op de achtste dag na de inlevering van de kandidatenlijsten beslist het hoofdstembureau in een openbare zitting over de geldigheid der lijsten, alsmede over de handhaving der daarop voorkomende kandidaten.\n2. De lijsten die niet in overeenstemming zijn met de artikelen 54 leden 1 en 3 en 60 zijn ongeldig.\n3. In de volgende gevallen worden kandidaten van de lijst(en) geschrapt:\na. indien van een kandidaat niet is overgelegd een verklaring dat hij bewilligt in zijn kandidaatstelling;\nb. indien een kandidaat voorkomt op meer dan één lijst;\nc. indien meer kandidaten op de lijst voorkomen dan het toegestane aantal. In dit geval geldt het schrappen van de kandidaten die het toegestane aantal overschrijden;\nd. indien een kandidaat voorkomt op een kandidatenlijst van een ressort dat niet het zijne is.\n"
+      },
+      "art-0067": {
+       "label": "Artikel 67",
+       "kind": "art",
+       "text": "# Artikel 67\nHet hoofdstembureau zendt de ongeldig verklaarde lijsten, alsmede de lijsten waarop kandidaten zijn geschrapt, zo spoedig mogelijk aan de President en het Centraal Hoofdstembureau, vergezeld van de notulen van de vergadering waarin hiertoe is besloten.\n"
+      },
+      "art-0068": {
+       "label": "Artikel 68",
+       "kind": "art",
+       "text": "# Artikel 68\n1. Binnen drie dagen na de dag, waarop het hoofdstembureau over de geldigheid van de kandidatenlijsten en over de handhaving van de daarop voorkomende kandidaten heeft beslist, kan iedere ondertekenaar beroep aantekenen bij de President, tegen de genomen beslissing. Van het beroepschrift wordt een afschrift gezonden aan het Centraal Hoofdstembureau.\n2. De President beslist uiterlijk op de achtste dag nadat het beroepschrift is ingekomen bij een met redenen omkleed besluit. De beslissing wordt aan appellant(en), het Centraal Hoofdstembureau alsmede aan het hoofdstembureau medegedeeld.\n"
+      },
+      "art-0069": {
+       "label": "Artikel 69",
+       "kind": "art",
+       "text": "# Artikel 69\n1. Onmiddellijk nadat de termijn voor beroep is verstreken of nadat de President in geval van beroep zijn beslissing aan het Centraal Hoofdstembureau en het Hoofdstembureau heeft medegedeeld:\na. stelt het Hoofdstembureau in een openbare zitting de kandidatenlijsten, zoals zij geldig zijn verklaard vast, waarbij de volgorde van alle deelnemende politieke organisaties naast elkaar op een verzamellijst is bepaald bij de loting, als bedoeld in artikel 53 lid 1 onder a, en\nb. wordt door het Hoofdstembureau digitaal een afschrift van de verzamellijst gestuurd voor de Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen.\n2. De verzamellijst wordt onverwijld door plaatsing in het Advertentieblad van de Republiek Suriname ter openbare kennis gebracht.\nAfschrift van deze lijst wordt voor een ieder ter inzage gelegd op de Districts-Commissariaten en op alle politiestations in de districten.\n"
+      },
+      "art-0070": {
+       "label": "Artikel 70",
+       "kind": "art",
+       "text": "# Artikel 70\n1. Op de dag der kandidaatstelling ten behoeve van de verkiezing van de leden van de Ressortraden kunnen bij het hoofdstembureau van des voormiddags 8.00 uur tot des namiddags 15.00 uur lijsten van kandidaten voor de Districtsraad zowel schriftelijk als digitaal worden ingediend. Artikel 6a is van overeenkomstige toepassing.\n2. Deze lijsten worden door de politieke organisaties die aan de verkiezing van de Ressortraden deelnemen, ingediend.\n3. Ten minste veertien dagen voor de dag der kandidaatstelling wordt hiervan door het Centraal Hoofdstembureau tijdig openbaar kennis gegeven.\n4. De vorm en inrichting der lijsten worden geregeld bij staatsbesluit, dat tevens aanwijst de tijd waarop en de plaats waar formulieren kosteloos voor de kiezers verkrijgbaar zijn.\n"
+      },
+      "art-0071": {
+       "label": "Artikel 71",
+       "kind": "art",
+       "text": "# Artikel 71\n1. Elke lijst wordt ondertekend door tenminste de meerderheid van het dagelijks bestuur inclusief de voorzitter en bij ontstentenis van deze, diens statutaire vervanger of een ander statutair bevoegd orgaan dat de politieke organisatie in en buiten rechte vertegenwoordigd.\n2. De personen, die de lijsten ondertekenen, moeten volgens de kiezerslijst, geldende op het ogenblik der indiening, kiesgerechtigd zijn en bevoegd tot stemmen.\n"
+      },
+      "art-0072": {
+       "label": "Artikel 72",
+       "kind": "art",
+       "text": "# Artikel 72\nBoven de kandidatenlijst worden de aanduiding van de politieke organisatie en haar partij-symbool vermeld.\n"
+      },
+      "art-0073": {
+       "label": "Artikel 73",
+       "kind": "art",
+       "text": "# Artikel 73\n1. De kandidaten worden op de lijst geplaatst met vermelding van hun naam, voorletters en woonplaats. De voorletters mogen geheel of ten dele door voornamen worden vervangen.\nIndien de kandidaat een gehuwde vrouw of een weduwe is en daartoe schriftelijk de wens te kennen geeft, wordt op de kandidatenlijst haar geslachtsnaam vermeld onder toevoeging van de naam van haar echtgenoot, onderscheidenlijk overleden echtgenoot, vooraf gegaan door de woorden \"gehuwd met\" onderscheidenlijk \"weduwe van\".\n2. De namen van de kandidaten worden op de lijsten geplaatst in de volgorde, waarin de ondertekenaars aan hen de voorkeur geven.\n3. De naam van eenzelfde kandidaat mag niet voorkomen op meer dan een lijst.\n"
+      },
+      "art-0074": {
+       "label": "Artikel 74",
+       "kind": "art",
+       "text": "# Artikel 74\nOp dezelfde lijst mogen ten hoogste tien kandidaten meer worden geplaatst dan het aantal zetels van de Districtsraad.\n"
+      },
+      "art-0075": {
+       "label": "Artikel 75",
+       "kind": "art",
+       "text": "# Artikel 75\n1. Bij een lijst wordt overgelegd een schriftelijke verklaring van iedere daarop voorkomende kandidaat, dat hij bewilligt in zijn kandidaatstelling op deze lijst.\n2. De vorm en de inrichting dezer verklaring worden geregeld bij staatsbesluit, dat tevens aanwijst de tijd, waarop en de plaats, waar formulieren voor de kiezers, kosteloos, verkrijgbaar zijn.\n"
+      },
+      "art-0076": {
+       "label": "Artikel 76",
+       "kind": "art",
+       "text": "# Artikel 76\n1. De inlevering van de kandidatenlijsten geschiedt door twee personen, die hiertoe door de politieke organisatie zijn gemachtigd.\n2. De in lid 1 bedoelde personen moeten de volgende documenten, als bedoeld in artikel 60 lid 2, overleggen.\n"
+      },
+      "art-0077": {
+       "label": "Artikel 77",
+       "kind": "art",
+       "text": "# Artikel 77\nHet Hoofdstembureau maakt kopieën van de ingeleverde kandidatenlijsten met de bijbehorende bijlagen, die na afsluiting van de periode van indiening onmiddellijk, gedurende drie dagen, voor een ieder ter inzage worden gelegd. Bij staatsbesluit worden de bijlagen vastgesteld.\n"
+      },
+      "art-0078": {
+       "label": "Artikel 78",
+       "kind": "art",
+       "text": "# Artikel 78\nOp de dag der kandidaatstelling, onmiddellijk na het verstrijken van de tijd, die in artikel 54 lid 1 is vermeld, houdt het hoofdstembureau een zitting tot het onderzoeken van de lijsten.\n"
+      },
+      "art-0079": {
+       "label": "Artikel 79",
+       "kind": "art",
+       "text": "# Artikel 79\n1. Indien bij het onderzoek blijkt van één of meer der navolgende verzuimen, geeft het hoofdstembureau onverwijld bij aangetekende brief of tegen gedagtekend ontvangstbewijs daarvan kennis aan hen, die de lijst hebben ingeleverd alsmede aan het bestuur van de politieke organisatie:\na. dat een kandidaat op een lijst niet is vermeld op de wijze, zoals voorgeschreven in artikel 73 lid 1;\nb. dat ten aanzien van een kandidaat ontbreekt de in artikel 75 lid 1 bedoelde verklaring;\nc. dat de lijst niet persoonlijk is ingeleverd door de personen, bedoeld in artikel 76 lid 1;\nd. dat de naam of aanduiding der politieke organisatie niet in overeenstemming is met die welke krachtens de artikelen 31 tot en met 37 is geregistreerd, dan wel dat de machtiging, bedoeld in artikel 76 lid 2 of het bewijs van registratie, bedoeld in artikel 34 ontbreekt.\n2. Binnen drie dagen na de dag waarop de kennisgeving is verzonden, kunnen de personen, die de lijst hebben ingeleverd, het verzuim of de verzuimen in de kennisgeving aangeduid, herstellen ter secretarie van het hoofdstembureau van des voormiddags 08.00 uur tot des namiddags 15.00 uur.\n"
+      },
+      "art-0080": {
+       "label": "Artikel 80",
+       "kind": "art",
+       "text": "# Artikel 80\nOnmiddellijk nadat de lijsten door het hoofdstembureau zijn onderzocht, doet de voorzitter deze ter secretarie van het hoofdstembureau voor een ieder ter inzage nederleggen.\n"
+      },
+      "art-0081": {
+       "label": "Artikel 81",
+       "kind": "art",
+       "text": "# Artikel 81\n1. Uiterlijk op de achtste dag na de inlevering van de kandidatenlijsten beslist het hoofdstembureau in een openbare zitting over de geldigheid der lijsten, alsmede over de handhaving der daarop voorkomende kandidaten.\n2. De lijsten die niet in overeenstemming zijn met de artikelen 71 en 76 zijn ongeldig.\n3. In de volgende gevallen worden kandidaten van de lijst(en) geschrapt:\na. indien van een kandidaat niet is overgelegd een verklaring dat hij bewilligt in zijn kandidaatstelling;\nb. indien een kandidaat voorkomt op meer dan één partijlijst;\nc. indien meer kandidaten op de lijst voorkomen dan het in artikel 42 lid 2 toegestane aantal;\nd. indien een kandidaat voorkomt op een kandidatenlijst van een district dat niet het zijne is.\n"
+      },
+      "art-0082": {
+       "label": "Artikel 82",
+       "kind": "art",
+       "text": "# Artikel 82\nHet hoofdstembureau zendt de ongeldig verklaarde lijsten, alsmede de lijsten waarop kandidaten zijn geschrapt, zo spoedig mogelijk aan de President en het Centraal Hoofdstembureau, vergezeld van de notulen van de vergadering waarin daartoe is besloten.\n"
+      },
+      "art-0083": {
+       "label": "Artikel 83",
+       "kind": "art",
+       "text": "# Artikel 83\n1. Binnen drie dagen na de dag, waarop het hoofdstembureau over de geldigheid van de kandidatenlijsten en over de handhaving van de daarop voorkomende kandidaten en kandidaatplaatsvervangers heeft beslist, kan iedere ondertekenaar beroep aantekenen bij de President tegen de genomen beslissing.\n2. De President beslist uiterlijk op de achtste dag nadat het beroepschrift is ingekomen bij een met redenen omkleed besluit.\nDe beslissing wordt aan appellant(en), het Centraal Hoofdstembureau alsmede aan het hoofdstembureau medegedeeld.\n"
+      },
+      "art-0084": {
+       "label": "Artikel 84",
+       "kind": "art",
+       "text": "# Artikel 84\n1. Onmiddellijk nadat de termijn voor beroep is verstreken of, in geval van beroep, nadat de President zijn beslissing aan het Centraal Hoofdstembureau en het Hoofdstembureau heeft medegedeeld, stelt het Hoofdstembureau in een openbare zitting de kandidatenlijsten vast.\n2. De vastgestelde kandidatenlijsten wordt onverwijld door plaatsing in het Advertentieblad van de Republiek Suriname ter openbare kennis gebracht. Afschrift van deze lijst wordt voor een ieder ter inzage gelegd op de Districts-Commissariaten en op alle politiestations in de districten.\n"
+      },
+      "art-0085": {
+       "label": "Artikel 85",
+       "kind": "art",
+       "text": "# Artikel 85\n1. De dag der kandidaatstelling voor de periodieke verkiezing van de leden van de volksvertegenwoordigende lichamen wordt bij staatsbesluit bepaald, en wel zodanig dat tussen deze dag en die der stemming ten minste zestig dagen gelegen zijn.\n2. De kandidaatstelling ter vervulling van opengevallen plaatsen van gekozenen, in de vervulling waarvan in de voorafgaande hoofdstukken van deze wet niet is voorzien, geschiedt binnen veertig dagen, nadat dit openvallen door het volksvertegenwoordigend lichaam ter kennis van de President is gebracht. Binnen acht dagen hierna wordt daarvan op zijn last door middel van plaatsing in het Advertentieblad van de Republiek Suriname mededeling gedaan.\n"
+      },
+      "art-0086": {
+       "label": "Artikel 86",
+       "kind": "art",
+       "text": "# Artikel 86\nBij de vaststelling van de dag der kandidaatstelling bepaalt de President tevens de dag, waarop de stemming zal plaats hebben.\n"
+      },
+      "art-0087": {
+       "label": "Artikel 87",
+       "kind": "art",
+       "text": "# Artikel 87\n1. De stemming voor De Nationale Assemblee dan wel voor de Ressortraden geschiedt in elk district en in elk ressort uitsluitend over de kandidaten wier namen voorkomen op de onderscheidene geldig verklaarde kandidatenlijsten.\n2. Behoudens in de gevallen, genoemd in het volgende hoofdstuk IX neemt de kiezer persoonlijk aan de stemming deel.\n"
+      },
+      "art-0088": {
+       "label": "Artikel 88",
+       "kind": "art",
+       "text": "# Artikel 88\n1. Voorafgaande aan de stemming wordt door de Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen, voorzien in:\na. tijdige publikatie in het Advertentieblad van de Republiek Suriname alsmede in de nieuwsbladen van de plaatsen en tijdstippen waarop aan de kiesgerechtigden gelegenheid tot het uitbrengen van hun stem wordt geboden;\nb. aanwijzing van een geschikt stemlokaal voor elk stembureau.\n2. Op verzoek van de Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen stellen de besturen van bijzondere scholen de daarvoor in aanmerking komende lokalen en het zich daarin bevindende materiaal voor de inrichting en het gebruik als stemlokaal beschikbaar, desgewenst tegen vergoeding van de daaruit voortvloeiende onkosten.\n3. De Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen wijst de personen aan, die bij het stembureau ten dienste worden gesteld.\n4. De Districts-Commissaris zorgt voor de inrichting van het stemlokaal.\n"
+      },
+      "art-0089": {
+       "label": "Artikel 89",
+       "kind": "art",
+       "text": "# Artikel 89\n1. De stemming vangt aan des voormiddags 7.00 uur en duurt tot des namiddags 19.00 uur.\n2. De kiezer stemt in het stemlokaal van het aan hem toegewezen stembureau.\n"
+      },
+      "art-0090": {
+       "label": "Artikel 90",
+       "kind": "art",
+       "text": "# Artikel 90\n1. Ten minste drie dagen voor de dag der stemming ontvangt elke kiezer, die bevoegd is aan de stemming deel te nemen, van de Districts-Commissaris van het district, in welker kiezersregister zijn naam op de dag der kandidaatstelling voorkomt, een kaart, houdende een oproeping voor de stemming.\n2. Op de oproepingskaart worden vermeld:\na. de naam van het lichaam, waarvoor de stemming plaatsvindt;\nb. de naam en voornamen of voorletters van de kiezers;\nc. datum en jaar van geboorte;\nd. het nummer, waaronder de kiezer op de bij de stemming te bezigen kiezerslijst voorkomt;\ne. datum van afgifte van de identiteitskaart en het identiteitsnummer;\nf. het district en het nummer van het ressort, waartoe de kiezer behoort;\ng. het adres van het stemlokaal;\nh. de dag en de uren waarop de stemming plaatsvindt;\ni. het adres van de kiezer.\n3. De lijsten van de kandidaten worden ter kennis van de kiezers gebracht door publikatie in het Advertentieblad van de Republiek Suriname alsmede in de nieuwsbladen. De lijsten liggen voorts ter inzage op de Districts-Commissariaten.\nOp de dag der stemming worden de lijsten bij de ingang van het stemlokaal, duidelijk leesbaar in afdruk opgehangen.\n4. Aan de tot deelneming aan de stemming bevoegde kiezer, wiens oproepingskaart in het ongerede is geraakt, of die geen kaart heeft ontvangen, wordt op zijn aanvraag door de Districts-Commissaris een nieuwe oproepingskaart uitgereikt, mits hij voldoende van zijn identiteit doet blijken. Tot zodanige uitreiking is ook het stembureau bevoegd.\n5. De vorm en inrichting van de oproepingskaarten worden nader bij staatsbesluit vastgesteld.\n"
+      },
+      "art-0091": {
+       "label": "Artikel 91",
+       "kind": "art",
+       "text": "# Artikel 91\nIedere werkgever is verplicht te zorgen, dat iedere werknemer, die bij hem in dienstbetrekking is en bevoegd is tot stemming daartoe de gelegenheid krijgt, voor zover deze niet buiten de tijd van zijn dienstbetrekking aan de verkiezingen kan deelnemen.\n"
+      },
+      "art-0092": {
+       "label": "Artikel 92",
+       "kind": "art",
+       "text": "# Artikel 92\n1. De bij de opening der zitting van het stembureau optredende voorzitter en de leden alsmede de alsdan aanwezige kiesgerechtigde personen, die het stembureau ten dienste staan, nemen bij dit stembureau aan de stemming deel, indien dit stembureau ligt binnen het ressort, waar hij op de kiezerslijst voorkomt.\n2. Gedurende de zitting zijn steeds de voorzitter of waarnemend voorzitter en twee leden van het stembureau aanwezig.\nDe voorzitter bepaalt wie als 3e, 4e en 5e lid van het stembureau optreedt. Van alle verwisselingen in de samenstelling van het stembureau wordt in het proces-verbaal aantekening gehouden met opgave van reden daarvan en van de tijd der vervanging.\n"
+      },
+      "art-0093": {
+       "label": "Artikel 93",
+       "kind": "art",
+       "text": "# Artikel 93\n1. Op de tafel van het stembureau liggen een exemplaar van deze wet, een exemplaar van de besluiten betrekking hebbend op de verkiezingen, alsmede een exemplaar van de kiezerslijst.\n2. De tafel is zodanig geplaatst, dat de kiezers de verrichtingen van het stembureau kunnen gadeslaan.\n3. De stembus, vervaardigd volgens bij staatsbesluit gegeven voorschriften, staat bij de tafel.\nIndien een stembus volledig gevuld is met stembiljetten, wordt een lege stembus bij de tafel geplaatst.\n4. Een stembus wordt gesloten met kabelbinders die elk voorzien zijn van een uniek serienummer. Bij staatsbesluit wordt de administratie van de aantallen en serienummers alsmede vereisten van de kabelbinders, nader vastgesteld.\n5. Indien bij het nemen van een beslissing door het stembureau de stemmen staken, beslist de stem van de voorzitter.\n"
+      },
+      "art-0094": {
+       "label": "Artikel 94",
+       "kind": "art",
+       "text": "# Artikel 94\n1. Buiten de ruimte voor het publiek bestemd, zijn in het stemlokaal één of meer geheel van elkaar gescheiden lessenaars geplaatst, waarvan de toegang zichtbaar is voor het stembureau en voor het publiek.\n2. De verdere inrichting van het stemlokaal wordt bij staatsbesluit geregeld.\n"
+      },
+      "art-0095": {
+       "label": "Artikel 95",
+       "kind": "art",
+       "text": "# Artikel 95\n1. Op het bij de verkiezing te bezigen stembiljet zijn gedrukt aan de ene zijde de verzamellijst van kandidaten, over wie de stemming moet geschieden, zoals deze ter kennis van de kiezers worden gebracht.\nAan de aanduiding wordt een ongekleurde afbeelding van het partij-symbool der betreffende politieke organisatie toegevoegd. Aan de andere zijde is het stembiljet voorzien van het staatszegel, van een door een speciale kniptang of andere wijze door perforatie aangebracht merkteken, en een stempel inhoudende een stempel van het Ministerie van Binnenlandse Zaken.\n2. De verdere inrichting van het stembiljet wordt geregeld bij staatsbesluit.\n"
+      },
+      "art-0096": {
+       "label": "Artikel 96",
+       "kind": "art",
+       "text": "# Artikel 96\n1. Bij ieder stembureau moeten voldoende stembiljetten aanwezig zijn. Deze biljetten worden aan het stembureau toegezonden in één of meer verzegelde pakken, op elk waarvan het aantal daarin bevindende stembiljetten is vermeld.\n2. Bij de stemming mogen uitsluitend de in artikel 95 lid 1 bedoelde stembiljetten worden gebruikt.\n3. De voorzitter van het stembureau draagt er zorg voor dat vóór de aanvang der stemming op zijn stembureau een voldoende hoeveelheid verkiezingsinkt aanwezig is.\n"
+      },
+      "art-0097": {
+       "label": "Artikel 97",
+       "kind": "art",
+       "text": "# Artikel 97\n1. Voor de aanvang van de stemming opent het stembureau tijdig het pak met stembiljetten, telt de stembiljetten en sluit de bus(sen), na zich overtuigd te hebben dat hij/zij volkomen ledig is (zijn).\n2. Tot de stemming wordt toegelaten hij, die bevoegd is aan de verkiezing deel te nemen, voor zover hij in het bezit is van de hem toegezonden of de ingevolge artikel 90 lid 4 uitgereikte oproepingskaart. Tot de stemming wordt eveneens toegelaten hij, die zich ten genoege van de voorzitter middels zijn identiteitskaart afgegeven krachtens de Identiteitswet, zijn geldig Surinaams paspoort of zijn geldig Surinaams rijbewijs kan identificeren, op de kiezerslijst voorkomt en op wie artikel 90 lid 4 van toepassing is.\n3. Het stembureau zal, alvorens iemand tot de stemming toe te laten, verlangen dat diens identiteit ten genoege van het stembureau wordt vastgesteld.\n"
+      },
+      "art-0098": {
+       "label": "Artikel 98",
+       "kind": "art",
+       "text": "# Artikel 98\n1. De kiezer overhandigt aan het stembureau de oproepingskaart indien deze aan hem is uitgereikt. Een gevolmachtigde als bedoeld in hoofdstuk IX overhandigt tevens de volmacht.\n2. Het stembureau onderzoekt vervolgens alle vingers van de kiezer naar sporen van verkiezingsinkt. Indien op één of meer der vingers van de kiezer naar het oordeel van het stembureau sporen van verkiezingsinkt voorkomen, wordt de kiezer niet tot de stemming toegelaten.\n3. Komen op geen der vingers van de kiezer sporen van verkiezingsinkt voor, dan wordt de kiezer slechts tot de stemming toegelaten, nadat hij het uiterste lid van zijn pink van zijn linkerhand of, bij gebreke daarvan, dat van de pink van zijn rechterhand in verkiezingsinkt heeft gedoopt. Indien het stembureau blijkt, dat de kiezer wegens zijn lichamelijke gesteldheid niet in staat is even genoemde handeling te verrichten, staat het stembureau hem toe een andere vinger in de verkiezingsinkt te dopen; blijkt ook deze handeling niet mogelijk, dan verleent het stembureau hem van vorengenoemde handeling ontheffing.\n4. De voorzitter noemt duidelijk en verstaanbaar de naam van de kiezer en het nummer, waaronder deze op de kiezerslijst voorkomt.\n5. Iedere kiezer die tot de stemming wordt toegelaten ontvangt van de voorzitter het stembiljet dichtgevouwen naar de zijde, waarop de stemvakken zijn gesteld. Het stembiljet wordt uitgereikt nadat de voorzitter in tegenwoordigheid van de kiezer zijn handtekening op de zijde waarop het staatszegel voorkomt, heeft geplaatst en het stembiljet heeft voorzien van een stempel met het stembureaunummer. Twee leden van het stembureau houden aantekening van het aantal verstrekte stembiljetten.\n"
+      },
+      "art-0099": {
+       "label": "Artikel 99",
+       "kind": "art",
+       "text": "# Artikel 99\nDe kiezer gaat onverwijld naar een vacant stemhokje en stemt aldaar voor zowel de verkiezing van de leden van De Nationale Assemblée als die van de leden van de Ressortraad door met een potlood geheel of gedeeltelijk rood te maken: het ronde witte vlak in het zwarte blok, geplaatst in het stemvak vóór de naam of het nummer van een kandidaat zijner keuze, waarmede de kiezer tevens de politieke organisatie zijner keuze heeft aangegeven.\n"
+      },
+      "art-0100": {
+       "label": "Artikel 100",
+       "kind": "art",
+       "text": "# Artikel 100\n1. Voordat de kiezer de gelegenheid geboden wordt het stembiljet in de stembus te deponeren, overtuigt de voorzitter zich ervan, zonder het stembiljet in zijn handen te nemen, dat het stembiljet aan de buitenzijde het voorgeschreven stempel, het merkteken en het staatszegel, als bedoeld in artikel 95 lid 1, en het stempel met het stembureaunummer alsmede de handtekening van de voorzitter, als bedoeld in artikel 98 lid 5 draagt.\n2. Een lid van het stembureau houdt, door het stellen van zijn paraaf naast de naam van de kiezer op een afschrift of afdruk van de vastgestelde keizerslijst, aantekening dat de kiezer aan de stemming heeft deelgenomen.\n"
+      },
+      "art-0101": {
+       "label": "Artikel 101",
+       "kind": "art",
+       "text": "# Artikel 101\n1. Een kiezer kan, wanneer hij zich bij de invulling van zijn biljet vergist, eenmaal een nieuw stembiljet aanvragen, mits het eerst overhandigde door hem wordt teruggegeven.\n2. Het teruggegeven stembiljet wordt door de voorzitter onmiddellijk onbruikbaar gemaakt op de wijze bij staatsbesluit te bepalen.\n"
+      },
+      "art-0102": {
+       "label": "Artikel 102",
+       "kind": "art",
+       "text": "# Artikel 102\nHet stembureau kan toestaan dat een kiezer zich doet bijstaan, indien hij lichamelijk hulpbehoevend is.\n"
+      },
+      "art-0103": {
+       "label": "Artikel 103",
+       "kind": "art",
+       "text": "# Artikel 103\n1. De kiezer, die na waarschuwing de bij deze wet of de bij het tot uitvoering daarvan gegeven voorschriften omtrent de stemming niet opvolgt, wordt niet tot de stembus toegelaten, en is verplicht het stembiljet, zo hem dit reeds overhandigd is, terug te geven.\n2. De kiezer, die tot de stembus toegelaten, weigert het stembiljet in de daartoe bestemde bus te steken, is eveneens verplicht dit terug te geven.\n3. Het teruggegeven stembiljet wordt door het stembureau onbruikbaar gemaakt op de wijze bij staatsbesluit te bepalen.\n"
+      },
+      "art-0104": {
+       "label": "Artikel 104",
+       "kind": "art",
+       "text": "# Artikel 104\n1. Gedurende de tijd, dat het stembureau zitting houdt, zijn de kiezers bevoegd in het stemlokaal te vertoeven, voor zover de orde daardoor niet wordt verstoord en de voortgang der stemming niet wordt belemmerd.\n2. De kiezers verschijnen daar ongewapend, tenzij zij behoren tot de gewapende macht of een wapen bij zich hebben, dat behoort tot hun ambtskleding of bij de kleding door hen met vergunning van het boven het gesteld openbaar gezag gedragen.\n3. De in het stemlokaal aanwezige kiezers kunnen, zo de stemming niet overeenkomstig de wet geschiedt, bezwaren inbrengen. Hiervan wordt door het stembureau in het proces-verbaal der stemming melding gemaakt.\n"
+      },
+      "art-0105": {
+       "label": "Artikel 105",
+       "kind": "art",
+       "text": "# Artikel 105\n1. Het stembureau is belast met de handhaving der orde in het stemlokaal.\n2. Niet dan op zijn vordering en alleen tot bedwang van wanorde, mag enige gewapende macht in het stemlokaal of zijn toegangen worden geplaatst.\n3. De burgerlijke en militaire autoriteiten zijn gehouden aan een daartoe door het stembureau gedane vordering te voldoen.\n"
+      },
+      "art-0106": {
+       "label": "Artikel 106",
+       "kind": "art",
+       "text": "# Artikel 106\n1. Is het stembureau van mening, dat vanwege onvoorziene omstandigheden dan wel wanorde in het stemlokaal of zijn toegangen de behoorlijke voortgang van de stemming onmogelijk wordt gemaakt, dan wordt dit door het stembureau verklaard.\n2. De stembus(sen) wordt (worden) onmiddellijk in tegenwoordigheid der in het stemlokaal aanwezige kiezers en vertegenwoordigers van aanwezige toezichthoudende organen en waarnemers gesloten met kabelbinders als bedoeld in artikel 93 lid 4 en verzegeld.\n3. Zijn de onvoorziene omstandigheden dan wel de orde op de dag der stemming niet opgeheven dan wel hersteld, dan wordt:\na. de stemming hervat op de volgende dag des voormiddags 07.00 uur, en\nb. aan de deur van het stemlokaal een kennisgeving bevestigd wanneer de stemming wordt hervat.\n"
+      },
+      "art-0107": {
+       "label": "Artikel 107",
+       "kind": "art",
+       "text": "# Artikel 107\n1. Vervolgens worden in afzonderlijke, te verzegelen pakken gesloten:\na. alle ongebruikte kabelbinders;\nb. de niet gebruikte stembiljetten;\nc. de teruggegeven en onbruikbaar gemaakte stembiljetten;\nd. de ingeleverde oproepingskaarten;\ne. de kiezerslijsten;\nf. de volmachtlegitimatiekaarten.\n2. Van de geschorste zitting wordt proces-verbaal opgemaakt, waarvan van de in het eerste lid bedoelde verrichtingen tevens melding wordt gemaakt.\n3. De vorm en inrichting van het proces-verbaal worden geregeld bij staatsbesluit.\n4. Het stembureau zendt onmiddellijk op de spoedigste wijze bericht van schorsing aan:\na. de President;\nb. het Centraal Hoofdstembureau;\nc. het hoofdstembureau in het district.\n"
+      },
+      "art-0108": {
+       "label": "Artikel 108",
+       "kind": "art",
+       "text": "# Artikel 108\n1. Onmiddellijk na de ondertekening van het in het vorige artikel bedoelde proces-verbaal wordt dit met de stembus(sen) en de verzegelde pakken door de voorzitter van het stembureau gegeven aan de commandant van het dichtsbijzijnde politiebureau of politiestation. Degene die de stembus(sen) en de verzegelde pakken in bewaring heeft genomen, levert deze op de dag waarop de stemming wordt hervat vóór de aanvang der stemming, opnieuw aan het stembureau in.\n2. Vóór de aanvang der hervatte stemming worden de verzegelde pakken geopend.\n3. De hervatte stemming duurt, indien deze op een andere dan de vastgestelde dag der stemming geschiedt, tot des namiddags 14.00 uur.\n"
+      },
+      "art-0109": {
+       "label": "Artikel 109",
+       "kind": "art",
+       "text": "# Artikel 109\nZodra de in de artikelen 89 en 108 voor de stemming bepaalde tijd verstreken is, wordt dit door het stembureau aangekondigd en worden alleen de op het ogenblik dezer aankondiging in het stemlokaal aanwezige kiezers nog tot de stemming toegelaten.\n"
+      },
+      "art-0110": {
+       "label": "Artikel 110",
+       "kind": "art",
+       "text": "# Artikel 110\n1. Gerechtigd om bij volmacht te stemmen is:\na. de kiezer, die is benoemd tot voorzitter, lid of plaatsvervangend lid van een stembureau of Hoofdstembureau, gelegen:\n1°. buiten het district waar deze op de kiezerslijst is opgenomen;\nof\n2°. buiten het ressort waar deze op de kiezerslijst is opgenomen met dien verstande dat de afstand tussen de plaats waar deze tewerk is gesteld en het stembureau waar deze moet stemmen, buiten een straal van 30 kilometers dient te zijn.\nb. de kiezer, behorende tot het Korps Politie Suriname dan wel het Nationaal Leger, die op grond van een dienstopdracht op de dag van de stemming zich bevindt buiten het district, waar hij op de kiezerslijst is opgenomen;\nc. de kiezer, die zitting heeft in het Onafhankelijk Kiesbureau of het Centraal Hoofdstembureau, alsmede de door het Onafhankelijk Kiesbureau als toezichthouder of controleur aangewezen kiezer.\n2. Als gemachtigde kan optreden een persoon die op de kiezerslijst van hetzelfde stembureau als die van de volmachtgever voorkomt. Een gemachtigde mag slechts één aanwijzing aannemen.\n3. De in het eerste lid bedoelde kiezer wendt zich, ten minste zes dagen vóór de tot stemming bepaalde dag tot de Districts-Commissaris van het bestuursressort, waar hij op de kiezerslijst is opgenomen. Hij legt een verklaring over van de persoon, die hij als gemachtigde wenst, waaruit blijkt, dat deze bereid is als zodanig op te treden.\nVervolgens tekent de kiezer de volmacht ten overstaan van de Districts-Commissaris, die daarna op de volmacht een getekende verklaring stelt, waaruit blijkt, dat aan de vereisten van dit decreet is voldaan.\n4. Door de Minister aan wie de zorg voor Binnenlandse Zaken is opgedragen worden modellen vastgesteld voor de in de voorgaande leden bedoelde volmacht en verklaring.\n5. Op de gemachtigde zijn ten aanzien van de stemming alle bepalingen geldend voor de kiezer, die hem gemachtigd heeft, van toepassing, met dien verstande, dat ter uitvoering van artikel 98 de voorzitter van het stembureau de naam van de volmachtgever opleest, alsmede het nummer, waaronder deze op de kiezerslijst voorkomt.\n"
+      },
+      "art-0111": {
+       "label": "Artikel 111",
+       "kind": "art",
+       "text": "# Artikel 111\nVoor de gemachtigde, die zich in een stemlokaal bevindt, gelden de rechten en verplichtingen van de kiezer.\n"
+      },
+      "art-0112": {
+       "label": "Artikel 112",
+       "kind": "art",
+       "text": "# Artikel 112\n1. De gemachtigde mag niet stemmen, indien hem bekend is, dat zijn volmachtgever is overleden.\n2. Een stem, uitgebracht voor een overleden volmachtgever, wordt geacht niettemin geldig te zijn uitgebracht.\n"
+      },
+      "art-0113": {
+       "label": "Artikel 113",
+       "kind": "art",
+       "text": "# Artikel 113\n1. De deuren van het stemlokaal worden op het in de artikelen 89 en 108 aangegeven uur gesloten. De kiezers die zich in het stemlokaal bevinden kunnen ook na het sluiten van de deuren hun stem uitbrengen.\n3. De stemming wordt beëindigd zodra de laatste stem is uitgebracht.\n"
+      },
+      "art-0114": {
+       "label": "Artikel 114",
+       "kind": "art",
+       "text": "# Artikel 114\n1. Onmiddellijk nadat de stemming is geëindigd, stelt het stembureau vast:\na. het aantal kiezers, dat zich heeft aangemeld;\nb. het aantal uitgereikte stembiljetten;\nc. het aantal in de stembus gestoken stembiljetten;\nd. het aantal kiezers, dat geweigerd heeft een stembiljet in ontvangst te nemen;\ne. het aantal teruggegeven en onbruikbaar gemaakte stembiljetten;\nf. het aantal niet gebruikte stembiljetten; en\ng. de serienummers van alle gebruikte dan wel ongebruikte kabelbinders.\n2. De aantallen, bedoeld in het vorige lid, worden door de voorzitter aan de aanwezige kiezers bekend gemaakt.\n"
+      },
+      "art-0115": {
+       "label": "Artikel 115",
+       "kind": "art",
+       "text": "# Artikel 115\n1. Door het stembureau wordt vervolgens op het afschrift van de kiezerslijst het aantal daarop gestelde parafen vermeld en gewaarmerkt. Dit afschrift wordt in een te verzegelen pak gesloten.\n2. Vervolgens worden de ingeleverde volmachten in een te verzegelen pak gesloten, tezamen met een gewaarmerkte verklaring van het stembureau betreffende het aantal parafen.\n3. Tenslotte worden op overeenkomstige wijze ingepakt:\na. de niet gebruikte stembiljetten;\nb. de teruggegeven en onbruikbaar gemaakte stembiljetten;\nc. de ingeleverde oproepingskaarten; en\nd. alle gebruikte dan wel ongebruikte kabelbinders.\n4. Na afloop van de in het derde lid bedoelde handelingen wordt proces-verbaal opgemaakt. Het proces-verbaal is ingericht overeenkomstig het bij staatsbesluit vast te stellen model; het wordt door de voorzitter en de leden van het stembureau van stemopneming getekend.\n"
+      },
+      "art-0116": {
+       "label": "Artikel 116",
+       "kind": "art",
+       "text": "# Artikel 116\nDe opening van de stembussen gebeurt op de dag van de stemming waarbij het stembureau tussen de verzegeling van zaken als vermeld in artikel 115 en de opening van de stembussen een tijdsruimte van ten hoogste een uur kan laten, mits het stemlokaal niet verlatende en de stembus(sen) onder zijn toezicht houdende.\n"
+      },
+      "art-0117": {
+       "label": "Artikel 117",
+       "kind": "art",
+       "text": "# Artikel 117\n1. Is het stembureau van mening dat, vanwege onvoorziene omstandigheden dan wel wanorde in het stemlokaal of zijn toegangen een behoorlijke stemopneming onmogelijk maakt, dan wordt dit door het stembureau verklaard.\n2. De stemopneming wordt daarop aanstonds geschorst en de stembus(sen) wordt (worden) onmiddellijk in tegenwoordigheid van de in het stemlokaal aanwezige kiezer(s) en vertegenwoordigers van aanwezige toezichthoudende organen en waarnemers, gesloten met kabelbinders. De stemopneming vangt weer aan nadat door de voorzitter is verklaard dat onvoorziene omstandigheden zijn opgeheven dan wel de orde is hersteld.\n3. Het bepaalde in de artikelen 106 tot en met 108 is zoveel mogelijk van overeenkomstige toepassing.\n"
+      },
+      "art-0118": {
+       "label": "Artikel 118",
+       "kind": "art",
+       "text": "# Artikel 118\nOnmiddellijk na de opening van de stembus(sen) worden de stembiljetten dooreengemengd, geteld en hun aantal wordt vergeleken met het getal der kiezers, dat aan de stemming heeft deelgenomen.\n"
+      },
+      "art-0119": {
+       "label": "Artikel 119",
+       "kind": "art",
+       "text": "# Artikel 119\n1. De stemopneming wordt aangevangen met de stembiljetten van de verkiezingen van De Nationale Assemblée gevolgd door die van de Ressortraad.\n2. Voor de verkiezing van De Nationale Assemblée en de Ressortraad:\na. opent de voorzitter de stembiljetten en deelt van elk stembiljet mede de naam en het nummer van de kandidaat op wie, alsmede de aanduiding van de politieke organisatie op welke een stem is uitgebracht, en\nb. toont de voorzitter daarna elk stembiljet aan de in het stemlokaal aanwezige kiezers en vertegenwoordigers van aanwezige toezichthoudende organen en waarnemers.\n3. Het oudste lid in jaren van het stembureau ziet het stembiljet, dat door de voorzitter is opgelezen, na.\n4. Vier andere leden houden aantekening van iedere uitgebrachte stem op turflijsten, waarvan twee leden die de geldige stemmen bijhouden en twee leden die de ongeldige bijhouden.\n"
+      },
+      "art-0120": {
+       "label": "Artikel 120",
+       "kind": "art",
+       "text": "# Artikel 120\n1. Het stembureau beslist over de waarde van het stembiljet terstond nadat het geopend is.\n2. Van onwaarde zijn andere stembiljetten dan die, welke volgens dit decreet en de tot haar uitvoering gegeven voorschriften mogen worden gebruikt.\nVoorts zijn van onwaarde de stembiljetten waarop:\na. de namen van andere personen dan de kandidaten of waarop andere bijvoegingen zijn geplaatst;\nb. in geen stemvak het ronde witte vlak in het zwarte blok rood is gemaakt;\nc. de aanwijzing van een kandidaat op een andere wijze is geschied dan is voorgeschreven bij artikel 99;\nd. voor De Nationale Assemblee op meer dan één kandidaat is gestemd, of\ne. voor een Ressortraad op meer dan één kandidaat is gestemd.\nOok zijn van onwaarde de stembiljetten die een aanduiding van de kiezer bevatten of die niet voorzien zijn van het voorgeschreven stempel.\n3. Onder bijvoegingen worden niet begrepen punten, strepen, vlakken, nagelindrukken, vouwen, scheuren, gaten en vlekken, tenzij deze blijkbaar opzettelijk zijn aangebracht.\n4. De voorzitter maakt de redenen van twijfel en ongeldigverklaring en de beslissing onmiddellijk bekend.\nIndien één der in het lokaal aanwezige kiezers dit verlangt, moet het biljet worden getoond. Van één en ander geschiedt aantekening in het proces-verbaal der stemming.\n"
+      },
+      "art-0121": {
+       "label": "Artikel 121",
+       "kind": "art",
+       "text": "# Artikel 121\nBij de verkiezing voor De Nationale Assemblee en Ressortraad stelt het stembureau vast:\na. ten aanzien van iedere lijst het aantal der op iedere kandidaat uitgebrachte stemmen; en\nb. het aantal op elke politieke organisatie uitgebrachte stemmen per stembureau.\n"
+      },
+      "art-0122": {
+       "label": "Artikel 122",
+       "kind": "art",
+       "text": "# Artikel 122\n1. De in het lokaal aanwezige kiezers kunnen bezwaren inbrengen tegen de vaststelling, bedoeld in het vorige artikel, die worden vermeld in het proces-verbaal, als bedoeld in lid 3.\n2. De geopende, zowel de geldige als de van onwaarde verklaarde stembiljetten, elke soort afzonderlijk, worden in één of meer verzegelde pakken gesloten.\n3. Vervolgens wordt aanstonds proces-verbaal opgemaakt van de gehouden stemming.\nDit is ingericht overeenkomstig het bij staatsbesluit vast te stellen model.\n4. Het proces-verbaal der stemming wordt door alle leden van het stembureau getekend, en met de verzegelde pakken, bedoeld in de artikelen 107 lid 1 en 115 lid 2 ten spoedigste door de voorzitter, overgebracht naar de voorzitter van het hoofdstembureau van het betrokken district.\n5. Het afschrift van het proces-verbaal, als bedoeld in lid 1, wordt terstond aangeplakt in het stemlokaal van het stembureau, in ieder geval op een zodanige wijze dat het voor een ieder zichtbaar en leesbaar is.\n"
+      },
+      "art-0123": {
+       "label": "Artikel 123",
+       "kind": "art",
+       "text": "# Artikel 123\nHet hoofdstembureau houdt een zitting, zodra alle processen-verbaal van de stembureaus zijn ingekomen.\n"
+      },
+      "art-0124": {
+       "label": "Artikel 124",
+       "kind": "art",
+       "text": "# Artikel 124\nHet hoofdstembureau stelt vast:\na. het aantal der op iedere kandidaat van een lijst uitgebrachte stemmen;\nb. het aantal op elke politieke organisatie uitgebrachte stemmen per district respectievelijk ressort;\nc. het gezamenlijk aantal der op kandidaten en politieke organisaties in het district uitgebrachte stemmen;\nd. het aantal zetels in de Districtsraad moet worden toegekend aan politieke organisaties, naar evenredigheid van het totaal aantal in de Ressortraden verworven zetels. Indien er na de toekenning van de volle zetels nog zetels over zijn, zullen deze zetels in de Districtsraad worden toegekend aan de politieke organisatie met de opeenvolgende hoogste breukwaarde.\nIs die breukwaarde even groot dan beslist het lot.\n"
+      },
+      "art-0125": {
+       "label": "Artikel 125",
+       "kind": "art",
+       "text": "# Artikel 125\n1. De voorzitter maakt de aldus verkregen uitkomsten bekend.\n2. Door de in het lokaal aanwezige kiezers kunnen bezwaren worden ingebracht, die in het proces-verbaal der zitting worden opgenomen.\n3. De vorm en de inrichting van het proces-verbaal worden bij staatsbesluit vastgesteld.\n"
+      },
+      "art-0126": {
+       "label": "Artikel 126",
+       "kind": "art",
+       "text": "# Artikel 126\n1. Ingeval de in de processen-verbaal vermelde bezwaren, als in artikel 125 lid 2 bedoeld, door het hoofdstembureau niet onaannemelijk worden geacht en van zodanige ernstige aard zijn, dat de gegrondheid daarvan naar zijn oordeel een merkelijk verschil in de uitslag der telling ten gevolge zou kunnen hebben, worden de in artikel 124 bedoelde vaststellingen voorlopig geschorst en kan het hoofdstembureau besluiten tot hertelling van de uitslag der stemming van één of meer stembureaus van het district respectievelijk van het ressort over te gaan.\n2. Indien het hoofdstembureau besluit, dat in één of meer aangewezen stembureaus van het district respectievelijk van het ressort tot hertelling van de uitslag van de stemming wordt overgegaan, worden de verzegelde pakken, als bedoeld in artikel 115 lid 3, geopend en wordt voorts gehandeld op overeenkomstige wijze, als in de artikelen 118 tot en met 121 bepaald en wordt een proces-verbaal van de hertelling opgemaakt. De vorm en de inrichting van het proces-verbaal van de hertelling worden bij staatsbesluit vastgesteld.\n3. Bij de vaststellingen, als in artikel 124 bedoeld, wordt rekening gehouden met de uitslagen van de hertelling en niet met de uitslagen van de betrokken stembureaus.\n"
+      },
+      "art-0127": {
+       "label": "Artikel 127",
+       "kind": "art",
+       "text": "# Artikel 127\nDe hoofdstembureaus zenden de processen-verbaal van hun zitting met de bescheiden van de stembureaus aan het Centraal Hoofdstembureau.\n"
+      },
+      "art-0128": {
+       "label": "Artikel 128",
+       "kind": "art",
+       "text": "# Artikel 128\nOnmiddellijk nadat de afschriften van de processen-verbaal van alle hoofdstembureaus zijn ontvangen, gaat het Centraal Hoofdstembureau over tot het verrichten van de werkzaamheden ter vaststelling van de uitslag der verkiezing.\n"
+      },
+      "art-0129": {
+       "label": "Artikel 129",
+       "kind": "art",
+       "text": "# Artikel 129\n1. De kandidaten voor de Ressortraden worden gekozen krachtens het stelsel van evenredige vertegenwoordiging bij grootste gemiddelden met voorkeurstemmen.\n2. De zetels worden, overeenkomstig het bepaalde in artikel 10 toegekend per ressort.\n3. De eerste zetel wordt toegekend aan de politieke organisatie met het hoogste aantal stemmen. Vervolgens wordt telkens bepaald welke organisatie na toevoeging van een volgende zetel het grootste gemiddelde aantal stemmen heeft.\n4. Indien meer dan één politieke organisatie het hoogste aantal stemmen heeft, wordt aan elk van die organisaties een zetel toegekend.\n5. Blijken na toevoeging van een volgende zetel, twee of meer politieke organisaties het grootste gemiddelde aantal stemmen te hebben, dan wordt aan elk van die organisaties een zetel toegekend.\n6. In de gevallen als bedoeld in de leden 4 en 5, geldt dat het aantal nog toe te kennen zetels toereikend moet zijn anders beslist het lot.\n7. Het Centraal Hoofdstembureau deelt, nadat het aantal zetels aan een politieke organisatie is toegewezen, het totaal aantal op die lijst uitgebrachte stemmen door het aantal toegewezen zetels. De kandidaten die meer stemmen op hun naam hebben verzameld dan dit quotiënt, zijn bij voorkeur gekozen. Voor het overige en voor zover kandidaten een gelijk aantal voorkeurstemmen hebben behaald worden de zetels toegekend naar de volgorde van de door de politieke organisatie ingediende kandidatenlijst.\n8. Indien een politieke organisatie slechts één heeft behaald, wordt die zetel toegekend aan de kandidaat van die politieke organisatie met het hoogste aantal stemmen.\n"
+      },
+      "art-0130": {
+       "label": "Artikel 130",
+       "kind": "art",
+       "text": "# Artikel 130\nDe kandidaten voor de Districtsraden worden door het Centraal Hoofdstembureau aangewezen en als verkozen verklaard naar de verhouding tussen de door hun politieke organisatie behaalde zetels in de Ressortraden en het aan de Districtsraad toekomende aantal zetels.\nDe zeteltoewijzing vindt plaats overeenkomstig het bepaalde in artikel 124 onder d.\n"
+      },
+      "art-0131": {
+       "label": "Artikel 131",
+       "kind": "art",
+       "text": "# Artikel 131\n1. De kandidaten voor De Nationale Assemblee worden gekozen krachtens het stelsel van evenredige vertegenwoordiging bij grootste gemiddelden met voorkeurstemmen.\n2. De zetels worden, overeenkomstig het bepaalde in artikel 9 lid 1 toegekend.\n3. De eerste zetel wordt toegekend aan de politieke organisatie met het hoogste aantal stemmen. Vervolgens wordt telkens bepaald welke organisatie na toevoeging van een volgende zetel het grootste gemiddelde aantal stemmen heeft.\n4. Indien meer dan één politieke organisatie het hoogste aantal stemmen heeft, wordt aan elk van die organisaties een zetel toegekend.\n5. Blijken na toevoeging van een volgende zetel, twee of meer politieke organisaties het grootste gemiddelde aantal stemmen te hebben, dan wordt aan elk van die organisaties een zetel toegekend.\n6. In de gevallen als bedoeld in de leden 4 en 5 geldt dat het aantal nog toe te kennen zetels toereikend moet zijn anders beslist het lot.\n7. Het Centraal Hoofdstembureau deelt, nadat het aantal zetels aan een politieke organisatie is toegewezen, het totaal aantal op die lijst uitgebrachte stemmen door het aantal toegewezen zetels. De kandidaten die meer stemmen op hun naam hebben verzameld dan dit quotiënt, zijn bij voorkeur gekozen.\nVoor het overige en voor zover kandidaten een gelijk aantal voorkeurstemmen hebben behaald worden de zetels toegekend naar de volgorde van de door de politieke organisatie ingediende kandidatenlijst.\n8. Indien een politieke organisatie slechts één zetel heeft behaald wordt die zetel toegekend aan de kandidaat van die politieke organisatie met het hoogste aantal stemmen.\n"
+      },
+      "art-0132": {
+       "label": "Artikel 132",
+       "kind": "art",
+       "text": "# Artikel 132\n1. Het Centraal Hoofdstembureau maakt de uitslag der verkiezing zo spoedig mogelijk bekend en bepaalt tevens hoeveel zetels elke politieke organisatie in de volksvertegenwoordigende lichamen heeft behaald. De bekendmaking geschiedt in een zitting van het Centraal Hoofdstembureau.\nDe kiezers hebben toegang tot het zittingslokaal, voorzover de orde daardoor niet wordt verstoord en de voortgang der werkzaamheden niet wordt belemmerd.\n2. Dag en uur van de zitting worden door de voorzitter tijdig bekend gemaakt.\n3. De kiezers verschijnen ongewapend in het zittingslokaal, tenzij zij behoren tot de gewapende macht of een wapen bij zich hebben dat behoort tot hun ambtskleding of bij de kleding, door hen met vergunning van het boven hen gesteld openbaar gezag gedragen.\n4. De voorzitter is belast met de handhaving der orde in het zittingslokaal.\n5. Niet dan op zijn vordering en alleen tot bedwang van wanorde, mag enige gewapende macht in het zittingslokaal of zijn toegangen worden geplaatst. De burgerlijke en militaire autoriteiten zijn gehouden aan een daartoe door de voorzitter gedane vordering te voldoen.\n6. Door de in het lokaal aanwezige kiezers kunnen bezwaren worden ingebracht.\n"
+      },
+      "art-0133": {
+       "label": "Artikel 133",
+       "kind": "art",
+       "text": "# Artikel 133\n1. Nadat alle werkzaamheden zijn beëindigd, wordt daarvan aanstonds proces-verbaal opgemaakt. In dit proces-verbaal worden de uitslag der verkiezing alsmede alle ingebrachte bezwaren vermeld.\n2. Het proces-verbaal wordt door alle ter zitting aanwezige leden van het Centraal Hoofdstembureau getekend. Het wordt aan de President en het Onafhankelijk Kiesbureau aangeboden.\n"
+      },
+      "art-0134": {
+       "label": "Artikel 134",
+       "kind": "art",
+       "text": "# Artikel 134\nDe uitslag der verkiezing wordt met inachtneming van het bepaalde in de artikelen 1 lid 1 en 29 lid 1 terstond openbaar gemaakt door plaatsing in het Advertentieblad van de Republiek Suriname, alsmede in de nieuwsbladen.\n"
+      },
+      "art-0135": {
+       "label": "Artikel 135",
+       "kind": "art",
+       "text": "# Artikel 135\n1. De voorzitter van het Centraal Hoofdstembureau doet een afschrift van het proces-verbaal toekomen aan het lichaam, waarvoor de verkiezing heeft plaatsgevonden.\n2. De gekozene ontvangt onverwijld van de voorzitter een afschrift van het proces-verbaal, waaruit zijn verkiezing blijkt. Dit afschrift strekt de gekozene tot geloofsbrief.\n"
+      },
+      "art-0136": {
+       "label": "Artikel 136",
+       "kind": "art",
+       "text": "# Artikel 136\n1. De gekozene van De Nationale Assemblée geeft bij het toekomen van het afschrift een bewijs van ontvangst daarvoor af en geeft binnen veertien dagen na de dagtekening van dat bewijs schriftelijk kennis aan het Centraal Hoofdstembureau of deze diens verkiezing aanvaardt. De gekozene van de Ressortraad geeft bij het toekomen van het afschrift een bewijs van ontvangst daarvoor af en geeft binnen veertien dagen na de dagtekening van dat bewijs schriftelijk kennis aan het Hoofdstembureau of deze diens verkiezing aanvaardt.\n2. Indien de gekozene de in het vorig lid bedoelde mededeling niet tijdig doet, wordt hij geacht zijn verkiezing niet te aanvaarden.\n"
+      },
+      "art-0137": {
+       "label": "Artikel 137",
+       "kind": "art",
+       "text": "# Artikel 137\n1. De voorzitter van het Centraal Hoofdstembureau stelt de President en het Onafhankelijk Kiesbureau onmiddellijk in kennis, wanneer de gekozene zijn verkiezing heeft aanvaard.\n2. Gelijke kennisgeving geschiedt wanneer een kandidaat vóór de stemming komt te overlijden, wanneer een gekozene zijn verkiezing niet heeft aanvaard of de in artikel 136 lid 1 genoemde termijn heeft laten verstrijken, alsmede bij het openvallen van plaatsen van gekozen leden door ontslag, overlijden, terugroeping of om een andere reden.\n3. Ter voorziening in de vacatures bedoeld in het vorige lid treden in de plaats, indien het De Nationale Assemblee betreft, de in de volgorde hoogst geplaatste niet-gekozen kandidaten van de lijst, waarop de plaats is opengevallen. Komen er op de lijst geen kandidaten meer voor, dan treedt in de opengevallen plaats, de in de volgorde hoogst geplaatste kandidaat-plaatsvervanger.\n4. Indien het een Districtsraad betreft, wordt in de opengevallen plaats voorzien door de in de volgorde hoogst geplaatste niet-aangewezen kandidaten van de lijst, waarop de plaats is opengevallen.\n5. Ter voorziening in de vacatures, bedoeld in lid 2, wordt, indien het een Ressortraad betreft, in een tussentijds opengevallen plaats voorzien door:\na. de kandidaat, die in rangorde op de kandidatenlijst direct volgt na het lid, wiens lidmaatschap is beëindigd, verkozen te verklaren;\nb. het uitschrijven van nieuwe verkiezingen, indien het lid, wiens lidmaatschap is beëindigd, de enige of de laatste kandidaat is op zijn kandidatenlijst.\n"
+      },
+      "art-0138": {
+       "label": "Artikel 138",
+       "kind": "art",
+       "text": "# Artikel 138\n1. Indien vermeerdering of vermindering van het aantal leden van een Districtsraad of een Ressortraad nodig is, treedt deze eerste in bij de eerstvolgende te houden verkiezing.\n2. Indien geen lijsten van kandidaten zijn ingeleverd of op dat ingeleverde lijsten minder kandidaten voorkomen dan er plaatsen te vervullen zijn, geeft het Centraal Hoofdstembureau of hoofdstembureau daarvan kennis aan de President en het Centraal Hoofdstembureau.\n3. Alsdan wordt een nieuwe verkiezing gehouden, waarvoor binnen veertien dagen na de in het vorige lid bedoelde kennisgeving de kandidaatstelling op een bij resolutie te bepalen dag, plaatsvindt. De artikelen 85 en 86 vinden in dit geval overeenkomstige toepassing.\n4. In geval van een bijzondere toestand kunnen regelen gesteld worden bij wet krachtens welke aan de kiezer toestemming wordt verleend, in geval het betreft de verkiezing van de leden van De Nationale Assemblée, naar keuze te stemmen ten overstaan van een ander dan voor hem aangewezen stembureau binnen hetzelfde district.\n"
+      },
+      "art-0139": {
+       "label": "Artikel 139",
+       "kind": "art",
+       "text": "# Artikel 139\nEen lid of plaatsvervangend lid van het Centraal Hoofdstembureau, een hoofdstembureau of het stembureau kan niet tegelijkertijd zijn Minister, Onderminister, lid van De Nationale Assemblee, lid van de Rechterlijke Macht, lid van de Staatsraad, lid van de gewapende machten, lid van de Rekenkamer dan wel van het Constitutioneel Hof of kandidaat, dan wel kandidaat-plaatsvervanger bij enige verkiezing, waarbij hij of zij aktief de werkzaamheden als in deze wet bedoeld mee uitoefent.\n"
+      },
+      "art-0140": {
+       "label": "Artikel 140",
+       "kind": "art",
+       "text": "# Artikel 140\n1. De tot lid van een volksvertegenwoordigend lichaam gekozene legt binnen de tijd van 21 dagen na zijn verkiezing, nevens zijn geloofsbrief, als bedoeld in artikel 135 lid 2, aan dit lichaam over een uittreksel uit het register der geboorte of bij gemis daarvan een akte van bekendheid, waaruit zijn ouderdom blijkt en een door hemzelf af te geven verklaring, vermeldende alle openbare betrekkingen, welke hij bekleedt.\n2. Voldoet hij daaraan niet binnen de gestelde termijn, dan wordt hij geacht zijn verkiezing niet te hebben aanvaard.\nHet volksvertegenwoordigend lichaam brengt zulks ten spoedigste ter kennis van de President.\n3. Alsdan vindt het bepaalde in artikel 137 leden 3, 4 of 5 overeenkomstige toepassing.\n"
+      },
+      "art-0141": {
+       "label": "Artikel 141",
+       "kind": "art",
+       "text": "# Artikel 141\n1. De leden van de volksvertegenwoordigende lichamen kunnen te allen tijde hun ontslag nemen.\n2. Het wordt door hen ingezonden aan de President, die het ter kennis brengt van het volksvertegenwoordigend lichaam.\n3. Wanneer een lid van De Nationale Assemblee of enig ander volksvertegenwoordigend lichaam een der vereisten verliest, houdt hij op lid te zijn van De Nationale Assemblee dan wel van het andere volksvertegenwoordigend lichaam.\n"
+      },
+      "art-0142": {
+       "label": "Artikel 142",
+       "kind": "art",
+       "text": "# Artikel 142\n1. Hij, die een lijst van kandidaten en kandidaat-plaatsvervangers, bedoeld in de artikelen 44 lid 1, 60 en 76 lid 1 inlevert, wetende, dat hij is voorzien van de handtekening van een of meerdere personen, die niet bevoegd zijn tot deelneming aan de verkiezing, waarvoor de inlevering geschiedt, terwijl zonder die handtekening of handtekeningen geen voldoende aantal handtekeningen voor een geldige lijst zou overblijven, wordt gestraft met een gevangenisstraf van ten hoogste drie maanden of een geldboete van de tweede categorie.\n2. Met gelijke straf wordt bedreigd, hij, die wetende dat hij niet bevoegd is tot deelneming aan de verkiezing, een voor inlevering bestemde lijst van kandidaten en kandidaat-plaatsvervangers heeft ondertekend.\n3. De artikelen 163 tot en met 167 van het Wetboek van Strafrecht en artikel 13 lid 1 van de Anti-Corruptiewet (S.B. 2017 no. 85) zijn van overeenkomstige toepassing op het verhandelen, opkopen, verkopen, aanbieden of doen aanbieden, het aannemen of doen aannemen, van geld of goederen, dan wel alle andere handelingen ter beïnvloeding van het stemgedrag.\n"
+      },
+      "art-0143": {
+       "label": "Artikel 143",
+       "kind": "art",
+       "text": "# Artikel 143\nDe kiezer, niet optredende als gemachtigde in de zin van artikel 110 of die optredende als gemachtigde meer dan een aanwijzing heeft aangenomen en meer dan een volmacht aan een of meer stembureaus overhandigt, teneinde meerdere malen dan toegestaan tot de stemming te worden toegelaten, wordt gestraft met een gevangenisstraf van ten hoogste één jaar of een geldboete van de derde categorie.\n"
+      },
+      "art-0144": {
+       "label": "Artikel 144",
+       "kind": "art",
+       "text": "# Artikel 144\n1. Hij, die een lijst van kandidaten en kandidaat-plaatsvervangers inlevert, wetende, dat zij voorzien is van de handtekening van één of meer personen, wier handtekening ook voorkomt op een voor dezelfde kandidaatstelling reeds ingediende zodanige lijst van kandidaten, terwijl zonder die handtekening(en), geen voldoend aantal handtekeningen voor een geldige lijst van kandidaat-plaatsvervangers zou overblijven, wordt gestraft met een gevangenisstraf van ten hoogste drie maanden of een geldboete van de tweede categorie.\n2. Met gelijke straf wordt bedreigd hij die opzettelijk voor één en dezelfde kandidaatstelling meer dan een voor inlevering bestemde lijst van kandidaten of kandidaat-plaatsvervangers ondertekent.\n"
+      },
+      "art-0145": {
+       "label": "Artikel 145",
+       "kind": "art",
+       "text": "# Artikel 145\nDe kiezer die niet voldoet aan de bij artikel 103 leden 1 en 2 opgelegde verplichting tot teruggave van het stembiljet wordt gestraft met een hechtenis van ten hoogste veertien dagen of een geldboete van de eerste categorie.\n"
+      },
+      "art-0146": {
+       "label": "Artikel 146",
+       "kind": "art",
+       "text": "# Artikel 146\nDe in de artikelen 142 t/m 144 bedoelde strafbare feiten worden als misdrijven, die in artikel 145 bedoeld als overtredingen beschouwd.\n"
+      },
+      "art-0147": {
+       "label": "Artikel 147",
+       "kind": "art",
+       "text": "# Artikel 147\nDe termijnen voor de eerste verkiezingen voor de samenstelling van de volksvertegenwoordigende lichamen in het jaar 1987 zullen bij wijze van uitzondering, bij staatsbesluit worden vastgesteld.\n"
+      },
+      "art-0148": {
+       "label": "Artikel 148",
+       "kind": "art",
+       "text": "# Artikel 148\nVoor de verkiezingen van 1987 van volksvertegenwoordigende lichamen zal het Onafhankelijk Kiesbureau naast zijn normale taak tevens als Centraal Hoofdstembureau fungeren.\n"
+      },
+      "art-0149": {
+       "label": "Artikel 149",
+       "kind": "art",
+       "text": "# Artikel 149\n1. Deze wet, die kan worden aangehaald als \"Kiesregeling\" wordt geplaatst in het Staatsblad van de Republiek Suriname en treedt in werking op een door de President te bepalen tijdstip.\n2. Bij de inwerkingtreding van deze wet vervalt de Kieswet (geldende tekst S.B. 1977 no. 53).\n"
+      },
+      "indeling": {
+       "label": "Indeling (hoofdstukken en paragrafen)",
+       "kind": "structure",
+       "text": "# Indeling\nHOOFDSTUK I\nHET ONAFHANKELIJK KIESBUREAU\nHOOFDSTUK II\nDE VERKIEZING VAN DE LEDEN VAN DE NATIONALE ASSEMBLEE\nEN VAN DE RESSORTRADEN\nPOLITIEKE ORGANISATIES\nHOOFDSTUK III\nDE WIJZE VAN SAMENSTELLING VAN DE NATIONALE ASSEMBLEE,\nDE RESSORTRADEN EN DISTRICTSRADEN\nDE NATIONALE ASSEMBLEE\nDE RESSORTRADEN\nDE DISTRICTSRADEN\nHOOFDSTUK IV\nDE KIEZERSADMINISTRATIE\nHET KIEZERSREGISTER\nDE INRICHTING VAN HET REGISTER\nHOOFDSTUK V\nDE KIEZERSLIJSTEN\nDE SAMENSTELLING VAN DE LIJSTEN\nHET VERZOEK OM VERBETERING VAN DE LIJSTEN\nHET ADMINISTRATIEF BEROEP\nHET BEROEP OP DE KANTONRECHTER\nHOOFDSTUK VI\nHET KIESDISTRICT, DE RESSORTEN EN DE STEMBUREAUS\nHET KIESDISTRICT EN DE RESSORTEN\nDE STEMBUREAUS\nDE HOOFDSTEMBUREAUS\nHET CENTRAAL HOOFDSTEMBUREAU\nHOOFDSTUK VII\nDE REGISTRATIE VAN POLITIEKE ORGANISATIES\nEN DE WIJZE VAN KANDIDAATSTELLING VOOR DE VERKIEZING\nVAN LEDEN VOOR DE VOLKSVERTEGENWOORDIGENDE LICHAMEN\nHET ADMINISTRATIEF BEROEP OP DE BESLISSING\nVAN HET CENTRAAL HOOFDSTEMBUREAU\nHET REGISTRATIEVERZOEK IN TWEEDE INSTANTIE\nDE WIJZE VAN KANDIDAATSTELLING TEN BEHOEVE\nVAN DE VERKIEZING VAN DE LEDEN VAN\nDE NATIONALE ASSEMBLEE\nHET ONDERZOEKEN VAN DE LIJSTEN\nEN BESLISSEN OVER DE GELDIGHEID\nHET BESLISSEN OVER DE GELDIGHEID DER LIJSTEN\nEN HET SCHRAPPEN VAN KANDIDATEN\nHET ADMINISTRATIEF BEROEP\nDE BEKENDMAKING VAN DE KANDIDATENLIJSTEN\nDE WIJZE VAN KANDIDAATSTELLING TEN BEHOEVE VAN DE\nVERKIEZING VAN DE LEDEN VAN DE RESSORTRADEN\nHET ONDERZOEK VAN DE LIJSTEN EN\nHET BESLISSEN OVER DE GELDIGHEID\nHET BESLISSEN OVER DE GELDIGHEID VAN DE LIJSTEN\nEN HET SCHRAPPEN VAN KANDIDATEN\nHET ADMINISTRATIEF BEROEP\nDE BEKENDMAKING VAN DE KANDIDATENLIJSTEN\nDE WIJZE VAN KANDIDAATSTELLING\nVAN PERSONEN VOOR DE DISTRICTSRADEN\nHET ONDERZOEKEN VAN DE LIJSTEN EN\nHET BESLISSEN OVER DE GELDIGHEID\nDE BEKENDMAKING VAN DE KANDIDATENLIJSTEN\nVASTSTELLING DAG KANDIDAATSTELLING EN\nSTEMMING VOOR DE PERIODIEKE VERKIEZING\nVAN DE LEDEN VAN DE VOLKSVERTEGEN-\nWOORDIGENDE LICHAMEN\nHOOFDSTUK VIII\nDE STEMMING\nDE OPROEPING VOOR DE STEMMING\nHET STEMBUREAU\nDE INRICHTING VAN HET STEMLOKAAL\nHET STEMBILJET\nSTEMMEN\nDE ORDE IN HET STEMBUREAU EN ONDERBREKING VAN\nDE STEMMING BIJ WANORDE\nDE SCHORSING DER STEMMING\nHOOFDSTUK IX\nHET STEMMEN BIJ VOLMACHT\nHOOFDSTUK X\nDE BEËINDIGING DER STEMMING EN DE TAAK VAN\nHET STEMBUREAU BETREFFENDE DE STEMOPNEMING\nDE BEËINDIGING VAN DE STEMMING\nEN DE VERZEGELING VAN ZAKEN\nSTEMOPNEMING\nDE VERRICHTINGEN NA DE UITSLAG VAN DE STEMMING\nHOOFDSTUK XI\nDE TAAK VAN HET HOOFDSTEMBUREAU BETREFFENDE HET\nVASTSTELLEN VAN DE UITSLAG VAN DE VERKIEZINGEN\nHOOFDSTUK XII\nDE TAAK VAN HET CENTRAAL HOOFDSTEMBUREAU BETREFFENDE\nHET VASTSTELLEN VAN DE UITSLAG VAN DE VERKIEZINGEN\nHOOFDSTUK XIII\nHET BEKENDMAKEN VAN DE UITSLAG DER VERKIEZINGEN\nHOOFDSTUK XIV\nENKELE BIJZONDERE GEVALLEN BETREFFENDE DE VERKIEZINGEN\nHOOFDSTUK XV\nALGEMENE- EN STRAFBEPALINGEN\nOVERGANGS- EN SLOTBEPALINGEN\n"
+      }
+     },
+     "credits": {},
+     "note": "The official current text placed in the Staatsblad by Resolutie of 6 February 2025 no. 14.228/24 (S.B. 2025 no. 16, uitgegeven 7 February 2025): the Kiesregeling (S.B. 1987 no. 62) as amended by S.B. 1987 nos. 70, 71, 83 and 84, S.B. 2005 no. 6, S.B. 2010 no. 29, S.B. 2019 no. 55, S.B. 2023 no. 158, S.B. 2024 no. 59 and S.B. 2025 no. 8."
+    }
+   ]
+  }
+ ],
+ "decisions": [
+  "Kiesregeling: one version, the official current text S.B. 2025 no. 16, dated 2025-02-07, the day it was uitgegeven, and committed by the publisher as the oldest version available. The last amendment it contains, S.B. 2025 no. 8 (uitgegeven 20 January 2025, in force the next day by its art. II lid 2), took effect on 2025-01-21; the version is dated from its own source, the republication, rather than from that day.",
+  "Kiesregeling: earlier versions are not built. The amending acts S.B. 2019 no. 55 and S.B. 2023 no. 158 and the 2005 consolidation exist online only as scans (the sris.sr copies carry an OCR layer made by the publisher's scanner software), and no OCR is used for this record; S.B. 2024 no. 59 and S.B. 2025 no. 8 have a born-digital text layer, but they give only the changed provisions, not the text before them.",
+  "Kiesregeling: no amending act after S.B. 2025 no. 8 was found: the DNA list \"Wijzigingen na 2005\" ends with it (read 2026-10-29) and the sris.sr listing holds only later Kiesbesluit decrees (S.B. 2025 nos. 25, 26, 38, 39), which are not part of the Kiesregeling.",
+  "Kiesregeling: S.B. 2025 no. 16 footnotes each article with the act that inserted or changed it (\"Gew. bij S.B. 2023 no. 158\"). The footnotes and their reference numbers are left out of the text (they are publisher notes, not law), and the opening paragraph that names the act and its amendments is the act's title, not a provision.",
+  "Kiesregeling: chapter and paragraph headings are in kiesregeling/indeling.md. Its paragraphs and line-end hyphens are handled as for the 2024 codes, and verify_codes.py kr finds every 12-point word of the text in the units, in order, apart from headings and the opening paragraph."
+ ],
+ "ai_use": [
+  "Claude Opus 5.5 (claude-opus-5-5, Claude Code) found the sources and wrote fetch.py, parse_codes.py and verify_codes.py. No legal text in these parts was written, transcribed or OCRed by a model: all text comes from the PDF text layers via PyMuPDF."
+ ]
+}
