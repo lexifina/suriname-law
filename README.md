@@ -23,7 +23,8 @@ The text is in Dutch, the official language of Suriname, as the Staatsblad print
 
 - **[Ask Claude about Surinamese law](https://global-law.lexifina.com/v1/try_claude?country=suriname)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=suriname)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=onrechtmatige+daad&jurisdictions=suriname)**: a search of Surinamese law for "onrechtmatige daad" (tort), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Surinamese law on our site](https://lexifina.com/law?country=suriname&q=onrechtmatige+daad)**: a search for "onrechtmatige daad" (tort), with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=onrechtmatige+daad&jurisdiction=suriname)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Dutch or in English.
 
