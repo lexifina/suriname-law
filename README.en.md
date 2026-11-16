@@ -61,6 +61,7 @@ A change is credited to a law only when the official consolidation's footnote na
 - A second build from the same corpus gave identical commit hashes.
 - Every text comes from a PDF's own text layer, never OCR, and every word of law in each PDF was checked to be in the files in order, apart from headings and words joined across a line-end hyphen (for the 2024 codes and the later acts, with a second, independent extractor).
 - The 1992 Grondwet was compared with two other copies (gov.sr and the sris.sr edition with the memorie van toelichting), and the 2023 wording with the page images of S.B. 2023 no. 157, a scan; the one difference, a comma in art. 161 lid 4, is recorded in `REPRODUCE.md`, not applied.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -83,6 +84,10 @@ A change is credited to a law only when the official consolidation's footnote na
 See [`LICENSE`](LICENSE). The texts are official texts of the Republic of Suriname, published in the Staatsblad and read from De Nationale Assemblée and sris.sr; neither publishes a licence, their copyright status is not confirmed, and they are reproduced with that attribution. The history, commit messages, tables and tools are CC0 1.0.
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model, which also viewed the page images of S.B. 2023 no. 157 to compare its wording (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

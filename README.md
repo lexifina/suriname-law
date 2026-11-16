@@ -61,6 +61,7 @@ Een wijziging wordt alleen aan een wet toegeschreven wanneer de voetnoot van de 
 - Een tweede opbouw uit hetzelfde corpus gaf identieke commit-hashes.
 - Elke tekst komt uit de eigen tekstlaag van een pdf, nooit uit OCR, en van elk woord wetstekst in elke pdf is gecontroleerd dat het in de juiste volgorde in de bestanden staat, behalve opschriften en woorden die over een afbreekstreepje aan het regeleinde heen zijn samengevoegd (voor de wetboeken van 2024 en de latere wetten met een tweede, onafhankelijke extractor).
 - De Grondwet van 1992 is vergeleken met twee andere exemplaren (gov.sr en de uitgave op sris.sr met de memorie van toelichting), en de tekst van 2023 met de pagina-afbeeldingen van S.B. 2023 no. 157, een scan; het enige verschil, een komma in art. 161 lid 4, is vastgelegd in `REPRODUCE.md` en niet toegepast.
+- [vulnerabilities/](vulnerabilities/): mogelijke redactiefouten in dit recht, gevonden door de detectoren van global-law en met de hand gecontroleerd. Nog niet gedraaid.
 
 ## Wat het niet laat zien
 
@@ -85,6 +86,10 @@ Zie [`LICENSE`](LICENSE). De teksten zijn officiële teksten van de Republiek Su
 Geen enkel AI-model heeft wetstekst geschreven, vertaald of verbeterd, en geen enkel model draait bij het opbouwen van de geschiedenis; de scripts zijn geschreven door een AI-model, dat ook de pagina-afbeeldingen van S.B. 2023 no. 157 heeft bekeken om de tekst ervan te vergelijken (zie [`REPRODUCE.md`](REPRODUCE.md)).
 
 Dit is een vertaling van de Engelse versie ([README.en.md](README.en.md)); bij verschillen geldt de Engelse versie.
+
+## Visualisaties
+
+- [visualisations/](visualisations/): grafieken getekend uit deze repository. Nog niet getekend.
 
 ## Meer
 
